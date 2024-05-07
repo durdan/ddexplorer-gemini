@@ -1,69 +1,46 @@
-# Gemini API Quickstart - Python
+# Gemini-Powered Travel Assistant
 
-This repository contains a simple Python Flask App running with the Google AI Gemini API, designed to get you started building with Gemini's multi-modal capabilities. The app comes with a basic UI and a Flask backend.
+This project is a travel assistant powered by Gemini, providing information and recommendations for different travel destinations.
 
-<img width="1271" alt="Screenshot 2024-05-07 at 7 42 28 AM" src="https://github.com/logankilpatrick/gemini-api-quickstart/assets/35577566/156ae3e0-cffa-47a3-8a71-1bded78c4632">
+## Backend
 
-## Basic request
+The backend of this project is built using Flask, a micro web framework for Python. It interacts with Gemini to fetch information and recommendations for the provided travel destinations.
 
-To send your first API request with the [Gemini API Python SDK](https://github.com/google-gemini/generative-ai-python), make sure you have the right dependencies installed (see installation steps below) and then run the following code:
+### Installation
 
-```python
-import google.generativeai as genai
-genai.configure(api_key=GOOGLE_API_KEY)
-model = genai.GenerativeModel('gemini-pro')
+1. Navigate to the `backend/` directory in your terminal.
+2. Ensure you have Poetry installed and initialized in your project.
+3. Install dependencies by running:
+poetry install
+   
 
-chat = model.start_chat(history=[])
-response = chat.send_message("In one sentence, explain how AI works to a child.")
-# Note that the chat object is temporarily stateful, as you send messages and get responses, you can 
-# see the history changing by doing `chat.history`.
+### Running the Backend
 
-print(response.text)
-```
+To start the Flask server for the backend:
+poetry run python app.py
 
-## Setup
 
-1. If you don’t have Python installed, install it [from Python.org](https://www.python.org/downloads/).
+## Frontend
 
-2. [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) this repository.
+The frontend of this project is built using Streamlit, an open-source Python library that makes it easy to create web apps for machine learning and data science. It provides a user-friendly interface for users to interact with the travel assistant.
 
-3. Create a new virtual environment:
+### Installation
 
-   - macOS:
+1. Open a new terminal window or tab.
+2. Navigate to the `frontend/` directory in your terminal.
+3. Ensure you have Poetry installed and initialized in your project.
+4. Install dependencies by running:
 
-     ```bash
-     $ python -m venv venv
-     $ . venv/bin/activate
-     ```
+poetry install
 
-   - Windows:
-     ```cmd
-     > python -m venv venv
-     > .\venv\Scripts\activate
-     ```
 
-4. Install the requirements:
+### Running the Frontend
 
-   ```bash
-   $ pip install -r requirements.txt
-   ```
+To start the Streamlit server for the frontend:
 
-5. Make a copy of the example environment variables file:
+poetry run streamlit run frontend.py
 
-   ```bash
-   $ cp .env.example .env
-   ```
 
-6. Add your [API key](https://ai.google.dev/gemini-api/docs/api-key) to the newly created `.env` file.
+Once both the backend and frontend servers are running, you can access the Gemini-Powered Travel Assistant in your web browser. Enter a place name in the provided input field and click the "Explore" button to receive information and recommendations for the selected destination.
 
-7. Run the app:
-
-```bash
-$ flask run
-```
-
-You should now be able to access the app from your browser at the following URL: [http://localhost:5000](http://localhost:5000)!
-
-#### Attribution
-
-This repo includes code that was forked from [another repo I made](https://github.com/openai/openai-quickstart-python), under an MIT license.
+Enjoy exploring with Gemini!
