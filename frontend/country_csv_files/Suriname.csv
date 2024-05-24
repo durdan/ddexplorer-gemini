@@ -1,0 +1,29 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Paramaribo,Paramaribo,5.8522,-55.2039,Suriname,SR,SUR,Paramaribo,primary,223757.0,1740518660
+Cottica,Cottica,3.8542,-54.2281,Suriname,SR,SUR,Sipaliwini,,29210.0,1740371814
+Koewarasan,Koewarasan,5.7697,-55.2922,Suriname,SR,SUR,Wanica,,27713.0,1740587100
+Lelydorp,Lelydorp,5.6967,-55.2167,Suriname,SR,SUR,Wanica,admin,18663.0,1740222585
+Nieuw Nickerie,Nieuw Nickerie,5.9333,-56.9833,Suriname,SR,SUR,Nickerie,admin,12818.0,1740480869
+Meerzorg,Meerzorg,5.8072,-55.1469,Suriname,SR,SUR,Commewijne,,12405.0,1740663491
+Moengo,Moengo,5.6167,-54.4,Suriname,SR,SUR,Marowijne,,8252.0,1740230194
+Nieuw Amsterdam,Nieuw Amsterdam,5.8833,-55.0833,Suriname,SR,SUR,Commewijne,admin,5650.0,1740547119
+Albina,Albina,5.5,-54.05,Suriname,SR,SUR,Marowijne,admin,5247.0,1740921776
+Brownsweg,Brownsweg,5.0164,-55.1669,Suriname,SR,SUR,Brokopondo,,4793.0,1740310469
+Groningen,Groningen,5.8,-55.4667,Suriname,SR,SUR,Saramacca,admin,2818.0,1740072928
+Brokopondo,Brokopondo,5.0667,-54.9667,Suriname,SR,SUR,Brokopondo,admin,2480.0,1740558611
+Onverwacht,Onverwacht,5.5931,-55.1939,Suriname,SR,SUR,Para,admin,2223.0,1740007571
+Totness,Totness,5.8775,-56.3292,Suriname,SR,SUR,Coronie,admin,2150.0,1740738832
+Paramaribo,Paramaribo,5.8522,-55.2039,Suriname,SR,SUR,Paramaribo,primary,223757.0,1740518660
+Cottica,Cottica,3.8542,-54.2281,Suriname,SR,SUR,Sipaliwini,,29210.0,1740371814
+Koewarasan,Koewarasan,5.7697,-55.2922,Suriname,SR,SUR,Wanica,,27713.0,1740587100
+Lelydorp,Lelydorp,5.6967,-55.2167,Suriname,SR,SUR,Wanica,admin,18663.0,1740222585
+Nieuw Nickerie,Nieuw Nickerie,5.9333,-56.9833,Suriname,SR,SUR,Nickerie,admin,12818.0,1740480869
+Meerzorg,Meerzorg,5.8072,-55.1469,Suriname,SR,SUR,Commewijne,,12405.0,1740663491
+Moengo,Moengo,5.6167,-54.4,Suriname,SR,SUR,Marowijne,,8252.0,1740230194
+Nieuw Amsterdam,Nieuw Amsterdam,5.8833,-55.0833,Suriname,SR,SUR,Commewijne,admin,5650.0,1740547119
+Albina,Albina,5.5,-54.05,Suriname,SR,SUR,Marowijne,admin,5247.0,1740921776
+Brownsweg,Brownsweg,5.0164,-55.1669,Suriname,SR,SUR,Brokopondo,,4793.0,1740310469
+Groningen,Groningen,5.8,-55.4667,Suriname,SR,SUR,Saramacca,admin,2818.0,1740072928
+Brokopondo,Brokopondo,5.0667,-54.9667,Suriname,SR,SUR,Brokopondo,admin,2480.0,1740558611
+Onverwacht,Onverwacht,5.5931,-55.1939,Suriname,SR,SUR,Para,admin,2223.0,1740007571
+Totness,Totness,5.8775,-56.3292,Suriname,SR,SUR,Coronie,admin,2150.0,1740738832

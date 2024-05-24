@@ -1,0 +1,39 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Banjul,Banjul,13.4531,-16.5775,"Gambia, The",GM,GMB,Banjul,primary,413397.0,1270723713
+Serekunda,Serekunda,13.4333,-16.6667,"Gambia, The",GM,GMB,Kanifing,,340000.0,1270640044
+Brikama,Brikama,13.2667,-16.65,"Gambia, The",GM,GMB,West Coast,admin,77700.0,1270953861
+Bakau,Bakau,13.4833,-16.6833,"Gambia, The",GM,GMB,Kanifing,,43098.0,1270091879
+Sukuta,Sukuta,13.4167,-16.7,"Gambia, The",GM,GMB,West Coast,,40675.0,1270665671
+Sareh Mowndeh,Sareh Mowndeh,13.4036,-16.6833,"Gambia, The",GM,GMB,West Coast,,36134.0,1270781020
+Farafenni,Farafenni,13.5667,-15.6,"Gambia, The",GM,GMB,North Bank,,36000.0,1270512503
+Mansa Konko,Mansa Konko,13.4667,-15.55,"Gambia, The",GM,GMB,Lower River,admin,18672.0,1270071162
+Basse Santa Su,Basse Santa Su,13.3167,-14.2167,"Gambia, The",GM,GMB,Upper River,admin,18414.0,1270820759
+Gunjur,Gunjur,13.1833,-16.7667,"Gambia, The",GM,GMB,West Coast,,17520.0,1270361274
+Essau,Essau,13.4833,-16.5333,"Gambia, The",GM,GMB,North Bank,,14560.0,1270359208
+Busumbala,Busumbala,13.3333,-16.6667,"Gambia, The",GM,GMB,West Coast,,11189.0,1270720788
+Brikama Ba,Brikama Ba,13.5333,-14.9333,"Gambia, The",GM,GMB,Central River,,10343.0,1270974319
+Gambissara,Gambissara,13.2333,-14.3167,"Gambia, The",GM,GMB,Upper River,,10102.0,1270580590
+Diabugu,Diabugu,13.3833,-14.4,"Gambia, The",GM,GMB,Upper River,,9000.0,1270353608
+Bansang,Bansang,13.4333,-14.65,"Gambia, The",GM,GMB,Central River,,8843.0,1270543142
+Janjanbureh,Janjanbureh,13.5341,-14.7662,"Gambia, The",GM,GMB,Central River,admin,3584.0,1270430701
+Kerewan,Kerewan,13.5,-16.0833,"Gambia, The",GM,GMB,North Bank,admin,2751.0,1270976260
+Kanifing,Kanifing,13.45,-16.6667,"Gambia, The",GM,GMB,Kanifing,admin,,1270000000
+Banjul,Banjul,13.4531,-16.5775,"Gambia, The",GM,GMB,Banjul,primary,413397.0,1270723713
+Serekunda,Serekunda,13.4333,-16.6667,"Gambia, The",GM,GMB,Kanifing,,340000.0,1270640044
+Brikama,Brikama,13.2667,-16.65,"Gambia, The",GM,GMB,West Coast,admin,77700.0,1270953861
+Bakau,Bakau,13.4833,-16.6833,"Gambia, The",GM,GMB,Kanifing,,43098.0,1270091879
+Sukuta,Sukuta,13.4167,-16.7,"Gambia, The",GM,GMB,West Coast,,40675.0,1270665671
+Sareh Mowndeh,Sareh Mowndeh,13.4036,-16.6833,"Gambia, The",GM,GMB,West Coast,,36134.0,1270781020
+Farafenni,Farafenni,13.5667,-15.6,"Gambia, The",GM,GMB,North Bank,,36000.0,1270512503
+Mansa Konko,Mansa Konko,13.4667,-15.55,"Gambia, The",GM,GMB,Lower River,admin,18672.0,1270071162
+Basse Santa Su,Basse Santa Su,13.3167,-14.2167,"Gambia, The",GM,GMB,Upper River,admin,18414.0,1270820759
+Gunjur,Gunjur,13.1833,-16.7667,"Gambia, The",GM,GMB,West Coast,,17520.0,1270361274
+Essau,Essau,13.4833,-16.5333,"Gambia, The",GM,GMB,North Bank,,14560.0,1270359208
+Busumbala,Busumbala,13.3333,-16.6667,"Gambia, The",GM,GMB,West Coast,,11189.0,1270720788
+Brikama Ba,Brikama Ba,13.5333,-14.9333,"Gambia, The",GM,GMB,Central River,,10343.0,1270974319
+Gambissara,Gambissara,13.2333,-14.3167,"Gambia, The",GM,GMB,Upper River,,10102.0,1270580590
+Diabugu,Diabugu,13.3833,-14.4,"Gambia, The",GM,GMB,Upper River,,9000.0,1270353608
+Bansang,Bansang,13.4333,-14.65,"Gambia, The",GM,GMB,Central River,,8843.0,1270543142
+Janjanbureh,Janjanbureh,13.5341,-14.7662,"Gambia, The",GM,GMB,Central River,admin,3584.0,1270430701
+Kerewan,Kerewan,13.5,-16.0833,"Gambia, The",GM,GMB,North Bank,admin,2751.0,1270976260
+Kanifing,Kanifing,13.45,-16.6667,"Gambia, The",GM,GMB,Kanifing,admin,,1270000000

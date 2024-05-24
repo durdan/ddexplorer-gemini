@@ -1,0 +1,15 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Cayenne,Cayenne,4.933,-52.33,French Guiana,GF,GUF,,primary,61550.0,1254304969
+Saint-Laurent-du-Maroni,Saint-Laurent-du-Maroni,5.4976,-54.0325,French Guiana,GF,GUF,,minor,24287.0,1254543638
+Kourou,Kourou,5.16,-52.6499,French Guiana,GF,GUF,,minor,24029.0,1254317561
+Sinnamary,Sinnamary,5.38,-52.96,French Guiana,GF,GUF,,minor,3180.0,1254385870
+Saint-Georges,Saint-Georges,3.9105,-51.81,French Guiana,GF,GUF,,minor,2742.0,1254726319
+Roura,Roura,4.73,-52.33,French Guiana,GF,GUF,,minor,2229.0,1254511393
+Iracoubo,Iracoubo,5.4804,-53.22,French Guiana,GF,GUF,,minor,1536.0,1254480447
+Cayenne,Cayenne,4.933,-52.33,French Guiana,GF,GUF,,primary,61550.0,1254304969
+Saint-Laurent-du-Maroni,Saint-Laurent-du-Maroni,5.4976,-54.0325,French Guiana,GF,GUF,,minor,24287.0,1254543638
+Kourou,Kourou,5.16,-52.6499,French Guiana,GF,GUF,,minor,24029.0,1254317561
+Sinnamary,Sinnamary,5.38,-52.96,French Guiana,GF,GUF,,minor,3180.0,1254385870
+Saint-Georges,Saint-Georges,3.9105,-51.81,French Guiana,GF,GUF,,minor,2742.0,1254726319
+Roura,Roura,4.73,-52.33,French Guiana,GF,GUF,,minor,2229.0,1254511393
+Iracoubo,Iracoubo,5.4804,-53.22,French Guiana,GF,GUF,,minor,1536.0,1254480447

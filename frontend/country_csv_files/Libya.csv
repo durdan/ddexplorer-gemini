@@ -1,0 +1,119 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Tripoli,Tripoli,32.8872,13.1914,Libya,LY,LBY,Ţarābulus,primary,1183000.0,1434201852
+Benghazi,Benghazi,32.1167,20.0667,Libya,LY,LBY,Banghāzī,admin,631555.0,1434915572
+Ajdābiyā,Ajdabiya,30.7556,20.2253,Libya,LY,LBY,Al Wāḩāt,admin,416000.0,1434401280
+Mişrātah,Misratah,32.3775,15.092,Libya,LY,LBY,Mişrātah,admin,259056.0,1434518407
+Al Bayḑā’,Al Bayda',32.7664,21.7417,Libya,LY,LBY,Al Jabal al Akhḑar,admin,250000.0,1434263017
+Al Khums,Al Khums,32.6497,14.2644,Libya,LY,LBY,Al Marqab,,201943.0,1434172839
+Az Zāwīyah,Az Zawiyah,32.7522,12.7278,Libya,LY,LBY,Az Zāwiyah,admin,200000.0,1434421178
+Gharyān,Gharyan,32.1697,13.0167,Libya,LY,LBY,Al Jabal al Gharbī,admin,187854.0,1434507846
+Al Marj,Al Marj,32.5005,20.83,Libya,LY,LBY,Al Marj,admin,169540.0,1434742923
+Tobruk,Tobruk,32.0761,23.9614,Libya,LY,LBY,Al Buţnān,admin,135832.0,1434068493
+Şabrātah,Sabratah,32.7922,12.4842,Libya,LY,LBY,An Nuqāţ al Khams,,102038.0,1434908655
+Al Jumayl,Al Jumayl,32.8528,12.0611,Libya,LY,LBY,An Nuqāţ al Khams,,102000.0,1434494324
+Darnah,Darnah,32.7636,22.6361,Libya,LY,LBY,Darnah,admin,90000.0,1434920152
+Janzūr,Janzur,32.8172,13.0111,Libya,LY,LBY,Al Jafārah,,88073.0,1434528890
+Zuwārah,Zuwarah,32.9333,12.0833,Libya,LY,LBY,An Nuqāţ al Khams,admin,80310.0,1434206265
+Masallātah,Masallatah,32.5822,14.04,Libya,LY,LBY,Al Marqab,,80000.0,1434116845
+Surt,Surt,31.205,16.5886,Libya,LY,LBY,Surt,admin,76788.0,1434563640
+Yafran,Yafran,32.0629,12.5267,Libya,LY,LBY,Al Jabal al Gharbī,,72662.0,1434967497
+Nālūt,Nalut,31.8685,10.9812,Libya,LY,LBY,Nālūt,admin,66609.0,1434550258
+Banī Walīd,Bani Walid,31.7619,14.0139,Libya,LY,LBY,Mişrātah,,50824.0,1434398590
+Tājūrā’,Tajura',32.8818,13.3399,Libya,LY,LBY,Ţarābulus,,48836.0,1434120461
+Birāk,Birak,27.5333,14.2834,Libya,LY,LBY,Wādī ash Shāţi’,,45421.0,1434095842
+Shaḩḩāt,Shahhat,32.825,21.8581,Libya,LY,LBY,Al Jabal al Akhḑar,,45000.0,1434402597
+Murzuq,Murzuq,25.9,13.9,Libya,LY,LBY,Murzuq,admin,43732.0,1434910333
+Awbārī,Awbari,26.5833,12.7667,Libya,LY,LBY,Wādī al Ḩayāt,admin,35000.0,1434431378
+Qaşr al Qarabūllī,Qasr al Qarabulli,32.75,13.7167,Libya,LY,LBY,Ţarābulus,,34584.0,1434342806
+Waddān,Waddan,29.1611,16.1436,Libya,LY,LBY,Al Jufrah,,27590.0,1434593649
+Al Qubbah,Al Qubbah,32.7667,22.25,Libya,LY,LBY,Darnah,,24631.0,1434167769
+Al ‘Azīzīyah,Al `Aziziyah,32.5308,13.0211,Libya,LY,LBY,Al Jafārah,admin,23399.0,1434450111
+Mizdah,Mizdah,31.445,12.9831,Libya,LY,LBY,Al Jabal al Gharbī,,23216.0,1434622990
+Tūkrah,Tukrah,32.5322,20.5722,Libya,LY,LBY,Banghāzī,,23164.0,1434350017
+Ghāt,Ghat,24.9644,10.1781,Libya,LY,LBY,Ghāt,admin,22000.0,1434971028
+Az Zuwaytīnah,Az Zuwaytinah,30.9522,20.1203,Libya,LY,LBY,Banghāzī,,21015.0,1434562634
+Hūn,Hun,29.1268,15.9477,Libya,LY,LBY,Al Jufrah,admin,18878.0,1434396501
+Qaryat al Qī‘ān,Qaryat al Qi`an,32.0167,11.5,Libya,LY,LBY,Nālūt,,18693.0,1434845164
+Al Jawf,Al Jawf,24.2167,23.3,Libya,LY,LBY,Al Kufrah,admin,18587.0,1434996940
+Zalţan,Zaltan,32.95,11.8658,Libya,LY,LBY,An Nuqāţ al Khams,,17700.0,1434839248
+Az Zintān,Az Zintan,31.9306,12.2483,Libya,LY,LBY,Al Jabal al Gharbī,,16024.0,1434009562
+Qaryat Sulūq,Qaryat Suluq,31.6686,20.2503,Libya,LY,LBY,Banghāzī,,15543.0,1434000178
+Tarhūnah,Tarhunah,32.4339,13.6344,Libya,LY,LBY,Ţarābulus,,13264.0,1434109178
+Umm ar Rizam,Umm ar Rizam,32.5325,23.0053,Libya,LY,LBY,Darnah,,12098.0,1434030412
+Qamīnis,Qaminis,31.6572,20.0144,Libya,LY,LBY,Banghāzī,,10713.0,1434752325
+Kiklah,Kiklah,32.0683,12.6944,Libya,LY,LBY,Al Jabal al Gharbī,,10350.0,1434206473
+Ghadāmis,Ghadamis,30.1333,9.5,Libya,LY,LBY,Nālūt,,10000.0,1434013321
+Sūknah,Suknah,29.0669,15.7847,Libya,LY,LBY,Al Jufrah,,9887.0,1434785614
+As Sidrah,As Sidrah,30.6294,18.3503,Libya,LY,LBY,Surt,,9186.0,1434673703
+Al Bardīyah,Al Bardiyah,31.76,25.075,Libya,LY,LBY,Al Buţnān,,9149.0,1434335416
+Al Abraq,Al Abraq,32.7867,21.9978,Libya,LY,LBY,Al Jabal al Akhḑar,,8861.0,1434086011
+Awjilah,Awjilah,29.1081,21.2869,Libya,LY,LBY,Al Wāḩāt,,6610.0,1434938770
+Al Jaghbūb,Al Jaghbub,29.7425,24.5169,Libya,LY,LBY,Al Buţnān,,2960.0,1434128425
+Marādah,Maradah,29.2333,19.2167,Libya,LY,LBY,Al Wāḩāt,,2229.0,1434000794
+Tajarhī,Tajarhi,24.2622,14.5603,Libya,LY,LBY,Murzuq,,1496.0,1434443909
+Daraj,Daraj,30.15,10.45,Libya,LY,LBY,Nālūt,,931.0,1434822177
+Tmassah,Tmassah,26.3667,15.8,Libya,LY,LBY,Murzuq,,500.0,1434333715
+Umm al ‘Abīd,Umm al `Abid,27.517,15.0333,Libya,LY,LBY,Wādī ash Shāţi’,,300.0,1434373121
+Al ‘Uqaylah,Al `Uqaylah,30.2558,19.1994,Libya,LY,LBY,Al Wāḩāt,,100.0,1434822941
+Zillah,Zillah,28.5489,17.5511,Libya,LY,LBY,Al Jufrah,,10.0,1434245699
+Sabhā,Sabha,27.0389,14.4264,Libya,LY,LBY,Sabhā,admin,2.0,1434044820
+Idrī,Idri,27.4471,13.0517,Libya,LY,LBY,Wādī ash Shāţi’,admin,,1434443323
+Tripoli,Tripoli,32.8872,13.1914,Libya,LY,LBY,Ţarābulus,primary,1183000.0,1434201852
+Benghazi,Benghazi,32.1167,20.0667,Libya,LY,LBY,Banghāzī,admin,631555.0,1434915572
+Ajdābiyā,Ajdabiya,30.7556,20.2253,Libya,LY,LBY,Al Wāḩāt,admin,416000.0,1434401280
+Mişrātah,Misratah,32.3775,15.092,Libya,LY,LBY,Mişrātah,admin,259056.0,1434518407
+Al Bayḑā’,Al Bayda',32.7664,21.7417,Libya,LY,LBY,Al Jabal al Akhḑar,admin,250000.0,1434263017
+Al Khums,Al Khums,32.6497,14.2644,Libya,LY,LBY,Al Marqab,,201943.0,1434172839
+Az Zāwīyah,Az Zawiyah,32.7522,12.7278,Libya,LY,LBY,Az Zāwiyah,admin,200000.0,1434421178
+Gharyān,Gharyan,32.1697,13.0167,Libya,LY,LBY,Al Jabal al Gharbī,admin,187854.0,1434507846
+Al Marj,Al Marj,32.5005,20.83,Libya,LY,LBY,Al Marj,admin,169540.0,1434742923
+Tobruk,Tobruk,32.0761,23.9614,Libya,LY,LBY,Al Buţnān,admin,135832.0,1434068493
+Şabrātah,Sabratah,32.7922,12.4842,Libya,LY,LBY,An Nuqāţ al Khams,,102038.0,1434908655
+Al Jumayl,Al Jumayl,32.8528,12.0611,Libya,LY,LBY,An Nuqāţ al Khams,,102000.0,1434494324
+Darnah,Darnah,32.7636,22.6361,Libya,LY,LBY,Darnah,admin,90000.0,1434920152
+Janzūr,Janzur,32.8172,13.0111,Libya,LY,LBY,Al Jafārah,,88073.0,1434528890
+Zuwārah,Zuwarah,32.9333,12.0833,Libya,LY,LBY,An Nuqāţ al Khams,admin,80310.0,1434206265
+Masallātah,Masallatah,32.5822,14.04,Libya,LY,LBY,Al Marqab,,80000.0,1434116845
+Surt,Surt,31.205,16.5886,Libya,LY,LBY,Surt,admin,76788.0,1434563640
+Yafran,Yafran,32.0629,12.5267,Libya,LY,LBY,Al Jabal al Gharbī,,72662.0,1434967497
+Nālūt,Nalut,31.8685,10.9812,Libya,LY,LBY,Nālūt,admin,66609.0,1434550258
+Banī Walīd,Bani Walid,31.7619,14.0139,Libya,LY,LBY,Mişrātah,,50824.0,1434398590
+Tājūrā’,Tajura',32.8818,13.3399,Libya,LY,LBY,Ţarābulus,,48836.0,1434120461
+Birāk,Birak,27.5333,14.2834,Libya,LY,LBY,Wādī ash Shāţi’,,45421.0,1434095842
+Shaḩḩāt,Shahhat,32.825,21.8581,Libya,LY,LBY,Al Jabal al Akhḑar,,45000.0,1434402597
+Murzuq,Murzuq,25.9,13.9,Libya,LY,LBY,Murzuq,admin,43732.0,1434910333
+Awbārī,Awbari,26.5833,12.7667,Libya,LY,LBY,Wādī al Ḩayāt,admin,35000.0,1434431378
+Qaşr al Qarabūllī,Qasr al Qarabulli,32.75,13.7167,Libya,LY,LBY,Ţarābulus,,34584.0,1434342806
+Waddān,Waddan,29.1611,16.1436,Libya,LY,LBY,Al Jufrah,,27590.0,1434593649
+Al Qubbah,Al Qubbah,32.7667,22.25,Libya,LY,LBY,Darnah,,24631.0,1434167769
+Al ‘Azīzīyah,Al `Aziziyah,32.5308,13.0211,Libya,LY,LBY,Al Jafārah,admin,23399.0,1434450111
+Mizdah,Mizdah,31.445,12.9831,Libya,LY,LBY,Al Jabal al Gharbī,,23216.0,1434622990
+Tūkrah,Tukrah,32.5322,20.5722,Libya,LY,LBY,Banghāzī,,23164.0,1434350017
+Ghāt,Ghat,24.9644,10.1781,Libya,LY,LBY,Ghāt,admin,22000.0,1434971028
+Az Zuwaytīnah,Az Zuwaytinah,30.9522,20.1203,Libya,LY,LBY,Banghāzī,,21015.0,1434562634
+Hūn,Hun,29.1268,15.9477,Libya,LY,LBY,Al Jufrah,admin,18878.0,1434396501
+Qaryat al Qī‘ān,Qaryat al Qi`an,32.0167,11.5,Libya,LY,LBY,Nālūt,,18693.0,1434845164
+Al Jawf,Al Jawf,24.2167,23.3,Libya,LY,LBY,Al Kufrah,admin,18587.0,1434996940
+Zalţan,Zaltan,32.95,11.8658,Libya,LY,LBY,An Nuqāţ al Khams,,17700.0,1434839248
+Az Zintān,Az Zintan,31.9306,12.2483,Libya,LY,LBY,Al Jabal al Gharbī,,16024.0,1434009562
+Qaryat Sulūq,Qaryat Suluq,31.6686,20.2503,Libya,LY,LBY,Banghāzī,,15543.0,1434000178
+Tarhūnah,Tarhunah,32.4339,13.6344,Libya,LY,LBY,Ţarābulus,,13264.0,1434109178
+Umm ar Rizam,Umm ar Rizam,32.5325,23.0053,Libya,LY,LBY,Darnah,,12098.0,1434030412
+Qamīnis,Qaminis,31.6572,20.0144,Libya,LY,LBY,Banghāzī,,10713.0,1434752325
+Kiklah,Kiklah,32.0683,12.6944,Libya,LY,LBY,Al Jabal al Gharbī,,10350.0,1434206473
+Ghadāmis,Ghadamis,30.1333,9.5,Libya,LY,LBY,Nālūt,,10000.0,1434013321
+Sūknah,Suknah,29.0669,15.7847,Libya,LY,LBY,Al Jufrah,,9887.0,1434785614
+As Sidrah,As Sidrah,30.6294,18.3503,Libya,LY,LBY,Surt,,9186.0,1434673703
+Al Bardīyah,Al Bardiyah,31.76,25.075,Libya,LY,LBY,Al Buţnān,,9149.0,1434335416
+Al Abraq,Al Abraq,32.7867,21.9978,Libya,LY,LBY,Al Jabal al Akhḑar,,8861.0,1434086011
+Awjilah,Awjilah,29.1081,21.2869,Libya,LY,LBY,Al Wāḩāt,,6610.0,1434938770
+Al Jaghbūb,Al Jaghbub,29.7425,24.5169,Libya,LY,LBY,Al Buţnān,,2960.0,1434128425
+Marādah,Maradah,29.2333,19.2167,Libya,LY,LBY,Al Wāḩāt,,2229.0,1434000794
+Tajarhī,Tajarhi,24.2622,14.5603,Libya,LY,LBY,Murzuq,,1496.0,1434443909
+Daraj,Daraj,30.15,10.45,Libya,LY,LBY,Nālūt,,931.0,1434822177
+Tmassah,Tmassah,26.3667,15.8,Libya,LY,LBY,Murzuq,,500.0,1434333715
+Umm al ‘Abīd,Umm al `Abid,27.517,15.0333,Libya,LY,LBY,Wādī ash Shāţi’,,300.0,1434373121
+Al ‘Uqaylah,Al `Uqaylah,30.2558,19.1994,Libya,LY,LBY,Al Wāḩāt,,100.0,1434822941
+Zillah,Zillah,28.5489,17.5511,Libya,LY,LBY,Al Jufrah,,10.0,1434245699
+Sabhā,Sabha,27.0389,14.4264,Libya,LY,LBY,Sabhā,admin,2.0,1434044820
+Idrī,Idri,27.4471,13.0517,Libya,LY,LBY,Wādī ash Shāţi’,admin,,1434443323

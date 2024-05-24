@@ -1,0 +1,25 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Georgetown,Georgetown,6.8058,-58.1508,Guyana,GY,GUY,Demerara-Mahaica,primary,200500.0,1328160906
+Linden,Linden,6.0,-58.3,Guyana,GY,GUY,Upper Demerara-Berbice,admin,29298.0,1328531190
+New Amsterdam,New Amsterdam,6.25,-57.5167,Guyana,GY,GUY,East Berbice-Corentyne,admin,17329.0,1328195392
+Anna Regina,Anna Regina,7.2633,-58.4806,Guyana,GY,GUY,Pomeroon-Supenaam,,12448.0,1328787362
+Princetown,Princetown,5.9049,-57.1391,Guyana,GY,GUY,East Berbice-Corentyne,,12000.0,1328276701
+Bartica,Bartica,6.4,-58.6167,Guyana,GY,GUY,Cuyuni-Mazaruni,admin,8532.0,1328806426
+Lethem,Lethem,3.3833,-59.8,Guyana,GY,GUY,Upper Takutu-Upper Essequibo,admin,3000.0,1328749920
+Mahdia,Mahdia,5.2825,-59.15,Guyana,GY,GUY,Potaro-Siparuni,admin,2563.0,1328358422
+Mabaruma,Mabaruma,8.2,-59.7833,Guyana,GY,GUY,Barima-Waini,admin,1254.0,1328079873
+Ituni,Ituni,5.5333,-58.25,Guyana,GY,GUY,Upper Demerara-Berbice,,676.0,1328501744
+Vreed-en-Hoop,Vreed-en-Hoop,6.8076,-58.1815,Guyana,GY,GUY,Essequibo Islands-West Demerara,admin,469.0,1328178268
+Fort Wellington,Fort Wellington,6.4,-57.6167,Guyana,GY,GUY,Mahaica-Berbice,admin,118.0,1328483798
+Georgetown,Georgetown,6.8058,-58.1508,Guyana,GY,GUY,Demerara-Mahaica,primary,200500.0,1328160906
+Linden,Linden,6.0,-58.3,Guyana,GY,GUY,Upper Demerara-Berbice,admin,29298.0,1328531190
+New Amsterdam,New Amsterdam,6.25,-57.5167,Guyana,GY,GUY,East Berbice-Corentyne,admin,17329.0,1328195392
+Anna Regina,Anna Regina,7.2633,-58.4806,Guyana,GY,GUY,Pomeroon-Supenaam,,12448.0,1328787362
+Princetown,Princetown,5.9049,-57.1391,Guyana,GY,GUY,East Berbice-Corentyne,,12000.0,1328276701
+Bartica,Bartica,6.4,-58.6167,Guyana,GY,GUY,Cuyuni-Mazaruni,admin,8532.0,1328806426
+Lethem,Lethem,3.3833,-59.8,Guyana,GY,GUY,Upper Takutu-Upper Essequibo,admin,3000.0,1328749920
+Mahdia,Mahdia,5.2825,-59.15,Guyana,GY,GUY,Potaro-Siparuni,admin,2563.0,1328358422
+Mabaruma,Mabaruma,8.2,-59.7833,Guyana,GY,GUY,Barima-Waini,admin,1254.0,1328079873
+Ituni,Ituni,5.5333,-58.25,Guyana,GY,GUY,Upper Demerara-Berbice,,676.0,1328501744
+Vreed-en-Hoop,Vreed-en-Hoop,6.8076,-58.1815,Guyana,GY,GUY,Essequibo Islands-West Demerara,admin,469.0,1328178268
+Fort Wellington,Fort Wellington,6.4,-57.6167,Guyana,GY,GUY,Mahaica-Berbice,admin,118.0,1328483798

@@ -1,0 +1,177 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Nairobi,Nairobi,-1.2864,36.8172,Kenya,KE,KEN,Nairobi City,primary,5545000.0,1404000661
+Mombasa,Mombasa,-4.05,39.6667,Kenya,KE,KEN,Mombasa,admin,1208333.0,1404512373
+Nakuru,Nakuru,-0.3,36.0667,Kenya,KE,KEN,Nakuru,admin,570674.0,1404140179
+Eldoret,Eldoret,0.5167,35.2833,Kenya,KE,KEN,Uasin Gishu,admin,475716.0,1404676289
+Kisumu,Kisumu,-0.0833,34.7667,Kenya,KE,KEN,Kisumu,admin,409928.0,1404511920
+Kikuyu,Kikuyu,-1.25,36.6667,Kenya,KE,KEN,Kiambu,,323881.0,1404116834
+Lunga-Lunga,Lunga-Lunga,-4.555,39.1231,Kenya,KE,KEN,Kwale,,198423.0,1404110872
+Habaswein,Habaswein,1.01,39.49,Kenya,KE,KEN,Wajir,,174134.0,1404012344
+Ongata Rongai,Ongata Rongai,-1.4,36.77,Kenya,KE,KEN,Kajiado,,172570.0,1404422353
+Garissa,Garissa,-0.4569,39.6583,Kenya,KE,KEN,Garissa,admin,163399.0,1404464692
+Molo,Molo,-0.25,35.7333,Kenya,KE,KEN,Nakuru,,156732.0,1404340216
+Kitenkela,Kitenkela,-1.5167,36.85,Kenya,KE,KEN,Kajiado,,154436.0,1404000624
+Kiambu,Kiambu,-1.1667,36.8167,Kenya,KE,KEN,Kiambu,admin,147870.0,1404390868
+Ramu,Ramu,3.9375,41.2203,Kenya,KE,KEN,Mandera,,143850.0,1404221019
+Kilifi,Kilifi,-3.6333,39.85,Kenya,KE,KEN,Kilifi,,122899.0,1404002930
+Malindi,Malindi,-3.2236,40.13,Kenya,KE,KEN,Kilifi,,119859.0,1404380224
+Vihiga,Vihiga,0.05,34.725,Kenya,KE,KEN,Vihiga,,118696.0,1404002123
+Machakos,Machakos,-1.5167,37.2667,Kenya,KE,KEN,Machakos,admin,114109.0,1404746781
+Kisii,Kisii,-0.6833,34.7667,Kenya,KE,KEN,Kisii,admin,112417.0,1404617601
+Ngong,Ngong,-1.3667,36.6333,Kenya,KE,KEN,Kajiado,,102323.0,1404947852
+Mumias,Mumias,0.3333,34.4833,Kenya,KE,KEN,Kakamega,,99987.0,1404232773
+Thika,Thika,-1.0396,37.09,Kenya,KE,KEN,Kiambu,,99322.0,1404482650
+Nyeri,Nyeri,-0.4167,36.95,Kenya,KE,KEN,Nyeri,admin,98908.0,1404924901
+Kakamega,Kakamega,0.2822,34.754,Kenya,KE,KEN,Kakamega,admin,91778.0,1404614327
+Kendu Bay,Kendu Bay,-0.3596,34.64,Kenya,KE,KEN,Homa Bay,,91248.0,1404600696
+Wajir,Wajir,1.75,40.05,Kenya,KE,KEN,Wajir,admin,90116.0,1404067343
+Lafey,Lafey,3.1508,41.1864,Kenya,KE,KEN,Mandera,,83457.0,1404326023
+Athi River,Athi River,-1.45,36.9833,Kenya,KE,KEN,Machakos,,81302.0,1404232217
+Ukunda,Ukunda,-4.2875,39.5661,Kenya,KE,KEN,Kwale,,77686.0,1404549809
+Nandi Hills,Nandi Hills,0.1003,35.1764,Kenya,KE,KEN,Nandi,,73626.0,1404700660
+Narok,Narok,-1.0833,35.8667,Kenya,KE,KEN,Narok,admin,65430.0,1404459814
+Embu,Embu,-0.5389,37.4583,Kenya,KE,KEN,Embu,admin,64979.0,1404376456
+Kitale,Kitale,1.0167,35.0,Kenya,KE,KEN,Trans Nzoia,admin,63245.0,1404890081
+Wundanyi,Wundanyi,-3.3983,38.3603,Kenya,KE,KEN,Taita/Taveta,,62340.0,1404917325
+El Wak,El Wak,2.8028,40.9275,Kenya,KE,KEN,Mandera,,60732.0,1404102561
+Banane,Banane,0.5,38.67,Kenya,KE,KEN,Isiolo,,60000.0,1404457234
+Kakuma,Kakuma,3.7167,34.8667,Kenya,KE,KEN,Turkana,,60000.0,1404320261
+Wote,Wote,-1.7833,37.6333,Kenya,KE,KEN,Makueni,admin,56419.0,1404304549
+Kimilili,Kimilili,0.7833,34.7167,Kenya,KE,KEN,Bungoma,,56050.0,1404489379
+Bungoma,Bungoma,0.5667,34.5667,Kenya,KE,KEN,Bungoma,admin,55857.0,1404689847
+Isiolo,Isiolo,0.35,37.5833,Kenya,KE,KEN,Isiolo,admin,45989.0,1404771203
+Voi,Voi,-3.3906,38.5769,Kenya,KE,KEN,Taita/Taveta,,45483.0,1404504656
+Meru,Meru,0.05,37.65,Kenya,KE,KEN,Meru,admin,42677.0,1404588252
+Webuye,Webuye,0.6167,34.7667,Kenya,KE,KEN,Bungoma,,42642.0,1404979270
+Iten,Iten,0.6731,35.5083,Kenya,KE,KEN,Elgeyo/Marakwet,admin,42312.0,1404000102
+Homa Bay,Homa Bay,-0.5167,34.45,Kenya,KE,KEN,Homa Bay,admin,32174.0,1404321159
+Rumuruti,Rumuruti,0.26,36.5363,Kenya,KE,KEN,Laikipia,admin,31649.0,1404005234
+Nanyuki,Nanyuki,0.0167,37.0667,Kenya,KE,KEN,Laikipia,,31577.0,1404481993
+Maralal,Maralal,1.1,36.7,Kenya,KE,KEN,Samburu,admin,31350.0,1404895664
+Busia,Busia,0.4633,34.1053,Kenya,KE,KEN,Busia,admin,30777.0,1404250734
+Mandera,Mandera,3.9167,41.8333,Kenya,KE,KEN,Mandera,admin,30433.0,1404192737
+Kericho,Kericho,-0.3692,35.2839,Kenya,KE,KEN,Kericho,admin,30023.0,1404338562
+Kitui,Kitui,-1.3667,38.0167,Kenya,KE,KEN,Kitui,admin,29062.0,1404548296
+Lamu,Lamu,-2.2694,40.9022,Kenya,KE,KEN,Lamu,admin,25385.0,1404163131
+Moyale,Moyale,3.527,39.056,Kenya,KE,KEN,Marsabit,,25000.0,1404689643
+Kajiado,Kajiado,-1.85,36.7833,Kenya,KE,KEN,Kajiado,admin,24678.0,1404265412
+Taveta,Taveta,-3.3956,37.6761,Kenya,KE,KEN,Taita/Taveta,,22018.0,1404624215
+Takaba,Takaba,3.3963,40.2251,Kenya,KE,KEN,Mandera,,21474.0,1404710881
+Baragoi,Baragoi,1.7833,36.7833,Kenya,KE,KEN,Samburu,,20000.0,1404601511
+Kapsabet,Kapsabet,0.3333,35.1667,Kenya,KE,KEN,Nandi,admin,17918.0,1404814363
+Eldama Ravine,Eldama Ravine,0.05,35.7167,Kenya,KE,KEN,Baringo,,17581.0,1404468256
+Marsabit,Marsabit,2.3333,37.9833,Kenya,KE,KEN,Marsabit,admin,17127.0,1404055253
+Lodwar,Lodwar,3.1167,35.6,Kenya,KE,KEN,Turkana,admin,16981.0,1404993573
+Mwingi,Mwingi,-0.9333,38.05,Kenya,KE,KEN,Kitui,,15970.0,1404312666
+Bartabwa,Bartabwa,0.83,35.8,Kenya,KE,KEN,Baringo,,14611.0,1404047345
+Naivasha,Naivasha,-0.7202,36.4285,Kenya,KE,KEN,Nakuru,,14563.0,1404904927
+Kerugoya,Kerugoya,-0.5,37.2833,Kenya,KE,KEN,Kirinyaga,admin,14056.0,1404597807
+Makuyu,Makuyu,-0.9,37.1833,Kenya,KE,KEN,Murang’a,,12541.0,1404000094
+Port Victoria,Port Victoria,0.1,33.9833,Kenya,KE,KEN,Busia,,12194.0,1404757827
+Msambweni,Msambweni,-4.47,39.48,Kenya,KE,KEN,Kwale,,11985.0,1404130106
+Kwale,Kwale,-4.1744,39.4603,Kenya,KE,KEN,Kwale,admin,10063.0,1404769042
+Sotik,Sotik,-0.68,35.12,Kenya,KE,KEN,Bomet,,10000.0,1404807525
+Kargi,Kargi,2.5036,37.5725,Kenya,KE,KEN,Marsabit,,10000.0,1404034627
+Hola,Hola,-1.5,40.0333,Kenya,KE,KEN,Tana River,admin,6931.0,1404396632
+Mwatate,Mwatate,-3.5047,38.3778,Kenya,KE,KEN,Taita/Taveta,admin,5551.0,1404648092
+Namanga,Namanga,-2.55,36.7833,Kenya,KE,KEN,Nyamira,,5500.0,1404000001
+Witu,Witu,-2.3889,40.4378,Kenya,KE,KEN,Lamu,,5380.0,1404037095
+Karungu,Karungu,-0.8496,34.15,Kenya,KE,KEN,Migori,,2376.0,1404796412
+Konza,Konza,-1.7496,37.12,Kenya,KE,KEN,Machakos,,2004.0,1404143289
+Tsavo,Tsavo,-2.9828,38.4666,Kenya,KE,KEN,Taita/Taveta,,414.0,1404321644
+Nyamira,Nyamira,-0.521,34.914,Kenya,KE,KEN,Nyamira,admin,,1404000104
+Siaya,Siaya,0.0667,34.2833,Kenya,KE,KEN,Siaya,admin,,1404162576
+Murang’a,Murang'a,-0.7167,37.15,Kenya,KE,KEN,Murang’a,admin,,1404066738
+Ol Kalou,Ol Kalou,-0.273,36.378,Kenya,KE,KEN,Nyandarua,admin,,1404930645
+Sotik Post,Sotik Post,-0.7813,35.3416,Kenya,KE,KEN,Bomet,admin,,1404087664
+Kapenguria,Kapenguria,1.2333,35.1167,Kenya,KE,KEN,West Pokot,admin,,1404228137
+Kabarnet,Kabarnet,0.494,35.744,Kenya,KE,KEN,Baringo,admin,,1404620707
+Migori,Migori,-1.0634,34.4731,Kenya,KE,KEN,Migori,admin,,1404478510
+Nairobi,Nairobi,-1.2864,36.8172,Kenya,KE,KEN,Nairobi City,primary,5545000.0,1404000661
+Mombasa,Mombasa,-4.05,39.6667,Kenya,KE,KEN,Mombasa,admin,1208333.0,1404512373
+Nakuru,Nakuru,-0.3,36.0667,Kenya,KE,KEN,Nakuru,admin,570674.0,1404140179
+Eldoret,Eldoret,0.5167,35.2833,Kenya,KE,KEN,Uasin Gishu,admin,475716.0,1404676289
+Kisumu,Kisumu,-0.0833,34.7667,Kenya,KE,KEN,Kisumu,admin,409928.0,1404511920
+Kikuyu,Kikuyu,-1.25,36.6667,Kenya,KE,KEN,Kiambu,,323881.0,1404116834
+Lunga-Lunga,Lunga-Lunga,-4.555,39.1231,Kenya,KE,KEN,Kwale,,198423.0,1404110872
+Habaswein,Habaswein,1.01,39.49,Kenya,KE,KEN,Wajir,,174134.0,1404012344
+Ongata Rongai,Ongata Rongai,-1.4,36.77,Kenya,KE,KEN,Kajiado,,172570.0,1404422353
+Garissa,Garissa,-0.4569,39.6583,Kenya,KE,KEN,Garissa,admin,163399.0,1404464692
+Molo,Molo,-0.25,35.7333,Kenya,KE,KEN,Nakuru,,156732.0,1404340216
+Kitenkela,Kitenkela,-1.5167,36.85,Kenya,KE,KEN,Kajiado,,154436.0,1404000624
+Kiambu,Kiambu,-1.1667,36.8167,Kenya,KE,KEN,Kiambu,admin,147870.0,1404390868
+Ramu,Ramu,3.9375,41.2203,Kenya,KE,KEN,Mandera,,143850.0,1404221019
+Kilifi,Kilifi,-3.6333,39.85,Kenya,KE,KEN,Kilifi,,122899.0,1404002930
+Malindi,Malindi,-3.2236,40.13,Kenya,KE,KEN,Kilifi,,119859.0,1404380224
+Vihiga,Vihiga,0.05,34.725,Kenya,KE,KEN,Vihiga,,118696.0,1404002123
+Machakos,Machakos,-1.5167,37.2667,Kenya,KE,KEN,Machakos,admin,114109.0,1404746781
+Kisii,Kisii,-0.6833,34.7667,Kenya,KE,KEN,Kisii,admin,112417.0,1404617601
+Ngong,Ngong,-1.3667,36.6333,Kenya,KE,KEN,Kajiado,,102323.0,1404947852
+Mumias,Mumias,0.3333,34.4833,Kenya,KE,KEN,Kakamega,,99987.0,1404232773
+Thika,Thika,-1.0396,37.09,Kenya,KE,KEN,Kiambu,,99322.0,1404482650
+Nyeri,Nyeri,-0.4167,36.95,Kenya,KE,KEN,Nyeri,admin,98908.0,1404924901
+Kakamega,Kakamega,0.2822,34.754,Kenya,KE,KEN,Kakamega,admin,91778.0,1404614327
+Kendu Bay,Kendu Bay,-0.3596,34.64,Kenya,KE,KEN,Homa Bay,,91248.0,1404600696
+Wajir,Wajir,1.75,40.05,Kenya,KE,KEN,Wajir,admin,90116.0,1404067343
+Lafey,Lafey,3.1508,41.1864,Kenya,KE,KEN,Mandera,,83457.0,1404326023
+Athi River,Athi River,-1.45,36.9833,Kenya,KE,KEN,Machakos,,81302.0,1404232217
+Ukunda,Ukunda,-4.2875,39.5661,Kenya,KE,KEN,Kwale,,77686.0,1404549809
+Nandi Hills,Nandi Hills,0.1003,35.1764,Kenya,KE,KEN,Nandi,,73626.0,1404700660
+Narok,Narok,-1.0833,35.8667,Kenya,KE,KEN,Narok,admin,65430.0,1404459814
+Embu,Embu,-0.5389,37.4583,Kenya,KE,KEN,Embu,admin,64979.0,1404376456
+Kitale,Kitale,1.0167,35.0,Kenya,KE,KEN,Trans Nzoia,admin,63245.0,1404890081
+Wundanyi,Wundanyi,-3.3983,38.3603,Kenya,KE,KEN,Taita/Taveta,,62340.0,1404917325
+El Wak,El Wak,2.8028,40.9275,Kenya,KE,KEN,Mandera,,60732.0,1404102561
+Banane,Banane,0.5,38.67,Kenya,KE,KEN,Isiolo,,60000.0,1404457234
+Kakuma,Kakuma,3.7167,34.8667,Kenya,KE,KEN,Turkana,,60000.0,1404320261
+Wote,Wote,-1.7833,37.6333,Kenya,KE,KEN,Makueni,admin,56419.0,1404304549
+Kimilili,Kimilili,0.7833,34.7167,Kenya,KE,KEN,Bungoma,,56050.0,1404489379
+Bungoma,Bungoma,0.5667,34.5667,Kenya,KE,KEN,Bungoma,admin,55857.0,1404689847
+Isiolo,Isiolo,0.35,37.5833,Kenya,KE,KEN,Isiolo,admin,45989.0,1404771203
+Voi,Voi,-3.3906,38.5769,Kenya,KE,KEN,Taita/Taveta,,45483.0,1404504656
+Meru,Meru,0.05,37.65,Kenya,KE,KEN,Meru,admin,42677.0,1404588252
+Webuye,Webuye,0.6167,34.7667,Kenya,KE,KEN,Bungoma,,42642.0,1404979270
+Iten,Iten,0.6731,35.5083,Kenya,KE,KEN,Elgeyo/Marakwet,admin,42312.0,1404000102
+Homa Bay,Homa Bay,-0.5167,34.45,Kenya,KE,KEN,Homa Bay,admin,32174.0,1404321159
+Rumuruti,Rumuruti,0.26,36.5363,Kenya,KE,KEN,Laikipia,admin,31649.0,1404005234
+Nanyuki,Nanyuki,0.0167,37.0667,Kenya,KE,KEN,Laikipia,,31577.0,1404481993
+Maralal,Maralal,1.1,36.7,Kenya,KE,KEN,Samburu,admin,31350.0,1404895664
+Busia,Busia,0.4633,34.1053,Kenya,KE,KEN,Busia,admin,30777.0,1404250734
+Mandera,Mandera,3.9167,41.8333,Kenya,KE,KEN,Mandera,admin,30433.0,1404192737
+Kericho,Kericho,-0.3692,35.2839,Kenya,KE,KEN,Kericho,admin,30023.0,1404338562
+Kitui,Kitui,-1.3667,38.0167,Kenya,KE,KEN,Kitui,admin,29062.0,1404548296
+Lamu,Lamu,-2.2694,40.9022,Kenya,KE,KEN,Lamu,admin,25385.0,1404163131
+Moyale,Moyale,3.527,39.056,Kenya,KE,KEN,Marsabit,,25000.0,1404689643
+Kajiado,Kajiado,-1.85,36.7833,Kenya,KE,KEN,Kajiado,admin,24678.0,1404265412
+Taveta,Taveta,-3.3956,37.6761,Kenya,KE,KEN,Taita/Taveta,,22018.0,1404624215
+Takaba,Takaba,3.3963,40.2251,Kenya,KE,KEN,Mandera,,21474.0,1404710881
+Baragoi,Baragoi,1.7833,36.7833,Kenya,KE,KEN,Samburu,,20000.0,1404601511
+Kapsabet,Kapsabet,0.3333,35.1667,Kenya,KE,KEN,Nandi,admin,17918.0,1404814363
+Eldama Ravine,Eldama Ravine,0.05,35.7167,Kenya,KE,KEN,Baringo,,17581.0,1404468256
+Marsabit,Marsabit,2.3333,37.9833,Kenya,KE,KEN,Marsabit,admin,17127.0,1404055253
+Lodwar,Lodwar,3.1167,35.6,Kenya,KE,KEN,Turkana,admin,16981.0,1404993573
+Mwingi,Mwingi,-0.9333,38.05,Kenya,KE,KEN,Kitui,,15970.0,1404312666
+Bartabwa,Bartabwa,0.83,35.8,Kenya,KE,KEN,Baringo,,14611.0,1404047345
+Naivasha,Naivasha,-0.7202,36.4285,Kenya,KE,KEN,Nakuru,,14563.0,1404904927
+Kerugoya,Kerugoya,-0.5,37.2833,Kenya,KE,KEN,Kirinyaga,admin,14056.0,1404597807
+Makuyu,Makuyu,-0.9,37.1833,Kenya,KE,KEN,Murang’a,,12541.0,1404000094
+Port Victoria,Port Victoria,0.1,33.9833,Kenya,KE,KEN,Busia,,12194.0,1404757827
+Msambweni,Msambweni,-4.47,39.48,Kenya,KE,KEN,Kwale,,11985.0,1404130106
+Kwale,Kwale,-4.1744,39.4603,Kenya,KE,KEN,Kwale,admin,10063.0,1404769042
+Sotik,Sotik,-0.68,35.12,Kenya,KE,KEN,Bomet,,10000.0,1404807525
+Kargi,Kargi,2.5036,37.5725,Kenya,KE,KEN,Marsabit,,10000.0,1404034627
+Hola,Hola,-1.5,40.0333,Kenya,KE,KEN,Tana River,admin,6931.0,1404396632
+Mwatate,Mwatate,-3.5047,38.3778,Kenya,KE,KEN,Taita/Taveta,admin,5551.0,1404648092
+Namanga,Namanga,-2.55,36.7833,Kenya,KE,KEN,Nyamira,,5500.0,1404000001
+Witu,Witu,-2.3889,40.4378,Kenya,KE,KEN,Lamu,,5380.0,1404037095
+Karungu,Karungu,-0.8496,34.15,Kenya,KE,KEN,Migori,,2376.0,1404796412
+Konza,Konza,-1.7496,37.12,Kenya,KE,KEN,Machakos,,2004.0,1404143289
+Tsavo,Tsavo,-2.9828,38.4666,Kenya,KE,KEN,Taita/Taveta,,414.0,1404321644
+Nyamira,Nyamira,-0.521,34.914,Kenya,KE,KEN,Nyamira,admin,,1404000104
+Siaya,Siaya,0.0667,34.2833,Kenya,KE,KEN,Siaya,admin,,1404162576
+Murang’a,Murang'a,-0.7167,37.15,Kenya,KE,KEN,Murang’a,admin,,1404066738
+Ol Kalou,Ol Kalou,-0.273,36.378,Kenya,KE,KEN,Nyandarua,admin,,1404930645
+Sotik Post,Sotik Post,-0.7813,35.3416,Kenya,KE,KEN,Bomet,admin,,1404087664
+Kapenguria,Kapenguria,1.2333,35.1167,Kenya,KE,KEN,West Pokot,admin,,1404228137
+Kabarnet,Kabarnet,0.494,35.744,Kenya,KE,KEN,Baringo,admin,,1404620707
+Migori,Migori,-1.0634,34.4731,Kenya,KE,KEN,Migori,admin,,1404478510

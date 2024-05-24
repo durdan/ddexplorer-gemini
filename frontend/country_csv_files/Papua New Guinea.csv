@@ -1,0 +1,61 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Port Moresby,Port Moresby,-9.4789,147.1494,Papua New Guinea,PG,PNG,National Capital,primary,700000.0,1598685395
+Lae,Lae,-6.7303,147.0008,Papua New Guinea,PG,PNG,Morobe,admin,193000.0,1598466091
+Popondetta,Popondetta,-8.7656,148.2347,Papua New Guinea,PG,PNG,Northern,admin,65000.0,1598887925
+Mendi,Mendi,-6.1478,143.6572,Papua New Guinea,PG,PNG,Southern Highlands,admin,56055.0,1598467297
+Arawa,Arawa,-6.225,155.5667,Papua New Guinea,PG,PNG,Bougainville,,36443.0,1598413091
+Mount Hagen,Mount Hagen,-5.86,144.24,Papua New Guinea,PG,PNG,Western Highlands,admin,29765.0,1598400611
+Madang,Madang,-5.2167,145.8,Papua New Guinea,PG,PNG,Madang,admin,29339.0,1598116558
+Kimbe,Kimbe,-5.5575,150.155,Papua New Guinea,PG,PNG,West New Britain,admin,27191.0,1598372456
+Wewak,Wewak,-3.55,143.6333,Papua New Guinea,PG,PNG,East Sepik,admin,25143.0,1598405100
+Goroka,Goroka,-6.0833,145.3833,Papua New Guinea,PG,PNG,Eastern Highlands,admin,21507.0,1598928169
+Kokopo,Kokopo,-4.35,152.2736,Papua New Guinea,PG,PNG,East New Britain,admin,20262.0,1598823962
+Bulolo,Bulolo,-7.2,146.6467,Papua New Guinea,PG,PNG,Morobe,,20000.0,1598883682
+Kavieng,Kavieng,-2.5667,150.8,Papua New Guinea,PG,PNG,New Ireland,admin,19849.0,1598946326
+Alotau,Alotau,-10.3167,150.4333,Papua New Guinea,PG,PNG,Milne Bay,admin,15939.0,1598284215
+Tari,Tari,-5.8489,142.9506,Papua New Guinea,PG,PNG,Hela,admin,15413.0,1598669271
+Daru,Daru,-9.0833,143.2,Papua New Guinea,PG,PNG,Western,admin,12879.0,1598923764
+Vanimo,Vanimo,-2.6667,141.2833,Papua New Guinea,PG,PNG,West Sepik,admin,11863.0,1598892363
+Kundiawa,Kundiawa,-6.0167,144.9667,Papua New Guinea,PG,PNG,Chimbu,admin,11553.0,1598730976
+Tabubil,Tabubil,-5.275,141.2264,Papua New Guinea,PG,PNG,Western,,10270.0,1598326031
+Wau,Wau,-7.3389,146.7167,Papua New Guinea,PG,PNG,Morobe,,9442.0,1598739902
+Rabaul,Rabaul,-4.2,152.1833,Papua New Guinea,PG,PNG,East New Britain,,7024.0,1598973225
+Kieta,Kieta,-6.2158,155.6328,Papua New Guinea,PG,PNG,Bougainville,,6958.0,1598490894
+Kerema,Kerema,-7.9667,145.7667,Papua New Guinea,PG,PNG,Gulf,admin,6551.0,1598925932
+Lorengau,Lorengau,-2.0306,147.2722,Papua New Guinea,PG,PNG,Manus,admin,6313.0,1598571197
+Wabag,Wabag,-5.4919,143.7217,Papua New Guinea,PG,PNG,Enga,admin,4072.0,1598428400
+Sohano,Sohano,-5.4297,154.6711,Papua New Guinea,PG,PNG,Bougainville,,2338.0,1598474458
+Hoskins,Hoskins,-5.4746,150.41,Papua New Guinea,PG,PNG,West New Britain,,871.0,1598684520
+Amau,Amau,-10.0426,148.565,Papua New Guinea,PG,PNG,Central,,230.0,1598610032
+Kurumul,Kurumul,-5.855,144.6311,Papua New Guinea,PG,PNG,Jiwaka,admin,,1598000045
+Buka,Buka,-5.4219,154.6728,Papua New Guinea,PG,PNG,Bougainville,admin,,1598000066
+Port Moresby,Port Moresby,-9.4789,147.1494,Papua New Guinea,PG,PNG,National Capital,primary,700000.0,1598685395
+Lae,Lae,-6.7303,147.0008,Papua New Guinea,PG,PNG,Morobe,admin,193000.0,1598466091
+Popondetta,Popondetta,-8.7656,148.2347,Papua New Guinea,PG,PNG,Northern,admin,65000.0,1598887925
+Mendi,Mendi,-6.1478,143.6572,Papua New Guinea,PG,PNG,Southern Highlands,admin,56055.0,1598467297
+Arawa,Arawa,-6.225,155.5667,Papua New Guinea,PG,PNG,Bougainville,,36443.0,1598413091
+Mount Hagen,Mount Hagen,-5.86,144.24,Papua New Guinea,PG,PNG,Western Highlands,admin,29765.0,1598400611
+Madang,Madang,-5.2167,145.8,Papua New Guinea,PG,PNG,Madang,admin,29339.0,1598116558
+Kimbe,Kimbe,-5.5575,150.155,Papua New Guinea,PG,PNG,West New Britain,admin,27191.0,1598372456
+Wewak,Wewak,-3.55,143.6333,Papua New Guinea,PG,PNG,East Sepik,admin,25143.0,1598405100
+Goroka,Goroka,-6.0833,145.3833,Papua New Guinea,PG,PNG,Eastern Highlands,admin,21507.0,1598928169
+Kokopo,Kokopo,-4.35,152.2736,Papua New Guinea,PG,PNG,East New Britain,admin,20262.0,1598823962
+Bulolo,Bulolo,-7.2,146.6467,Papua New Guinea,PG,PNG,Morobe,,20000.0,1598883682
+Kavieng,Kavieng,-2.5667,150.8,Papua New Guinea,PG,PNG,New Ireland,admin,19849.0,1598946326
+Alotau,Alotau,-10.3167,150.4333,Papua New Guinea,PG,PNG,Milne Bay,admin,15939.0,1598284215
+Tari,Tari,-5.8489,142.9506,Papua New Guinea,PG,PNG,Hela,admin,15413.0,1598669271
+Daru,Daru,-9.0833,143.2,Papua New Guinea,PG,PNG,Western,admin,12879.0,1598923764
+Vanimo,Vanimo,-2.6667,141.2833,Papua New Guinea,PG,PNG,West Sepik,admin,11863.0,1598892363
+Kundiawa,Kundiawa,-6.0167,144.9667,Papua New Guinea,PG,PNG,Chimbu,admin,11553.0,1598730976
+Tabubil,Tabubil,-5.275,141.2264,Papua New Guinea,PG,PNG,Western,,10270.0,1598326031
+Wau,Wau,-7.3389,146.7167,Papua New Guinea,PG,PNG,Morobe,,9442.0,1598739902
+Rabaul,Rabaul,-4.2,152.1833,Papua New Guinea,PG,PNG,East New Britain,,7024.0,1598973225
+Kieta,Kieta,-6.2158,155.6328,Papua New Guinea,PG,PNG,Bougainville,,6958.0,1598490894
+Kerema,Kerema,-7.9667,145.7667,Papua New Guinea,PG,PNG,Gulf,admin,6551.0,1598925932
+Lorengau,Lorengau,-2.0306,147.2722,Papua New Guinea,PG,PNG,Manus,admin,6313.0,1598571197
+Wabag,Wabag,-5.4919,143.7217,Papua New Guinea,PG,PNG,Enga,admin,4072.0,1598428400
+Sohano,Sohano,-5.4297,154.6711,Papua New Guinea,PG,PNG,Bougainville,,2338.0,1598474458
+Hoskins,Hoskins,-5.4746,150.41,Papua New Guinea,PG,PNG,West New Britain,,871.0,1598684520
+Amau,Amau,-10.0426,148.565,Papua New Guinea,PG,PNG,Central,,230.0,1598610032
+Kurumul,Kurumul,-5.855,144.6311,Papua New Guinea,PG,PNG,Jiwaka,admin,,1598000045
+Buka,Buka,-5.4219,154.6728,Papua New Guinea,PG,PNG,Bougainville,admin,,1598000066

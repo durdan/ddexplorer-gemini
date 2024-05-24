@@ -1,0 +1,131 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Tegucigalpa,Tegucigalpa,14.1058,-87.2047,Honduras,HN,HND,Francisco Morazán,primary,1682725.0,1340344059
+Comayagüela,Comayaguela,14.098,-87.21,Honduras,HN,HND,Francisco Morazán,,1250000.0,1340762485
+San Pedro Sula,San Pedro Sula,15.5,-88.0333,Honduras,HN,HND,Cortés,admin,793835.0,1340568412
+Choloma,Choloma,15.6333,-88.0,Honduras,HN,HND,Cortés,,227535.0,1340125981
+La Ceiba,La Ceiba,15.7792,-86.7931,Honduras,HN,HND,Atlántida,admin,215973.0,1340870189
+El Progreso,El Progreso,15.4,-87.8,Honduras,HN,HND,Yoro,,188366.0,1340231948
+Villanueva,Villanueva,15.3167,-88.0167,Honduras,HN,HND,Cortés,,166510.0,1340079427
+Ciudad Choluteca,Ciudad Choluteca,13.3028,-87.1833,Honduras,HN,HND,Choluteca,admin,152519.0,1340256619
+Comayagua,Comayagua,14.4522,-87.6383,Honduras,HN,HND,Comayagua,admin,144785.0,1340015594
+Juticalpa,Juticalpa,14.6664,-86.2186,Honduras,HN,HND,Olancho,admin,124828.0,1340411203
+Puerto Cortés,Puerto Cortes,15.8833,-87.95,Honduras,HN,HND,Cortés,,122426.0,1340000062
+Catacamas,Catacamas,14.8,-85.9,Honduras,HN,HND,Olancho,,117493.0,1340898308
+Olanchito,Olanchito,15.4833,-86.5833,Honduras,HN,HND,Yoro,,104609.0,1340362964
+Tela,Tela,15.7833,-87.4667,Honduras,HN,HND,Atlántida,,96758.0,1340789148
+Siguatepeque,Siguatepeque,14.6,-87.8333,Honduras,HN,HND,Comayagua,,95121.0,1340354793
+Danlí,Danli,14.05,-86.5833,Honduras,HN,HND,El Paraíso,,88722.0,1340108771
+Yoro,Yoro,15.1333,-87.1333,Honduras,HN,HND,Yoro,admin,86665.0,1340638121
+La Lima,La Lima,15.433,-87.917,Honduras,HN,HND,Cortés,,83032.0,1340766612
+Tocoa,Tocoa,15.6833,-86.0,Honduras,HN,HND,Colón,,72847.0,1340024758
+Santa Rosa de Copán,Santa Rosa de Copan,14.7667,-88.7833,Honduras,HN,HND,Copán,admin,61083.0,1340050563
+Trujillo,Trujillo,15.9167,-86.0,Honduras,HN,HND,Colón,admin,60558.0,1340756106
+Nacaome,Nacaome,13.5167,-87.4833,Honduras,HN,HND,Valle,admin,57345.0,1340964186
+Intibucá,Intibuca,14.3121,-88.1781,Honduras,HN,HND,Intibucá,,56017.0,1340620843
+San Manuel,San Manuel,15.3333,-87.9167,Honduras,HN,HND,Cortés,,53083.0,1340778630
+Gracias,Gracias,14.5889,-88.5819,Honduras,HN,HND,Lempira,admin,47622.0,1340141391
+Puerto Lempira,Puerto Lempira,15.2667,-83.7667,Honduras,HN,HND,Gracias a Dios,admin,47528.0,1340110055
+La Paz,La Paz,14.317,-87.683,Honduras,HN,HND,La Paz,admin,43980.0,1340290947
+Sonaguera,Sonaguera,15.6333,-86.3333,Honduras,HN,HND,Colón,,43152.0,1340592173
+Santa Bárbara,Santa Barbara,14.9167,-88.2333,Honduras,HN,HND,Santa Bárbara,admin,41736.0,1340312026
+Copán,Copan,14.8375,-89.1425,Honduras,HN,HND,Copán,,41542.0,1340766034
+San Lorenzo,San Lorenzo,13.3667,-87.2667,Honduras,HN,HND,Valle,,41297.0,1340596273
+Talanga,Talanga,14.4,-87.0833,Honduras,HN,HND,Francisco Morazán,,34997.0,1340622146
+Santa Rita,Santa Rita,14.8667,-89.1,Honduras,HN,HND,Copán,,29927.0,1340516072
+Bonito Oriental,Bonito Oriental,15.7333,-85.7333,Honduras,HN,HND,Colón,,28427.0,1340343332
+Guaimaca,Guaimaca,14.5333,-86.8167,Honduras,HN,HND,Francisco Morazán,,28076.0,1340628932
+Potrerillos,Potrerillos,15.2167,-87.95,Honduras,HN,HND,Cortés,,26954.0,1340725749
+Azacualpa,Azacualpa,14.7167,-88.1,Honduras,HN,HND,Santa Bárbara,,25920.0,1340612681
+Cedros,Cedros,14.6,-87.1167,Honduras,HN,HND,Francisco Morazán,,24305.0,1340514859
+Iriona,Iriona,15.9333,-85.1833,Honduras,HN,HND,Colón,,20730.0,1340981910
+Santa Rita,Santa Rita,15.2,-87.8833,Honduras,HN,HND,Yoro,,20301.0,1340894551
+Azacualpa,Azacualpa,15.3441,-88.5515,Honduras,HN,HND,Santa Bárbara,,20210.0,1340499281
+San Marcos,San Marcos,14.4,-88.95,Honduras,HN,HND,Ocotepeque,,19978.0,1340516781
+El Paraíso,El Paraiso,15.0167,-88.9833,Honduras,HN,HND,Copán,,19882.0,1340000059
+Campamento,Campamento,14.55,-86.65,Honduras,HN,HND,Olancho,,19832.0,1340615985
+Cofradía,Cofradia,15.4168,-88.1603,Honduras,HN,HND,Cortés,,18100.0,1340899741
+Sulaco,Sulaco,14.9167,-87.2667,Honduras,HN,HND,Yoro,,17509.0,1340801499
+Santa Ana,Santa Ana,13.9333,-87.2667,Honduras,HN,HND,Francisco Morazán,,16009.0,1340709645
+Yorito,Yorito,15.06,-87.29,Honduras,HN,HND,Yoro,,15774.0,1340550354
+Guajiquiro,Guajiquiro,14.1167,-87.8333,Honduras,HN,HND,La Paz,,14616.0,1340570749
+San Francisco,San Francisco,15.6667,-87.0333,Honduras,HN,HND,Atlántida,,14559.0,1340403835
+Yuscarán,Yuscaran,13.933,-86.85,Honduras,HN,HND,El Paraíso,admin,14144.0,1340315181
+La Entrada,La Entrada,15.0611,-88.7519,Honduras,HN,HND,Copán,,13949.0,1340911070
+San Rafael,San Rafael,14.7269,-88.4194,Honduras,HN,HND,Lempira,,13410.0,1340725432
+San Juan,San Juan,14.4,-88.4167,Honduras,HN,HND,Intibucá,,13405.0,1340811694
+Brus Laguna,Brus Laguna,15.75,-84.4833,Honduras,HN,HND,Gracias a Dios,,12720.0,1340003428
+Santa Elena,Santa Elena,14.0833,-88.1167,Honduras,HN,HND,La Paz,,12162.0,1340947975
+Santa Ana,Santa Ana,14.0667,-87.95,Honduras,HN,HND,La Paz,,11777.0,1340290490
+La Esperanza,La Esperanza,14.3066,-88.1787,Honduras,HN,HND,Intibucá,admin,11631.0,1340614286
+Gualcince,Gualcince,14.1167,-88.55,Honduras,HN,HND,Lempira,,11295.0,1340233884
+La Jigua,La Jigua,15.04,-88.8,Honduras,HN,HND,Copán,,9288.0,1340297828
+Marale,Marale,14.9167,-87.035,Honduras,HN,HND,Francisco Morazán,,9170.0,1340172200
+San Francisco,San Francisco,14.1167,-88.3667,Honduras,HN,HND,Lempira,,9017.0,1340590673
+San Ignacio,San Ignacio,14.6667,-87.0333,Honduras,HN,HND,Francisco Morazán,,8796.0,1340809113
+Nueva Ocotepeque,Nueva Ocotepeque,14.4333,-89.1833,Honduras,HN,HND,Ocotepeque,admin,8780.0,1340380637
+Roatán,Roatan,16.323,-86.537,Honduras,HN,HND,Islas de la Bahía,admin,5070.0,1340163370
+Tegucigalpa,Tegucigalpa,14.1058,-87.2047,Honduras,HN,HND,Francisco Morazán,primary,1682725.0,1340344059
+Comayagüela,Comayaguela,14.098,-87.21,Honduras,HN,HND,Francisco Morazán,,1250000.0,1340762485
+San Pedro Sula,San Pedro Sula,15.5,-88.0333,Honduras,HN,HND,Cortés,admin,793835.0,1340568412
+Choloma,Choloma,15.6333,-88.0,Honduras,HN,HND,Cortés,,227535.0,1340125981
+La Ceiba,La Ceiba,15.7792,-86.7931,Honduras,HN,HND,Atlántida,admin,215973.0,1340870189
+El Progreso,El Progreso,15.4,-87.8,Honduras,HN,HND,Yoro,,188366.0,1340231948
+Villanueva,Villanueva,15.3167,-88.0167,Honduras,HN,HND,Cortés,,166510.0,1340079427
+Ciudad Choluteca,Ciudad Choluteca,13.3028,-87.1833,Honduras,HN,HND,Choluteca,admin,152519.0,1340256619
+Comayagua,Comayagua,14.4522,-87.6383,Honduras,HN,HND,Comayagua,admin,144785.0,1340015594
+Juticalpa,Juticalpa,14.6664,-86.2186,Honduras,HN,HND,Olancho,admin,124828.0,1340411203
+Puerto Cortés,Puerto Cortes,15.8833,-87.95,Honduras,HN,HND,Cortés,,122426.0,1340000062
+Catacamas,Catacamas,14.8,-85.9,Honduras,HN,HND,Olancho,,117493.0,1340898308
+Olanchito,Olanchito,15.4833,-86.5833,Honduras,HN,HND,Yoro,,104609.0,1340362964
+Tela,Tela,15.7833,-87.4667,Honduras,HN,HND,Atlántida,,96758.0,1340789148
+Siguatepeque,Siguatepeque,14.6,-87.8333,Honduras,HN,HND,Comayagua,,95121.0,1340354793
+Danlí,Danli,14.05,-86.5833,Honduras,HN,HND,El Paraíso,,88722.0,1340108771
+Yoro,Yoro,15.1333,-87.1333,Honduras,HN,HND,Yoro,admin,86665.0,1340638121
+La Lima,La Lima,15.433,-87.917,Honduras,HN,HND,Cortés,,83032.0,1340766612
+Tocoa,Tocoa,15.6833,-86.0,Honduras,HN,HND,Colón,,72847.0,1340024758
+Santa Rosa de Copán,Santa Rosa de Copan,14.7667,-88.7833,Honduras,HN,HND,Copán,admin,61083.0,1340050563
+Trujillo,Trujillo,15.9167,-86.0,Honduras,HN,HND,Colón,admin,60558.0,1340756106
+Nacaome,Nacaome,13.5167,-87.4833,Honduras,HN,HND,Valle,admin,57345.0,1340964186
+Intibucá,Intibuca,14.3121,-88.1781,Honduras,HN,HND,Intibucá,,56017.0,1340620843
+San Manuel,San Manuel,15.3333,-87.9167,Honduras,HN,HND,Cortés,,53083.0,1340778630
+Gracias,Gracias,14.5889,-88.5819,Honduras,HN,HND,Lempira,admin,47622.0,1340141391
+Puerto Lempira,Puerto Lempira,15.2667,-83.7667,Honduras,HN,HND,Gracias a Dios,admin,47528.0,1340110055
+La Paz,La Paz,14.317,-87.683,Honduras,HN,HND,La Paz,admin,43980.0,1340290947
+Sonaguera,Sonaguera,15.6333,-86.3333,Honduras,HN,HND,Colón,,43152.0,1340592173
+Santa Bárbara,Santa Barbara,14.9167,-88.2333,Honduras,HN,HND,Santa Bárbara,admin,41736.0,1340312026
+Copán,Copan,14.8375,-89.1425,Honduras,HN,HND,Copán,,41542.0,1340766034
+San Lorenzo,San Lorenzo,13.3667,-87.2667,Honduras,HN,HND,Valle,,41297.0,1340596273
+Talanga,Talanga,14.4,-87.0833,Honduras,HN,HND,Francisco Morazán,,34997.0,1340622146
+Santa Rita,Santa Rita,14.8667,-89.1,Honduras,HN,HND,Copán,,29927.0,1340516072
+Bonito Oriental,Bonito Oriental,15.7333,-85.7333,Honduras,HN,HND,Colón,,28427.0,1340343332
+Guaimaca,Guaimaca,14.5333,-86.8167,Honduras,HN,HND,Francisco Morazán,,28076.0,1340628932
+Potrerillos,Potrerillos,15.2167,-87.95,Honduras,HN,HND,Cortés,,26954.0,1340725749
+Azacualpa,Azacualpa,14.7167,-88.1,Honduras,HN,HND,Santa Bárbara,,25920.0,1340612681
+Cedros,Cedros,14.6,-87.1167,Honduras,HN,HND,Francisco Morazán,,24305.0,1340514859
+Iriona,Iriona,15.9333,-85.1833,Honduras,HN,HND,Colón,,20730.0,1340981910
+Santa Rita,Santa Rita,15.2,-87.8833,Honduras,HN,HND,Yoro,,20301.0,1340894551
+Azacualpa,Azacualpa,15.3441,-88.5515,Honduras,HN,HND,Santa Bárbara,,20210.0,1340499281
+San Marcos,San Marcos,14.4,-88.95,Honduras,HN,HND,Ocotepeque,,19978.0,1340516781
+El Paraíso,El Paraiso,15.0167,-88.9833,Honduras,HN,HND,Copán,,19882.0,1340000059
+Campamento,Campamento,14.55,-86.65,Honduras,HN,HND,Olancho,,19832.0,1340615985
+Cofradía,Cofradia,15.4168,-88.1603,Honduras,HN,HND,Cortés,,18100.0,1340899741
+Sulaco,Sulaco,14.9167,-87.2667,Honduras,HN,HND,Yoro,,17509.0,1340801499
+Santa Ana,Santa Ana,13.9333,-87.2667,Honduras,HN,HND,Francisco Morazán,,16009.0,1340709645
+Yorito,Yorito,15.06,-87.29,Honduras,HN,HND,Yoro,,15774.0,1340550354
+Guajiquiro,Guajiquiro,14.1167,-87.8333,Honduras,HN,HND,La Paz,,14616.0,1340570749
+San Francisco,San Francisco,15.6667,-87.0333,Honduras,HN,HND,Atlántida,,14559.0,1340403835
+Yuscarán,Yuscaran,13.933,-86.85,Honduras,HN,HND,El Paraíso,admin,14144.0,1340315181
+La Entrada,La Entrada,15.0611,-88.7519,Honduras,HN,HND,Copán,,13949.0,1340911070
+San Rafael,San Rafael,14.7269,-88.4194,Honduras,HN,HND,Lempira,,13410.0,1340725432
+San Juan,San Juan,14.4,-88.4167,Honduras,HN,HND,Intibucá,,13405.0,1340811694
+Brus Laguna,Brus Laguna,15.75,-84.4833,Honduras,HN,HND,Gracias a Dios,,12720.0,1340003428
+Santa Elena,Santa Elena,14.0833,-88.1167,Honduras,HN,HND,La Paz,,12162.0,1340947975
+Santa Ana,Santa Ana,14.0667,-87.95,Honduras,HN,HND,La Paz,,11777.0,1340290490
+La Esperanza,La Esperanza,14.3066,-88.1787,Honduras,HN,HND,Intibucá,admin,11631.0,1340614286
+Gualcince,Gualcince,14.1167,-88.55,Honduras,HN,HND,Lempira,,11295.0,1340233884
+La Jigua,La Jigua,15.04,-88.8,Honduras,HN,HND,Copán,,9288.0,1340297828
+Marale,Marale,14.9167,-87.035,Honduras,HN,HND,Francisco Morazán,,9170.0,1340172200
+San Francisco,San Francisco,14.1167,-88.3667,Honduras,HN,HND,Lempira,,9017.0,1340590673
+San Ignacio,San Ignacio,14.6667,-87.0333,Honduras,HN,HND,Francisco Morazán,,8796.0,1340809113
+Nueva Ocotepeque,Nueva Ocotepeque,14.4333,-89.1833,Honduras,HN,HND,Ocotepeque,admin,8780.0,1340380637
+Roatán,Roatan,16.323,-86.537,Honduras,HN,HND,Islas de la Bahía,admin,5070.0,1340163370

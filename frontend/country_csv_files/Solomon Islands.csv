@@ -1,0 +1,19 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Honiara,Honiara,-9.4319,159.9556,Solomon Islands,SB,SLB,Honiara,primary,84520.0,1090737486
+Auki,Auki,-8.7667,160.7,Solomon Islands,SB,SLB,Malaita,admin,7882.0,1090993143
+Gizo,Gizo,-8.1056,156.8389,Solomon Islands,SB,SLB,Western,admin,6154.0,1090427067
+Kirakira,Kirakira,-10.45,161.9167,Solomon Islands,SB,SLB,Makira and Ulawa,admin,3500.0,1090349580
+Buala,Buala,-8.1333,159.5833,Solomon Islands,SB,SLB,Isabel,admin,2813.0,1090726690
+Tulagi,Tulagi,-9.1014,160.1467,Solomon Islands,SB,SLB,Central,admin,1251.0,1090844311
+Tigoa,Tigoa,-11.5583,160.0706,Solomon Islands,SB,SLB,Rennell and Bellona,admin,613.0,1090423471
+Lata,Lata,-10.7167,165.8333,Solomon Islands,SB,SLB,Temotu,admin,553.0,1090442496
+Taro,Taro,-6.7111,156.3972,Solomon Islands,SB,SLB,Choiseul,admin,,1090931394
+Honiara,Honiara,-9.4319,159.9556,Solomon Islands,SB,SLB,Honiara,primary,84520.0,1090737486
+Auki,Auki,-8.7667,160.7,Solomon Islands,SB,SLB,Malaita,admin,7882.0,1090993143
+Gizo,Gizo,-8.1056,156.8389,Solomon Islands,SB,SLB,Western,admin,6154.0,1090427067
+Kirakira,Kirakira,-10.45,161.9167,Solomon Islands,SB,SLB,Makira and Ulawa,admin,3500.0,1090349580
+Buala,Buala,-8.1333,159.5833,Solomon Islands,SB,SLB,Isabel,admin,2813.0,1090726690
+Tulagi,Tulagi,-9.1014,160.1467,Solomon Islands,SB,SLB,Central,admin,1251.0,1090844311
+Tigoa,Tigoa,-11.5583,160.0706,Solomon Islands,SB,SLB,Rennell and Bellona,admin,613.0,1090423471
+Lata,Lata,-10.7167,165.8333,Solomon Islands,SB,SLB,Temotu,admin,553.0,1090442496
+Taro,Taro,-6.7111,156.3972,Solomon Islands,SB,SLB,Choiseul,admin,,1090931394

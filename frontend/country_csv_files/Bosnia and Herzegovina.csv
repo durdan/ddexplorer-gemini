@@ -1,0 +1,149 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Sarajevo,Sarajevo,43.8564,18.4131,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",primary,419957.0,1070966777
+Banja Luka,Banja Luka,44.7725,17.1925,Bosnia and Herzegovina,BA,BIH,"Srpska, Republika",admin,185042.0,1070859064
+Bijeljina,Bijeljina,44.7569,19.2161,Bosnia and Herzegovina,BA,BIH,"Srpska, Republika",minor,114663.0,1070522751
+Mostar,Mostar,43.3436,17.8075,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,113169.0,1070000220
+Tuzla,Tuzla,44.5381,18.6761,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,110979.0,1070117835
+Prijedor,Prijedor,44.9808,16.7133,Bosnia and Herzegovina,BA,BIH,"Srpska, Republika",minor,89397.0,1070565353
+Zenica,Zenica,44.2039,17.9078,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,70553.0,1070047832
+Doboj,Doboj,44.7314,18.0844,Bosnia and Herzegovina,BA,BIH,"Srpska, Republika",minor,68514.0,1070396173
+Ilidža,Ilidza,43.8167,18.3,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,66730.0,1070286664
+Cazin,Cazin,44.9667,15.9333,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,66149.0,1070442076
+Zvornik,Zvornik,44.3842,19.1025,Bosnia and Herzegovina,BA,BIH,"Srpska, Republika",minor,63686.0,1070289722
+Živinice,Zivinice,44.45,18.65,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,57765.0,1070042260
+Bihać,Bihac,44.8167,15.8667,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,56261.0,1070788265
+Travnik,Travnik,44.2264,17.6597,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,53482.0,1070285988
+Gradiška,Gradiska,45.1458,17.2539,Bosnia and Herzegovina,BA,BIH,"Srpska, Republika",minor,51727.0,1070385329
+Sanski Most,Sanski Most,44.7667,16.6667,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,47359.0,1070675252
+Lukavac,Lukavac,44.55,18.5167,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,46731.0,1070273413
+Gračanica,Gracanica,44.6892,18.3022,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,45220.0,1070355903
+Tešanj,Tesanj,44.6142,17.9894,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,43063.0,1070677914
+Visoko,Visoko,43.9833,18.1667,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,39938.0,1070751775
+Brčko,Brcko,44.8772,18.8111,Bosnia and Herzegovina,BA,BIH,Brcko District,admin,39893.0,1070370826
+Srebrenik,Srebrenik,44.7,18.4833,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,39678.0,1070982884
+Gradačac,Gradacac,44.8789,18.4258,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,39340.0,1070347743
+Donji Kakanj,Donji Kakanj,44.1311,18.0972,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",,37441.0,1070449997
+Stara Gora,Stara Gora,43.8667,18.4333,Bosnia and Herzegovina,BA,BIH,"Srpska, Republika",,36976.0,1070280725
+Maglaj,Maglaj,44.55,18.1,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,34980.0,1070332906
+Bugojno,Bugojno,44.05,17.45,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,34559.0,1070311249
+Žepče,Zepce,44.4333,18.0333,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,31582.0,1070466847
+Trebinje,Trebinje,42.7119,18.3461,Bosnia and Herzegovina,BA,BIH,"Srpska, Republika",minor,31433.0,1070826374
+Široki Brijeg,Siroki Brijeg,43.3831,17.5927,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,28929.0,1070206343
+Ljubuški,Ljubuski,43.1981,17.5467,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,28184.0,1070105515
+Čapljina,Capljina,43.1118,17.7055,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,28122.0,1070896558
+Novi Grad,Novi Grad,45.0481,16.3769,Bosnia and Herzegovina,BA,BIH,"Srpska, Republika",minor,27115.0,1070654182
+Vogošća,Vogosca,43.9,18.35,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,26343.0,1070046911
+Vitez,Vitez,44.1585,17.7885,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,25836.0,1070182317
+Novi Travnik,Novi Travnik,44.1748,17.6634,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,25107.0,1070493406
+Hadžići,Hadzici,43.8217,18.2017,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,23891.0,1070884568
+Gornji Vakuf,Gornji Vakuf,43.9333,17.5833,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,22304.0,1070657723
+Pale,Pale,43.8119,18.5711,Bosnia and Herzegovina,BA,BIH,"Srpska, Republika",minor,22282.0,1070691989
+Kiseljak,Kiseljak,43.9431,18.0775,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,20722.0,1070130357
+Posušje,Posusje,43.472,17.3297,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,20477.0,1070546280
+Bratunac,Bratunac,44.1839,19.3308,Bosnia and Herzegovina,BA,BIH,"Srpska, Republika",minor,20340.0,1070077267
+Orašje,Orasje,45.0361,18.6933,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,19861.0,1070394809
+Ilijaš,Ilijas,43.95,18.2667,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,19603.0,1070041396
+Odžak,Odzak,45.0106,18.3264,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,18821.0,1070191800
+Ključ,Kljuc,44.5333,16.7667,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,18714.0,1070860636
+Busovača,Busovaca,44.1,17.8833,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,18488.0,1070855809
+Čitluk,Citluk,43.2,17.7,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,18140.0,1070415308
+Srbac,Srbac,45.0958,17.5192,Bosnia and Herzegovina,BA,BIH,"Srpska, Republika",minor,17587.0,1070950243
+Banovići,Banovici,44.4,18.5333,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,17131.0,1070705661
+Brod,Brod,45.1333,17.9833,Bosnia and Herzegovina,BA,BIH,"Srpska, Republika",minor,16619.0,1070523557
+Lopare,Lopare,44.6361,18.8444,Bosnia and Herzegovina,BA,BIH,"Srpska, Republika",minor,15357.0,1070563075
+Stolac,Stolac,43.0825,17.9558,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,14889.0,1070102395
+Breza,Breza,44.0167,18.2611,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,14564.0,1070229008
+Donji Vakuf,Donji Vakuf,44.15,17.4,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,13985.0,1070953048
+Srebrenica,Srebrenica,44.1042,19.2972,Bosnia and Herzegovina,BA,BIH,"Srpska, Republika",minor,13409.0,1070120847
+Derventa,Derventa,44.9775,17.9075,Bosnia and Herzegovina,BA,BIH,"Srpska, Republika",minor,12680.0,1070137362
+Goražde,Gorazde,43.6667,18.9833,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,12512.0,1070619970
+Fojnica,Fojnica,43.9667,17.9,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,12356.0,1070762647
+Kladanj,Kladanj,44.2256,18.6925,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,12348.0,1070838044
+Foča,Foca,43.5064,18.7747,Bosnia and Herzegovina,BA,BIH,"Srpska, Republika",minor,12334.0,1070603568
+Sapna,Sapna,44.4917,19.0028,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,12136.0,1070454621
+Jajce,Jajce,44.3417,17.2694,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,12000.0,1070282607
+Vlasenica,Vlasenica,44.1833,18.9333,Bosnia and Herzegovina,BA,BIH,"Srpska, Republika",minor,11467.0,1070030908
+Milići,Milici,44.1661,19.075,Bosnia and Herzegovina,BA,BIH,"Srpska, Republika",minor,11441.0,1070895202
+Bileća,Bileca,42.8667,18.4333,Bosnia and Herzegovina,BA,BIH,"Srpska, Republika",minor,10807.0,1070591645
+Rogatica,Rogatica,43.7986,19.0036,Bosnia and Herzegovina,BA,BIH,"Srpska, Republika",minor,10723.0,1070557878
+Jablanica,Jablanica,43.65,17.75,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,10580.0,1070524039
+Čelić,Celic,44.7167,18.8167,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,10502.0,1070994771
+Bosanska Krupa,Bosanska Krupa,44.8833,16.15,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,10196.0,1070449050
+Olovo,Olovo,44.1275,18.58,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,10175.0,1070868071
+Vareš,Vares,44.1619,18.3269,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,9556.0,1070474354
+Livno,Livno,43.8253,17.0058,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,9045.0,1070523528
+Gacko,Gacko,43.1667,18.5333,Bosnia and Herzegovina,BA,BIH,"Srpska, Republika",minor,8990.0,1070762752
+Sarajevo,Sarajevo,43.8564,18.4131,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",primary,419957.0,1070966777
+Banja Luka,Banja Luka,44.7725,17.1925,Bosnia and Herzegovina,BA,BIH,"Srpska, Republika",admin,185042.0,1070859064
+Bijeljina,Bijeljina,44.7569,19.2161,Bosnia and Herzegovina,BA,BIH,"Srpska, Republika",minor,114663.0,1070522751
+Mostar,Mostar,43.3436,17.8075,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,113169.0,1070000220
+Tuzla,Tuzla,44.5381,18.6761,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,110979.0,1070117835
+Prijedor,Prijedor,44.9808,16.7133,Bosnia and Herzegovina,BA,BIH,"Srpska, Republika",minor,89397.0,1070565353
+Zenica,Zenica,44.2039,17.9078,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,70553.0,1070047832
+Doboj,Doboj,44.7314,18.0844,Bosnia and Herzegovina,BA,BIH,"Srpska, Republika",minor,68514.0,1070396173
+Ilidža,Ilidza,43.8167,18.3,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,66730.0,1070286664
+Cazin,Cazin,44.9667,15.9333,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,66149.0,1070442076
+Zvornik,Zvornik,44.3842,19.1025,Bosnia and Herzegovina,BA,BIH,"Srpska, Republika",minor,63686.0,1070289722
+Živinice,Zivinice,44.45,18.65,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,57765.0,1070042260
+Bihać,Bihac,44.8167,15.8667,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,56261.0,1070788265
+Travnik,Travnik,44.2264,17.6597,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,53482.0,1070285988
+Gradiška,Gradiska,45.1458,17.2539,Bosnia and Herzegovina,BA,BIH,"Srpska, Republika",minor,51727.0,1070385329
+Sanski Most,Sanski Most,44.7667,16.6667,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,47359.0,1070675252
+Lukavac,Lukavac,44.55,18.5167,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,46731.0,1070273413
+Gračanica,Gracanica,44.6892,18.3022,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,45220.0,1070355903
+Tešanj,Tesanj,44.6142,17.9894,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,43063.0,1070677914
+Visoko,Visoko,43.9833,18.1667,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,39938.0,1070751775
+Brčko,Brcko,44.8772,18.8111,Bosnia and Herzegovina,BA,BIH,Brcko District,admin,39893.0,1070370826
+Srebrenik,Srebrenik,44.7,18.4833,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,39678.0,1070982884
+Gradačac,Gradacac,44.8789,18.4258,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,39340.0,1070347743
+Donji Kakanj,Donji Kakanj,44.1311,18.0972,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",,37441.0,1070449997
+Stara Gora,Stara Gora,43.8667,18.4333,Bosnia and Herzegovina,BA,BIH,"Srpska, Republika",,36976.0,1070280725
+Maglaj,Maglaj,44.55,18.1,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,34980.0,1070332906
+Bugojno,Bugojno,44.05,17.45,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,34559.0,1070311249
+Žepče,Zepce,44.4333,18.0333,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,31582.0,1070466847
+Trebinje,Trebinje,42.7119,18.3461,Bosnia and Herzegovina,BA,BIH,"Srpska, Republika",minor,31433.0,1070826374
+Široki Brijeg,Siroki Brijeg,43.3831,17.5927,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,28929.0,1070206343
+Ljubuški,Ljubuski,43.1981,17.5467,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,28184.0,1070105515
+Čapljina,Capljina,43.1118,17.7055,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,28122.0,1070896558
+Novi Grad,Novi Grad,45.0481,16.3769,Bosnia and Herzegovina,BA,BIH,"Srpska, Republika",minor,27115.0,1070654182
+Vogošća,Vogosca,43.9,18.35,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,26343.0,1070046911
+Vitez,Vitez,44.1585,17.7885,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,25836.0,1070182317
+Novi Travnik,Novi Travnik,44.1748,17.6634,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,25107.0,1070493406
+Hadžići,Hadzici,43.8217,18.2017,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,23891.0,1070884568
+Gornji Vakuf,Gornji Vakuf,43.9333,17.5833,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,22304.0,1070657723
+Pale,Pale,43.8119,18.5711,Bosnia and Herzegovina,BA,BIH,"Srpska, Republika",minor,22282.0,1070691989
+Kiseljak,Kiseljak,43.9431,18.0775,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,20722.0,1070130357
+Posušje,Posusje,43.472,17.3297,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,20477.0,1070546280
+Bratunac,Bratunac,44.1839,19.3308,Bosnia and Herzegovina,BA,BIH,"Srpska, Republika",minor,20340.0,1070077267
+Orašje,Orasje,45.0361,18.6933,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,19861.0,1070394809
+Ilijaš,Ilijas,43.95,18.2667,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,19603.0,1070041396
+Odžak,Odzak,45.0106,18.3264,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,18821.0,1070191800
+Ključ,Kljuc,44.5333,16.7667,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,18714.0,1070860636
+Busovača,Busovaca,44.1,17.8833,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,18488.0,1070855809
+Čitluk,Citluk,43.2,17.7,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,18140.0,1070415308
+Srbac,Srbac,45.0958,17.5192,Bosnia and Herzegovina,BA,BIH,"Srpska, Republika",minor,17587.0,1070950243
+Banovići,Banovici,44.4,18.5333,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,17131.0,1070705661
+Brod,Brod,45.1333,17.9833,Bosnia and Herzegovina,BA,BIH,"Srpska, Republika",minor,16619.0,1070523557
+Lopare,Lopare,44.6361,18.8444,Bosnia and Herzegovina,BA,BIH,"Srpska, Republika",minor,15357.0,1070563075
+Stolac,Stolac,43.0825,17.9558,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,14889.0,1070102395
+Breza,Breza,44.0167,18.2611,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,14564.0,1070229008
+Donji Vakuf,Donji Vakuf,44.15,17.4,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,13985.0,1070953048
+Srebrenica,Srebrenica,44.1042,19.2972,Bosnia and Herzegovina,BA,BIH,"Srpska, Republika",minor,13409.0,1070120847
+Derventa,Derventa,44.9775,17.9075,Bosnia and Herzegovina,BA,BIH,"Srpska, Republika",minor,12680.0,1070137362
+Goražde,Gorazde,43.6667,18.9833,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,12512.0,1070619970
+Fojnica,Fojnica,43.9667,17.9,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,12356.0,1070762647
+Kladanj,Kladanj,44.2256,18.6925,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,12348.0,1070838044
+Foča,Foca,43.5064,18.7747,Bosnia and Herzegovina,BA,BIH,"Srpska, Republika",minor,12334.0,1070603568
+Sapna,Sapna,44.4917,19.0028,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,12136.0,1070454621
+Jajce,Jajce,44.3417,17.2694,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,12000.0,1070282607
+Vlasenica,Vlasenica,44.1833,18.9333,Bosnia and Herzegovina,BA,BIH,"Srpska, Republika",minor,11467.0,1070030908
+Milići,Milici,44.1661,19.075,Bosnia and Herzegovina,BA,BIH,"Srpska, Republika",minor,11441.0,1070895202
+Bileća,Bileca,42.8667,18.4333,Bosnia and Herzegovina,BA,BIH,"Srpska, Republika",minor,10807.0,1070591645
+Rogatica,Rogatica,43.7986,19.0036,Bosnia and Herzegovina,BA,BIH,"Srpska, Republika",minor,10723.0,1070557878
+Jablanica,Jablanica,43.65,17.75,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,10580.0,1070524039
+Čelić,Celic,44.7167,18.8167,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,10502.0,1070994771
+Bosanska Krupa,Bosanska Krupa,44.8833,16.15,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,10196.0,1070449050
+Olovo,Olovo,44.1275,18.58,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,10175.0,1070868071
+Vareš,Vares,44.1619,18.3269,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,9556.0,1070474354
+Livno,Livno,43.8253,17.0058,Bosnia and Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,9045.0,1070523528
+Gacko,Gacko,43.1667,18.5333,Bosnia and Herzegovina,BA,BIH,"Srpska, Republika",minor,8990.0,1070762752

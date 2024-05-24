@@ -1,0 +1,145 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Riyadh,Riyadh,24.6333,46.7167,Saudi Arabia,SA,SAU,Ar Riyāḑ,primary,7237000.0,1682999334
+Jeddah,Jeddah,21.5433,39.1728,Saudi Arabia,SA,SAU,Makkah al Mukarramah,,4697000.0,1682926944
+Mecca,Mecca,21.4225,39.8233,Saudi Arabia,SA,SAU,Makkah al Mukarramah,admin,2427924.0,1682169241
+Medina,Medina,24.47,39.61,Saudi Arabia,SA,SAU,Al Madīnah al Munawwarah,admin,1411599.0,1682345785
+Ad Dammām,Ad Dammam,26.4333,50.1,Saudi Arabia,SA,SAU,Ash Sharqīyah,admin,903312.0,1682452296
+Tabūk,Tabuk,28.3972,36.5789,Saudi Arabia,SA,SAU,Tabūk,admin,886036.0,1682590992
+Al Hufūf,Al Hufuf,25.3833,49.5833,Saudi Arabia,SA,SAU,Ash Sharqīyah,,660788.0,1682958157
+Al Qaţīf,Al Qatif,26.556,49.996,Saudi Arabia,SA,SAU,Ash Sharqīyah,,625092.0,1682001245
+Al Ḩillah,Al Hillah,23.4895,46.7564,Saudi Arabia,SA,SAU,Ar Riyāḑ,,594605.0,1682494753
+Aţ Ţā’if,At Ta'if,21.2751,40.4062,Saudi Arabia,SA,SAU,Makkah al Mukarramah,,579970.0,1682956102
+Al Jubayl,Al Jubayl,27.0,49.6544,Saudi Arabia,SA,SAU,Ash Sharqīyah,,474679.0,1682564079
+Buraydah,Buraydah,26.3333,43.9667,Saudi Arabia,SA,SAU,Al Qaşīm,admin,467410.0,1682470726
+Ḩafr al Bāţin,Hafr al Batin,28.4342,45.9636,Saudi Arabia,SA,SAU,Ash Sharqīyah,,387096.0,1682394909
+Yanbu,Yanbu,24.0883,38.0582,Saudi Arabia,SA,SAU,Al Madīnah al Munawwarah,,331916.0,1682000044
+Ḩā’il,Ha'il,27.5167,41.6833,Saudi Arabia,SA,SAU,Ḩā’il,admin,310897.0,1682249750
+Al Qunfudhah,Al Qunfudhah,19.1264,41.0789,Saudi Arabia,SA,SAU,Makkah al Mukarramah,,300516.0,1682434353
+Al Mubarraz,Al Mubarraz,25.3833,49.6,Saudi Arabia,SA,SAU,Ash Sharqīyah,,298562.0,1682484039
+Abhā,Abha,18.2169,42.5053,Saudi Arabia,SA,SAU,‘Asīr,admin,236157.0,1682759151
+Şabyā,Sabya,17.1489,42.6258,Saudi Arabia,SA,SAU,Jāzān,,228375.0,1682601560
+Al Khubar,Al Khubar,26.2833,50.2,Saudi Arabia,SA,SAU,Ash Sharqīyah,,219679.0,1682059414
+Sakākā,Sakaka,29.9697,40.2,Saudi Arabia,SA,SAU,Al Jawf,admin,204174.0,1682232132
+Qal‘at Bīshah,Qal`at Bishah,20.0,42.6,Saudi Arabia,SA,SAU,‘Asīr,,202096.0,1682202412
+‘Unayzah,`Unayzah,26.0906,43.9875,Saudi Arabia,SA,SAU,Al Qaşīm,,184600.0,1682546519
+Al Qurayyāt,Al Qurayyat,31.3167,37.3667,Saudi Arabia,SA,SAU,Al Jawf,minor,167080.0,1682805250
+Al Ḩawīyah,Al Hawiyah,21.4411,40.4975,Saudi Arabia,SA,SAU,Makkah al Mukarramah,,148151.0,1682803387
+Jāzān,Jazan,16.8892,42.5611,Saudi Arabia,SA,SAU,Jāzān,admin,127743.0,1682515652
+Az Zulfī,Az Zulfi,26.2833,44.8,Saudi Arabia,SA,SAU,Ar Riyāḑ,,125000.0,1682476550
+Ar Rass,Ar Rass,25.8667,43.5,Saudi Arabia,SA,SAU,Al Qaşīm,,121359.0,1682666279
+Ḩaraḑ,Harad,24.1456,49.0653,Saudi Arabia,SA,SAU,Ash Sharqīyah,,111214.0,1682802077
+Al Aḩad al Masāriḩah,Al Ahad al Masarihah,16.7097,42.955,Saudi Arabia,SA,SAU,Jāzān,,110710.0,1682620364
+Khamīs Mushayţ,Khamis Mushayt,18.3,42.7333,Saudi Arabia,SA,SAU,‘Asīr,,99213.0,1682497044
+Ţurayf,Turayf,31.6775,38.6531,Saudi Arabia,SA,SAU,Al Ḩudūd ash Shamālīyah,,91713.0,1682455207
+Sharūrah,Sharurah,17.4833,47.1167,Saudi Arabia,SA,SAU,Najrān,,85977.0,1682490742
+Sayhāt,Sayhat,26.475,50.0417,Saudi Arabia,SA,SAU,Ash Sharqīyah,,84818.0,1682602908
+Rafḩā,Rafha,29.6386,43.5014,Saudi Arabia,SA,SAU,Al Ḩudūd ash Shamālīyah,,84536.0,1682612877
+Ra’s al Khafjī,Ra's al Khafji,28.4211,48.4956,Saudi Arabia,SA,SAU,Ash Sharqīyah,,78691.0,1682230104
+Najrān,Najran,17.4917,44.1322,Saudi Arabia,SA,SAU,Najrān,admin,72038.0,1682069716
+Al Līth,Al Lith,20.15,40.2667,Saudi Arabia,SA,SAU,Makkah al Mukarramah,,72000.0,1682243537
+Ad Darb,Ad Darb,17.7167,42.25,Saudi Arabia,SA,SAU,Jāzān,,69134.0,1682370751
+Badr Ḩunayn,Badr Hunayn,23.78,38.7906,Saudi Arabia,SA,SAU,Al Madīnah al Munawwarah,,63468.0,1682157831
+Khulayş,Khulays,22.1539,39.3183,Saudi Arabia,SA,SAU,Makkah al Mukarramah,,63445.0,1682152302
+Ras Tanura,Ras Tanura,26.65,50.1667,Saudi Arabia,SA,SAU,Ash Sharqīyah,,62314.0,1682997537
+An Nimāş,An Nimas,19.12,42.13,Saudi Arabia,SA,SAU,‘Asīr,,53908.0,1682459035
+Al Majāridah,Al Majaridah,19.1167,41.9167,Saudi Arabia,SA,SAU,‘Asīr,,53629.0,1682638402
+Al Kharj,Al Kharj,24.1483,47.305,Saudi Arabia,SA,SAU,Ar Riyāḑ,,51954.0,1682947408
+Al Wajh,Al Wajh,26.2833,36.4167,Saudi Arabia,SA,SAU,Tabūk,minor,50000.0,1682508460
+Abqaiq,Abqaiq,25.935,49.6661,Saudi Arabia,SA,SAU,Ash Sharqīyah,,45032.0,1682412526
+Al Midhnab,Al Midhnab,25.8601,44.2223,Saudi Arabia,SA,SAU,Al Qaşīm,,44043.0,1682375082
+Ḑubā,Duba,27.3493,35.6962,Saudi Arabia,SA,SAU,Tabūk,,39543.0,1682927913
+Al ‘Aqīq,Al `Aqiq,20.2685,41.6493,Saudi Arabia,SA,SAU,Al Bāḩah,,35629.0,1682354121
+Ḑulay‘ Rashīd,Dulay` Rashid,25.5067,42.8614,Saudi Arabia,SA,SAU,Al Qaşīm,,35000.0,1682000063
+Shaqrā’,Shaqra',25.2402,45.251,Saudi Arabia,SA,SAU,Ar Riyāḑ,,35000.0,1682664913
+Al Mindak,Al Mindak,20.1833,41.2333,Saudi Arabia,SA,SAU,Al Bāḩah,,33319.0,1682913363
+Dhahran,Dhahran,26.2667,50.15,Saudi Arabia,SA,SAU,Ash Sharqīyah,,32067.0,1682374155
+Al ‘Aydābī,Al `Aydabi,17.237,42.939,Saudi Arabia,SA,SAU,Jāzān,,31735.0,1682495088
+Qārā,Qara,29.8833,40.2167,Saudi Arabia,SA,SAU,Al Jawf,,31480.0,1682446657
+Ash Shinān,Ash Shinan,27.1782,42.443,Saudi Arabia,SA,SAU,Ḩā’il,,30441.0,1682426795
+Ḩawţat Sudayr,Hawtat Sudayr,25.5951,45.6338,Saudi Arabia,SA,SAU,Ar Riyāḑ,,28954.0,1682119312
+Arar,Arar,30.9753,41.0231,Saudi Arabia,SA,SAU,Al Ḩudūd ash Shamālīyah,admin,27449.0,1682664517
+Ḩaql,Haql,29.2833,34.9333,Saudi Arabia,SA,SAU,Al Jawf,,25649.0,1682704031
+Al ‘Awwāmīyah,Al `Awwamiyah,26.5833,49.9833,Saudi Arabia,SA,SAU,Ash Sharqīyah,,25500.0,1682093940
+As Sulayyil,As Sulayyil,20.4597,45.5744,Saudi Arabia,SA,SAU,Ar Riyāḑ,,24097.0,1682960661
+Dawmat al Jandal,Dawmat al Jandal,29.8153,39.8664,Saudi Arabia,SA,SAU,Al Jawf,,22583.0,1682116359
+Al Bāḩah,Al Bahah,20.0125,41.4653,Saudi Arabia,SA,SAU,Al Bāḩah,admin,21983.0,1682121855
+Ad Dir‘īyah,Ad Dir`iyah,24.7333,46.5756,Saudi Arabia,SA,SAU,Ar Riyāḑ,,19143.0,1682421969
+Al Ghāţ,Al Ghat,26.0267,44.9608,Saudi Arabia,SA,SAU,Ar Riyāḑ,,16500.0,1682563733
+Al Awjām,Al Awjam,26.5583,49.9503,Saudi Arabia,SA,SAU,Ash Sharqīyah,,16147.0,1682207771
+Al Ḩā’ir,Al Ha'ir,25.79,45.38,Saudi Arabia,SA,SAU,Ar Riyāḑ,,13473.0,1682572501
+Ḩarmah,Harmah,25.9261,45.3336,Saudi Arabia,SA,SAU,Ar Riyāḑ,,13000.0,1682617431
+Al Majma‘ah,Al Majma`ah,25.9039,45.3456,Saudi Arabia,SA,SAU,Ar Riyāḑ,,12065.0,1682506946
+Ḑurumā,Duruma,24.6,46.1333,Saudi Arabia,SA,SAU,Ar Riyāḑ,,11461.0,1682041945
+Al Quway‘īyah,Al Quway`iyah,24.0464,45.2656,Saudi Arabia,SA,SAU,Ar Riyāḑ,,8712.0,1682154232
+Riyadh,Riyadh,24.6333,46.7167,Saudi Arabia,SA,SAU,Ar Riyāḑ,primary,7237000.0,1682999334
+Jeddah,Jeddah,21.5433,39.1728,Saudi Arabia,SA,SAU,Makkah al Mukarramah,,4697000.0,1682926944
+Mecca,Mecca,21.4225,39.8233,Saudi Arabia,SA,SAU,Makkah al Mukarramah,admin,2427924.0,1682169241
+Medina,Medina,24.47,39.61,Saudi Arabia,SA,SAU,Al Madīnah al Munawwarah,admin,1411599.0,1682345785
+Ad Dammām,Ad Dammam,26.4333,50.1,Saudi Arabia,SA,SAU,Ash Sharqīyah,admin,903312.0,1682452296
+Tabūk,Tabuk,28.3972,36.5789,Saudi Arabia,SA,SAU,Tabūk,admin,886036.0,1682590992
+Al Hufūf,Al Hufuf,25.3833,49.5833,Saudi Arabia,SA,SAU,Ash Sharqīyah,,660788.0,1682958157
+Al Qaţīf,Al Qatif,26.556,49.996,Saudi Arabia,SA,SAU,Ash Sharqīyah,,625092.0,1682001245
+Al Ḩillah,Al Hillah,23.4895,46.7564,Saudi Arabia,SA,SAU,Ar Riyāḑ,,594605.0,1682494753
+Aţ Ţā’if,At Ta'if,21.2751,40.4062,Saudi Arabia,SA,SAU,Makkah al Mukarramah,,579970.0,1682956102
+Al Jubayl,Al Jubayl,27.0,49.6544,Saudi Arabia,SA,SAU,Ash Sharqīyah,,474679.0,1682564079
+Buraydah,Buraydah,26.3333,43.9667,Saudi Arabia,SA,SAU,Al Qaşīm,admin,467410.0,1682470726
+Ḩafr al Bāţin,Hafr al Batin,28.4342,45.9636,Saudi Arabia,SA,SAU,Ash Sharqīyah,,387096.0,1682394909
+Yanbu,Yanbu,24.0883,38.0582,Saudi Arabia,SA,SAU,Al Madīnah al Munawwarah,,331916.0,1682000044
+Ḩā’il,Ha'il,27.5167,41.6833,Saudi Arabia,SA,SAU,Ḩā’il,admin,310897.0,1682249750
+Al Qunfudhah,Al Qunfudhah,19.1264,41.0789,Saudi Arabia,SA,SAU,Makkah al Mukarramah,,300516.0,1682434353
+Al Mubarraz,Al Mubarraz,25.3833,49.6,Saudi Arabia,SA,SAU,Ash Sharqīyah,,298562.0,1682484039
+Abhā,Abha,18.2169,42.5053,Saudi Arabia,SA,SAU,‘Asīr,admin,236157.0,1682759151
+Şabyā,Sabya,17.1489,42.6258,Saudi Arabia,SA,SAU,Jāzān,,228375.0,1682601560
+Al Khubar,Al Khubar,26.2833,50.2,Saudi Arabia,SA,SAU,Ash Sharqīyah,,219679.0,1682059414
+Sakākā,Sakaka,29.9697,40.2,Saudi Arabia,SA,SAU,Al Jawf,admin,204174.0,1682232132
+Qal‘at Bīshah,Qal`at Bishah,20.0,42.6,Saudi Arabia,SA,SAU,‘Asīr,,202096.0,1682202412
+‘Unayzah,`Unayzah,26.0906,43.9875,Saudi Arabia,SA,SAU,Al Qaşīm,,184600.0,1682546519
+Al Qurayyāt,Al Qurayyat,31.3167,37.3667,Saudi Arabia,SA,SAU,Al Jawf,minor,167080.0,1682805250
+Al Ḩawīyah,Al Hawiyah,21.4411,40.4975,Saudi Arabia,SA,SAU,Makkah al Mukarramah,,148151.0,1682803387
+Jāzān,Jazan,16.8892,42.5611,Saudi Arabia,SA,SAU,Jāzān,admin,127743.0,1682515652
+Az Zulfī,Az Zulfi,26.2833,44.8,Saudi Arabia,SA,SAU,Ar Riyāḑ,,125000.0,1682476550
+Ar Rass,Ar Rass,25.8667,43.5,Saudi Arabia,SA,SAU,Al Qaşīm,,121359.0,1682666279
+Ḩaraḑ,Harad,24.1456,49.0653,Saudi Arabia,SA,SAU,Ash Sharqīyah,,111214.0,1682802077
+Al Aḩad al Masāriḩah,Al Ahad al Masarihah,16.7097,42.955,Saudi Arabia,SA,SAU,Jāzān,,110710.0,1682620364
+Khamīs Mushayţ,Khamis Mushayt,18.3,42.7333,Saudi Arabia,SA,SAU,‘Asīr,,99213.0,1682497044
+Ţurayf,Turayf,31.6775,38.6531,Saudi Arabia,SA,SAU,Al Ḩudūd ash Shamālīyah,,91713.0,1682455207
+Sharūrah,Sharurah,17.4833,47.1167,Saudi Arabia,SA,SAU,Najrān,,85977.0,1682490742
+Sayhāt,Sayhat,26.475,50.0417,Saudi Arabia,SA,SAU,Ash Sharqīyah,,84818.0,1682602908
+Rafḩā,Rafha,29.6386,43.5014,Saudi Arabia,SA,SAU,Al Ḩudūd ash Shamālīyah,,84536.0,1682612877
+Ra’s al Khafjī,Ra's al Khafji,28.4211,48.4956,Saudi Arabia,SA,SAU,Ash Sharqīyah,,78691.0,1682230104
+Najrān,Najran,17.4917,44.1322,Saudi Arabia,SA,SAU,Najrān,admin,72038.0,1682069716
+Al Līth,Al Lith,20.15,40.2667,Saudi Arabia,SA,SAU,Makkah al Mukarramah,,72000.0,1682243537
+Ad Darb,Ad Darb,17.7167,42.25,Saudi Arabia,SA,SAU,Jāzān,,69134.0,1682370751
+Badr Ḩunayn,Badr Hunayn,23.78,38.7906,Saudi Arabia,SA,SAU,Al Madīnah al Munawwarah,,63468.0,1682157831
+Khulayş,Khulays,22.1539,39.3183,Saudi Arabia,SA,SAU,Makkah al Mukarramah,,63445.0,1682152302
+Ras Tanura,Ras Tanura,26.65,50.1667,Saudi Arabia,SA,SAU,Ash Sharqīyah,,62314.0,1682997537
+An Nimāş,An Nimas,19.12,42.13,Saudi Arabia,SA,SAU,‘Asīr,,53908.0,1682459035
+Al Majāridah,Al Majaridah,19.1167,41.9167,Saudi Arabia,SA,SAU,‘Asīr,,53629.0,1682638402
+Al Kharj,Al Kharj,24.1483,47.305,Saudi Arabia,SA,SAU,Ar Riyāḑ,,51954.0,1682947408
+Al Wajh,Al Wajh,26.2833,36.4167,Saudi Arabia,SA,SAU,Tabūk,minor,50000.0,1682508460
+Abqaiq,Abqaiq,25.935,49.6661,Saudi Arabia,SA,SAU,Ash Sharqīyah,,45032.0,1682412526
+Al Midhnab,Al Midhnab,25.8601,44.2223,Saudi Arabia,SA,SAU,Al Qaşīm,,44043.0,1682375082
+Ḑubā,Duba,27.3493,35.6962,Saudi Arabia,SA,SAU,Tabūk,,39543.0,1682927913
+Al ‘Aqīq,Al `Aqiq,20.2685,41.6493,Saudi Arabia,SA,SAU,Al Bāḩah,,35629.0,1682354121
+Ḑulay‘ Rashīd,Dulay` Rashid,25.5067,42.8614,Saudi Arabia,SA,SAU,Al Qaşīm,,35000.0,1682000063
+Shaqrā’,Shaqra',25.2402,45.251,Saudi Arabia,SA,SAU,Ar Riyāḑ,,35000.0,1682664913
+Al Mindak,Al Mindak,20.1833,41.2333,Saudi Arabia,SA,SAU,Al Bāḩah,,33319.0,1682913363
+Dhahran,Dhahran,26.2667,50.15,Saudi Arabia,SA,SAU,Ash Sharqīyah,,32067.0,1682374155
+Al ‘Aydābī,Al `Aydabi,17.237,42.939,Saudi Arabia,SA,SAU,Jāzān,,31735.0,1682495088
+Qārā,Qara,29.8833,40.2167,Saudi Arabia,SA,SAU,Al Jawf,,31480.0,1682446657
+Ash Shinān,Ash Shinan,27.1782,42.443,Saudi Arabia,SA,SAU,Ḩā’il,,30441.0,1682426795
+Ḩawţat Sudayr,Hawtat Sudayr,25.5951,45.6338,Saudi Arabia,SA,SAU,Ar Riyāḑ,,28954.0,1682119312
+Arar,Arar,30.9753,41.0231,Saudi Arabia,SA,SAU,Al Ḩudūd ash Shamālīyah,admin,27449.0,1682664517
+Ḩaql,Haql,29.2833,34.9333,Saudi Arabia,SA,SAU,Al Jawf,,25649.0,1682704031
+Al ‘Awwāmīyah,Al `Awwamiyah,26.5833,49.9833,Saudi Arabia,SA,SAU,Ash Sharqīyah,,25500.0,1682093940
+As Sulayyil,As Sulayyil,20.4597,45.5744,Saudi Arabia,SA,SAU,Ar Riyāḑ,,24097.0,1682960661
+Dawmat al Jandal,Dawmat al Jandal,29.8153,39.8664,Saudi Arabia,SA,SAU,Al Jawf,,22583.0,1682116359
+Al Bāḩah,Al Bahah,20.0125,41.4653,Saudi Arabia,SA,SAU,Al Bāḩah,admin,21983.0,1682121855
+Ad Dir‘īyah,Ad Dir`iyah,24.7333,46.5756,Saudi Arabia,SA,SAU,Ar Riyāḑ,,19143.0,1682421969
+Al Ghāţ,Al Ghat,26.0267,44.9608,Saudi Arabia,SA,SAU,Ar Riyāḑ,,16500.0,1682563733
+Al Awjām,Al Awjam,26.5583,49.9503,Saudi Arabia,SA,SAU,Ash Sharqīyah,,16147.0,1682207771
+Al Ḩā’ir,Al Ha'ir,25.79,45.38,Saudi Arabia,SA,SAU,Ar Riyāḑ,,13473.0,1682572501
+Ḩarmah,Harmah,25.9261,45.3336,Saudi Arabia,SA,SAU,Ar Riyāḑ,,13000.0,1682617431
+Al Majma‘ah,Al Majma`ah,25.9039,45.3456,Saudi Arabia,SA,SAU,Ar Riyāḑ,,12065.0,1682506946
+Ḑurumā,Duruma,24.6,46.1333,Saudi Arabia,SA,SAU,Ar Riyāḑ,,11461.0,1682041945
+Al Quway‘īyah,Al Quway`iyah,24.0464,45.2656,Saudi Arabia,SA,SAU,Ar Riyāḑ,,8712.0,1682154232

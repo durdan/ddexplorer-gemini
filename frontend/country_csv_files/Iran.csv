@@ -1,0 +1,983 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Tehran,Tehran,35.6892,51.3889,Iran,IR,IRN,Tehrān,primary,14148000.0,1364305026
+Mashhad,Mashhad,36.3264,59.5433,Iran,IR,IRN,Khorāsān-e Raẕavī,admin,3372090.0,1364123206
+Khowrhesht,Khowrhesht,36.205,49.6872,Iran,IR,IRN,Qazvīn,,2500000.0,1364002070
+Eşfahān,Esfahan,32.6447,51.6675,Iran,IR,IRN,Eşfahān,admin,2219343.0,1364023865
+Karaj,Karaj,35.8272,50.9489,Iran,IR,IRN,Alborz,admin,1973470.0,1364258511
+Shīrāz,Shiraz,29.61,52.5425,Iran,IR,IRN,Fārs,admin,1565572.0,1364432238
+Tabrīz,Tabriz,38.0814,46.3006,Iran,IR,IRN,Āz̄arbāyjān-e Sharqī,admin,1558693.0,1364141756
+Qom,Qom,34.64,50.8764,Iran,IR,IRN,Qom,admin,1201158.0,1364701633
+Ahvāz,Ahvaz,31.3047,48.6783,Iran,IR,IRN,Khūzestān,admin,1184788.0,1364350188
+Kermānshāh,Kermanshah,34.3325,47.0933,Iran,IR,IRN,Kermānshāh,admin,946651.0,1364535690
+Kermān,Kerman,30.2911,57.0678,Iran,IR,IRN,Kermān,admin,738374.0,1364554896
+Orūmīyeh,Orumiyeh,37.5439,45.0647,Iran,IR,IRN,Āz̄arbāyjān-e Gharbī,admin,736224.0,1364158221
+Pīshbar,Pishbar,33.3886,59.9789,Iran,IR,IRN,Khorāsān-e Jonūbī,,720207.0,1364328516
+Borvāyeh-ye Al Bū ‘Azīz,Borvayeh-ye Al Bu `Aziz,31.6283,48.6147,Iran,IR,IRN,Khūzestān,,690000.0,1364441069
+Rasht,Rasht,37.2744,49.5889,Iran,IR,IRN,Gīlān,admin,679995.0,1364630382
+Bahār,Bahar,34.9028,48.4425,Iran,IR,IRN,Hamadān,minor,673405.0,1364891653
+Zāhedān,Zahedan,29.5025,60.8558,Iran,IR,IRN,Sīstān va Balūchestān,admin,587730.0,1364072353
+Hamadān,Hamadan,34.8064,48.5161,Iran,IR,IRN,Hamadān,admin,554406.0,1364126377
+Yazd,Yazd,31.8822,54.3397,Iran,IR,IRN,Yazd,admin,529673.0,1364429875
+Ardabīl,Ardabil,38.2425,48.29,Iran,IR,IRN,Ardabīl,admin,529374.0,1364437616
+Bandar ‘Abbās,Bandar `Abbas,27.1961,56.2878,Iran,IR,IRN,Hormozgān,admin,526648.0,1364120623
+Arāk,Arak,34.0914,49.6933,Iran,IR,IRN,Markazī,admin,520944.0,1364624691
+Eslāmshahr,Eslamshahr,35.5317,51.2247,Iran,IR,IRN,Tehrān,minor,448129.0,1364870126
+Sanandaj,Sanandaj,35.3114,46.9961,Iran,IR,IRN,Kordestān,admin,412767.0,1364178783
+Qazvīn,Qazvin,36.2894,50.0086,Iran,IR,IRN,Qazvīn,admin,402748.0,1364073420
+Zanjān,Zanjan,36.6789,48.5056,Iran,IR,IRN,Zanjān,admin,386851.0,1364312712
+Khorramābād,Khorramabad,33.4875,48.3561,Iran,IR,IRN,Lorestān,admin,373416.0,1364548806
+Gorgān,Gorgan,36.8378,54.4414,Iran,IR,IRN,Golestān,admin,312223.0,1364802450
+Shahrīār,Shahriar,35.6722,51.0236,Iran,IR,IRN,Tehrān,minor,309607.0,1364482289
+Shahr-e Qods,Shahr-e Qods,35.7097,51.1119,Iran,IR,IRN,Tehrān,minor,309605.0,1364272235
+Kāshān,Kashan,33.9825,51.4325,Iran,IR,IRN,Eşfahān,minor,304487.0,1364006067
+Malārd,Malard,35.6806,50.9783,Iran,IR,IRN,Tehrān,minor,281027.0,1364376065
+Sartā,Sarta,36.4491,53.3234,Iran,IR,IRN,Māzandarān,,271467.0,1364143380
+Dezfūl,Dezful,32.3786,48.4144,Iran,IR,IRN,Khūzestān,minor,264709.0,1364663520
+Bābol,Babol,36.5475,52.6783,Iran,IR,IRN,Māzandarān,minor,250217.0,1364476070
+Bojnūrd,Bojnurd,37.4722,57.3289,Iran,IR,IRN,Khorāsān-e Shomālī,admin,250000.0,1364981174
+Qā’em Shahr,Qa'em Shahr,36.4636,52.8581,Iran,IR,IRN,Māzandarān,,247953.0,1364170406
+Khomeynī Shahr,Khomeyni Shahr,32.6803,51.5361,Iran,IR,IRN,Eşfahān,minor,247128.0,1364403465
+Sabzevār,Sabzevar,36.2125,57.6764,Iran,IR,IRN,Khorāsān-e Raẕavī,minor,243700.0,1364379130
+Āmol,Amol,36.4703,52.3467,Iran,IR,IRN,Māzandarān,minor,237528.0,1364107935
+Pākdasht,Pakdasht,35.485,51.6794,Iran,IR,IRN,Tehrān,minor,236319.0,1364370088
+Najafābād,Najafabad,32.6447,51.3603,Iran,IR,IRN,Eşfahān,minor,235281.0,1364053850
+Borūjerd,Borujerd,33.9111,48.7522,Iran,IR,IRN,Lorestān,minor,234997.0,1364855573
+Madan,Madan,30.3469,48.2825,Iran,IR,IRN,Khūzestān,,231476.0,1364708556
+Qarchak,Qarchak,35.4267,51.5842,Iran,IR,IRN,Tehrān,minor,231075.0,1364173799
+Varāmīn,Varamin,35.3508,51.6358,Iran,IR,IRN,Tehrān,minor,225628.0,1364275103
+Bandar-e Būshehr,Bandar-e Bushehr,28.9264,50.8514,Iran,IR,IRN,Būshehr,admin,223504.0,1364483819
+Neyshābūr,Neyshabur,36.22,58.82,Iran,IR,IRN,Khorāsān-e Raẕavī,minor,221700.0,1364706573
+Sāveh,Saveh,35.0278,50.3611,Iran,IR,IRN,Markazī,minor,220762.0,1364844111
+Bīrjand,Birjand,32.8744,59.2161,Iran,IR,IRN,Khorāsān-e Jonūbī,admin,203636.0,1364897698
+Nasīm Shahr,Nasim Shahr,35.5617,51.1617,Iran,IR,IRN,Tehrān,,200393.0,1364571196
+Khowy,Khowy,38.5464,44.9542,Iran,IR,IRN,Āz̄arbāyjān-e Gharbī,minor,198845.0,1364186788
+Būkān,Bukan,36.515,46.2075,Iran,IR,IRN,Āz̄arbāyjān-e Gharbī,minor,193501.0,1364530447
+Shahr-e Kord,Shahr-e Kord,32.3311,50.8594,Iran,IR,IRN,Chahār Maḩāl va Bakhtīārī,admin,190441.0,1364643377
+Semnān,Semnan,35.5811,53.3833,Iran,IR,IRN,Semnān,admin,185129.0,1364417512
+Fardīs,Fardis,35.73,50.9822,Iran,IR,IRN,Alborz,minor,181174.0,1364967800
+Marāgheh,Maragheh,37.3894,46.2378,Iran,IR,IRN,Āz̄arbāyjān-e Sharqī,minor,175255.0,1364532780
+Sīrjān,Sirjan,29.437,55.6802,Iran,IR,IRN,Kermān,minor,175000.0,1364204506
+Shāhīn Shahr,Shahin Shahr,32.8606,51.5531,Iran,IR,IRN,Eşfahān,minor,173329.0,1364921034
+Malāyer,Malayer,34.3,48.8178,Iran,IR,IRN,Hamadān,minor,170237.0,1364030346
+Mahābād,Mahabad,36.7678,45.7339,Iran,IR,IRN,Āz̄arbāyjān-e Gharbī,,168393.0,1364192213
+Saqqez,Saqqez,36.2411,46.2706,Iran,IR,IRN,Kordestān,minor,165258.0,1364098155
+Bandar-e Māhshahr,Bandar-e Mahshahr,30.5567,49.1897,Iran,IR,IRN,Khūzestān,minor,162797.0,1364956793
+Rafsanjān,Rafsanjan,30.4111,55.9911,Iran,IR,IRN,Kermān,minor,161909.0,1364354751
+Borāzjān,Borazjan,29.2694,51.22,Iran,IR,IRN,Būshehr,minor,155567.0,1364720199
+Gonbad-e Kāvūs,Gonbad-e Kavus,37.2433,55.1692,Iran,IR,IRN,Golestān,minor,151910.0,1364336980
+Shāhrūd,Shahrud,36.4133,54.9781,Iran,IR,IRN,Semnān,minor,150129.0,1364363854
+Marvdasht,Marvdasht,29.8786,52.8067,Iran,IR,IRN,Fārs,minor,148858.0,1364881808
+Qūchān,Quchan,37.106,58.5095,Iran,IR,IRN,Khorāsān-e Raẕavī,minor,145531.0,1364255116
+Jahrom,Jahrom,28.5031,53.5658,Iran,IR,IRN,Fārs,minor,141634.0,1364271412
+Kamālshahr,Kamalshahr,35.8658,50.8717,Iran,IR,IRN,Alborz,,141166.0,1364102350
+Torbat-e Ḩeydarīyeh,Torbat-e Heydariyeh,35.29,59.2169,Iran,IR,IRN,Khorāsān-e Raẕavī,minor,140019.0,1364398113
+Marīvān,Marivan,35.5217,46.1806,Iran,IR,IRN,Kordestān,minor,136654.0,1364680490
+Andīmeshk,Andimeshk,32.4714,48.3489,Iran,IR,IRN,Khūzestān,minor,135116.0,1364453657
+Shahreẕā,Shahreza,32.0122,51.8594,Iran,IR,IRN,Eşfahān,minor,134952.0,1364242660
+Zābol,Zabol,31.0339,61.4878,Iran,IR,IRN,Sīstān va Balūchestān,minor,134950.0,1364485195
+Khorramshahr,Khorramshahr,30.4394,48.1817,Iran,IR,IRN,Khūzestān,minor,133097.0,1364111149
+Marand,Marand,38.4331,45.7686,Iran,IR,IRN,Āz̄arbāyjān-e Sharqī,minor,130825.0,1364567639
+Jīroft,Jiroft,28.6797,57.7447,Iran,IR,IRN,Kermān,minor,130429.0,1364826721
+Salmās,Salmas,38.2028,44.7669,Iran,IR,IRN,Āz̄arbāyjān-e Gharbī,minor,127864.0,1364204147
+Bam,Bam,29.0994,58.3436,Iran,IR,IRN,Kermān,minor,127396.0,1364697653
+Behbahān,Behbahan,30.5942,50.2433,Iran,IR,IRN,Khūzestān,minor,122604.0,1364393434
+Dorūd,Dorud,33.4994,49.0531,Iran,IR,IRN,Lorestān,minor,121608.0,1364662084
+Naz̧arābād,Nazarabad,35.9583,50.605,Iran,IR,IRN,Alborz,minor,119512.0,1364796337
+Moḩammad Shahr,Mohammad Shahr,35.7483,50.9025,Iran,IR,IRN,Alborz,,119418.0,1364247384
+Bandar-e Anzalī,Bandar-e Anzali,37.4708,49.47,Iran,IR,IRN,Gīlān,minor,118564.0,1364759228
+Īrānshahr,Iranshahr,27.1978,60.6836,Iran,IR,IRN,Sīstān va Balūchestān,minor,113750.0,1364413748
+Fasā,Fasa,28.9483,53.6336,Iran,IR,IRN,Fārs,minor,110825.0,1364549592
+Bāneh,Baneh,35.9969,45.8853,Iran,IR,IRN,Kordestān,minor,110218.0,1364786972
+Yāsūj,Yasuj,30.6672,51.5797,Iran,IR,IRN,Kohgīlūyeh va Bowyer Aḩmad,admin,108505.0,1364652740
+Chābahār,Chabahar,25.2928,60.6497,Iran,IR,IRN,Sīstān va Balūchestān,minor,106739.0,1364525124
+Robāţ Karīm,Robat Karim,35.4825,51.0786,Iran,IR,IRN,Tehrān,minor,105393.0,1364282464
+Kāshmar,Kashmar,35.2431,58.4594,Iran,IR,IRN,Khorāsān-e Raẕavī,minor,102282.0,1364144807
+Shūshtar,Shushtar,32.045,48.8594,Iran,IR,IRN,Khūzestān,minor,101878.0,1364856875
+Ahar,Ahar,38.4797,47.0669,Iran,IR,IRN,Āz̄arbāyjān-e Sharqī,minor,100641.0,1364602437
+Masjed Soleymān,Masjed Soleyman,31.96,49.2881,Iran,IR,IRN,Khūzestān,minor,100497.0,1364152430
+Torbat-e Jām,Torbat-e Jam,35.2431,60.625,Iran,IR,IRN,Khorāsān-e Raẕavī,minor,100449.0,1364064948
+Abhar,Abhar,36.1511,49.2244,Iran,IR,IRN,Zanjān,minor,99285.0,1364688687
+Mīāneh,Mianeh,37.4239,47.7197,Iran,IR,IRN,Āz̄arbāyjān-e Sharqī,minor,98973.0,1364529047
+Do Gonbadān,Do Gonbadan,30.36,50.7839,Iran,IR,IRN,Kohgīlūyeh va Bowyer Aḩmad,minor,96728.0,1364102646
+Kāzerūn,Kazerun,29.6156,51.6567,Iran,IR,IRN,Fārs,minor,96683.0,1364311345
+Behshahr,Behshahr,36.6911,53.5539,Iran,IR,IRN,Māzandarān,minor,94702.0,1364001181
+Alvand,Alvand,36.1867,50.0639,Iran,IR,IRN,Qazvīn,minor,93836.0,1364589535
+Pīrānshahr,Piranshahr,36.6956,45.1456,Iran,IR,IRN,Āz̄arbāyjān-e Gharbī,minor,91515.0,1364699746
+Eslāmābād-e Gharb,Eslamabad-e Gharb,34.1103,46.5275,Iran,IR,IRN,Kermānshāh,minor,90559.0,1364997109
+Kūhdasht,Kuhdasht,33.5294,47.6092,Iran,IR,IRN,Lorestān,minor,89091.0,1364140008
+Khowrāsgān,Khowrasgan,32.6539,51.7553,Iran,IR,IRN,Eşfahān,,86063.0,1364514942
+Shīrvān,Shirvan,37.4006,57.9278,Iran,IR,IRN,Khorāsān-e Shomālī,minor,82689.0,1364402242
+Meybod,Meybod,32.2444,54.0186,Iran,IR,IRN,Yazd,minor,80712.0,1364977923
+Tākestān,Takestan,36.0672,49.6958,Iran,IR,IRN,Qazvīn,minor,80299.0,1364488107
+Langarūd,Langarud,37.1956,50.1517,Iran,IR,IRN,Gīlān,minor,79445.0,1364215543
+Būmahen,Bumahen,35.7314,51.8675,Iran,IR,IRN,Tehrān,,79034.0,1364656518
+Bahārestān,Baharestan,32.4867,51.7808,Iran,IR,IRN,Eşfahān,,79023.0,1364254559
+Alīgūdarz,Aligudarz,33.4025,49.6903,Iran,IR,IRN,Lorestān,minor,78690.0,1364252948
+Bandar Emām,Bandar Emam,30.5058,49.0742,Iran,IR,IRN,Khūzestān,,78353.0,1364872870
+Qorveh,Qorveh,35.1678,47.8008,Iran,IR,IRN,Kordestān,minor,78276.0,1364464987
+Shūsh,Shush,32.1947,48.2475,Iran,IR,IRN,Khūzestān,minor,77148.0,1364876336
+Nahāvand,Nahavand,34.1928,48.3731,Iran,IR,IRN,Hamadān,minor,76162.0,1364090972
+Bonāb,Bonab,37.3428,46.0617,Iran,IR,IRN,Āz̄arbāyjān-e Sharqī,minor,75332.0,1364781552
+Ardakān,Ardakan,32.3061,54.0081,Iran,IR,IRN,Yazd,minor,75271.0,1364447507
+Rāmhormoz,Ramhormoz,31.2753,49.6044,Iran,IR,IRN,Khūzestān,minor,74285.0,1364637975
+Meshgīn Shahr,Meshgin Shahr,38.3972,47.6739,Iran,IR,IRN,Ardabīl,minor,74109.0,1364069293
+Bandar-e Genāveh,Bandar-e Genaveh,29.5839,50.5189,Iran,IR,IRN,Būshehr,minor,73472.0,1364268734
+Naqadeh,Naqadeh,36.9547,45.3881,Iran,IR,IRN,Āz̄arbāyjān-e Gharbī,minor,72975.0,1364695268
+Khomeyn,Khomeyn,33.6422,50.0789,Iran,IR,IRN,Markazī,minor,72882.0,1364717218
+Omīdīyeh,Omidiyeh,30.7583,49.705,Iran,IR,IRN,Khūzestān,minor,67427.0,1364604697
+Ārān Bīdgol,Aran Bidgol,34.0589,51.4817,Iran,IR,IRN,Eşfahān,minor,65404.0,1364946839
+Bāqershahr,Baqershahr,35.5322,51.4036,Iran,IR,IRN,Tehrān,,65388.0,1364526843
+Zarand,Zarand,30.8108,56.5658,Iran,IR,IRN,Kermān,minor,63744.0,1364870175
+Māhdāsht,Mahdasht,35.7194,50.7978,Iran,IR,IRN,Tehrān,,62910.0,1364057697
+Mobārakeh,Mobarakeh,32.3494,51.5,Iran,IR,IRN,Eşfahān,minor,62454.0,1364110841
+Meshkīn Dasht,Meshkin Dasht,35.7469,50.9361,Iran,IR,IRN,Tehrān,,62005.0,1364951738
+Nekā,Neka,36.65,53.2972,Iran,IR,IRN,Māzandarān,minor,60991.0,1364860857
+Kangān,Kangan,27.8389,52.0619,Iran,IR,IRN,Būshehr,minor,60187.0,1364748225
+Ābyek,Abyek,36.0411,50.5306,Iran,IR,IRN,Qazvīn,minor,60107.0,1364192974
+Sarāvān,Saravan,27.3708,62.3325,Iran,IR,IRN,Sīstān va Balūchestān,minor,60014.0,1364931043
+Bābolsar,Babolsar,36.7006,52.65,Iran,IR,IRN,Māzandarān,minor,59966.0,1364000970
+Esfarāyen,Esfarayen,37.0703,57.5089,Iran,IR,IRN,Khorāsān-e Shomālī,minor,59490.0,1364743408
+Dāmghān,Damghan,36.1656,54.3419,Iran,IR,IRN,Semnān,minor,59106.0,1364099760
+Borūjen,Borujen,31.9678,51.2894,Iran,IR,IRN,Chahār Maḩāl va Bakhtīārī,minor,57071.0,1364420894
+Dehdasht,Dehdasht,30.7953,50.5653,Iran,IR,IRN,Kohgīlūyeh va Bowyer Aḩmad,minor,57036.0,1364380325
+Khāsh,Khash,28.22,61.2114,Iran,IR,IRN,Sīstān va Balūchestān,minor,56584.0,1364052913
+Tāybād,Taybad,34.7408,60.7792,Iran,IR,IRN,Khorāsān-e Raẕavī,minor,56562.0,1364220425
+Kūt-e ‘Abdollāh,Kut-e `Abdollah,31.2447,48.6594,Iran,IR,IRN,Khūzestān,minor,56252.0,1364936018
+Zarrīn Shahr,Zarrin Shahr,32.3889,51.3733,Iran,IR,IRN,Eşfahān,minor,55817.0,1364248651
+Asadābād,Asadabad,34.7825,48.1219,Iran,IR,IRN,Hamadān,minor,55703.0,1364818060
+Hashtgerd,Hashtgerd,35.9619,50.6889,Iran,IR,IRN,Alborz,minor,55640.0,1364175828
+Tonekābon,Tonekabon,36.8153,50.8711,Iran,IR,IRN,Māzandarān,minor,55434.0,1364647913
+Khorramdarreh,Khorramdarreh,36.2072,49.1992,Iran,IR,IRN,Zanjān,minor,55368.0,1364890040
+Eqbālīyeh,Eqbaliyeh,36.2306,49.9225,Iran,IR,IRN,Qazvīn,,55066.0,1364700294
+Javānrūd,Javanrud,34.8078,46.4939,Iran,IR,IRN,Kermānshāh,minor,54354.0,1364422541
+Hashtpar,Hashtpar,37.7933,48.9044,Iran,IR,IRN,Gīlān,minor,54178.0,1364496739
+Şabbāshahr,Sabbashahr,35.5817,51.1119,Iran,IR,IRN,Tehrān,,53971.0,1364361684
+Bandar-e Torkaman,Bandar-e Torkaman,36.9014,54.0736,Iran,IR,IRN,Golestān,minor,53970.0,1364842482
+Bījār,Bijar,35.8729,47.5993,Iran,IR,IRN,Kordestān,minor,53871.0,1364131066
+‘Alīābād-e Katūl,`Aliabad-e Katul,36.9075,54.8667,Iran,IR,IRN,Golestān,minor,52838.0,1364000152
+Kahnūj,Kahnuj,27.9406,57.6992,Iran,IR,IRN,Kermān,minor,52624.0,1364808068
+Shahr-e Bābak,Shahr-e Babak,30.1233,55.1172,Iran,IR,IRN,Kermān,minor,51620.0,1364844587
+Sūsangerd,Susangerd,31.5569,48.1894,Iran,IR,IRN,Khūzestān,minor,51431.0,1364486333
+Tūyserkān,Tuyserkan,34.5494,48.4456,Iran,IR,IRN,Hamadān,minor,50455.0,1364054847
+Chahār Dangeh,Chahar Dangeh,35.5958,51.3083,Iran,IR,IRN,Tehrān,,49950.0,1364382390
+Neyrīz,Neyriz,29.1928,54.3197,Iran,IR,IRN,Fārs,minor,49850.0,1364086742
+Nowshahr,Nowshahr,36.6475,51.4931,Iran,IR,IRN,Māzandarān,minor,49403.0,1364005247
+Garmsār,Garmsar,35.2206,52.3389,Iran,IR,IRN,Semnān,minor,48672.0,1364421762
+Damāvand,Damavand,35.6928,52.0467,Iran,IR,IRN,Tehrān,minor,48380.0,1364517775
+Golpāyegān,Golpayegan,33.4508,50.2817,Iran,IR,IRN,Eşfahān,minor,47849.0,1364867790
+Aznā,Azna,33.4597,49.4547,Iran,IR,IRN,Lorestān,minor,47489.0,1364854218
+Şowme‘eh Sarā,Sowme`eh Sara,37.3,49.3142,Iran,IR,IRN,Gīlān,minor,47083.0,1364571093
+Sardasht,Sardasht,36.1553,45.48,Iran,IR,IRN,Āz̄arbāyjān-e Gharbī,minor,46412.0,1364996546
+Bāfq,Bafq,31.6033,55.4003,Iran,IR,IRN,Yazd,minor,45453.0,1364201689
+Āstāneh-ye Ashrafīyeh,Astaneh-ye Ashrafiyeh,37.2658,49.9431,Iran,IR,IRN,Gīlān,minor,44941.0,1364719159
+Āz̄arshahr,Azarshahr,37.7628,45.9758,Iran,IR,IRN,Āz̄arbāyjān-e Sharqī,minor,44887.0,1364106517
+Eqlīd,Eqlid,30.8928,52.6889,Iran,IR,IRN,Fārs,minor,44341.0,1364072821
+Sonqor,Sonqor,34.7828,47.5983,Iran,IR,IRN,Kermānshāh,minor,44256.0,1364821189
+Harsīn,Harsin,34.2728,47.5875,Iran,IR,IRN,Kermānshāh,minor,44146.0,1364489959
+Āzādshahr,Azadshahr,37.0869,55.1742,Iran,IR,IRN,Golestān,minor,43760.0,1364038403
+Takāb,Takab,36.4008,47.1108,Iran,IR,IRN,Āz̄arbāyjān-e Gharbī,minor,43702.0,1364000025
+Konārak,Konarak,25.3589,60.3992,Iran,IR,IRN,Sīstān va Balūchestān,minor,43258.0,1364254379
+Maḩallāt,Mahallat,33.9056,50.4572,Iran,IR,IRN,Markazī,minor,43245.0,1364764045
+Darcheh,Darcheh,32.6131,51.5531,Iran,IR,IRN,Eşfahān,,43183.0,1364123646
+Qā’en,Qa'en,33.7333,59.1811,Iran,IR,IRN,Khorāsān-e Jonūbī,minor,42323.0,1364089791
+Sarakhs,Sarakhs,36.5425,61.1589,Iran,IR,IRN,Khorāsān-e Raẕavī,minor,42179.0,1364504156
+Sarāb,Sarab,37.9414,47.5367,Iran,IR,IRN,Āz̄arbāyjān-e Sharqī,minor,42057.0,1364335741
+Shādegān,Shadegan,30.6492,48.6653,Iran,IR,IRN,Khūzestān,minor,41733.0,1364528377
+Dowlatābād,Dowlatabad,32.8003,51.6958,Iran,IR,IRN,Eşfahān,minor,40945.0,1364977743
+Delījān,Delijan,33.9903,50.6836,Iran,IR,IRN,Markazī,minor,40902.0,1364920781
+Gonābād,Gonabad,34.3575,58.6783,Iran,IR,IRN,Khorāsān-e Raẕavī,minor,40773.0,1364339411
+Khowrmūj,Khowrmuj,28.6567,51.3808,Iran,IR,IRN,Būshehr,minor,40722.0,1364920877
+Qeshm,Qeshm,26.9494,56.2681,Iran,IR,IRN,Hormozgān,minor,40678.0,1364691339
+Lordegān,Lordegan,31.5081,50.8319,Iran,IR,IRN,Chahār Maḩāl va Bakhtīārī,minor,40528.0,1364124062
+Kīsh,Kish,26.5553,53.985,Iran,IR,IRN,Hormozgān,,39853.0,1364815176
+Oshnavīyeh,Oshnaviyeh,37.0375,45.0981,Iran,IR,IRN,Āz̄arbāyjān-e Gharbī,minor,39801.0,1364910470
+Ţabas,Tabas,33.5961,56.9281,Iran,IR,IRN,Khorāsān-e Jonūbī,minor,39676.0,1364599694
+Farīmān,Fariman,35.7044,59.8486,Iran,IR,IRN,Khorāsān-e Raẕavī,minor,39515.0,1364504660
+Khalkhāl,Khalkhal,37.6272,48.53,Iran,IR,IRN,Ardabīl,minor,38521.0,1364932128
+Fereydūn Kenār,Fereydun Kenar,36.685,52.5208,Iran,IR,IRN,Māzandarān,minor,38154.0,1364024073
+Rūdsar,Rudsar,37.1406,50.2942,Iran,IR,IRN,Gīlān,minor,37998.0,1364240467
+Falāvarjān,Falavarjan,32.5558,51.5106,Iran,IR,IRN,Eşfahān,minor,37704.0,1364269609
+Kahrīzak,Kahrizak,35.5169,51.3603,Iran,IR,IRN,Tehrān,,37527.0,1364597116
+Dargaz,Dargaz,37.4456,59.1078,Iran,IR,IRN,Khorāsān-e Raẕavī,minor,36762.0,1364647948
+Estahbān,Estahban,29.1269,54.0394,Iran,IR,IRN,Fārs,minor,36410.0,1364912385
+Kalāleh,Kalaleh,37.3789,55.4889,Iran,IR,IRN,Golestān,minor,36176.0,1364463106
+Rāmsar,Ramsar,36.9225,50.6431,Iran,IR,IRN,Māzandarān,minor,35997.0,1364587162
+Şaḩneh,Sahneh,34.4811,47.68,Iran,IR,IRN,Kermānshāh,minor,35508.0,1364060244
+Khodābandeh,Khodabandeh,36.1194,48.5917,Iran,IR,IRN,Zanjān,,34921.0,1364020796
+Sarpol-e Z̄ahāb,Sarpol-e Zahab,34.4589,45.8614,Iran,IR,IRN,Kermānshāh,minor,34632.0,1364372222
+Bāft,Baft,29.235,56.5989,Iran,IR,IRN,Kermān,minor,34517.0,1364013464
+Gerāsh,Gerash,27.6667,54.1411,Iran,IR,IRN,Fārs,minor,34469.0,1364856957
+Nāz̧erābād,Nazerabad,31.5775,54.4369,Iran,IR,IRN,Yazd,,34237.0,1364306000
+Shāhīn Dezh,Shahin Dezh,36.6806,46.5681,Iran,IR,IRN,Āz̄arbāyjān-e Gharbī,minor,34204.0,1364208028
+Dīvāndarreh,Divandarreh,35.9158,47.0228,Iran,IR,IRN,Kordestān,minor,34007.0,1364126275
+‘Ajab Shīr,`Ajab Shir,37.4833,45.8911,Iran,IR,IRN,Āz̄arbāyjān-e Sharqī,minor,33606.0,1364433724
+Aleshtar,Aleshtar,33.8653,48.2622,Iran,IR,IRN,Lorestān,minor,33558.0,1364420866
+Khvāf,Khvaf,34.5711,60.1439,Iran,IR,IRN,Khorāsān-e Raẕavī,minor,33189.0,1364404057
+Dehlorān,Dehloran,32.6892,47.2689,Iran,IR,IRN,Īlām,minor,32941.0,1364480030
+Zarqān,Zarqan,29.7683,52.7186,Iran,IR,IRN,Fārs,,32261.0,1364934865
+Farrokh Shahr,Farrokh Shahr,32.2714,50.9775,Iran,IR,IRN,Chahār Maḩāl va Bakhtīārī,,31739.0,1364423135
+Kavār,Kavar,29.2017,52.6917,Iran,IR,IRN,Fārs,minor,31711.0,1364873386
+Jam,Jam,27.8236,52.3303,Iran,IR,IRN,Būshehr,minor,31436.0,1364586053
+Eyvān,Eyvan,33.8278,46.3061,Iran,IR,IRN,Īlām,minor,31299.0,1364070633
+Fārsān,Farsan,32.2553,50.5711,Iran,IR,IRN,Chahār Maḩāl va Bakhtīārī,minor,30504.0,1364887348
+Bandar-e Lengeh,Bandar-e Lengeh,26.5594,54.885,Iran,IR,IRN,Hormozgān,minor,30435.0,1364154507
+Mīnūdasht,Minudasht,37.2306,55.3736,Iran,IR,IRN,Golestān,minor,30085.0,1364374243
+Qahderījān,Qahderijan,32.5772,51.4539,Iran,IR,IRN,Eşfahān,,30002.0,1364015114
+Eshtehārd,Eshtehard,35.7247,50.3717,Iran,IR,IRN,Alborz,minor,29993.0,1364749382
+Bāzeh Kalāgh,Bazeh Kalagh,36.5325,59.3636,Iran,IR,IRN,Khorāsān-e Raẕavī,,29751.0,1364000965
+Chahchaheh,Chahchaheh,36.5325,59.3636,Iran,IR,IRN,Khorāsān-e Raẕavī,,29751.0,1364288291
+Bozmargī,Bozmargi,36.5325,59.3636,Iran,IR,IRN,Khorāsān-e Raẕavī,,29751.0,1364142429
+Kalāteh-ye Mīr Āb,Kalateh-ye Mir Ab,36.5325,59.3636,Iran,IR,IRN,Khorāsān-e Raẕavī,,29751.0,1364575634
+Sardrūd,Sardrud,38.0286,46.1475,Iran,IR,IRN,Āz̄arbāyjān-e Sharqī,,29739.0,1364669564
+Karahrūd,Karahrud,34.0628,49.6461,Iran,IR,IRN,Markazī,,29721.0,1364671095
+Lāmerd,Lamerd,27.3336,53.1886,Iran,IR,IRN,Fārs,minor,29380.0,1364138178
+Hendījān,Hendijan,30.2383,49.7075,Iran,IR,IRN,Khūzestān,minor,29015.0,1364511493
+Germī,Germi,39.0297,48.0803,Iran,IR,IRN,Ardabīl,minor,28967.0,1364702813
+Ferdows,Ferdows,34.0192,58.1731,Iran,IR,IRN,Khorāsān-e Jonūbī,minor,28695.0,1364726731
+Rūdehen,Rudehen,35.7333,51.9192,Iran,IR,IRN,Tehrān,,28533.0,1364001385
+Bardaskan,Bardaskan,35.2625,57.9703,Iran,IR,IRN,Khorāsān-e Raẕavī,minor,28233.0,1364509063
+Fūman,Fuman,37.2242,49.3125,Iran,IR,IRN,Gīlān,minor,27763.0,1364180869
+Abarkūh,Abarkuh,31.1267,53.2592,Iran,IR,IRN,Yazd,minor,27524.0,1364624357
+Malekān,Malekan,37.15,46.1042,Iran,IR,IRN,Āz̄arbāyjān-e Sharqī,minor,27431.0,1364475423
+Şafāshahr,Safashahr,30.6133,53.1928,Iran,IR,IRN,Fārs,minor,26933.0,1364976274
+Qā’emīyeh,Qa'emiyeh,29.8525,51.5842,Iran,IR,IRN,Fārs,,26918.0,1364710224
+Qarah Ẕīā’ od Dīn,Qarah Zia' od Din,38.89,45.0283,Iran,IR,IRN,Āz̄arbāyjān-e Gharbī,minor,26767.0,1364834159
+Poldokhtar,Poldokhtar,33.1489,47.7164,Iran,IR,IRN,Lorestān,minor,26352.0,1364688613
+Bāgh-e Malek,Bagh-e Malek,31.5247,49.8869,Iran,IR,IRN,Khūzestān,minor,26343.0,1364455619
+Semīrom,Semirom,31.4094,51.5736,Iran,IR,IRN,Eşfahān,minor,26260.0,1364089259
+Dehgolān,Dehgolan,35.2778,47.4175,Iran,IR,IRN,Kordestān,minor,25992.0,1364387900
+Pāveh,Paveh,35.0433,46.355,Iran,IR,IRN,Kermānshāh,minor,25771.0,1364382725
+Bandar-e Deylam,Bandar-e Deylam,30.0542,50.1639,Iran,IR,IRN,Būshehr,minor,25730.0,1364497361
+Shāhedshahr,Shahedshahr,35.5731,51.0869,Iran,IR,IRN,Tehrān,,25544.0,1364463020
+Showţ,Showt,39.2197,44.7722,Iran,IR,IRN,Āz̄arbāyjān-e Gharbī,minor,25381.0,1364959512
+Bardsīr,Bardsir,29.9275,56.5764,Iran,IR,IRN,Kermān,minor,25152.0,1364465140
+Āshkhāneh,Ashkhaneh,37.5578,56.9258,Iran,IR,IRN,Khorāsān-e Shomālī,minor,25104.0,1364197462
+Rāmshīr,Ramshir,30.8936,49.4086,Iran,IR,IRN,Khūzestān,minor,25009.0,1364250700
+Ravānsar,Ravansar,34.7125,46.6511,Iran,IR,IRN,Kermānshāh,minor,24527.0,1364582269
+Mahdīshahr,Mahdishahr,35.7144,53.3569,Iran,IR,IRN,Semnān,minor,24485.0,1364801554
+Gaz,Gaz,32.8061,51.6206,Iran,IR,IRN,Eşfahān,,24433.0,1364058076
+Gotvand,Gotvand,32.2433,48.8136,Iran,IR,IRN,Khūzestān,minor,24216.0,1364528412
+Deyr,Deyr,27.8417,51.9394,Iran,IR,IRN,Būshehr,minor,24083.0,1364059934
+Gālīkesh,Galikesh,37.2728,55.4328,Iran,IR,IRN,Golestān,minor,23394.0,1364497413
+Sheybān,Sheyban,31.4061,48.7944,Iran,IR,IRN,Khūzestān,,23211.0,1364776996
+Kelīshād va Sūdarjān,Kelishad va Sudarjan,32.5489,51.5286,Iran,IR,IRN,Eşfahān,,23203.0,1364528827
+‘Ālī Shahr,`Ali Shahr,28.9306,51.0689,Iran,IR,IRN,Būshehr,,23178.0,1364067141
+Baravāt,Baravat,29.0656,58.4039,Iran,IR,IRN,Kermān,,22761.0,1364538524
+Rāvar,Ravar,31.2633,56.8072,Iran,IR,IRN,Kermān,minor,22729.0,1364603087
+Garmdarreh,Garmdarreh,35.7478,51.0678,Iran,IR,IRN,Alborz,,22726.0,1364748189
+Goldasht,Goldasht,32.6269,51.4386,Iran,IR,IRN,Eşfahān,,22693.0,1364824865
+Gīlān-e Gharb,Gilan-e Gharb,34.1406,45.9183,Iran,IR,IRN,Kermānshāh,minor,22331.0,1364195329
+Shabestar,Shabestar,38.18,45.7039,Iran,IR,IRN,Āz̄arbāyjān-e Sharqī,minor,22181.0,1364001665
+Ḩamīdīyeh,Hamidiyeh,31.4811,48.435,Iran,IR,IRN,Khūzestān,minor,22057.0,1364148663
+Khosrowshahr,Khosrowshahr,37.9497,46.0508,Iran,IR,IRN,Āz̄arbāyjān-e Sharqī,,21972.0,1364295244
+Darreh Shahr,Darreh Shahr,33.1431,47.3794,Iran,IR,IRN,Īlām,minor,21900.0,1364154593
+Ma’mūnīyeh,Ma'muniyeh,35.305,50.4975,Iran,IR,IRN,Markazī,,21814.0,1364067553
+Hafshejān,Hafshejan,32.2269,50.7931,Iran,IR,IRN,Chahār Maḩāl va Bakhtīārī,,21352.0,1364919018
+Galūgāh,Galugah,36.7269,53.8089,Iran,IR,IRN,Māzandarān,minor,21352.0,1364928073
+Shāzand,Shazand,33.9292,49.4103,Iran,IR,IRN,Markazī,minor,21181.0,1364700789
+Ţorqabeh,Torqabeh,36.3142,59.3725,Iran,IR,IRN,Khorāsān-e Raẕavī,minor,20998.0,1364331013
+Bandar-e Gaz,Bandar-e Gaz,36.7739,53.9481,Iran,IR,IRN,Golestān,minor,20742.0,1364226344
+Moḩammadābād,Mohammadabad,28.6517,59.0158,Iran,IR,IRN,Kermān,minor,20720.0,1364372718
+Hashtrūd,Hashtrud,37.4714,47.0583,Iran,IR,IRN,Āz̄arbāyjān-e Sharqī,minor,20572.0,1364790184
+Khvānsār,Khvansar,33.2208,50.3153,Iran,IR,IRN,Eşfahān,minor,20490.0,1364250256
+Farāshband,Farashband,28.8564,52.0964,Iran,IR,IRN,Fārs,minor,20320.0,1364248167
+Khowrzūq,Khowrzuq,32.7783,51.6478,Iran,IR,IRN,Eşfahān,,20301.0,1364753903
+Evaz,Evaz,27.76,54.0067,Iran,IR,IRN,Fārs,,19987.0,1364440193
+Sīāhkal,Siahkal,37.1506,49.8714,Iran,IR,IRN,Gīlān,minor,19924.0,1364607008
+Līkak,Likak,30.8928,50.0928,Iran,IR,IRN,Kohgīlūyeh va Bowyer Aḩmad,minor,19857.0,1364865107
+Maḩmūdābād Nemūneh,Mahmudabad Nemuneh,36.2903,49.8994,Iran,IR,IRN,Qazvīn,,19669.0,1364599190
+Jājarm,Jajarm,36.9519,56.3758,Iran,IR,IRN,Khorāsān-e Shomālī,minor,19580.0,1364569834
+Hoveyzeh,Hoveyzeh,31.4606,48.0781,Iran,IR,IRN,Khūzestān,minor,19481.0,1364073949
+Abrīsham,Abrisham,32.5675,51.5733,Iran,IR,IRN,Eşfahān,,19406.0,1364088280
+Mahājerān-e Kamar,Mahajeran-e Kamar,34.0486,49.4311,Iran,IR,IRN,Markazī,,19346.0,1364396330
+Khonj,Khonj,27.8897,53.4308,Iran,IR,IRN,Fārs,minor,19217.0,1364328098
+Kabūdarāhang,Kabudarahang,35.2094,48.7236,Iran,IR,IRN,Hamadān,minor,19216.0,1364143684
+Bandar-e Kong,Bandar-e Kong,26.5947,54.9381,Iran,IR,IRN,Hormozgān,,19213.0,1364767646
+Gomīshān,Gomishan,37.07,54.0769,Iran,IR,IRN,Golestān,minor,19191.0,1364412693
+Ashkezar,Ashkezar,32.0006,54.2075,Iran,IR,IRN,Yazd,minor,19123.0,1364544757
+Āb Pakhsh,Ab Pakhsh,29.3606,51.0683,Iran,IR,IRN,Būshehr,,18913.0,1364462555
+Nakhl-e Taqī,Nakhl-e Taqi,27.5014,52.5858,Iran,IR,IRN,Būshehr,,18837.0,1364288724
+Choghādak,Choghadak,28.9864,51.0375,Iran,IR,IRN,Būshehr,,18702.0,1364637540
+Kherāmeh,Kherameh,29.4992,53.3131,Iran,IR,IRN,Fārs,minor,18477.0,1364200979
+Qaşr-e Shīrīn,Qasr-e Shirin,34.5158,45.5772,Iran,IR,IRN,Kermānshāh,minor,18473.0,1364110689
+Taft,Taft,31.7492,54.2103,Iran,IR,IRN,Yazd,minor,18464.0,1364828948
+Oskū,Osku,37.9147,46.1217,Iran,IR,IRN,Āz̄arbāyjān-e Sharqī,minor,18459.0,1364247640
+Nīār,Niar,38.2369,48.3272,Iran,IR,IRN,Ardabīl,,18405.0,1364163489
+Gerd Farāmarz Shāhedīyeh,Gerd Faramarz Shahediyeh,31.9417,54.2677,Iran,IR,IRN,Yazd,,18309.0,1364448828
+Abrandābād-e Shāhedīyeh,Abrandabad-e Shahediyeh,31.9408,54.2736,Iran,IR,IRN,Yazd,,18309.0,1364301778
+Nehbandān,Nehbandan,31.5436,60.0372,Iran,IR,IRN,Khorāsān-e Jonūbī,minor,18304.0,1364475715
+Sarvestān,Sarvestan,29.2739,53.2203,Iran,IR,IRN,Fārs,minor,18187.0,1364001043
+‘Anbarābād,`Anbarabad,28.4794,57.8414,Iran,IR,IRN,Kermān,minor,18185.0,1364601735
+Lavāsān,Lavasan,35.8183,51.6383,Iran,IR,IRN,Tehrān,,18146.0,1364266184
+Feyẕābād,Feyzabad,35.0183,58.7839,Iran,IR,IRN,Khorāsān-e Raẕavī,minor,18120.0,1364181999
+Bīdestān,Bidestan,36.2308,50.1236,Iran,IR,IRN,Qazvīn,,18060.0,1364097069
+Dīzīcheh,Dizicheh,32.3869,51.5122,Iran,IR,IRN,Eşfahān,,17966.0,1364315138
+Seyah Cheshmeh,Seyah Cheshmeh,39.0631,44.3836,Iran,IR,IRN,Āz̄arbāyjān-e Gharbī,minor,17804.0,1364268650
+Nīkshahr,Nikshahr,26.2253,60.2167,Iran,IR,IRN,Sīstān va Balūchestān,minor,17732.0,1364780885
+Arsanjān,Arsanjan,29.9142,53.3058,Iran,IR,IRN,Fārs,minor,17642.0,1364977336
+Mehrān,Mehran,33.1208,46.1642,Iran,IR,IRN,Īlām,minor,17435.0,1364360817
+Sedeh Lanjān,Sedeh Lanjan,32.3786,51.3178,Iran,IR,IRN,Eşfahān,,17335.0,1364171855
+Sa‘ādat Shahr,Sa`adat Shahr,30.0772,53.1328,Iran,IR,IRN,Fārs,minor,17131.0,1364794226
+Dehāqān,Dehaqan,31.9386,51.6475,Iran,IR,IRN,Eşfahān,minor,16899.0,1364614039
+Jāsk,Jask,25.6531,57.7817,Iran,IR,IRN,Hormozgān,minor,16860.0,1364208450
+Īlkhchī,Ilkhchi,37.9373,45.979,Iran,IR,IRN,Āz̄arbāyjān-e Sharqī,,16574.0,1364345674
+Īlkhechī,Ilkhechi,37.9378,45.9803,Iran,IR,IRN,Āz̄arbāyjān-e Sharqī,,16574.0,1364079327
+Tafresh,Tafresh,34.6939,50.0156,Iran,IR,IRN,Markazī,minor,16493.0,1364000242
+Boshrūyeh,Boshruyeh,33.8681,57.4286,Iran,IR,IRN,Khorāsān-e Jonūbī,minor,16426.0,1364726619
+Bīleh Savār,Bileh Savar,39.3778,48.3497,Iran,IR,IRN,Ardabīl,minor,16188.0,1364239600
+Haftkel,Haftkel,31.4444,49.5314,Iran,IR,IRN,Khūzestān,minor,15802.0,1364566639
+Ardestān,Ardestan,33.3731,52.3689,Iran,IR,IRN,Eşfahān,minor,15744.0,1364684540
+Tīrān,Tiran,32.7033,51.1558,Iran,IR,IRN,Eşfahān,minor,15673.0,1364233124
+Manūjān,Manujan,27.4031,57.4917,Iran,IR,IRN,Kermān,minor,15634.0,1364733657
+Manjīl,Manjil,36.7447,49.4014,Iran,IR,IRN,Gīlān,,15630.0,1364624018
+Chamgardān,Chamgardan,32.3931,51.3392,Iran,IR,IRN,Eşfahān,,15574.0,1364112093
+Anār,Anar,30.8694,55.2678,Iran,IR,IRN,Kermān,minor,15532.0,1364013146
+Dastgerd,Dastgerd,32.8008,51.6647,Iran,IR,IRN,Eşfahān,,15524.0,1364996387
+Morteẕá Gerd,Morteza Gerd,35.6019,51.3486,Iran,IR,IRN,Tehrān,,15506.0,1364878476
+Bandar-e Khamīr,Bandar-e Khamir,26.9511,55.5867,Iran,IR,IRN,Hormozgān,minor,15320.0,1364051515
+Veys,Veys,31.4861,48.8756,Iran,IR,IRN,Khūzestān,,15312.0,1364127242
+Shāl,Shal,35.8975,49.7694,Iran,IR,IRN,Qazvīn,,15290.0,1364939972
+Charām,Charam,30.7461,50.7461,Iran,IR,IRN,Kohgīlūyeh va Bowyer Aḩmad,minor,15218.0,1364997839
+Ahram,Ahram,28.8833,51.275,Iran,IR,IRN,Būshehr,minor,15198.0,1364866540
+Amlash,Amlash,37.0944,50.1928,Iran,IR,IRN,Gīlān,minor,15047.0,1364041120
+Lālejīn,Lalejin,34.9742,48.4756,Iran,IR,IRN,Hamadān,,14916.0,1364688538
+Neqāb,Neqab,36.7072,57.4194,Iran,IR,IRN,Khorāsān-e Raẕavī,minor,14723.0,1364003209
+Sepīdān,Sepidan,30.2594,51.9853,Iran,IR,IRN,Fārs,minor,14633.0,1364046715
+Dargahān,Dargahan,26.9667,56.0708,Iran,IR,IRN,Hormozgān,,14525.0,1364735795
+Razan,Razan,35.3886,49.0331,Iran,IR,IRN,Hamadān,minor,14275.0,1364076890
+Naţanz,Natanz,33.5072,51.9136,Iran,IR,IRN,Eşfahān,minor,14122.0,1364002460
+Kīāshahr,Kiashahr,37.4214,49.9408,Iran,IR,IRN,Gīlān,,14022.0,1364362691
+Fāmenīn,Famenin,35.1139,48.9725,Iran,IR,IRN,Hamadān,minor,14019.0,1364228108
+Shāndīz,Shandiz,36.3961,59.3092,Iran,IR,IRN,Khorāsān-e Raẕavī,,13987.0,1364668748
+Hīdaj,Hidaj,36.2547,49.1311,Iran,IR,IRN,Zanjān,,13840.0,1364864435
+Dowbarān,Dowbaran,28.405,54.1878,Iran,IR,IRN,Fārs,,13809.0,1364470614
+Sarāyān,Sarayan,33.8614,58.5217,Iran,IR,IRN,Khorāsān-e Jonūbī,minor,13795.0,1364790905
+Rostamābād,Rostamabad,36.8994,49.4931,Iran,IR,IRN,Gīlān,,13746.0,1364326640
+Namīn,Namin,38.4256,48.4839,Iran,IR,IRN,Ardabīl,minor,13659.0,1364085966
+Jannat Shahr,Jannat Shahr,28.6569,54.6861,Iran,IR,IRN,Fārs,,13598.0,1364043305
+Sūrān,Suran,27.2856,61.9964,Iran,IR,IRN,Sīstān va Balūchestān,minor,13580.0,1364461163
+Bandar-e ‘Asalūyeh,Bandar-e `Asaluyeh,27.4744,52.6114,Iran,IR,IRN,Būshehr,minor,13557.0,1364542336
+Kharv-e Soflá,Kharv-e Sofla,36.1403,59.0075,Iran,IR,IRN,Khorāsān-e Raẕavī,,13535.0,1364830111
+Fereydūnshahr,Fereydunshahr,32.9419,50.1203,Iran,IR,IRN,Eşfahān,minor,13475.0,1364461971
+Kalārdasht,Kalardasht,36.5056,51.1589,Iran,IR,IRN,Māzandarān,minor,13401.0,1364243164
+Zehak,Zehak,30.8933,61.6789,Iran,IR,IRN,Sīstān va Balūchestān,minor,13357.0,1364240166
+Farādonbeh,Faradonbeh,32.0078,51.2156,Iran,IR,IRN,Chahār Maḩāl va Bakhtīārī,,13317.0,1364199475
+Rābor,Rabor,29.2903,56.9133,Iran,IR,IRN,Kermān,minor,13263.0,1364476007
+Qal‘eh Ganj,Qal`eh Ganj,27.525,57.88,Iran,IR,IRN,Kermān,minor,13169.0,1364072799
+Fannūj,Fannuj,26.5753,59.6403,Iran,IR,IRN,Sīstān va Balūchestān,minor,13070.0,1364947990
+Lowshān,Lowshan,36.6278,49.5114,Iran,IR,IRN,Gīlān,,13032.0,1364318823
+Shahr-e Herāt,Shahr-e Herat,30.0547,54.3717,Iran,IR,IRN,Yazd,minor,13032.0,1364330823
+Ben,Ben,32.5444,50.7461,Iran,IR,IRN,Chahār Maḩāl va Bakhtīārī,minor,12971.0,1364428326
+Khomām,Khomam,37.3911,49.6597,Iran,IR,IRN,Gīlān,,12901.0,1364567758
+Landeh,Landeh,30.9808,50.4214,Iran,IR,IRN,Kohgīlūyeh va Bowyer Aḩmad,minor,12772.0,1364576368
+Varzaneh,Varzaneh,32.4197,52.6478,Iran,IR,IRN,Eşfahān,,12714.0,1364732883
+Bāsmenj,Basmenj,37.9964,46.4717,Iran,IR,IRN,Āz̄arbāyjān-e Sharqī,,12692.0,1364033031
+Sangar,Sangar,37.1797,49.6942,Iran,IR,IRN,Gīlān,,12583.0,1364837477
+Nāysar,Naysar,35.3267,47.0686,Iran,IR,IRN,Kordestān,,12480.0,1364980803
+Eyvānekey,Eyvanekey,35.3444,52.0714,Iran,IR,IRN,Semnān,,12462.0,1364816027
+Sangān,Sangan,34.3994,60.2558,Iran,IR,IRN,Khorāsān-e Raẕavī,,12443.0,1364471861
+Sarābleh,Sarableh,33.7683,46.5619,Iran,IR,IRN,Īlām,minor,12393.0,1364153811
+Asfarvarīn,Asfarvarin,35.9358,49.7469,Iran,IR,IRN,Qazvīn,,12371.0,1364597620
+Reẕvānshahr,Rezvanshahr,37.5481,49.1356,Iran,IR,IRN,Gīlān,minor,12355.0,1364695165
+Sūreshjān,Sureshjan,32.3156,50.6783,Iran,IR,IRN,Chahār Maḩāl va Bakhtīārī,,12308.0,1364345684
+Charmahīn,Charmahin,32.3372,51.1933,Iran,IR,IRN,Eşfahān,,12292.0,1364383489
+Senjān,Senjan,34.0506,49.6214,Iran,IR,IRN,Markazī,,12249.0,1364156071
+Zābolī,Zaboli,27.1283,61.6722,Iran,IR,IRN,Sīstān va Balūchestān,minor,12245.0,1364807796
+Bampūr,Bampur,27.195,60.4547,Iran,IR,IRN,Sīstān va Balūchestān,,12217.0,1364531120
+Boldājī,Boldaji,31.9383,51.0533,Iran,IR,IRN,Chahār Maḩāl va Bakhtīārī,,11980.0,1364062486
+Arakvāz-e Malekshāhī,Arakvaz-e Malekshahi,33.3847,46.5978,Iran,IR,IRN,Īlām,minor,11977.0,1364625820
+Mamqān,Mamqan,37.8458,45.9719,Iran,IR,IRN,Āz̄arbāyjān-e Sharqī,,11892.0,1364475727
+Bajestān,Bajestan,34.5161,58.1842,Iran,IR,IRN,Khorāsān-e Raẕavī,minor,11741.0,1364026409
+Zārach,Zarach,31.9911,54.2322,Iran,IR,IRN,Yazd,,11691.0,1364790492
+Rostam Kolā,Rostam Kola,36.6789,53.4297,Iran,IR,IRN,Māzandarān,,11686.0,1364863300
+Qaşr-e Qand,Qasr-e Qand,26.2356,60.7408,Iran,IR,IRN,Sīstān va Balūchestān,minor,11605.0,1364737765
+Khorramābād,Khorramabad,36.7822,50.8714,Iran,IR,IRN,Māzandarān,,11542.0,1364053905
+Poldasht,Poldasht,39.3447,45.0681,Iran,IR,IRN,Āz̄arbāyjān-e Gharbī,minor,11472.0,1364811524
+Kashaf,Kashaf,36.3678,59.5767,Iran,IR,IRN,Khorāsān-e Raẕavī,,11459.0,1364712972
+Kūshk,Kushk,32.6419,51.4997,Iran,IR,IRN,Eşfahān,,11264.0,1364515692
+Lavandevīl,Lavandevil,38.3089,48.8703,Iran,IR,IRN,Gīlān,,11235.0,1364485386
+Vaḩdattīyeh,Vahdattiyeh,29.4842,51.2369,Iran,IR,IRN,Būshehr,,11222.0,1364485087
+Hamadānak,Hamadanak,35.5422,51.1383,Iran,IR,IRN,Tehrān,,11216.0,1364169657
+Sarāb-e Tāveh-ye ‘Olyā,Sarab-e Taveh-ye `Olya,30.5964,51.5725,Iran,IR,IRN,Kohgīlūyeh va Bowyer Aḩmad,,11195.0,1364078533
+Chamestān,Chamestan,36.4792,52.1194,Iran,IR,IRN,Māzandarān,,11194.0,1364361980
+Shahmīrzād,Shahmirzad,35.7692,53.3361,Iran,IR,IRN,Semnān,,11191.0,1364136501
+Arvand Kenār,Arvand Kenar,29.9789,48.5206,Iran,IR,IRN,Khūzestān,,11173.0,1364710033
+Arvand Kenār,Arvand Kenar,29.9786,48.5189,Iran,IR,IRN,Khūzestān,,11173.0,1364278589
+Kārīz,Kariz,34.8117,60.8239,Iran,IR,IRN,Khorāsān-e Raẕavī,,11102.0,1364756203
+Şā’īn Qal‘eh,Sa'in Qal`eh,36.3058,49.0739,Iran,IR,IRN,Zanjān,,11083.0,1364854942
+Ḩaşşeh,Hasseh,32.7067,51.7556,Iran,IR,IRN,Eşfahān,,10942.0,1364425032
+Garmeh,Garmeh,36.9864,56.2881,Iran,IR,IRN,Khorāsān-e Shomālī,minor,10933.0,1364001152
+Qaşr-e Qomsheh,Qasr-e Qomsheh,29.7756,52.4417,Iran,IR,IRN,Fārs,,10890.0,1364885265
+Khān Bebīn,Khan Bebin,37.0097,54.9858,Iran,IR,IRN,Golestān,,10878.0,1364836717
+Shamsābād,Shamsabad,32.2978,48.4283,Iran,IR,IRN,Khūzestān,,10858.0,1364349532
+Pīr Bakrān,Pir Bakran,32.4678,51.5556,Iran,IR,IRN,Eşfahān,,10851.0,1364421592
+Gol Tappeh,Gol Tappeh,35.4872,51.565,Iran,IR,IRN,Tehrān,,10850.0,1364945991
+Maryānaj,Maryanaj,34.8297,48.4578,Iran,IR,IRN,Hamadān,,10848.0,1364941323
+Qal‘eh Chan‘ān,Qal`eh Chan`an,31.2403,48.7011,Iran,IR,IRN,Khūzestān,,10764.0,1364626383
+Bāsht,Basht,30.3611,51.1558,Iran,IR,IRN,Kohgīlūyeh va Bowyer Aḩmad,minor,10764.0,1364527291
+Kūhbanān,Kuhbanan,31.41,56.2825,Iran,IR,IRN,Kermān,minor,10761.0,1364489300
+Deh Bakrī,Deh Bakri,29.0508,57.9167,Iran,IR,IRN,Kermān,,10726.0,1364001986
+Asālem,Asalem,37.7211,48.9583,Iran,IR,IRN,Gīlān,,10720.0,1364809710
+Qal‘eh Tall,Qal`eh Tall,31.6331,49.8897,Iran,IR,IRN,Khūzestān,,10698.0,1364980286
+Darb-e Behesht,Darb-e Behesht,29.2331,57.3397,Iran,IR,IRN,Kermān,,10670.0,1364349317
+Dakhān,Dakhan,35.125,49.5175,Iran,IR,IRN,Markazī,,10664.0,1364442935
+Lasht-e Neshā,Lasht-e Nesha,37.3608,49.8611,Iran,IR,IRN,Gīlān,,10539.0,1364211135
+Herīs,Heris,38.2475,47.1164,Iran,IR,IRN,Āz̄arbāyjān-e Sharqī,minor,10515.0,1364732749
+Bāghīn,Baghin,30.1839,56.8075,Iran,IR,IRN,Kermān,,10407.0,1364307046
+Hachīrūd,Hachirud,36.6856,51.345,Iran,IR,IRN,Māzandarān,,10398.0,1364613179
+Nūkān,Nukan,34.3608,47.1725,Iran,IR,IRN,Kermānshāh,,10377.0,1364395040
+Shahrak-e Enqelāb,Shahrak-e Enqelab,35.5156,51.6867,Iran,IR,IRN,Tehrān,,10344.0,1364192859
+Qārī Kolā-ye Araţeh,Qari Kola-ye Arateh,36.4917,52.9531,Iran,IR,IRN,Māzandarān,,10327.0,1364710926
+Dalgān,Dalgan,27.4825,59.4464,Iran,IR,IRN,Sīstān va Balūchestān,minor,10292.0,1364617875
+Rāyen,Rayen,29.5981,57.4383,Iran,IR,IRN,Kermān,,10286.0,1364046368
+Bāgh-e Bahādorān,Bagh-e Bahadoran,32.3756,51.1881,Iran,IR,IRN,Eşfahān,,10279.0,1364002073
+Meymand,Meymand,28.8683,52.7525,Iran,IR,IRN,Fārs,,10120.0,1364554931
+Rāsak,Rasak,26.2356,61.4014,Iran,IR,IRN,Sīstān va Balūchestān,minor,10115.0,1364728682
+Ardal,Ardal,31.9989,50.6617,Iran,IR,IRN,Chahār Maḩāl va Bakhtīārī,minor,10113.0,1364019952
+Mashhad Rīzeh,Mashhad Rizeh,34.7947,60.5144,Iran,IR,IRN,Khorāsān-e Raẕavī,,10105.0,1364459506
+Kūcheşfahān,Kuchesfahan,37.2783,49.7728,Iran,IR,IRN,Gīlān,,10026.0,1364862389
+Galleh Dār,Galleh Dar,27.6578,52.6594,Iran,IR,IRN,Fārs,,9982.0,1364264493
+Maḩalleh-ye Shīrīnū,Mahalleh-ye Shirinu,27.6258,52.4761,Iran,IR,IRN,Būshehr,,9976.0,1364055893
+Şūfīān,Sufian,38.2722,45.9789,Iran,IR,IRN,Āz̄arbāyjān-e Sharqī,,9963.0,1364080315
+Bastak,Bastak,27.1953,54.3678,Iran,IR,IRN,Hormozgān,minor,9959.0,1364136861
+Sorkheh,Sorkheh,35.4644,53.2086,Iran,IR,IRN,Semnān,minor,9951.0,1364888685
+Mīāndasht,Miandasht,33.0758,50.1631,Iran,IR,IRN,Eşfahān,minor,9933.0,1364540083
+Ţālkhvoncheh,Talkhvoncheh,32.2614,51.5619,Iran,IR,IRN,Eşfahān,,9924.0,1364903302
+Bavānāt,Bavanat,30.4717,53.6261,Iran,IR,IRN,Fārs,,9776.0,1364321545
+Zāhed Shahr,Zahed Shahr,28.7461,53.8039,Iran,IR,IRN,Fārs,,9719.0,1364093059
+Qahjāvarestān,Qahjavarestan,32.7017,51.8358,Iran,IR,IRN,Eşfahān,,9712.0,1364849715
+Gorgāb,Gorgab,32.8661,51.5972,Iran,IR,IRN,Eşfahān,,9690.0,1364220852
+Salmānshahr,Salmanshahr,36.7039,51.1936,Iran,IR,IRN,Māzandarān,,9656.0,1364942661
+Khesht,Khesht,29.5633,51.335,Iran,IR,IRN,Fārs,,9599.0,1364677033
+Shahrak-e Ja‘farīyeh,Shahrak-e Ja`fariyeh,35.6617,50.9947,Iran,IR,IRN,Tehrān,,9452.0,1364186940
+Dānesfahān,Danesfahan,35.8117,49.7431,Iran,IR,IRN,Qazvīn,,9434.0,1364115128
+Chahār Borj-e Qadīm,Chahar Borj-e Qadim,37.1231,45.9761,Iran,IR,IRN,Āz̄arbāyjān-e Gharbī,,9406.0,1364251992
+Ja‘farīyeh,Ja`fariyeh,34.7739,50.5164,Iran,IR,IRN,Qom,,9387.0,1364571429
+Marvast,Marvast,30.4775,54.2128,Iran,IR,IRN,Yazd,,9379.0,1364747499
+Shahr-e Majlesī,Shahr-e Majlesi,32.1956,51.5017,Iran,IR,IRN,Eşfahān,,9363.0,1364778024
+Mīrjāveh,Mirjaveh,29.0147,61.4503,Iran,IR,IRN,Sīstān va Balūchestān,minor,9359.0,1364020318
+Dowlatābād,Dowlatabad,35.2842,59.5225,Iran,IR,IRN,Khorāsān-e Raẕavī,minor,9329.0,1364947262
+Kaleybar,Kaleybar,38.8664,47.0406,Iran,IR,IRN,Āz̄arbāyjān-e Sharqī,minor,9324.0,1364048675
+Moḩammad Yār,Mohammad Yar,36.9819,45.5222,Iran,IR,IRN,Āz̄arbāyjān-e Gharbī,,9313.0,1364495024
+Mīlājerd,Milajerd,34.6214,49.2081,Iran,IR,IRN,Markazī,,9288.0,1364310563
+Abūz̄ar-e Ghaffārī,Abuzar-e Ghaffari,32.1806,48.2778,Iran,IR,IRN,Khūzestān,,9272.0,1364552962
+Joghtāy,Joghtay,36.6383,57.0717,Iran,IR,IRN,Khorāsān-e Raẕavī,minor,9268.0,1364200718
+Jūraqān,Juraqan,34.885,48.5531,Iran,IR,IRN,Hamadān,,9234.0,1364272105
+Bahābād,Bahabad,31.8719,56.0239,Iran,IR,IRN,Yazd,,9232.0,1364142040
+Sūrak,Surak,36.5939,53.2086,Iran,IR,IRN,Māzandarān,minor,9208.0,1364175111
+Golbāf,Golbaf,29.8828,57.7322,Iran,IR,IRN,Kermān,,9205.0,1364424557
+Ḩorr-e Rīāḩī,Horr-e Riahi,32.1444,48.3906,Iran,IR,IRN,Khūzestān,,9177.0,1364177562
+Nashtīfān,Nashtifan,34.435,60.1811,Iran,IR,IRN,Khorāsān-e Raẕavī,,9176.0,1364386254
+Eshkanān,Eshkanan,27.2278,53.6072,Iran,IR,IRN,Fārs,,9115.0,1364207310
+Zeydābād,Zeydabad,29.6008,55.5367,Iran,IR,IRN,Kermān,,9112.0,1364403810
+Banārūyeh,Banaruyeh,28.0864,54.0481,Iran,IR,IRN,Fārs,,9077.0,1364350931
+Shahr-e Pīr,Shahr-e Pir,28.3122,54.3328,Iran,IR,IRN,Fārs,,8927.0,1364616917
+Bīdkhūn,Bidkhun,27.4792,52.6681,Iran,IR,IRN,Būshehr,,8886.0,1364276019
+Pā’īn Chāf,Pa'in Chaf,37.2294,50.2544,Iran,IR,IRN,Gīlān,,8840.0,1364982101
+Moslem Ebn-e ‘Aqīl,Moslem Ebn-e `Aqil,32.0561,48.3056,Iran,IR,IRN,Khūzestān,,8833.0,1364327815
+Jolfā,Jolfa,38.9386,45.6253,Iran,IR,IRN,Āz̄arbāyjān-e Sharqī,minor,8810.0,1364456740
+Komījān,Komijan,34.7181,49.325,Iran,IR,IRN,Markazī,minor,8776.0,1364723077
+Āshtīān,Ashtian,34.5222,50.0069,Iran,IR,IRN,Markazī,minor,8763.0,1364425405
+Banak,Banak,27.8722,52.0289,Iran,IR,IRN,Būshehr,,8753.0,1364681484
+Sarbīsheh,Sarbisheh,32.5775,59.7961,Iran,IR,IRN,Khorāsān-e Jonūbī,minor,8715.0,1364184817
+Pardanjān,Pardanjan,32.2539,50.5975,Iran,IR,IRN,Chahār Maḩāl va Bakhtīārī,,8699.0,1364000864
+Azandarīān,Azandarian,34.5044,48.6919,Iran,IR,IRN,Hamadān,,8685.0,1364125839
+Marāveh Tappeh,Maraveh Tappeh,37.9031,55.9567,Iran,IR,IRN,Golestān,minor,8671.0,1364721495
+Sa‘īdī,Sa`idi,30.3364,57.0994,Iran,IR,IRN,Kermān,,8626.0,1364002523
+Shahrak-e Pārs,Shahrak-e Pars,35.6081,51.3808,Iran,IR,IRN,Tehrān,,8625.0,1364466925
+Seyyedān,Seyyedan,30.0019,53.0033,Iran,IR,IRN,Fārs,,8574.0,1364707291
+Kond Rūd,Kond Rud,38.0094,46.4794,Iran,IR,IRN,Āz̄arbāyjān-e Sharqī,,8518.0,1364907132
+Nalās,Nalas,36.2631,45.4933,Iran,IR,IRN,Āz̄arbāyjān-e Gharbī,,8503.0,1364132708
+Sārī,Sari,36.5633,53.0601,Iran,IR,IRN,Māzandarān,admin,,1364501878
+Īlām,Ilam,33.6374,46.4227,Iran,IR,IRN,Īlām,admin,,1364655025
+Tehran,Tehran,35.6892,51.3889,Iran,IR,IRN,Tehrān,primary,14148000.0,1364305026
+Mashhad,Mashhad,36.3264,59.5433,Iran,IR,IRN,Khorāsān-e Raẕavī,admin,3372090.0,1364123206
+Khowrhesht,Khowrhesht,36.205,49.6872,Iran,IR,IRN,Qazvīn,,2500000.0,1364002070
+Eşfahān,Esfahan,32.6447,51.6675,Iran,IR,IRN,Eşfahān,admin,2219343.0,1364023865
+Karaj,Karaj,35.8272,50.9489,Iran,IR,IRN,Alborz,admin,1973470.0,1364258511
+Shīrāz,Shiraz,29.61,52.5425,Iran,IR,IRN,Fārs,admin,1565572.0,1364432238
+Tabrīz,Tabriz,38.0814,46.3006,Iran,IR,IRN,Āz̄arbāyjān-e Sharqī,admin,1558693.0,1364141756
+Qom,Qom,34.64,50.8764,Iran,IR,IRN,Qom,admin,1201158.0,1364701633
+Ahvāz,Ahvaz,31.3047,48.6783,Iran,IR,IRN,Khūzestān,admin,1184788.0,1364350188
+Kermānshāh,Kermanshah,34.3325,47.0933,Iran,IR,IRN,Kermānshāh,admin,946651.0,1364535690
+Kermān,Kerman,30.2911,57.0678,Iran,IR,IRN,Kermān,admin,738374.0,1364554896
+Orūmīyeh,Orumiyeh,37.5439,45.0647,Iran,IR,IRN,Āz̄arbāyjān-e Gharbī,admin,736224.0,1364158221
+Pīshbar,Pishbar,33.3886,59.9789,Iran,IR,IRN,Khorāsān-e Jonūbī,,720207.0,1364328516
+Borvāyeh-ye Al Bū ‘Azīz,Borvayeh-ye Al Bu `Aziz,31.6283,48.6147,Iran,IR,IRN,Khūzestān,,690000.0,1364441069
+Rasht,Rasht,37.2744,49.5889,Iran,IR,IRN,Gīlān,admin,679995.0,1364630382
+Bahār,Bahar,34.9028,48.4425,Iran,IR,IRN,Hamadān,minor,673405.0,1364891653
+Zāhedān,Zahedan,29.5025,60.8558,Iran,IR,IRN,Sīstān va Balūchestān,admin,587730.0,1364072353
+Hamadān,Hamadan,34.8064,48.5161,Iran,IR,IRN,Hamadān,admin,554406.0,1364126377
+Yazd,Yazd,31.8822,54.3397,Iran,IR,IRN,Yazd,admin,529673.0,1364429875
+Ardabīl,Ardabil,38.2425,48.29,Iran,IR,IRN,Ardabīl,admin,529374.0,1364437616
+Bandar ‘Abbās,Bandar `Abbas,27.1961,56.2878,Iran,IR,IRN,Hormozgān,admin,526648.0,1364120623
+Arāk,Arak,34.0914,49.6933,Iran,IR,IRN,Markazī,admin,520944.0,1364624691
+Eslāmshahr,Eslamshahr,35.5317,51.2247,Iran,IR,IRN,Tehrān,minor,448129.0,1364870126
+Sanandaj,Sanandaj,35.3114,46.9961,Iran,IR,IRN,Kordestān,admin,412767.0,1364178783
+Qazvīn,Qazvin,36.2894,50.0086,Iran,IR,IRN,Qazvīn,admin,402748.0,1364073420
+Zanjān,Zanjan,36.6789,48.5056,Iran,IR,IRN,Zanjān,admin,386851.0,1364312712
+Khorramābād,Khorramabad,33.4875,48.3561,Iran,IR,IRN,Lorestān,admin,373416.0,1364548806
+Gorgān,Gorgan,36.8378,54.4414,Iran,IR,IRN,Golestān,admin,312223.0,1364802450
+Shahrīār,Shahriar,35.6722,51.0236,Iran,IR,IRN,Tehrān,minor,309607.0,1364482289
+Shahr-e Qods,Shahr-e Qods,35.7097,51.1119,Iran,IR,IRN,Tehrān,minor,309605.0,1364272235
+Kāshān,Kashan,33.9825,51.4325,Iran,IR,IRN,Eşfahān,minor,304487.0,1364006067
+Malārd,Malard,35.6806,50.9783,Iran,IR,IRN,Tehrān,minor,281027.0,1364376065
+Sartā,Sarta,36.4491,53.3234,Iran,IR,IRN,Māzandarān,,271467.0,1364143380
+Dezfūl,Dezful,32.3786,48.4144,Iran,IR,IRN,Khūzestān,minor,264709.0,1364663520
+Bābol,Babol,36.5475,52.6783,Iran,IR,IRN,Māzandarān,minor,250217.0,1364476070
+Bojnūrd,Bojnurd,37.4722,57.3289,Iran,IR,IRN,Khorāsān-e Shomālī,admin,250000.0,1364981174
+Qā’em Shahr,Qa'em Shahr,36.4636,52.8581,Iran,IR,IRN,Māzandarān,,247953.0,1364170406
+Khomeynī Shahr,Khomeyni Shahr,32.6803,51.5361,Iran,IR,IRN,Eşfahān,minor,247128.0,1364403465
+Sabzevār,Sabzevar,36.2125,57.6764,Iran,IR,IRN,Khorāsān-e Raẕavī,minor,243700.0,1364379130
+Āmol,Amol,36.4703,52.3467,Iran,IR,IRN,Māzandarān,minor,237528.0,1364107935
+Pākdasht,Pakdasht,35.485,51.6794,Iran,IR,IRN,Tehrān,minor,236319.0,1364370088
+Najafābād,Najafabad,32.6447,51.3603,Iran,IR,IRN,Eşfahān,minor,235281.0,1364053850
+Borūjerd,Borujerd,33.9111,48.7522,Iran,IR,IRN,Lorestān,minor,234997.0,1364855573
+Madan,Madan,30.3469,48.2825,Iran,IR,IRN,Khūzestān,,231476.0,1364708556
+Qarchak,Qarchak,35.4267,51.5842,Iran,IR,IRN,Tehrān,minor,231075.0,1364173799
+Varāmīn,Varamin,35.3508,51.6358,Iran,IR,IRN,Tehrān,minor,225628.0,1364275103
+Bandar-e Būshehr,Bandar-e Bushehr,28.9264,50.8514,Iran,IR,IRN,Būshehr,admin,223504.0,1364483819
+Neyshābūr,Neyshabur,36.22,58.82,Iran,IR,IRN,Khorāsān-e Raẕavī,minor,221700.0,1364706573
+Sāveh,Saveh,35.0278,50.3611,Iran,IR,IRN,Markazī,minor,220762.0,1364844111
+Bīrjand,Birjand,32.8744,59.2161,Iran,IR,IRN,Khorāsān-e Jonūbī,admin,203636.0,1364897698
+Nasīm Shahr,Nasim Shahr,35.5617,51.1617,Iran,IR,IRN,Tehrān,,200393.0,1364571196
+Khowy,Khowy,38.5464,44.9542,Iran,IR,IRN,Āz̄arbāyjān-e Gharbī,minor,198845.0,1364186788
+Būkān,Bukan,36.515,46.2075,Iran,IR,IRN,Āz̄arbāyjān-e Gharbī,minor,193501.0,1364530447
+Shahr-e Kord,Shahr-e Kord,32.3311,50.8594,Iran,IR,IRN,Chahār Maḩāl va Bakhtīārī,admin,190441.0,1364643377
+Semnān,Semnan,35.5811,53.3833,Iran,IR,IRN,Semnān,admin,185129.0,1364417512
+Fardīs,Fardis,35.73,50.9822,Iran,IR,IRN,Alborz,minor,181174.0,1364967800
+Marāgheh,Maragheh,37.3894,46.2378,Iran,IR,IRN,Āz̄arbāyjān-e Sharqī,minor,175255.0,1364532780
+Sīrjān,Sirjan,29.437,55.6802,Iran,IR,IRN,Kermān,minor,175000.0,1364204506
+Shāhīn Shahr,Shahin Shahr,32.8606,51.5531,Iran,IR,IRN,Eşfahān,minor,173329.0,1364921034
+Malāyer,Malayer,34.3,48.8178,Iran,IR,IRN,Hamadān,minor,170237.0,1364030346
+Mahābād,Mahabad,36.7678,45.7339,Iran,IR,IRN,Āz̄arbāyjān-e Gharbī,,168393.0,1364192213
+Saqqez,Saqqez,36.2411,46.2706,Iran,IR,IRN,Kordestān,minor,165258.0,1364098155
+Bandar-e Māhshahr,Bandar-e Mahshahr,30.5567,49.1897,Iran,IR,IRN,Khūzestān,minor,162797.0,1364956793
+Rafsanjān,Rafsanjan,30.4111,55.9911,Iran,IR,IRN,Kermān,minor,161909.0,1364354751
+Borāzjān,Borazjan,29.2694,51.22,Iran,IR,IRN,Būshehr,minor,155567.0,1364720199
+Gonbad-e Kāvūs,Gonbad-e Kavus,37.2433,55.1692,Iran,IR,IRN,Golestān,minor,151910.0,1364336980
+Shāhrūd,Shahrud,36.4133,54.9781,Iran,IR,IRN,Semnān,minor,150129.0,1364363854
+Marvdasht,Marvdasht,29.8786,52.8067,Iran,IR,IRN,Fārs,minor,148858.0,1364881808
+Qūchān,Quchan,37.106,58.5095,Iran,IR,IRN,Khorāsān-e Raẕavī,minor,145531.0,1364255116
+Jahrom,Jahrom,28.5031,53.5658,Iran,IR,IRN,Fārs,minor,141634.0,1364271412
+Kamālshahr,Kamalshahr,35.8658,50.8717,Iran,IR,IRN,Alborz,,141166.0,1364102350
+Torbat-e Ḩeydarīyeh,Torbat-e Heydariyeh,35.29,59.2169,Iran,IR,IRN,Khorāsān-e Raẕavī,minor,140019.0,1364398113
+Marīvān,Marivan,35.5217,46.1806,Iran,IR,IRN,Kordestān,minor,136654.0,1364680490
+Andīmeshk,Andimeshk,32.4714,48.3489,Iran,IR,IRN,Khūzestān,minor,135116.0,1364453657
+Shahreẕā,Shahreza,32.0122,51.8594,Iran,IR,IRN,Eşfahān,minor,134952.0,1364242660
+Zābol,Zabol,31.0339,61.4878,Iran,IR,IRN,Sīstān va Balūchestān,minor,134950.0,1364485195
+Khorramshahr,Khorramshahr,30.4394,48.1817,Iran,IR,IRN,Khūzestān,minor,133097.0,1364111149
+Marand,Marand,38.4331,45.7686,Iran,IR,IRN,Āz̄arbāyjān-e Sharqī,minor,130825.0,1364567639
+Jīroft,Jiroft,28.6797,57.7447,Iran,IR,IRN,Kermān,minor,130429.0,1364826721
+Salmās,Salmas,38.2028,44.7669,Iran,IR,IRN,Āz̄arbāyjān-e Gharbī,minor,127864.0,1364204147
+Bam,Bam,29.0994,58.3436,Iran,IR,IRN,Kermān,minor,127396.0,1364697653
+Behbahān,Behbahan,30.5942,50.2433,Iran,IR,IRN,Khūzestān,minor,122604.0,1364393434
+Dorūd,Dorud,33.4994,49.0531,Iran,IR,IRN,Lorestān,minor,121608.0,1364662084
+Naz̧arābād,Nazarabad,35.9583,50.605,Iran,IR,IRN,Alborz,minor,119512.0,1364796337
+Moḩammad Shahr,Mohammad Shahr,35.7483,50.9025,Iran,IR,IRN,Alborz,,119418.0,1364247384
+Bandar-e Anzalī,Bandar-e Anzali,37.4708,49.47,Iran,IR,IRN,Gīlān,minor,118564.0,1364759228
+Īrānshahr,Iranshahr,27.1978,60.6836,Iran,IR,IRN,Sīstān va Balūchestān,minor,113750.0,1364413748
+Fasā,Fasa,28.9483,53.6336,Iran,IR,IRN,Fārs,minor,110825.0,1364549592
+Bāneh,Baneh,35.9969,45.8853,Iran,IR,IRN,Kordestān,minor,110218.0,1364786972
+Yāsūj,Yasuj,30.6672,51.5797,Iran,IR,IRN,Kohgīlūyeh va Bowyer Aḩmad,admin,108505.0,1364652740
+Chābahār,Chabahar,25.2928,60.6497,Iran,IR,IRN,Sīstān va Balūchestān,minor,106739.0,1364525124
+Robāţ Karīm,Robat Karim,35.4825,51.0786,Iran,IR,IRN,Tehrān,minor,105393.0,1364282464
+Kāshmar,Kashmar,35.2431,58.4594,Iran,IR,IRN,Khorāsān-e Raẕavī,minor,102282.0,1364144807
+Shūshtar,Shushtar,32.045,48.8594,Iran,IR,IRN,Khūzestān,minor,101878.0,1364856875
+Ahar,Ahar,38.4797,47.0669,Iran,IR,IRN,Āz̄arbāyjān-e Sharqī,minor,100641.0,1364602437
+Masjed Soleymān,Masjed Soleyman,31.96,49.2881,Iran,IR,IRN,Khūzestān,minor,100497.0,1364152430
+Torbat-e Jām,Torbat-e Jam,35.2431,60.625,Iran,IR,IRN,Khorāsān-e Raẕavī,minor,100449.0,1364064948
+Abhar,Abhar,36.1511,49.2244,Iran,IR,IRN,Zanjān,minor,99285.0,1364688687
+Mīāneh,Mianeh,37.4239,47.7197,Iran,IR,IRN,Āz̄arbāyjān-e Sharqī,minor,98973.0,1364529047
+Do Gonbadān,Do Gonbadan,30.36,50.7839,Iran,IR,IRN,Kohgīlūyeh va Bowyer Aḩmad,minor,96728.0,1364102646
+Kāzerūn,Kazerun,29.6156,51.6567,Iran,IR,IRN,Fārs,minor,96683.0,1364311345
+Behshahr,Behshahr,36.6911,53.5539,Iran,IR,IRN,Māzandarān,minor,94702.0,1364001181
+Alvand,Alvand,36.1867,50.0639,Iran,IR,IRN,Qazvīn,minor,93836.0,1364589535
+Pīrānshahr,Piranshahr,36.6956,45.1456,Iran,IR,IRN,Āz̄arbāyjān-e Gharbī,minor,91515.0,1364699746
+Eslāmābād-e Gharb,Eslamabad-e Gharb,34.1103,46.5275,Iran,IR,IRN,Kermānshāh,minor,90559.0,1364997109
+Kūhdasht,Kuhdasht,33.5294,47.6092,Iran,IR,IRN,Lorestān,minor,89091.0,1364140008
+Khowrāsgān,Khowrasgan,32.6539,51.7553,Iran,IR,IRN,Eşfahān,,86063.0,1364514942
+Shīrvān,Shirvan,37.4006,57.9278,Iran,IR,IRN,Khorāsān-e Shomālī,minor,82689.0,1364402242
+Meybod,Meybod,32.2444,54.0186,Iran,IR,IRN,Yazd,minor,80712.0,1364977923
+Tākestān,Takestan,36.0672,49.6958,Iran,IR,IRN,Qazvīn,minor,80299.0,1364488107
+Langarūd,Langarud,37.1956,50.1517,Iran,IR,IRN,Gīlān,minor,79445.0,1364215543
+Būmahen,Bumahen,35.7314,51.8675,Iran,IR,IRN,Tehrān,,79034.0,1364656518
+Bahārestān,Baharestan,32.4867,51.7808,Iran,IR,IRN,Eşfahān,,79023.0,1364254559
+Alīgūdarz,Aligudarz,33.4025,49.6903,Iran,IR,IRN,Lorestān,minor,78690.0,1364252948
+Bandar Emām,Bandar Emam,30.5058,49.0742,Iran,IR,IRN,Khūzestān,,78353.0,1364872870
+Qorveh,Qorveh,35.1678,47.8008,Iran,IR,IRN,Kordestān,minor,78276.0,1364464987
+Shūsh,Shush,32.1947,48.2475,Iran,IR,IRN,Khūzestān,minor,77148.0,1364876336
+Nahāvand,Nahavand,34.1928,48.3731,Iran,IR,IRN,Hamadān,minor,76162.0,1364090972
+Bonāb,Bonab,37.3428,46.0617,Iran,IR,IRN,Āz̄arbāyjān-e Sharqī,minor,75332.0,1364781552
+Ardakān,Ardakan,32.3061,54.0081,Iran,IR,IRN,Yazd,minor,75271.0,1364447507
+Rāmhormoz,Ramhormoz,31.2753,49.6044,Iran,IR,IRN,Khūzestān,minor,74285.0,1364637975
+Meshgīn Shahr,Meshgin Shahr,38.3972,47.6739,Iran,IR,IRN,Ardabīl,minor,74109.0,1364069293
+Bandar-e Genāveh,Bandar-e Genaveh,29.5839,50.5189,Iran,IR,IRN,Būshehr,minor,73472.0,1364268734
+Naqadeh,Naqadeh,36.9547,45.3881,Iran,IR,IRN,Āz̄arbāyjān-e Gharbī,minor,72975.0,1364695268
+Khomeyn,Khomeyn,33.6422,50.0789,Iran,IR,IRN,Markazī,minor,72882.0,1364717218
+Omīdīyeh,Omidiyeh,30.7583,49.705,Iran,IR,IRN,Khūzestān,minor,67427.0,1364604697
+Ārān Bīdgol,Aran Bidgol,34.0589,51.4817,Iran,IR,IRN,Eşfahān,minor,65404.0,1364946839
+Bāqershahr,Baqershahr,35.5322,51.4036,Iran,IR,IRN,Tehrān,,65388.0,1364526843
+Zarand,Zarand,30.8108,56.5658,Iran,IR,IRN,Kermān,minor,63744.0,1364870175
+Māhdāsht,Mahdasht,35.7194,50.7978,Iran,IR,IRN,Tehrān,,62910.0,1364057697
+Mobārakeh,Mobarakeh,32.3494,51.5,Iran,IR,IRN,Eşfahān,minor,62454.0,1364110841
+Meshkīn Dasht,Meshkin Dasht,35.7469,50.9361,Iran,IR,IRN,Tehrān,,62005.0,1364951738
+Nekā,Neka,36.65,53.2972,Iran,IR,IRN,Māzandarān,minor,60991.0,1364860857
+Kangān,Kangan,27.8389,52.0619,Iran,IR,IRN,Būshehr,minor,60187.0,1364748225
+Ābyek,Abyek,36.0411,50.5306,Iran,IR,IRN,Qazvīn,minor,60107.0,1364192974
+Sarāvān,Saravan,27.3708,62.3325,Iran,IR,IRN,Sīstān va Balūchestān,minor,60014.0,1364931043
+Bābolsar,Babolsar,36.7006,52.65,Iran,IR,IRN,Māzandarān,minor,59966.0,1364000970
+Esfarāyen,Esfarayen,37.0703,57.5089,Iran,IR,IRN,Khorāsān-e Shomālī,minor,59490.0,1364743408
+Dāmghān,Damghan,36.1656,54.3419,Iran,IR,IRN,Semnān,minor,59106.0,1364099760
+Borūjen,Borujen,31.9678,51.2894,Iran,IR,IRN,Chahār Maḩāl va Bakhtīārī,minor,57071.0,1364420894
+Dehdasht,Dehdasht,30.7953,50.5653,Iran,IR,IRN,Kohgīlūyeh va Bowyer Aḩmad,minor,57036.0,1364380325
+Khāsh,Khash,28.22,61.2114,Iran,IR,IRN,Sīstān va Balūchestān,minor,56584.0,1364052913
+Tāybād,Taybad,34.7408,60.7792,Iran,IR,IRN,Khorāsān-e Raẕavī,minor,56562.0,1364220425
+Kūt-e ‘Abdollāh,Kut-e `Abdollah,31.2447,48.6594,Iran,IR,IRN,Khūzestān,minor,56252.0,1364936018
+Zarrīn Shahr,Zarrin Shahr,32.3889,51.3733,Iran,IR,IRN,Eşfahān,minor,55817.0,1364248651
+Asadābād,Asadabad,34.7825,48.1219,Iran,IR,IRN,Hamadān,minor,55703.0,1364818060
+Hashtgerd,Hashtgerd,35.9619,50.6889,Iran,IR,IRN,Alborz,minor,55640.0,1364175828
+Tonekābon,Tonekabon,36.8153,50.8711,Iran,IR,IRN,Māzandarān,minor,55434.0,1364647913
+Khorramdarreh,Khorramdarreh,36.2072,49.1992,Iran,IR,IRN,Zanjān,minor,55368.0,1364890040
+Eqbālīyeh,Eqbaliyeh,36.2306,49.9225,Iran,IR,IRN,Qazvīn,,55066.0,1364700294
+Javānrūd,Javanrud,34.8078,46.4939,Iran,IR,IRN,Kermānshāh,minor,54354.0,1364422541
+Hashtpar,Hashtpar,37.7933,48.9044,Iran,IR,IRN,Gīlān,minor,54178.0,1364496739
+Şabbāshahr,Sabbashahr,35.5817,51.1119,Iran,IR,IRN,Tehrān,,53971.0,1364361684
+Bandar-e Torkaman,Bandar-e Torkaman,36.9014,54.0736,Iran,IR,IRN,Golestān,minor,53970.0,1364842482
+Bījār,Bijar,35.8729,47.5993,Iran,IR,IRN,Kordestān,minor,53871.0,1364131066
+‘Alīābād-e Katūl,`Aliabad-e Katul,36.9075,54.8667,Iran,IR,IRN,Golestān,minor,52838.0,1364000152
+Kahnūj,Kahnuj,27.9406,57.6992,Iran,IR,IRN,Kermān,minor,52624.0,1364808068
+Shahr-e Bābak,Shahr-e Babak,30.1233,55.1172,Iran,IR,IRN,Kermān,minor,51620.0,1364844587
+Sūsangerd,Susangerd,31.5569,48.1894,Iran,IR,IRN,Khūzestān,minor,51431.0,1364486333
+Tūyserkān,Tuyserkan,34.5494,48.4456,Iran,IR,IRN,Hamadān,minor,50455.0,1364054847
+Chahār Dangeh,Chahar Dangeh,35.5958,51.3083,Iran,IR,IRN,Tehrān,,49950.0,1364382390
+Neyrīz,Neyriz,29.1928,54.3197,Iran,IR,IRN,Fārs,minor,49850.0,1364086742
+Nowshahr,Nowshahr,36.6475,51.4931,Iran,IR,IRN,Māzandarān,minor,49403.0,1364005247
+Garmsār,Garmsar,35.2206,52.3389,Iran,IR,IRN,Semnān,minor,48672.0,1364421762
+Damāvand,Damavand,35.6928,52.0467,Iran,IR,IRN,Tehrān,minor,48380.0,1364517775
+Golpāyegān,Golpayegan,33.4508,50.2817,Iran,IR,IRN,Eşfahān,minor,47849.0,1364867790
+Aznā,Azna,33.4597,49.4547,Iran,IR,IRN,Lorestān,minor,47489.0,1364854218
+Şowme‘eh Sarā,Sowme`eh Sara,37.3,49.3142,Iran,IR,IRN,Gīlān,minor,47083.0,1364571093
+Sardasht,Sardasht,36.1553,45.48,Iran,IR,IRN,Āz̄arbāyjān-e Gharbī,minor,46412.0,1364996546
+Bāfq,Bafq,31.6033,55.4003,Iran,IR,IRN,Yazd,minor,45453.0,1364201689
+Āstāneh-ye Ashrafīyeh,Astaneh-ye Ashrafiyeh,37.2658,49.9431,Iran,IR,IRN,Gīlān,minor,44941.0,1364719159
+Āz̄arshahr,Azarshahr,37.7628,45.9758,Iran,IR,IRN,Āz̄arbāyjān-e Sharqī,minor,44887.0,1364106517
+Eqlīd,Eqlid,30.8928,52.6889,Iran,IR,IRN,Fārs,minor,44341.0,1364072821
+Sonqor,Sonqor,34.7828,47.5983,Iran,IR,IRN,Kermānshāh,minor,44256.0,1364821189
+Harsīn,Harsin,34.2728,47.5875,Iran,IR,IRN,Kermānshāh,minor,44146.0,1364489959
+Āzādshahr,Azadshahr,37.0869,55.1742,Iran,IR,IRN,Golestān,minor,43760.0,1364038403
+Takāb,Takab,36.4008,47.1108,Iran,IR,IRN,Āz̄arbāyjān-e Gharbī,minor,43702.0,1364000025
+Konārak,Konarak,25.3589,60.3992,Iran,IR,IRN,Sīstān va Balūchestān,minor,43258.0,1364254379
+Maḩallāt,Mahallat,33.9056,50.4572,Iran,IR,IRN,Markazī,minor,43245.0,1364764045
+Darcheh,Darcheh,32.6131,51.5531,Iran,IR,IRN,Eşfahān,,43183.0,1364123646
+Qā’en,Qa'en,33.7333,59.1811,Iran,IR,IRN,Khorāsān-e Jonūbī,minor,42323.0,1364089791
+Sarakhs,Sarakhs,36.5425,61.1589,Iran,IR,IRN,Khorāsān-e Raẕavī,minor,42179.0,1364504156
+Sarāb,Sarab,37.9414,47.5367,Iran,IR,IRN,Āz̄arbāyjān-e Sharqī,minor,42057.0,1364335741
+Shādegān,Shadegan,30.6492,48.6653,Iran,IR,IRN,Khūzestān,minor,41733.0,1364528377
+Dowlatābād,Dowlatabad,32.8003,51.6958,Iran,IR,IRN,Eşfahān,minor,40945.0,1364977743
+Delījān,Delijan,33.9903,50.6836,Iran,IR,IRN,Markazī,minor,40902.0,1364920781
+Gonābād,Gonabad,34.3575,58.6783,Iran,IR,IRN,Khorāsān-e Raẕavī,minor,40773.0,1364339411
+Khowrmūj,Khowrmuj,28.6567,51.3808,Iran,IR,IRN,Būshehr,minor,40722.0,1364920877
+Qeshm,Qeshm,26.9494,56.2681,Iran,IR,IRN,Hormozgān,minor,40678.0,1364691339
+Lordegān,Lordegan,31.5081,50.8319,Iran,IR,IRN,Chahār Maḩāl va Bakhtīārī,minor,40528.0,1364124062
+Kīsh,Kish,26.5553,53.985,Iran,IR,IRN,Hormozgān,,39853.0,1364815176
+Oshnavīyeh,Oshnaviyeh,37.0375,45.0981,Iran,IR,IRN,Āz̄arbāyjān-e Gharbī,minor,39801.0,1364910470
+Ţabas,Tabas,33.5961,56.9281,Iran,IR,IRN,Khorāsān-e Jonūbī,minor,39676.0,1364599694
+Farīmān,Fariman,35.7044,59.8486,Iran,IR,IRN,Khorāsān-e Raẕavī,minor,39515.0,1364504660
+Khalkhāl,Khalkhal,37.6272,48.53,Iran,IR,IRN,Ardabīl,minor,38521.0,1364932128
+Fereydūn Kenār,Fereydun Kenar,36.685,52.5208,Iran,IR,IRN,Māzandarān,minor,38154.0,1364024073
+Rūdsar,Rudsar,37.1406,50.2942,Iran,IR,IRN,Gīlān,minor,37998.0,1364240467
+Falāvarjān,Falavarjan,32.5558,51.5106,Iran,IR,IRN,Eşfahān,minor,37704.0,1364269609
+Kahrīzak,Kahrizak,35.5169,51.3603,Iran,IR,IRN,Tehrān,,37527.0,1364597116
+Dargaz,Dargaz,37.4456,59.1078,Iran,IR,IRN,Khorāsān-e Raẕavī,minor,36762.0,1364647948
+Estahbān,Estahban,29.1269,54.0394,Iran,IR,IRN,Fārs,minor,36410.0,1364912385
+Kalāleh,Kalaleh,37.3789,55.4889,Iran,IR,IRN,Golestān,minor,36176.0,1364463106
+Rāmsar,Ramsar,36.9225,50.6431,Iran,IR,IRN,Māzandarān,minor,35997.0,1364587162
+Şaḩneh,Sahneh,34.4811,47.68,Iran,IR,IRN,Kermānshāh,minor,35508.0,1364060244
+Khodābandeh,Khodabandeh,36.1194,48.5917,Iran,IR,IRN,Zanjān,,34921.0,1364020796
+Sarpol-e Z̄ahāb,Sarpol-e Zahab,34.4589,45.8614,Iran,IR,IRN,Kermānshāh,minor,34632.0,1364372222
+Bāft,Baft,29.235,56.5989,Iran,IR,IRN,Kermān,minor,34517.0,1364013464
+Gerāsh,Gerash,27.6667,54.1411,Iran,IR,IRN,Fārs,minor,34469.0,1364856957
+Nāz̧erābād,Nazerabad,31.5775,54.4369,Iran,IR,IRN,Yazd,,34237.0,1364306000
+Shāhīn Dezh,Shahin Dezh,36.6806,46.5681,Iran,IR,IRN,Āz̄arbāyjān-e Gharbī,minor,34204.0,1364208028
+Dīvāndarreh,Divandarreh,35.9158,47.0228,Iran,IR,IRN,Kordestān,minor,34007.0,1364126275
+‘Ajab Shīr,`Ajab Shir,37.4833,45.8911,Iran,IR,IRN,Āz̄arbāyjān-e Sharqī,minor,33606.0,1364433724
+Aleshtar,Aleshtar,33.8653,48.2622,Iran,IR,IRN,Lorestān,minor,33558.0,1364420866
+Khvāf,Khvaf,34.5711,60.1439,Iran,IR,IRN,Khorāsān-e Raẕavī,minor,33189.0,1364404057
+Dehlorān,Dehloran,32.6892,47.2689,Iran,IR,IRN,Īlām,minor,32941.0,1364480030
+Zarqān,Zarqan,29.7683,52.7186,Iran,IR,IRN,Fārs,,32261.0,1364934865
+Farrokh Shahr,Farrokh Shahr,32.2714,50.9775,Iran,IR,IRN,Chahār Maḩāl va Bakhtīārī,,31739.0,1364423135
+Kavār,Kavar,29.2017,52.6917,Iran,IR,IRN,Fārs,minor,31711.0,1364873386
+Jam,Jam,27.8236,52.3303,Iran,IR,IRN,Būshehr,minor,31436.0,1364586053
+Eyvān,Eyvan,33.8278,46.3061,Iran,IR,IRN,Īlām,minor,31299.0,1364070633
+Fārsān,Farsan,32.2553,50.5711,Iran,IR,IRN,Chahār Maḩāl va Bakhtīārī,minor,30504.0,1364887348
+Bandar-e Lengeh,Bandar-e Lengeh,26.5594,54.885,Iran,IR,IRN,Hormozgān,minor,30435.0,1364154507
+Mīnūdasht,Minudasht,37.2306,55.3736,Iran,IR,IRN,Golestān,minor,30085.0,1364374243
+Qahderījān,Qahderijan,32.5772,51.4539,Iran,IR,IRN,Eşfahān,,30002.0,1364015114
+Eshtehārd,Eshtehard,35.7247,50.3717,Iran,IR,IRN,Alborz,minor,29993.0,1364749382
+Bāzeh Kalāgh,Bazeh Kalagh,36.5325,59.3636,Iran,IR,IRN,Khorāsān-e Raẕavī,,29751.0,1364000965
+Chahchaheh,Chahchaheh,36.5325,59.3636,Iran,IR,IRN,Khorāsān-e Raẕavī,,29751.0,1364288291
+Bozmargī,Bozmargi,36.5325,59.3636,Iran,IR,IRN,Khorāsān-e Raẕavī,,29751.0,1364142429
+Kalāteh-ye Mīr Āb,Kalateh-ye Mir Ab,36.5325,59.3636,Iran,IR,IRN,Khorāsān-e Raẕavī,,29751.0,1364575634
+Sardrūd,Sardrud,38.0286,46.1475,Iran,IR,IRN,Āz̄arbāyjān-e Sharqī,,29739.0,1364669564
+Karahrūd,Karahrud,34.0628,49.6461,Iran,IR,IRN,Markazī,,29721.0,1364671095
+Lāmerd,Lamerd,27.3336,53.1886,Iran,IR,IRN,Fārs,minor,29380.0,1364138178
+Hendījān,Hendijan,30.2383,49.7075,Iran,IR,IRN,Khūzestān,minor,29015.0,1364511493
+Germī,Germi,39.0297,48.0803,Iran,IR,IRN,Ardabīl,minor,28967.0,1364702813
+Ferdows,Ferdows,34.0192,58.1731,Iran,IR,IRN,Khorāsān-e Jonūbī,minor,28695.0,1364726731
+Rūdehen,Rudehen,35.7333,51.9192,Iran,IR,IRN,Tehrān,,28533.0,1364001385
+Bardaskan,Bardaskan,35.2625,57.9703,Iran,IR,IRN,Khorāsān-e Raẕavī,minor,28233.0,1364509063
+Fūman,Fuman,37.2242,49.3125,Iran,IR,IRN,Gīlān,minor,27763.0,1364180869
+Abarkūh,Abarkuh,31.1267,53.2592,Iran,IR,IRN,Yazd,minor,27524.0,1364624357
+Malekān,Malekan,37.15,46.1042,Iran,IR,IRN,Āz̄arbāyjān-e Sharqī,minor,27431.0,1364475423
+Şafāshahr,Safashahr,30.6133,53.1928,Iran,IR,IRN,Fārs,minor,26933.0,1364976274
+Qā’emīyeh,Qa'emiyeh,29.8525,51.5842,Iran,IR,IRN,Fārs,,26918.0,1364710224
+Qarah Ẕīā’ od Dīn,Qarah Zia' od Din,38.89,45.0283,Iran,IR,IRN,Āz̄arbāyjān-e Gharbī,minor,26767.0,1364834159
+Poldokhtar,Poldokhtar,33.1489,47.7164,Iran,IR,IRN,Lorestān,minor,26352.0,1364688613
+Bāgh-e Malek,Bagh-e Malek,31.5247,49.8869,Iran,IR,IRN,Khūzestān,minor,26343.0,1364455619
+Semīrom,Semirom,31.4094,51.5736,Iran,IR,IRN,Eşfahān,minor,26260.0,1364089259
+Dehgolān,Dehgolan,35.2778,47.4175,Iran,IR,IRN,Kordestān,minor,25992.0,1364387900
+Pāveh,Paveh,35.0433,46.355,Iran,IR,IRN,Kermānshāh,minor,25771.0,1364382725
+Bandar-e Deylam,Bandar-e Deylam,30.0542,50.1639,Iran,IR,IRN,Būshehr,minor,25730.0,1364497361
+Shāhedshahr,Shahedshahr,35.5731,51.0869,Iran,IR,IRN,Tehrān,,25544.0,1364463020
+Showţ,Showt,39.2197,44.7722,Iran,IR,IRN,Āz̄arbāyjān-e Gharbī,minor,25381.0,1364959512
+Bardsīr,Bardsir,29.9275,56.5764,Iran,IR,IRN,Kermān,minor,25152.0,1364465140
+Āshkhāneh,Ashkhaneh,37.5578,56.9258,Iran,IR,IRN,Khorāsān-e Shomālī,minor,25104.0,1364197462
+Rāmshīr,Ramshir,30.8936,49.4086,Iran,IR,IRN,Khūzestān,minor,25009.0,1364250700
+Ravānsar,Ravansar,34.7125,46.6511,Iran,IR,IRN,Kermānshāh,minor,24527.0,1364582269
+Mahdīshahr,Mahdishahr,35.7144,53.3569,Iran,IR,IRN,Semnān,minor,24485.0,1364801554
+Gaz,Gaz,32.8061,51.6206,Iran,IR,IRN,Eşfahān,,24433.0,1364058076
+Gotvand,Gotvand,32.2433,48.8136,Iran,IR,IRN,Khūzestān,minor,24216.0,1364528412
+Deyr,Deyr,27.8417,51.9394,Iran,IR,IRN,Būshehr,minor,24083.0,1364059934
+Gālīkesh,Galikesh,37.2728,55.4328,Iran,IR,IRN,Golestān,minor,23394.0,1364497413
+Sheybān,Sheyban,31.4061,48.7944,Iran,IR,IRN,Khūzestān,,23211.0,1364776996
+Kelīshād va Sūdarjān,Kelishad va Sudarjan,32.5489,51.5286,Iran,IR,IRN,Eşfahān,,23203.0,1364528827
+‘Ālī Shahr,`Ali Shahr,28.9306,51.0689,Iran,IR,IRN,Būshehr,,23178.0,1364067141
+Baravāt,Baravat,29.0656,58.4039,Iran,IR,IRN,Kermān,,22761.0,1364538524
+Rāvar,Ravar,31.2633,56.8072,Iran,IR,IRN,Kermān,minor,22729.0,1364603087
+Garmdarreh,Garmdarreh,35.7478,51.0678,Iran,IR,IRN,Alborz,,22726.0,1364748189
+Goldasht,Goldasht,32.6269,51.4386,Iran,IR,IRN,Eşfahān,,22693.0,1364824865
+Gīlān-e Gharb,Gilan-e Gharb,34.1406,45.9183,Iran,IR,IRN,Kermānshāh,minor,22331.0,1364195329
+Shabestar,Shabestar,38.18,45.7039,Iran,IR,IRN,Āz̄arbāyjān-e Sharqī,minor,22181.0,1364001665
+Ḩamīdīyeh,Hamidiyeh,31.4811,48.435,Iran,IR,IRN,Khūzestān,minor,22057.0,1364148663
+Khosrowshahr,Khosrowshahr,37.9497,46.0508,Iran,IR,IRN,Āz̄arbāyjān-e Sharqī,,21972.0,1364295244
+Darreh Shahr,Darreh Shahr,33.1431,47.3794,Iran,IR,IRN,Īlām,minor,21900.0,1364154593
+Ma’mūnīyeh,Ma'muniyeh,35.305,50.4975,Iran,IR,IRN,Markazī,,21814.0,1364067553
+Hafshejān,Hafshejan,32.2269,50.7931,Iran,IR,IRN,Chahār Maḩāl va Bakhtīārī,,21352.0,1364919018
+Galūgāh,Galugah,36.7269,53.8089,Iran,IR,IRN,Māzandarān,minor,21352.0,1364928073
+Shāzand,Shazand,33.9292,49.4103,Iran,IR,IRN,Markazī,minor,21181.0,1364700789
+Ţorqabeh,Torqabeh,36.3142,59.3725,Iran,IR,IRN,Khorāsān-e Raẕavī,minor,20998.0,1364331013
+Bandar-e Gaz,Bandar-e Gaz,36.7739,53.9481,Iran,IR,IRN,Golestān,minor,20742.0,1364226344
+Moḩammadābād,Mohammadabad,28.6517,59.0158,Iran,IR,IRN,Kermān,minor,20720.0,1364372718
+Hashtrūd,Hashtrud,37.4714,47.0583,Iran,IR,IRN,Āz̄arbāyjān-e Sharqī,minor,20572.0,1364790184
+Khvānsār,Khvansar,33.2208,50.3153,Iran,IR,IRN,Eşfahān,minor,20490.0,1364250256
+Farāshband,Farashband,28.8564,52.0964,Iran,IR,IRN,Fārs,minor,20320.0,1364248167
+Khowrzūq,Khowrzuq,32.7783,51.6478,Iran,IR,IRN,Eşfahān,,20301.0,1364753903
+Evaz,Evaz,27.76,54.0067,Iran,IR,IRN,Fārs,,19987.0,1364440193
+Sīāhkal,Siahkal,37.1506,49.8714,Iran,IR,IRN,Gīlān,minor,19924.0,1364607008
+Līkak,Likak,30.8928,50.0928,Iran,IR,IRN,Kohgīlūyeh va Bowyer Aḩmad,minor,19857.0,1364865107
+Maḩmūdābād Nemūneh,Mahmudabad Nemuneh,36.2903,49.8994,Iran,IR,IRN,Qazvīn,,19669.0,1364599190
+Jājarm,Jajarm,36.9519,56.3758,Iran,IR,IRN,Khorāsān-e Shomālī,minor,19580.0,1364569834
+Hoveyzeh,Hoveyzeh,31.4606,48.0781,Iran,IR,IRN,Khūzestān,minor,19481.0,1364073949
+Abrīsham,Abrisham,32.5675,51.5733,Iran,IR,IRN,Eşfahān,,19406.0,1364088280
+Mahājerān-e Kamar,Mahajeran-e Kamar,34.0486,49.4311,Iran,IR,IRN,Markazī,,19346.0,1364396330
+Khonj,Khonj,27.8897,53.4308,Iran,IR,IRN,Fārs,minor,19217.0,1364328098
+Kabūdarāhang,Kabudarahang,35.2094,48.7236,Iran,IR,IRN,Hamadān,minor,19216.0,1364143684
+Bandar-e Kong,Bandar-e Kong,26.5947,54.9381,Iran,IR,IRN,Hormozgān,,19213.0,1364767646
+Gomīshān,Gomishan,37.07,54.0769,Iran,IR,IRN,Golestān,minor,19191.0,1364412693
+Ashkezar,Ashkezar,32.0006,54.2075,Iran,IR,IRN,Yazd,minor,19123.0,1364544757
+Āb Pakhsh,Ab Pakhsh,29.3606,51.0683,Iran,IR,IRN,Būshehr,,18913.0,1364462555
+Nakhl-e Taqī,Nakhl-e Taqi,27.5014,52.5858,Iran,IR,IRN,Būshehr,,18837.0,1364288724
+Choghādak,Choghadak,28.9864,51.0375,Iran,IR,IRN,Būshehr,,18702.0,1364637540
+Kherāmeh,Kherameh,29.4992,53.3131,Iran,IR,IRN,Fārs,minor,18477.0,1364200979
+Qaşr-e Shīrīn,Qasr-e Shirin,34.5158,45.5772,Iran,IR,IRN,Kermānshāh,minor,18473.0,1364110689
+Taft,Taft,31.7492,54.2103,Iran,IR,IRN,Yazd,minor,18464.0,1364828948
+Oskū,Osku,37.9147,46.1217,Iran,IR,IRN,Āz̄arbāyjān-e Sharqī,minor,18459.0,1364247640
+Nīār,Niar,38.2369,48.3272,Iran,IR,IRN,Ardabīl,,18405.0,1364163489
+Gerd Farāmarz Shāhedīyeh,Gerd Faramarz Shahediyeh,31.9417,54.2677,Iran,IR,IRN,Yazd,,18309.0,1364448828
+Abrandābād-e Shāhedīyeh,Abrandabad-e Shahediyeh,31.9408,54.2736,Iran,IR,IRN,Yazd,,18309.0,1364301778
+Nehbandān,Nehbandan,31.5436,60.0372,Iran,IR,IRN,Khorāsān-e Jonūbī,minor,18304.0,1364475715
+Sarvestān,Sarvestan,29.2739,53.2203,Iran,IR,IRN,Fārs,minor,18187.0,1364001043
+‘Anbarābād,`Anbarabad,28.4794,57.8414,Iran,IR,IRN,Kermān,minor,18185.0,1364601735
+Lavāsān,Lavasan,35.8183,51.6383,Iran,IR,IRN,Tehrān,,18146.0,1364266184
+Feyẕābād,Feyzabad,35.0183,58.7839,Iran,IR,IRN,Khorāsān-e Raẕavī,minor,18120.0,1364181999
+Bīdestān,Bidestan,36.2308,50.1236,Iran,IR,IRN,Qazvīn,,18060.0,1364097069
+Dīzīcheh,Dizicheh,32.3869,51.5122,Iran,IR,IRN,Eşfahān,,17966.0,1364315138
+Seyah Cheshmeh,Seyah Cheshmeh,39.0631,44.3836,Iran,IR,IRN,Āz̄arbāyjān-e Gharbī,minor,17804.0,1364268650
+Nīkshahr,Nikshahr,26.2253,60.2167,Iran,IR,IRN,Sīstān va Balūchestān,minor,17732.0,1364780885
+Arsanjān,Arsanjan,29.9142,53.3058,Iran,IR,IRN,Fārs,minor,17642.0,1364977336
+Mehrān,Mehran,33.1208,46.1642,Iran,IR,IRN,Īlām,minor,17435.0,1364360817
+Sedeh Lanjān,Sedeh Lanjan,32.3786,51.3178,Iran,IR,IRN,Eşfahān,,17335.0,1364171855
+Sa‘ādat Shahr,Sa`adat Shahr,30.0772,53.1328,Iran,IR,IRN,Fārs,minor,17131.0,1364794226
+Dehāqān,Dehaqan,31.9386,51.6475,Iran,IR,IRN,Eşfahān,minor,16899.0,1364614039
+Jāsk,Jask,25.6531,57.7817,Iran,IR,IRN,Hormozgān,minor,16860.0,1364208450
+Īlkhchī,Ilkhchi,37.9373,45.979,Iran,IR,IRN,Āz̄arbāyjān-e Sharqī,,16574.0,1364345674
+Īlkhechī,Ilkhechi,37.9378,45.9803,Iran,IR,IRN,Āz̄arbāyjān-e Sharqī,,16574.0,1364079327
+Tafresh,Tafresh,34.6939,50.0156,Iran,IR,IRN,Markazī,minor,16493.0,1364000242
+Boshrūyeh,Boshruyeh,33.8681,57.4286,Iran,IR,IRN,Khorāsān-e Jonūbī,minor,16426.0,1364726619
+Bīleh Savār,Bileh Savar,39.3778,48.3497,Iran,IR,IRN,Ardabīl,minor,16188.0,1364239600
+Haftkel,Haftkel,31.4444,49.5314,Iran,IR,IRN,Khūzestān,minor,15802.0,1364566639
+Ardestān,Ardestan,33.3731,52.3689,Iran,IR,IRN,Eşfahān,minor,15744.0,1364684540
+Tīrān,Tiran,32.7033,51.1558,Iran,IR,IRN,Eşfahān,minor,15673.0,1364233124
+Manūjān,Manujan,27.4031,57.4917,Iran,IR,IRN,Kermān,minor,15634.0,1364733657
+Manjīl,Manjil,36.7447,49.4014,Iran,IR,IRN,Gīlān,,15630.0,1364624018
+Chamgardān,Chamgardan,32.3931,51.3392,Iran,IR,IRN,Eşfahān,,15574.0,1364112093
+Anār,Anar,30.8694,55.2678,Iran,IR,IRN,Kermān,minor,15532.0,1364013146
+Dastgerd,Dastgerd,32.8008,51.6647,Iran,IR,IRN,Eşfahān,,15524.0,1364996387
+Morteẕá Gerd,Morteza Gerd,35.6019,51.3486,Iran,IR,IRN,Tehrān,,15506.0,1364878476
+Bandar-e Khamīr,Bandar-e Khamir,26.9511,55.5867,Iran,IR,IRN,Hormozgān,minor,15320.0,1364051515
+Veys,Veys,31.4861,48.8756,Iran,IR,IRN,Khūzestān,,15312.0,1364127242
+Shāl,Shal,35.8975,49.7694,Iran,IR,IRN,Qazvīn,,15290.0,1364939972
+Charām,Charam,30.7461,50.7461,Iran,IR,IRN,Kohgīlūyeh va Bowyer Aḩmad,minor,15218.0,1364997839
+Ahram,Ahram,28.8833,51.275,Iran,IR,IRN,Būshehr,minor,15198.0,1364866540
+Amlash,Amlash,37.0944,50.1928,Iran,IR,IRN,Gīlān,minor,15047.0,1364041120
+Lālejīn,Lalejin,34.9742,48.4756,Iran,IR,IRN,Hamadān,,14916.0,1364688538
+Neqāb,Neqab,36.7072,57.4194,Iran,IR,IRN,Khorāsān-e Raẕavī,minor,14723.0,1364003209
+Sepīdān,Sepidan,30.2594,51.9853,Iran,IR,IRN,Fārs,minor,14633.0,1364046715
+Dargahān,Dargahan,26.9667,56.0708,Iran,IR,IRN,Hormozgān,,14525.0,1364735795
+Razan,Razan,35.3886,49.0331,Iran,IR,IRN,Hamadān,minor,14275.0,1364076890
+Naţanz,Natanz,33.5072,51.9136,Iran,IR,IRN,Eşfahān,minor,14122.0,1364002460
+Kīāshahr,Kiashahr,37.4214,49.9408,Iran,IR,IRN,Gīlān,,14022.0,1364362691
+Fāmenīn,Famenin,35.1139,48.9725,Iran,IR,IRN,Hamadān,minor,14019.0,1364228108
+Shāndīz,Shandiz,36.3961,59.3092,Iran,IR,IRN,Khorāsān-e Raẕavī,,13987.0,1364668748
+Hīdaj,Hidaj,36.2547,49.1311,Iran,IR,IRN,Zanjān,,13840.0,1364864435
+Dowbarān,Dowbaran,28.405,54.1878,Iran,IR,IRN,Fārs,,13809.0,1364470614
+Sarāyān,Sarayan,33.8614,58.5217,Iran,IR,IRN,Khorāsān-e Jonūbī,minor,13795.0,1364790905
+Rostamābād,Rostamabad,36.8994,49.4931,Iran,IR,IRN,Gīlān,,13746.0,1364326640
+Namīn,Namin,38.4256,48.4839,Iran,IR,IRN,Ardabīl,minor,13659.0,1364085966
+Jannat Shahr,Jannat Shahr,28.6569,54.6861,Iran,IR,IRN,Fārs,,13598.0,1364043305
+Sūrān,Suran,27.2856,61.9964,Iran,IR,IRN,Sīstān va Balūchestān,minor,13580.0,1364461163
+Bandar-e ‘Asalūyeh,Bandar-e `Asaluyeh,27.4744,52.6114,Iran,IR,IRN,Būshehr,minor,13557.0,1364542336
+Kharv-e Soflá,Kharv-e Sofla,36.1403,59.0075,Iran,IR,IRN,Khorāsān-e Raẕavī,,13535.0,1364830111
+Fereydūnshahr,Fereydunshahr,32.9419,50.1203,Iran,IR,IRN,Eşfahān,minor,13475.0,1364461971
+Kalārdasht,Kalardasht,36.5056,51.1589,Iran,IR,IRN,Māzandarān,minor,13401.0,1364243164
+Zehak,Zehak,30.8933,61.6789,Iran,IR,IRN,Sīstān va Balūchestān,minor,13357.0,1364240166
+Farādonbeh,Faradonbeh,32.0078,51.2156,Iran,IR,IRN,Chahār Maḩāl va Bakhtīārī,,13317.0,1364199475
+Rābor,Rabor,29.2903,56.9133,Iran,IR,IRN,Kermān,minor,13263.0,1364476007
+Qal‘eh Ganj,Qal`eh Ganj,27.525,57.88,Iran,IR,IRN,Kermān,minor,13169.0,1364072799
+Fannūj,Fannuj,26.5753,59.6403,Iran,IR,IRN,Sīstān va Balūchestān,minor,13070.0,1364947990
+Lowshān,Lowshan,36.6278,49.5114,Iran,IR,IRN,Gīlān,,13032.0,1364318823
+Shahr-e Herāt,Shahr-e Herat,30.0547,54.3717,Iran,IR,IRN,Yazd,minor,13032.0,1364330823
+Ben,Ben,32.5444,50.7461,Iran,IR,IRN,Chahār Maḩāl va Bakhtīārī,minor,12971.0,1364428326
+Khomām,Khomam,37.3911,49.6597,Iran,IR,IRN,Gīlān,,12901.0,1364567758
+Landeh,Landeh,30.9808,50.4214,Iran,IR,IRN,Kohgīlūyeh va Bowyer Aḩmad,minor,12772.0,1364576368
+Varzaneh,Varzaneh,32.4197,52.6478,Iran,IR,IRN,Eşfahān,,12714.0,1364732883
+Bāsmenj,Basmenj,37.9964,46.4717,Iran,IR,IRN,Āz̄arbāyjān-e Sharqī,,12692.0,1364033031
+Sangar,Sangar,37.1797,49.6942,Iran,IR,IRN,Gīlān,,12583.0,1364837477
+Nāysar,Naysar,35.3267,47.0686,Iran,IR,IRN,Kordestān,,12480.0,1364980803
+Eyvānekey,Eyvanekey,35.3444,52.0714,Iran,IR,IRN,Semnān,,12462.0,1364816027
+Sangān,Sangan,34.3994,60.2558,Iran,IR,IRN,Khorāsān-e Raẕavī,,12443.0,1364471861
+Sarābleh,Sarableh,33.7683,46.5619,Iran,IR,IRN,Īlām,minor,12393.0,1364153811
+Asfarvarīn,Asfarvarin,35.9358,49.7469,Iran,IR,IRN,Qazvīn,,12371.0,1364597620
+Reẕvānshahr,Rezvanshahr,37.5481,49.1356,Iran,IR,IRN,Gīlān,minor,12355.0,1364695165
+Sūreshjān,Sureshjan,32.3156,50.6783,Iran,IR,IRN,Chahār Maḩāl va Bakhtīārī,,12308.0,1364345684
+Charmahīn,Charmahin,32.3372,51.1933,Iran,IR,IRN,Eşfahān,,12292.0,1364383489
+Senjān,Senjan,34.0506,49.6214,Iran,IR,IRN,Markazī,,12249.0,1364156071
+Zābolī,Zaboli,27.1283,61.6722,Iran,IR,IRN,Sīstān va Balūchestān,minor,12245.0,1364807796
+Bampūr,Bampur,27.195,60.4547,Iran,IR,IRN,Sīstān va Balūchestān,,12217.0,1364531120
+Boldājī,Boldaji,31.9383,51.0533,Iran,IR,IRN,Chahār Maḩāl va Bakhtīārī,,11980.0,1364062486
+Arakvāz-e Malekshāhī,Arakvaz-e Malekshahi,33.3847,46.5978,Iran,IR,IRN,Īlām,minor,11977.0,1364625820
+Mamqān,Mamqan,37.8458,45.9719,Iran,IR,IRN,Āz̄arbāyjān-e Sharqī,,11892.0,1364475727
+Bajestān,Bajestan,34.5161,58.1842,Iran,IR,IRN,Khorāsān-e Raẕavī,minor,11741.0,1364026409
+Zārach,Zarach,31.9911,54.2322,Iran,IR,IRN,Yazd,,11691.0,1364790492
+Rostam Kolā,Rostam Kola,36.6789,53.4297,Iran,IR,IRN,Māzandarān,,11686.0,1364863300
+Qaşr-e Qand,Qasr-e Qand,26.2356,60.7408,Iran,IR,IRN,Sīstān va Balūchestān,minor,11605.0,1364737765
+Khorramābād,Khorramabad,36.7822,50.8714,Iran,IR,IRN,Māzandarān,,11542.0,1364053905
+Poldasht,Poldasht,39.3447,45.0681,Iran,IR,IRN,Āz̄arbāyjān-e Gharbī,minor,11472.0,1364811524
+Kashaf,Kashaf,36.3678,59.5767,Iran,IR,IRN,Khorāsān-e Raẕavī,,11459.0,1364712972
+Kūshk,Kushk,32.6419,51.4997,Iran,IR,IRN,Eşfahān,,11264.0,1364515692
+Lavandevīl,Lavandevil,38.3089,48.8703,Iran,IR,IRN,Gīlān,,11235.0,1364485386
+Vaḩdattīyeh,Vahdattiyeh,29.4842,51.2369,Iran,IR,IRN,Būshehr,,11222.0,1364485087
+Hamadānak,Hamadanak,35.5422,51.1383,Iran,IR,IRN,Tehrān,,11216.0,1364169657
+Sarāb-e Tāveh-ye ‘Olyā,Sarab-e Taveh-ye `Olya,30.5964,51.5725,Iran,IR,IRN,Kohgīlūyeh va Bowyer Aḩmad,,11195.0,1364078533
+Chamestān,Chamestan,36.4792,52.1194,Iran,IR,IRN,Māzandarān,,11194.0,1364361980
+Shahmīrzād,Shahmirzad,35.7692,53.3361,Iran,IR,IRN,Semnān,,11191.0,1364136501
+Arvand Kenār,Arvand Kenar,29.9789,48.5206,Iran,IR,IRN,Khūzestān,,11173.0,1364710033
+Arvand Kenār,Arvand Kenar,29.9786,48.5189,Iran,IR,IRN,Khūzestān,,11173.0,1364278589
+Kārīz,Kariz,34.8117,60.8239,Iran,IR,IRN,Khorāsān-e Raẕavī,,11102.0,1364756203
+Şā’īn Qal‘eh,Sa'in Qal`eh,36.3058,49.0739,Iran,IR,IRN,Zanjān,,11083.0,1364854942
+Ḩaşşeh,Hasseh,32.7067,51.7556,Iran,IR,IRN,Eşfahān,,10942.0,1364425032
+Garmeh,Garmeh,36.9864,56.2881,Iran,IR,IRN,Khorāsān-e Shomālī,minor,10933.0,1364001152
+Qaşr-e Qomsheh,Qasr-e Qomsheh,29.7756,52.4417,Iran,IR,IRN,Fārs,,10890.0,1364885265
+Khān Bebīn,Khan Bebin,37.0097,54.9858,Iran,IR,IRN,Golestān,,10878.0,1364836717
+Shamsābād,Shamsabad,32.2978,48.4283,Iran,IR,IRN,Khūzestān,,10858.0,1364349532
+Pīr Bakrān,Pir Bakran,32.4678,51.5556,Iran,IR,IRN,Eşfahān,,10851.0,1364421592
+Gol Tappeh,Gol Tappeh,35.4872,51.565,Iran,IR,IRN,Tehrān,,10850.0,1364945991
+Maryānaj,Maryanaj,34.8297,48.4578,Iran,IR,IRN,Hamadān,,10848.0,1364941323
+Qal‘eh Chan‘ān,Qal`eh Chan`an,31.2403,48.7011,Iran,IR,IRN,Khūzestān,,10764.0,1364626383
+Bāsht,Basht,30.3611,51.1558,Iran,IR,IRN,Kohgīlūyeh va Bowyer Aḩmad,minor,10764.0,1364527291
+Kūhbanān,Kuhbanan,31.41,56.2825,Iran,IR,IRN,Kermān,minor,10761.0,1364489300
+Deh Bakrī,Deh Bakri,29.0508,57.9167,Iran,IR,IRN,Kermān,,10726.0,1364001986
+Asālem,Asalem,37.7211,48.9583,Iran,IR,IRN,Gīlān,,10720.0,1364809710
+Qal‘eh Tall,Qal`eh Tall,31.6331,49.8897,Iran,IR,IRN,Khūzestān,,10698.0,1364980286
+Darb-e Behesht,Darb-e Behesht,29.2331,57.3397,Iran,IR,IRN,Kermān,,10670.0,1364349317
+Dakhān,Dakhan,35.125,49.5175,Iran,IR,IRN,Markazī,,10664.0,1364442935
+Lasht-e Neshā,Lasht-e Nesha,37.3608,49.8611,Iran,IR,IRN,Gīlān,,10539.0,1364211135
+Herīs,Heris,38.2475,47.1164,Iran,IR,IRN,Āz̄arbāyjān-e Sharqī,minor,10515.0,1364732749
+Bāghīn,Baghin,30.1839,56.8075,Iran,IR,IRN,Kermān,,10407.0,1364307046
+Hachīrūd,Hachirud,36.6856,51.345,Iran,IR,IRN,Māzandarān,,10398.0,1364613179
+Nūkān,Nukan,34.3608,47.1725,Iran,IR,IRN,Kermānshāh,,10377.0,1364395040
+Shahrak-e Enqelāb,Shahrak-e Enqelab,35.5156,51.6867,Iran,IR,IRN,Tehrān,,10344.0,1364192859
+Qārī Kolā-ye Araţeh,Qari Kola-ye Arateh,36.4917,52.9531,Iran,IR,IRN,Māzandarān,,10327.0,1364710926
+Dalgān,Dalgan,27.4825,59.4464,Iran,IR,IRN,Sīstān va Balūchestān,minor,10292.0,1364617875
+Rāyen,Rayen,29.5981,57.4383,Iran,IR,IRN,Kermān,,10286.0,1364046368
+Bāgh-e Bahādorān,Bagh-e Bahadoran,32.3756,51.1881,Iran,IR,IRN,Eşfahān,,10279.0,1364002073
+Meymand,Meymand,28.8683,52.7525,Iran,IR,IRN,Fārs,,10120.0,1364554931
+Rāsak,Rasak,26.2356,61.4014,Iran,IR,IRN,Sīstān va Balūchestān,minor,10115.0,1364728682
+Ardal,Ardal,31.9989,50.6617,Iran,IR,IRN,Chahār Maḩāl va Bakhtīārī,minor,10113.0,1364019952
+Mashhad Rīzeh,Mashhad Rizeh,34.7947,60.5144,Iran,IR,IRN,Khorāsān-e Raẕavī,,10105.0,1364459506
+Kūcheşfahān,Kuchesfahan,37.2783,49.7728,Iran,IR,IRN,Gīlān,,10026.0,1364862389
+Galleh Dār,Galleh Dar,27.6578,52.6594,Iran,IR,IRN,Fārs,,9982.0,1364264493
+Maḩalleh-ye Shīrīnū,Mahalleh-ye Shirinu,27.6258,52.4761,Iran,IR,IRN,Būshehr,,9976.0,1364055893
+Şūfīān,Sufian,38.2722,45.9789,Iran,IR,IRN,Āz̄arbāyjān-e Sharqī,,9963.0,1364080315
+Bastak,Bastak,27.1953,54.3678,Iran,IR,IRN,Hormozgān,minor,9959.0,1364136861
+Sorkheh,Sorkheh,35.4644,53.2086,Iran,IR,IRN,Semnān,minor,9951.0,1364888685
+Mīāndasht,Miandasht,33.0758,50.1631,Iran,IR,IRN,Eşfahān,minor,9933.0,1364540083
+Ţālkhvoncheh,Talkhvoncheh,32.2614,51.5619,Iran,IR,IRN,Eşfahān,,9924.0,1364903302
+Bavānāt,Bavanat,30.4717,53.6261,Iran,IR,IRN,Fārs,,9776.0,1364321545
+Zāhed Shahr,Zahed Shahr,28.7461,53.8039,Iran,IR,IRN,Fārs,,9719.0,1364093059
+Qahjāvarestān,Qahjavarestan,32.7017,51.8358,Iran,IR,IRN,Eşfahān,,9712.0,1364849715
+Gorgāb,Gorgab,32.8661,51.5972,Iran,IR,IRN,Eşfahān,,9690.0,1364220852
+Salmānshahr,Salmanshahr,36.7039,51.1936,Iran,IR,IRN,Māzandarān,,9656.0,1364942661
+Khesht,Khesht,29.5633,51.335,Iran,IR,IRN,Fārs,,9599.0,1364677033
+Shahrak-e Ja‘farīyeh,Shahrak-e Ja`fariyeh,35.6617,50.9947,Iran,IR,IRN,Tehrān,,9452.0,1364186940
+Dānesfahān,Danesfahan,35.8117,49.7431,Iran,IR,IRN,Qazvīn,,9434.0,1364115128
+Chahār Borj-e Qadīm,Chahar Borj-e Qadim,37.1231,45.9761,Iran,IR,IRN,Āz̄arbāyjān-e Gharbī,,9406.0,1364251992
+Ja‘farīyeh,Ja`fariyeh,34.7739,50.5164,Iran,IR,IRN,Qom,,9387.0,1364571429
+Marvast,Marvast,30.4775,54.2128,Iran,IR,IRN,Yazd,,9379.0,1364747499
+Shahr-e Majlesī,Shahr-e Majlesi,32.1956,51.5017,Iran,IR,IRN,Eşfahān,,9363.0,1364778024
+Mīrjāveh,Mirjaveh,29.0147,61.4503,Iran,IR,IRN,Sīstān va Balūchestān,minor,9359.0,1364020318
+Dowlatābād,Dowlatabad,35.2842,59.5225,Iran,IR,IRN,Khorāsān-e Raẕavī,minor,9329.0,1364947262
+Kaleybar,Kaleybar,38.8664,47.0406,Iran,IR,IRN,Āz̄arbāyjān-e Sharqī,minor,9324.0,1364048675
+Moḩammad Yār,Mohammad Yar,36.9819,45.5222,Iran,IR,IRN,Āz̄arbāyjān-e Gharbī,,9313.0,1364495024
+Mīlājerd,Milajerd,34.6214,49.2081,Iran,IR,IRN,Markazī,,9288.0,1364310563
+Abūz̄ar-e Ghaffārī,Abuzar-e Ghaffari,32.1806,48.2778,Iran,IR,IRN,Khūzestān,,9272.0,1364552962
+Joghtāy,Joghtay,36.6383,57.0717,Iran,IR,IRN,Khorāsān-e Raẕavī,minor,9268.0,1364200718
+Jūraqān,Juraqan,34.885,48.5531,Iran,IR,IRN,Hamadān,,9234.0,1364272105
+Bahābād,Bahabad,31.8719,56.0239,Iran,IR,IRN,Yazd,,9232.0,1364142040
+Sūrak,Surak,36.5939,53.2086,Iran,IR,IRN,Māzandarān,minor,9208.0,1364175111
+Golbāf,Golbaf,29.8828,57.7322,Iran,IR,IRN,Kermān,,9205.0,1364424557
+Ḩorr-e Rīāḩī,Horr-e Riahi,32.1444,48.3906,Iran,IR,IRN,Khūzestān,,9177.0,1364177562
+Nashtīfān,Nashtifan,34.435,60.1811,Iran,IR,IRN,Khorāsān-e Raẕavī,,9176.0,1364386254
+Eshkanān,Eshkanan,27.2278,53.6072,Iran,IR,IRN,Fārs,,9115.0,1364207310
+Zeydābād,Zeydabad,29.6008,55.5367,Iran,IR,IRN,Kermān,,9112.0,1364403810
+Banārūyeh,Banaruyeh,28.0864,54.0481,Iran,IR,IRN,Fārs,,9077.0,1364350931
+Shahr-e Pīr,Shahr-e Pir,28.3122,54.3328,Iran,IR,IRN,Fārs,,8927.0,1364616917
+Bīdkhūn,Bidkhun,27.4792,52.6681,Iran,IR,IRN,Būshehr,,8886.0,1364276019
+Pā’īn Chāf,Pa'in Chaf,37.2294,50.2544,Iran,IR,IRN,Gīlān,,8840.0,1364982101
+Moslem Ebn-e ‘Aqīl,Moslem Ebn-e `Aqil,32.0561,48.3056,Iran,IR,IRN,Khūzestān,,8833.0,1364327815
+Jolfā,Jolfa,38.9386,45.6253,Iran,IR,IRN,Āz̄arbāyjān-e Sharqī,minor,8810.0,1364456740
+Komījān,Komijan,34.7181,49.325,Iran,IR,IRN,Markazī,minor,8776.0,1364723077
+Āshtīān,Ashtian,34.5222,50.0069,Iran,IR,IRN,Markazī,minor,8763.0,1364425405
+Banak,Banak,27.8722,52.0289,Iran,IR,IRN,Būshehr,,8753.0,1364681484
+Sarbīsheh,Sarbisheh,32.5775,59.7961,Iran,IR,IRN,Khorāsān-e Jonūbī,minor,8715.0,1364184817
+Pardanjān,Pardanjan,32.2539,50.5975,Iran,IR,IRN,Chahār Maḩāl va Bakhtīārī,,8699.0,1364000864
+Azandarīān,Azandarian,34.5044,48.6919,Iran,IR,IRN,Hamadān,,8685.0,1364125839
+Marāveh Tappeh,Maraveh Tappeh,37.9031,55.9567,Iran,IR,IRN,Golestān,minor,8671.0,1364721495
+Sa‘īdī,Sa`idi,30.3364,57.0994,Iran,IR,IRN,Kermān,,8626.0,1364002523
+Shahrak-e Pārs,Shahrak-e Pars,35.6081,51.3808,Iran,IR,IRN,Tehrān,,8625.0,1364466925
+Seyyedān,Seyyedan,30.0019,53.0033,Iran,IR,IRN,Fārs,,8574.0,1364707291
+Kond Rūd,Kond Rud,38.0094,46.4794,Iran,IR,IRN,Āz̄arbāyjān-e Sharqī,,8518.0,1364907132
+Nalās,Nalas,36.2631,45.4933,Iran,IR,IRN,Āz̄arbāyjān-e Gharbī,,8503.0,1364132708
+Sārī,Sari,36.5633,53.0601,Iran,IR,IRN,Māzandarān,admin,,1364501878
+Īlām,Ilam,33.6374,46.4227,Iran,IR,IRN,Īlām,admin,,1364655025

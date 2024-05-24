@@ -1,0 +1,45 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Vientiane,Vientiane,17.98,102.63,Laos,LA,LAO,Viangchan,primary,948487.0,1418732714
+Xiangkhoang,Xiangkhoang,19.4167,103.5,Laos,LA,LAO,Xiangkhouang,,267172.0,1418829021
+Savannakhet,Savannakhet,16.55,104.75,Laos,LA,LAO,Savannakhét,admin,124000.0,1418179232
+Salavan,Salavan,15.7167,106.4167,Laos,LA,LAO,Salavan,admin,100900.0,1418448631
+Xai,Xai,20.6914,101.9861,Laos,LA,LAO,Oudômxai,admin,79500.0,1418805827
+Pakxé,Pakxe,15.1167,105.7833,Laos,LA,LAO,Champasak,admin,77900.0,1418863956
+Xaignabouli,Xaignabouli,19.25,101.75,Laos,LA,LAO,Xaignabouli,admin,75700.0,1418760593
+Ban Houayxay,Ban Houayxay,20.2631,100.4336,Laos,LA,LAO,Bokèo,admin,70200.0,1418944950
+Thakhèk,Thakhek,17.4,104.8,Laos,LA,LAO,Khammouan,admin,70000.0,1418367677
+Champasak,Champasak,14.8569,105.7533,Laos,LA,LAO,Champasak,,62728.0,1418902447
+Xam Nua,Xam Nua,20.415,104.048,Laos,LA,LAO,Houaphan,admin,56900.0,1418975079
+Louang Namtha,Louang Namtha,20.95,101.4,Laos,LA,LAO,Louangnamtha,admin,54100.0,1418920136
+Louangphabang,Louangphabang,19.89,102.1347,Laos,LA,LAO,Louangphabang,admin,53792.0,1418530759
+Pakxan,Pakxan,18.3964,103.6558,Laos,LA,LAO,Bolikhamxai,admin,45000.0,1418088090
+Phônsavan,Phonsavan,19.46,103.18,Laos,LA,LAO,Xiangkhouang,admin,37507.0,1418378289
+Vangviang,Vangviang,18.9267,102.4494,Laos,LA,LAO,Viangchan,,25000.0,1418562192
+Muang Sing,Muang Sing,21.2,101.15,Laos,LA,LAO,Louangnamtha,minor,23500.0,1418291138
+Phôngsali,Phongsali,21.6833,102.1,Laos,LA,LAO,Phôngsali,admin,23300.0,1418524729
+Attapu,Attapu,14.8,106.8333,Laos,LA,LAO,Attapu,admin,19200.0,1418894454
+Anouvông,Anouvong,18.8989,103.0919,Laos,LA,LAO,Xaisômboun,admin,,1418294155
+Xékong,Xekong,15.3503,106.7286,Laos,LA,LAO,Xékong,admin,,1418000082
+Phôn-Hông,Phon-Hong,18.4953,102.4153,Laos,LA,LAO,Viangchan,admin,,1418592644
+Vientiane,Vientiane,17.98,102.63,Laos,LA,LAO,Viangchan,primary,948487.0,1418732714
+Xiangkhoang,Xiangkhoang,19.4167,103.5,Laos,LA,LAO,Xiangkhouang,,267172.0,1418829021
+Savannakhet,Savannakhet,16.55,104.75,Laos,LA,LAO,Savannakhét,admin,124000.0,1418179232
+Salavan,Salavan,15.7167,106.4167,Laos,LA,LAO,Salavan,admin,100900.0,1418448631
+Xai,Xai,20.6914,101.9861,Laos,LA,LAO,Oudômxai,admin,79500.0,1418805827
+Pakxé,Pakxe,15.1167,105.7833,Laos,LA,LAO,Champasak,admin,77900.0,1418863956
+Xaignabouli,Xaignabouli,19.25,101.75,Laos,LA,LAO,Xaignabouli,admin,75700.0,1418760593
+Ban Houayxay,Ban Houayxay,20.2631,100.4336,Laos,LA,LAO,Bokèo,admin,70200.0,1418944950
+Thakhèk,Thakhek,17.4,104.8,Laos,LA,LAO,Khammouan,admin,70000.0,1418367677
+Champasak,Champasak,14.8569,105.7533,Laos,LA,LAO,Champasak,,62728.0,1418902447
+Xam Nua,Xam Nua,20.415,104.048,Laos,LA,LAO,Houaphan,admin,56900.0,1418975079
+Louang Namtha,Louang Namtha,20.95,101.4,Laos,LA,LAO,Louangnamtha,admin,54100.0,1418920136
+Louangphabang,Louangphabang,19.89,102.1347,Laos,LA,LAO,Louangphabang,admin,53792.0,1418530759
+Pakxan,Pakxan,18.3964,103.6558,Laos,LA,LAO,Bolikhamxai,admin,45000.0,1418088090
+Phônsavan,Phonsavan,19.46,103.18,Laos,LA,LAO,Xiangkhouang,admin,37507.0,1418378289
+Vangviang,Vangviang,18.9267,102.4494,Laos,LA,LAO,Viangchan,,25000.0,1418562192
+Muang Sing,Muang Sing,21.2,101.15,Laos,LA,LAO,Louangnamtha,minor,23500.0,1418291138
+Phôngsali,Phongsali,21.6833,102.1,Laos,LA,LAO,Phôngsali,admin,23300.0,1418524729
+Attapu,Attapu,14.8,106.8333,Laos,LA,LAO,Attapu,admin,19200.0,1418894454
+Anouvông,Anouvong,18.8989,103.0919,Laos,LA,LAO,Xaisômboun,admin,,1418294155
+Xékong,Xekong,15.3503,106.7286,Laos,LA,LAO,Xékong,admin,,1418000082
+Phôn-Hông,Phon-Hong,18.4953,102.4153,Laos,LA,LAO,Viangchan,admin,,1418592644

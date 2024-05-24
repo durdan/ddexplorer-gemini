@@ -1,0 +1,33 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Port Louis,Port Louis,-20.1644,57.5042,Mauritius,MU,MUS,Port Louis,primary,149194.0,1480131261
+Curepipe,Curepipe,-20.3188,57.5263,Mauritius,MU,MUS,Plaines Wilhems,,78618.0,1480343099
+Quatre Bornes,Quatre Bornes,-20.2654,57.4791,Mauritius,MU,MUS,Plaines Wilhems,,77308.0,1480144531
+Quartier Militaire,Quartier Militaire,-20.25,57.55,Mauritius,MU,MUS,Moka,,22745.0,1480030855
+Goodlands,Goodlands,-20.035,57.6431,Mauritius,MU,MUS,Rivière du Rempart,,20712.0,1480043599
+Bel Air,Bel Air,-20.2582,57.7545,Mauritius,MU,MUS,Flacq,,17605.0,1480143096
+Centre de Flacq,Centre de Flacq,-20.2002,57.7177,Mauritius,MU,MUS,Flacq,,15791.0,1480176466
+Bambous,Bambous,-20.26,57.4148,Mauritius,MU,MUS,Black River,,15345.0,1480968056
+Le Hochet,Le Hochet,-20.135,57.5211,Mauritius,MU,MUS,Pamplemousses,,15034.0,1480875761
+Baie du Tombeau,Baie du Tombeau,-20.1138,57.5066,Mauritius,MU,MUS,Pamplemousses,,14687.0,1480279659
+Rose Belle,Rose Belle,-20.4025,57.6061,Mauritius,MU,MUS,Grand Port,,12799.0,1480996186
+Grand Baie,Grand Baie,-20.0131,57.5844,Mauritius,MU,MUS,Rivière du Rempart,,11910.0,1480922858
+Lalmatie,Lalmatie,-20.0184,57.5802,Mauritius,MU,MUS,Flacq,,11910.0,1480729311
+Surinam,Surinam,-20.5139,57.5111,Mauritius,MU,MUS,Savanne,,10507.0,1480977904
+Plaine Magnien,Plaine Magnien,-20.4286,57.6531,Mauritius,MU,MUS,Grand Port,,10443.0,1480551714
+Moka,Moka,-20.219,57.496,Mauritius,MU,MUS,Moka,,8846.0,1480573073
+Port Louis,Port Louis,-20.1644,57.5042,Mauritius,MU,MUS,Port Louis,primary,149194.0,1480131261
+Curepipe,Curepipe,-20.3188,57.5263,Mauritius,MU,MUS,Plaines Wilhems,,78618.0,1480343099
+Quatre Bornes,Quatre Bornes,-20.2654,57.4791,Mauritius,MU,MUS,Plaines Wilhems,,77308.0,1480144531
+Quartier Militaire,Quartier Militaire,-20.25,57.55,Mauritius,MU,MUS,Moka,,22745.0,1480030855
+Goodlands,Goodlands,-20.035,57.6431,Mauritius,MU,MUS,Rivière du Rempart,,20712.0,1480043599
+Bel Air,Bel Air,-20.2582,57.7545,Mauritius,MU,MUS,Flacq,,17605.0,1480143096
+Centre de Flacq,Centre de Flacq,-20.2002,57.7177,Mauritius,MU,MUS,Flacq,,15791.0,1480176466
+Bambous,Bambous,-20.26,57.4148,Mauritius,MU,MUS,Black River,,15345.0,1480968056
+Le Hochet,Le Hochet,-20.135,57.5211,Mauritius,MU,MUS,Pamplemousses,,15034.0,1480875761
+Baie du Tombeau,Baie du Tombeau,-20.1138,57.5066,Mauritius,MU,MUS,Pamplemousses,,14687.0,1480279659
+Rose Belle,Rose Belle,-20.4025,57.6061,Mauritius,MU,MUS,Grand Port,,12799.0,1480996186
+Grand Baie,Grand Baie,-20.0131,57.5844,Mauritius,MU,MUS,Rivière du Rempart,,11910.0,1480922858
+Lalmatie,Lalmatie,-20.0184,57.5802,Mauritius,MU,MUS,Flacq,,11910.0,1480729311
+Surinam,Surinam,-20.5139,57.5111,Mauritius,MU,MUS,Savanne,,10507.0,1480977904
+Plaine Magnien,Plaine Magnien,-20.4286,57.6531,Mauritius,MU,MUS,Grand Port,,10443.0,1480551714
+Moka,Moka,-20.219,57.496,Mauritius,MU,MUS,Moka,,8846.0,1480573073

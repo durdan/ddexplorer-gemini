@@ -1,0 +1,185 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Dar es Salaam,Dar es Salaam,-6.8161,39.2803,Tanzania,TZ,TZA,Dar es Salaam,admin,7962000.0,1834843853
+Mwanza,Mwanza,-2.5167,32.9,Tanzania,TZ,TZA,Mwanza,admin,1104521.0,1834011288
+Ubungo,Ubungo,-6.7889,39.2056,Tanzania,TZ,TZA,Dar es Salaam,,1086912.0,1834358621
+Mbeya,Mbeya,-8.9,33.45,Tanzania,TZ,TZA,Mbeya,admin,541603.0,1834396594
+Arusha,Arusha,-3.3667,36.6833,Tanzania,TZ,TZA,Arusha,admin,416442.0,1834484937
+Uvinza,Uvinza,-5.1069,30.3839,Tanzania,TZ,TZA,Kigoma,,387442.0,1834561245
+Geita,Geita,-2.8714,32.2294,Tanzania,TZ,TZA,Geita,admin,318006.0,1834469543
+Sumbawanga,Sumbawanga,-7.9667,31.6167,Tanzania,TZ,TZA,Rukwa,admin,303986.0,1834684278
+Kibaha,Kibaha,-6.7667,38.9167,Tanzania,TZ,TZA,Coast,admin,265360.0,1834065400
+Bariadi,Bariadi,-2.7919,33.9894,Tanzania,TZ,TZA,Simiyu,admin,260927.0,1834546025
+Kahama,Kahama,-3.8375,32.6,Tanzania,TZ,TZA,Shinyanga,,242208.0,1834043034
+Kasulu,Kasulu,-4.58,30.1,Tanzania,TZ,TZA,Kigoma,,238321.0,1834918111
+Tabora,Tabora,-5.0167,32.8,Tanzania,TZ,TZA,Tabora,admin,221466.0,1834712235
+Zanzibar,Zanzibar,-6.165,39.199,Tanzania,TZ,TZA,Zanzibar Urban/West,admin,219007.0,1834823848
+Morogoro,Morogoro,-6.8242,37.6633,Tanzania,TZ,TZA,Morogoro,admin,207000.0,1834185429
+Ifakara,Ifakara,-8.1,36.6833,Tanzania,TZ,TZA,Morogoro,,205843.0,1834456222
+Mpanda,Mpanda,-6.35,31.0667,Tanzania,TZ,TZA,Katavi,admin,204338.0,1834127573
+Iringa,Iringa,-7.77,35.69,Tanzania,TZ,TZA,Iringa,admin,202490.0,1834453478
+Singida,Singida,-4.8167,34.75,Tanzania,TZ,TZA,Singida,admin,165492.0,1834418526
+Bukoba,Bukoba,-1.3333,31.8167,Tanzania,TZ,TZA,Kagera,admin,144938.0,1834433264
+Moshi,Moshi,-3.3349,37.3404,Tanzania,TZ,TZA,Kilimanjaro,admin,144739.0,1834217168
+Kigoma,Kigoma,-4.8833,29.6333,Tanzania,TZ,TZA,Kigoma,admin,135234.0,1834583327
+Tarime,Tarime,-1.35,34.3833,Tanzania,TZ,TZA,Mara,,133043.0,1834684619
+Nzega,Nzega,-4.2169,33.1864,Tanzania,TZ,TZA,Tabora,,125193.0,1834034762
+Handeni,Handeni,-5.4242,38.0194,Tanzania,TZ,TZA,Tanga,,108968.0,1834479617
+Shinyanga,Shinyanga,-3.6619,33.4231,Tanzania,TZ,TZA,Shinyanga,admin,107362.0,1834972707
+Musoma,Musoma,-1.5,33.8,Tanzania,TZ,TZA,Mara,admin,103497.0,1834100025
+Tanga,Tanga,-5.0742,39.0992,Tanzania,TZ,TZA,Tanga,admin,103399.0,1834004568
+Songea,Songea,-10.6833,35.65,Tanzania,TZ,TZA,Ruvuma,admin,99961.0,1834461509
+Mtwara,Mtwara,-10.2736,40.1828,Tanzania,TZ,TZA,Mtwara,admin,92602.0,1834044142
+Tukuyu,Tukuyu,-9.25,33.65,Tanzania,TZ,TZA,Mbeya,,50000.0,1834960117
+Chake Chake,Chake Chake,-5.2395,39.77,Tanzania,TZ,TZA,Pemba South,admin,49959.0,1834409018
+Tunduru,Tunduru,-11.0667,37.35,Tanzania,TZ,TZA,Ruvuma,,48000.0,1834030694
+Dodoma,Dodoma,-6.1731,35.7419,Tanzania,TZ,TZA,Dodoma,primary,45807.0,1834288497
+Mbulu,Mbulu,-3.85,35.55,Tanzania,TZ,TZA,Manyara,,45384.0,1834497748
+Korogwe,Korogwe,-5.1558,38.4503,Tanzania,TZ,TZA,Tanga,,44000.0,1834605335
+Kilosa,Kilosa,-6.83,36.9875,Tanzania,TZ,TZA,Morogoro,,43418.0,1834242035
+Lindi,Lindi,-9.9969,39.7144,Tanzania,TZ,TZA,Lindi,admin,41549.0,1834550750
+Njombe,Njombe,-9.3333,34.7667,Tanzania,TZ,TZA,Njombe,admin,40607.0,1834328362
+Tunduma,Tunduma,-9.3,32.7667,Tanzania,TZ,TZA,Mbeya,,36556.0,1834094894
+Masasi,Masasi,-10.7296,38.7999,Tanzania,TZ,TZA,Mtwara,,36032.0,1834414126
+Mugumu,Mugumu,-1.8333,34.6667,Tanzania,TZ,TZA,Mara,,36000.0,1834097845
+Bagamoyo,Bagamoyo,-6.4444,38.9028,Tanzania,TZ,TZA,Coast,,35000.0,1834546518
+Magu,Magu,-2.5833,33.4333,Tanzania,TZ,TZA,Mwanza,,35000.0,1834840353
+Mlimba,Mlimba,-8.7786,35.8111,Tanzania,TZ,TZA,Morogoro,,34970.0,1834564958
+Misungwi,Misungwi,-2.85,33.0833,Tanzania,TZ,TZA,Mwanza,,34612.0,1834354110
+Same,Same,-4.0667,37.7833,Tanzania,TZ,TZA,Kilimanjaro,,34322.0,1834888088
+Lushoto,Lushoto,-4.7928,38.2911,Tanzania,TZ,TZA,Tanga,,34000.0,1834431227
+Geiro,Geiro,-6.1428,36.8694,Tanzania,TZ,TZA,Morogoro,,33209.0,1834543579
+Ngudu,Ngudu,-2.9667,33.3333,Tanzania,TZ,TZA,Mwanza,,31123.0,1834250706
+Babati,Babati,-4.2167,35.75,Tanzania,TZ,TZA,Manyara,admin,30975.0,1834081851
+Kibiti,Kibiti,-7.7296,38.95,Tanzania,TZ,TZA,Coast,,30163.0,1834522080
+Mpwapwa,Mpwapwa,-6.35,36.4833,Tanzania,TZ,TZA,Dodoma,,30000.0,1834235223
+Masanwa,Masanwa,-3.1833,33.7833,Tanzania,TZ,TZA,Simiyu,,28000.0,1834929930
+Chato,Chato,-2.6378,31.7669,Tanzania,TZ,TZA,Geita,,27776.0,1834766071
+Sikonge,Sikonge,-5.6333,32.7667,Tanzania,TZ,TZA,Tabora,,27113.0,1834313836
+Wete,Wete,-5.0567,39.7281,Tanzania,TZ,TZA,Pemba North,admin,26450.0,1834217491
+Manyoni,Manyoni,-5.75,34.8333,Tanzania,TZ,TZA,Singida,,25505.0,1834963293
+Kabanga,Kabanga,-2.9022,30.4986,Tanzania,TZ,TZA,Kigoma,,24979.0,1834808900
+Kakonko,Kakonko,-3.2796,30.96,Tanzania,TZ,TZA,Kigoma,,24688.0,1834778373
+Biharamulo,Biharamulo,-2.6333,31.3167,Tanzania,TZ,TZA,Kagera,,24573.0,1834491817
+Itigi,Itigi,-5.7,34.4833,Tanzania,TZ,TZA,Singida,,24000.0,1834524806
+Kilindoni,Kilindoni,-7.9167,39.65,Tanzania,TZ,TZA,Coast,,23426.0,1834982666
+Mazinde,Mazinde,-4.8073,38.2118,Tanzania,TZ,TZA,Tanga,,20534.0,1834830165
+Mikumi,Mikumi,-7.4072,36.9722,Tanzania,TZ,TZA,Morogoro,,20000.0,1834405632
+Muheza,Muheza,-5.1739,38.7875,Tanzania,TZ,TZA,Tanga,,20000.0,1834499547
+Sirari,Sirari,-1.2244,34.4383,Tanzania,TZ,TZA,Mara,,17564.0,1834994899
+Rubeho,Rubeho,-6.2578,36.8653,Tanzania,TZ,TZA,Morogoro,,17020.0,1834075405
+Ngara,Ngara,-2.5122,30.6558,Tanzania,TZ,TZA,Kagera,,16890.0,1834067520
+Karema,Karema,-6.8205,30.4389,Tanzania,TZ,TZA,Katavi,,16385.0,1834711465
+Nyahanga,Nyahanga,-2.3829,33.55,Tanzania,TZ,TZA,Simiyu,,16092.0,1834609339
+Bububu,Bububu,-6.1,39.2167,Tanzania,TZ,TZA,Zanzibar Urban/West,,15666.0,1834932235
+Butiama,Butiama,-1.7667,33.9667,Tanzania,TZ,TZA,Mara,,15383.0,1834201635
+Msata,Msata,-6.3362,38.385,Tanzania,TZ,TZA,Coast,,13740.0,1834058417
+Kashasha,Kashasha,-1.7578,31.6158,Tanzania,TZ,TZA,Kagera,,12508.0,1834270082
+Ngerengere,Ngerengere,-6.75,38.1167,Tanzania,TZ,TZA,Morogoro,,11780.0,1834593902
+Ihumwa,Ihumwa,-6.1667,35.8833,Tanzania,TZ,TZA,Dodoma,,11490.0,1834975730
+Ngorongoro,Ngorongoro,-3.2496,35.52,Tanzania,TZ,TZA,Arusha,,10836.0,1834381549
+Keza,Keza,-2.754,30.682,Tanzania,TZ,TZA,Kagera,,10810.0,1834729432
+Mwaya,Mwaya,-9.4917,34.0333,Tanzania,TZ,TZA,Mbeya,,10304.0,1834213928
+Msoga,Msoga,-6.5667,38.3,Tanzania,TZ,TZA,Coast,,10144.0,1834863543
+Mbamba Bay,Mbamba Bay,-11.2833,34.7717,Tanzania,TZ,TZA,Ruvuma,,8997.0,1834067294
+Kibaya,Kibaya,-5.3014,36.5825,Tanzania,TZ,TZA,Manyara,,8759.0,1834442033
+Rudewa,Rudewa,-10.1008,34.6836,Tanzania,TZ,TZA,Njombe,,8747.0,1834986304
+Nansio,Nansio,-2.1078,33.0864,Tanzania,TZ,TZA,Mara,,8644.0,1834001196
+Oldeani,Oldeani,-3.35,35.55,Tanzania,TZ,TZA,Arusha,,8000.0,1834474820
+Mkokotoni,Mkokotoni,-5.88,39.2731,Tanzania,TZ,TZA,Zanzibar North,minor,2572.0,1834206004
+Kipili,Kipili,-7.4329,30.6,Tanzania,TZ,TZA,Rukwa,,1533.0,1834589411
+Kanyato,Kanyato,-4.4565,30.2614,Tanzania,TZ,TZA,Kigoma,,232.0,1834158031
+Mahonda,Mahonda,-5.9897,39.2519,Tanzania,TZ,TZA,Zanzibar North,admin,,1834907448
+Vwawa,Vwawa,-9.1081,32.9347,Tanzania,TZ,TZA,Songwe,admin,,1834695780
+Koani,Koani,-6.1333,39.2833,Tanzania,TZ,TZA,Zanzibar Central/South,admin,,1834376215
+Dar es Salaam,Dar es Salaam,-6.8161,39.2803,Tanzania,TZ,TZA,Dar es Salaam,admin,7962000.0,1834843853
+Mwanza,Mwanza,-2.5167,32.9,Tanzania,TZ,TZA,Mwanza,admin,1104521.0,1834011288
+Ubungo,Ubungo,-6.7889,39.2056,Tanzania,TZ,TZA,Dar es Salaam,,1086912.0,1834358621
+Mbeya,Mbeya,-8.9,33.45,Tanzania,TZ,TZA,Mbeya,admin,541603.0,1834396594
+Arusha,Arusha,-3.3667,36.6833,Tanzania,TZ,TZA,Arusha,admin,416442.0,1834484937
+Uvinza,Uvinza,-5.1069,30.3839,Tanzania,TZ,TZA,Kigoma,,387442.0,1834561245
+Geita,Geita,-2.8714,32.2294,Tanzania,TZ,TZA,Geita,admin,318006.0,1834469543
+Sumbawanga,Sumbawanga,-7.9667,31.6167,Tanzania,TZ,TZA,Rukwa,admin,303986.0,1834684278
+Kibaha,Kibaha,-6.7667,38.9167,Tanzania,TZ,TZA,Coast,admin,265360.0,1834065400
+Bariadi,Bariadi,-2.7919,33.9894,Tanzania,TZ,TZA,Simiyu,admin,260927.0,1834546025
+Kahama,Kahama,-3.8375,32.6,Tanzania,TZ,TZA,Shinyanga,,242208.0,1834043034
+Kasulu,Kasulu,-4.58,30.1,Tanzania,TZ,TZA,Kigoma,,238321.0,1834918111
+Tabora,Tabora,-5.0167,32.8,Tanzania,TZ,TZA,Tabora,admin,221466.0,1834712235
+Zanzibar,Zanzibar,-6.165,39.199,Tanzania,TZ,TZA,Zanzibar Urban/West,admin,219007.0,1834823848
+Morogoro,Morogoro,-6.8242,37.6633,Tanzania,TZ,TZA,Morogoro,admin,207000.0,1834185429
+Ifakara,Ifakara,-8.1,36.6833,Tanzania,TZ,TZA,Morogoro,,205843.0,1834456222
+Mpanda,Mpanda,-6.35,31.0667,Tanzania,TZ,TZA,Katavi,admin,204338.0,1834127573
+Iringa,Iringa,-7.77,35.69,Tanzania,TZ,TZA,Iringa,admin,202490.0,1834453478
+Singida,Singida,-4.8167,34.75,Tanzania,TZ,TZA,Singida,admin,165492.0,1834418526
+Bukoba,Bukoba,-1.3333,31.8167,Tanzania,TZ,TZA,Kagera,admin,144938.0,1834433264
+Moshi,Moshi,-3.3349,37.3404,Tanzania,TZ,TZA,Kilimanjaro,admin,144739.0,1834217168
+Kigoma,Kigoma,-4.8833,29.6333,Tanzania,TZ,TZA,Kigoma,admin,135234.0,1834583327
+Tarime,Tarime,-1.35,34.3833,Tanzania,TZ,TZA,Mara,,133043.0,1834684619
+Nzega,Nzega,-4.2169,33.1864,Tanzania,TZ,TZA,Tabora,,125193.0,1834034762
+Handeni,Handeni,-5.4242,38.0194,Tanzania,TZ,TZA,Tanga,,108968.0,1834479617
+Shinyanga,Shinyanga,-3.6619,33.4231,Tanzania,TZ,TZA,Shinyanga,admin,107362.0,1834972707
+Musoma,Musoma,-1.5,33.8,Tanzania,TZ,TZA,Mara,admin,103497.0,1834100025
+Tanga,Tanga,-5.0742,39.0992,Tanzania,TZ,TZA,Tanga,admin,103399.0,1834004568
+Songea,Songea,-10.6833,35.65,Tanzania,TZ,TZA,Ruvuma,admin,99961.0,1834461509
+Mtwara,Mtwara,-10.2736,40.1828,Tanzania,TZ,TZA,Mtwara,admin,92602.0,1834044142
+Tukuyu,Tukuyu,-9.25,33.65,Tanzania,TZ,TZA,Mbeya,,50000.0,1834960117
+Chake Chake,Chake Chake,-5.2395,39.77,Tanzania,TZ,TZA,Pemba South,admin,49959.0,1834409018
+Tunduru,Tunduru,-11.0667,37.35,Tanzania,TZ,TZA,Ruvuma,,48000.0,1834030694
+Dodoma,Dodoma,-6.1731,35.7419,Tanzania,TZ,TZA,Dodoma,primary,45807.0,1834288497
+Mbulu,Mbulu,-3.85,35.55,Tanzania,TZ,TZA,Manyara,,45384.0,1834497748
+Korogwe,Korogwe,-5.1558,38.4503,Tanzania,TZ,TZA,Tanga,,44000.0,1834605335
+Kilosa,Kilosa,-6.83,36.9875,Tanzania,TZ,TZA,Morogoro,,43418.0,1834242035
+Lindi,Lindi,-9.9969,39.7144,Tanzania,TZ,TZA,Lindi,admin,41549.0,1834550750
+Njombe,Njombe,-9.3333,34.7667,Tanzania,TZ,TZA,Njombe,admin,40607.0,1834328362
+Tunduma,Tunduma,-9.3,32.7667,Tanzania,TZ,TZA,Mbeya,,36556.0,1834094894
+Masasi,Masasi,-10.7296,38.7999,Tanzania,TZ,TZA,Mtwara,,36032.0,1834414126
+Mugumu,Mugumu,-1.8333,34.6667,Tanzania,TZ,TZA,Mara,,36000.0,1834097845
+Bagamoyo,Bagamoyo,-6.4444,38.9028,Tanzania,TZ,TZA,Coast,,35000.0,1834546518
+Magu,Magu,-2.5833,33.4333,Tanzania,TZ,TZA,Mwanza,,35000.0,1834840353
+Mlimba,Mlimba,-8.7786,35.8111,Tanzania,TZ,TZA,Morogoro,,34970.0,1834564958
+Misungwi,Misungwi,-2.85,33.0833,Tanzania,TZ,TZA,Mwanza,,34612.0,1834354110
+Same,Same,-4.0667,37.7833,Tanzania,TZ,TZA,Kilimanjaro,,34322.0,1834888088
+Lushoto,Lushoto,-4.7928,38.2911,Tanzania,TZ,TZA,Tanga,,34000.0,1834431227
+Geiro,Geiro,-6.1428,36.8694,Tanzania,TZ,TZA,Morogoro,,33209.0,1834543579
+Ngudu,Ngudu,-2.9667,33.3333,Tanzania,TZ,TZA,Mwanza,,31123.0,1834250706
+Babati,Babati,-4.2167,35.75,Tanzania,TZ,TZA,Manyara,admin,30975.0,1834081851
+Kibiti,Kibiti,-7.7296,38.95,Tanzania,TZ,TZA,Coast,,30163.0,1834522080
+Mpwapwa,Mpwapwa,-6.35,36.4833,Tanzania,TZ,TZA,Dodoma,,30000.0,1834235223
+Masanwa,Masanwa,-3.1833,33.7833,Tanzania,TZ,TZA,Simiyu,,28000.0,1834929930
+Chato,Chato,-2.6378,31.7669,Tanzania,TZ,TZA,Geita,,27776.0,1834766071
+Sikonge,Sikonge,-5.6333,32.7667,Tanzania,TZ,TZA,Tabora,,27113.0,1834313836
+Wete,Wete,-5.0567,39.7281,Tanzania,TZ,TZA,Pemba North,admin,26450.0,1834217491
+Manyoni,Manyoni,-5.75,34.8333,Tanzania,TZ,TZA,Singida,,25505.0,1834963293
+Kabanga,Kabanga,-2.9022,30.4986,Tanzania,TZ,TZA,Kigoma,,24979.0,1834808900
+Kakonko,Kakonko,-3.2796,30.96,Tanzania,TZ,TZA,Kigoma,,24688.0,1834778373
+Biharamulo,Biharamulo,-2.6333,31.3167,Tanzania,TZ,TZA,Kagera,,24573.0,1834491817
+Itigi,Itigi,-5.7,34.4833,Tanzania,TZ,TZA,Singida,,24000.0,1834524806
+Kilindoni,Kilindoni,-7.9167,39.65,Tanzania,TZ,TZA,Coast,,23426.0,1834982666
+Mazinde,Mazinde,-4.8073,38.2118,Tanzania,TZ,TZA,Tanga,,20534.0,1834830165
+Mikumi,Mikumi,-7.4072,36.9722,Tanzania,TZ,TZA,Morogoro,,20000.0,1834405632
+Muheza,Muheza,-5.1739,38.7875,Tanzania,TZ,TZA,Tanga,,20000.0,1834499547
+Sirari,Sirari,-1.2244,34.4383,Tanzania,TZ,TZA,Mara,,17564.0,1834994899
+Rubeho,Rubeho,-6.2578,36.8653,Tanzania,TZ,TZA,Morogoro,,17020.0,1834075405
+Ngara,Ngara,-2.5122,30.6558,Tanzania,TZ,TZA,Kagera,,16890.0,1834067520
+Karema,Karema,-6.8205,30.4389,Tanzania,TZ,TZA,Katavi,,16385.0,1834711465
+Nyahanga,Nyahanga,-2.3829,33.55,Tanzania,TZ,TZA,Simiyu,,16092.0,1834609339
+Bububu,Bububu,-6.1,39.2167,Tanzania,TZ,TZA,Zanzibar Urban/West,,15666.0,1834932235
+Butiama,Butiama,-1.7667,33.9667,Tanzania,TZ,TZA,Mara,,15383.0,1834201635
+Msata,Msata,-6.3362,38.385,Tanzania,TZ,TZA,Coast,,13740.0,1834058417
+Kashasha,Kashasha,-1.7578,31.6158,Tanzania,TZ,TZA,Kagera,,12508.0,1834270082
+Ngerengere,Ngerengere,-6.75,38.1167,Tanzania,TZ,TZA,Morogoro,,11780.0,1834593902
+Ihumwa,Ihumwa,-6.1667,35.8833,Tanzania,TZ,TZA,Dodoma,,11490.0,1834975730
+Ngorongoro,Ngorongoro,-3.2496,35.52,Tanzania,TZ,TZA,Arusha,,10836.0,1834381549
+Keza,Keza,-2.754,30.682,Tanzania,TZ,TZA,Kagera,,10810.0,1834729432
+Mwaya,Mwaya,-9.4917,34.0333,Tanzania,TZ,TZA,Mbeya,,10304.0,1834213928
+Msoga,Msoga,-6.5667,38.3,Tanzania,TZ,TZA,Coast,,10144.0,1834863543
+Mbamba Bay,Mbamba Bay,-11.2833,34.7717,Tanzania,TZ,TZA,Ruvuma,,8997.0,1834067294
+Kibaya,Kibaya,-5.3014,36.5825,Tanzania,TZ,TZA,Manyara,,8759.0,1834442033
+Rudewa,Rudewa,-10.1008,34.6836,Tanzania,TZ,TZA,Njombe,,8747.0,1834986304
+Nansio,Nansio,-2.1078,33.0864,Tanzania,TZ,TZA,Mara,,8644.0,1834001196
+Oldeani,Oldeani,-3.35,35.55,Tanzania,TZ,TZA,Arusha,,8000.0,1834474820
+Mkokotoni,Mkokotoni,-5.88,39.2731,Tanzania,TZ,TZA,Zanzibar North,minor,2572.0,1834206004
+Kipili,Kipili,-7.4329,30.6,Tanzania,TZ,TZA,Rukwa,,1533.0,1834589411
+Kanyato,Kanyato,-4.4565,30.2614,Tanzania,TZ,TZA,Kigoma,,232.0,1834158031
+Mahonda,Mahonda,-5.9897,39.2519,Tanzania,TZ,TZA,Zanzibar North,admin,,1834907448
+Vwawa,Vwawa,-9.1081,32.9347,Tanzania,TZ,TZA,Songwe,admin,,1834695780
+Koani,Koani,-6.1333,39.2833,Tanzania,TZ,TZA,Zanzibar Central/South,admin,,1834376215

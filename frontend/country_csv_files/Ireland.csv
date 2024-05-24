@@ -1,0 +1,151 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Dublin,Dublin,53.35,-6.2603,Ireland,IE,IRL,Dublin,primary,1263219.0,1372595407
+Finglas,Finglas,53.4597,-6.2181,Ireland,IE,IRL,Dublin,,330506.0,1372023005
+Cork,Cork,51.8972,-8.47,Ireland,IE,IRL,Cork,admin,222333.0,1372221853
+Galway,Galway,53.2719,-9.0489,Ireland,IE,IRL,Galway,admin,83456.0,1372499968
+Tallaght,Tallaght,53.2886,-6.3572,Ireland,IE,IRL,South Dublin,admin,81022.0,1372547040
+Limerick,Limerick,52.6653,-8.6238,Ireland,IE,IRL,Limerick,admin,58319.0,1372126011
+Lucan,Lucan,53.3544,-6.4486,Ireland,IE,IRL,South Dublin,,57550.0,1372345130
+Waterford,Waterford,52.2567,-7.1292,Ireland,IE,IRL,Waterford,admin,48369.0,1372267114
+Clondalkin,Clondalkin,53.3203,-6.3947,Ireland,IE,IRL,South Dublin,,47938.0,1372645698
+Dún Dealgan,Dun Dealgan,54.0044,-6.4003,Ireland,IE,IRL,Louth,admin,43112.0,1372735852
+Drogheda,Drogheda,53.715,-6.3525,Ireland,IE,IRL,Louth,,40956.0,1372750233
+Swords,Swords,53.4597,-6.2181,Ireland,IE,IRL,Fingal,admin,40776.0,1372755688
+Navan,Navan,53.6528,-6.6814,Ireland,IE,IRL,Meath,,33886.0,1372720842
+Blackrock,Blackrock,53.3015,-6.1778,Ireland,IE,IRL,Dún Laoghaire-Rathdown,,28557.0,1372203613
+Ennis,Ennis,52.8463,-8.9807,Ireland,IE,IRL,Clare,admin,27923.0,1372255646
+Douglas,Douglas,51.8764,-8.4358,Ireland,IE,IRL,Cork,,26883.0,1372287368
+Tralee,Tralee,52.2675,-9.6962,Ireland,IE,IRL,Kerry,admin,26079.0,1372403494
+Carlow,Carlow,52.8306,-6.9317,Ireland,IE,IRL,Carlow,admin,24272.0,1372096982
+Dunleary,Dunleary,53.3,-6.14,Ireland,IE,IRL,Dún Laoghaire-Rathdown,admin,23857.0,1372038958
+Port Laoise,Port Laoise,53.0308,-7.3008,Ireland,IE,IRL,Laois,admin,23494.0,1372726111
+Rathfarnham,Rathfarnham,53.2988,-6.2854,Ireland,IE,IRL,South Dublin,,23276.0,1372740372
+Baile Átha Luain,Baile Atha Luain,53.4236,-7.9425,Ireland,IE,IRL,Westmeath,,22869.0,1372885521
+Ashtown,Ashtown,53.3754,-6.3326,Ireland,IE,IRL,Dublin,,22740.0,1372691515
+Mullingar,Mullingar,53.5224,-7.3378,Ireland,IE,IRL,Westmeath,admin,22667.0,1372969205
+Letterkenny,Letterkenny,54.9566,-7.7203,Ireland,IE,IRL,Donegal,,22549.0,1372452484
+Kilkenny,Kilkenny,52.6477,-7.2561,Ireland,IE,IRL,Kilkenny,admin,22179.0,1372926521
+Greystones,Greystones,53.144,-6.072,Ireland,IE,IRL,Wicklow,,22009.0,1372569009
+Wexford,Wexford,52.3342,-6.4575,Ireland,IE,IRL,Wexford,admin,21524.0,1372349451
+Naas,Naas,53.217,-6.663,Ireland,IE,IRL,Kildare,admin,21393.0,1372985945
+Celbridge,Celbridge,53.338,-6.5388,Ireland,IE,IRL,Kildare,,20601.0,1372142356
+Ballyfermot,Ballyfermot,53.3423,-6.3487,Ireland,IE,IRL,Dublin,,19557.0,1372250707
+Sligo,Sligo,54.2667,-8.4833,Ireland,IE,IRL,Sligo,admin,19199.0,1372185807
+Ballincollig,Ballincollig,51.8879,-8.5893,Ireland,IE,IRL,Cork,,18621.0,1372262951
+Mullach Íde,Mullach Ide,53.4508,-6.1544,Ireland,IE,IRL,Fingal,,18608.0,1372249762
+Clonmel,Clonmel,52.3539,-7.7116,Ireland,IE,IRL,Tipperary,admin,18369.0,1372974181
+Carrigaline,Carrigaline,51.8166,-8.3905,Ireland,IE,IRL,Cork,,18239.0,1372623421
+Stillorgan,Stillorgan,53.2888,-6.1958,Ireland,IE,IRL,Dún Laoghaire-Rathdown,,18212.0,1372796974
+Terenure,Terenure,53.3098,-6.2835,Ireland,IE,IRL,South Dublin,,17972.0,1372407607
+Maigh Nuad,Maigh Nuad,53.3816,-6.591,Ireland,IE,IRL,Kildare,,17259.0,1372438535
+Leixlip,Leixlip,53.3643,-6.4881,Ireland,IE,IRL,Kildare,,16733.0,1372553411
+Baile an Bhiataigh,Baile an Bhiataigh,53.7014,-6.2461,Ireland,IE,IRL,Meath,,15642.0,1372707268
+Donacarney,Donacarney,53.7094,-6.2783,Ireland,IE,IRL,Meath,,15642.0,1372898071
+Tullamore,Tullamore,53.2667,-7.5,Ireland,IE,IRL,Offaly,admin,14607.0,1372035774
+Killarney,Killarney,52.0588,-9.5072,Ireland,IE,IRL,Kerry,,14412.0,1372916792
+Midleton,Midleton,51.916,-8.175,Ireland,IE,IRL,Cork,,13906.0,1372938716
+Arklow,Arklow,52.7941,-6.1649,Ireland,IE,IRL,Wicklow,,13399.0,1372998803
+Castlebar,Castlebar,53.8608,-9.2988,Ireland,IE,IRL,Mayo,admin,13054.0,1372066739
+Wicklow,Wicklow,52.9779,-6.033,Ireland,IE,IRL,Wicklow,admin,12957.0,1372662642
+Cobh,Cobh,51.851,-8.2967,Ireland,IE,IRL,Cork,,12347.0,1372119751
+Enniscorthy,Enniscorthy,52.5021,-6.5659,Ireland,IE,IRL,Wexford,,12310.0,1372938537
+An Cabhán,An Cabhan,53.991,-7.3601,Ireland,IE,IRL,Cavan,admin,11741.0,1372007853
+Gorey,Gorey,52.677,-6.292,Ireland,IE,IRL,Wexford,,11517.0,1372751399
+Tramore,Tramore,52.1588,-7.1463,Ireland,IE,IRL,Waterford,,11277.0,1372317796
+Palmerston,Palmerston,53.35,-6.379,Ireland,IE,IRL,Fingal,,11130.0,1372809336
+Athy,Athy,52.992,-6.987,Ireland,IE,IRL,Kildare,,11035.0,1372942058
+Longford,Longford,53.727,-7.8,Ireland,IE,IRL,Longford,admin,10952.0,1372905339
+Rush,Rush,53.522,-6.089,Ireland,IE,IRL,Fingal,,10875.0,1372361445
+Na Sceirí,Na Sceiri,53.5828,-6.1083,Ireland,IE,IRL,Fingal,,10743.0,1372992347
+Killiney,Killiney,53.2651,-6.1137,Ireland,IE,IRL,Dún Laoghaire-Rathdown,,10600.0,1372843848
+Ráth Tó,Rath To,53.506,-6.463,Ireland,IE,IRL,Meath,,10077.0,1372907755
+Glanmire,Glanmire,51.9167,-8.4,Ireland,IE,IRL,Cork,,9903.0,1372070147
+Nenagh,Nenagh,52.8632,-8.1995,Ireland,IE,IRL,Tipperary,admin,9895.0,1372867922
+Donabate,Donabate,53.487,-6.152,Ireland,IE,IRL,Fingal,,9669.0,1372605200
+Tuam,Tuam,53.515,-8.851,Ireland,IE,IRL,Galway,,9647.0,1372153412
+Shannon,Shannon,52.7137,-8.8686,Ireland,IE,IRL,Clare,,9222.0,1372328164
+Lusca,Lusca,53.526,-6.167,Ireland,IE,IRL,Fingal,,8806.0,1372313792
+Kilcock,Kilcock,53.4004,-6.6681,Ireland,IE,IRL,Kildare,,8674.0,1372153030
+New Ross,New Ross,52.396,-6.945,Ireland,IE,IRL,Wexford,,8610.0,1372019603
+Youghal,Youghal,51.9517,-7.8456,Ireland,IE,IRL,Cork,,8564.0,1372068050
+Monaghan,Monaghan,54.2478,-6.9708,Ireland,IE,IRL,Monaghan,admin,7894.0,1372399438
+Ros Comáin,Ros Comain,53.6333,-8.1833,Ireland,IE,IRL,Roscommon,admin,6555.0,1372870384
+Carrick on Shannon,Carrick on Shannon,53.944,-8.095,Ireland,IE,IRL,Leitrim,admin,4743.0,1372960774
+Donegal,Donegal,54.654,-8.11,Ireland,IE,IRL,Donegal,,2618.0,1372576120
+Lifford,Lifford,54.834,-7.486,Ireland,IE,IRL,Donegal,admin,1613.0,1372149317
+Trim,Trim,53.555,-6.7917,Ireland,IE,IRL,Meath,admin,,1372676556
+Dublin,Dublin,53.35,-6.2603,Ireland,IE,IRL,Dublin,primary,1263219.0,1372595407
+Finglas,Finglas,53.4597,-6.2181,Ireland,IE,IRL,Dublin,,330506.0,1372023005
+Cork,Cork,51.8972,-8.47,Ireland,IE,IRL,Cork,admin,222333.0,1372221853
+Galway,Galway,53.2719,-9.0489,Ireland,IE,IRL,Galway,admin,83456.0,1372499968
+Tallaght,Tallaght,53.2886,-6.3572,Ireland,IE,IRL,South Dublin,admin,81022.0,1372547040
+Limerick,Limerick,52.6653,-8.6238,Ireland,IE,IRL,Limerick,admin,58319.0,1372126011
+Lucan,Lucan,53.3544,-6.4486,Ireland,IE,IRL,South Dublin,,57550.0,1372345130
+Waterford,Waterford,52.2567,-7.1292,Ireland,IE,IRL,Waterford,admin,48369.0,1372267114
+Clondalkin,Clondalkin,53.3203,-6.3947,Ireland,IE,IRL,South Dublin,,47938.0,1372645698
+Dún Dealgan,Dun Dealgan,54.0044,-6.4003,Ireland,IE,IRL,Louth,admin,43112.0,1372735852
+Drogheda,Drogheda,53.715,-6.3525,Ireland,IE,IRL,Louth,,40956.0,1372750233
+Swords,Swords,53.4597,-6.2181,Ireland,IE,IRL,Fingal,admin,40776.0,1372755688
+Navan,Navan,53.6528,-6.6814,Ireland,IE,IRL,Meath,,33886.0,1372720842
+Blackrock,Blackrock,53.3015,-6.1778,Ireland,IE,IRL,Dún Laoghaire-Rathdown,,28557.0,1372203613
+Ennis,Ennis,52.8463,-8.9807,Ireland,IE,IRL,Clare,admin,27923.0,1372255646
+Douglas,Douglas,51.8764,-8.4358,Ireland,IE,IRL,Cork,,26883.0,1372287368
+Tralee,Tralee,52.2675,-9.6962,Ireland,IE,IRL,Kerry,admin,26079.0,1372403494
+Carlow,Carlow,52.8306,-6.9317,Ireland,IE,IRL,Carlow,admin,24272.0,1372096982
+Dunleary,Dunleary,53.3,-6.14,Ireland,IE,IRL,Dún Laoghaire-Rathdown,admin,23857.0,1372038958
+Port Laoise,Port Laoise,53.0308,-7.3008,Ireland,IE,IRL,Laois,admin,23494.0,1372726111
+Rathfarnham,Rathfarnham,53.2988,-6.2854,Ireland,IE,IRL,South Dublin,,23276.0,1372740372
+Baile Átha Luain,Baile Atha Luain,53.4236,-7.9425,Ireland,IE,IRL,Westmeath,,22869.0,1372885521
+Ashtown,Ashtown,53.3754,-6.3326,Ireland,IE,IRL,Dublin,,22740.0,1372691515
+Mullingar,Mullingar,53.5224,-7.3378,Ireland,IE,IRL,Westmeath,admin,22667.0,1372969205
+Letterkenny,Letterkenny,54.9566,-7.7203,Ireland,IE,IRL,Donegal,,22549.0,1372452484
+Kilkenny,Kilkenny,52.6477,-7.2561,Ireland,IE,IRL,Kilkenny,admin,22179.0,1372926521
+Greystones,Greystones,53.144,-6.072,Ireland,IE,IRL,Wicklow,,22009.0,1372569009
+Wexford,Wexford,52.3342,-6.4575,Ireland,IE,IRL,Wexford,admin,21524.0,1372349451
+Naas,Naas,53.217,-6.663,Ireland,IE,IRL,Kildare,admin,21393.0,1372985945
+Celbridge,Celbridge,53.338,-6.5388,Ireland,IE,IRL,Kildare,,20601.0,1372142356
+Ballyfermot,Ballyfermot,53.3423,-6.3487,Ireland,IE,IRL,Dublin,,19557.0,1372250707
+Sligo,Sligo,54.2667,-8.4833,Ireland,IE,IRL,Sligo,admin,19199.0,1372185807
+Ballincollig,Ballincollig,51.8879,-8.5893,Ireland,IE,IRL,Cork,,18621.0,1372262951
+Mullach Íde,Mullach Ide,53.4508,-6.1544,Ireland,IE,IRL,Fingal,,18608.0,1372249762
+Clonmel,Clonmel,52.3539,-7.7116,Ireland,IE,IRL,Tipperary,admin,18369.0,1372974181
+Carrigaline,Carrigaline,51.8166,-8.3905,Ireland,IE,IRL,Cork,,18239.0,1372623421
+Stillorgan,Stillorgan,53.2888,-6.1958,Ireland,IE,IRL,Dún Laoghaire-Rathdown,,18212.0,1372796974
+Terenure,Terenure,53.3098,-6.2835,Ireland,IE,IRL,South Dublin,,17972.0,1372407607
+Maigh Nuad,Maigh Nuad,53.3816,-6.591,Ireland,IE,IRL,Kildare,,17259.0,1372438535
+Leixlip,Leixlip,53.3643,-6.4881,Ireland,IE,IRL,Kildare,,16733.0,1372553411
+Baile an Bhiataigh,Baile an Bhiataigh,53.7014,-6.2461,Ireland,IE,IRL,Meath,,15642.0,1372707268
+Donacarney,Donacarney,53.7094,-6.2783,Ireland,IE,IRL,Meath,,15642.0,1372898071
+Tullamore,Tullamore,53.2667,-7.5,Ireland,IE,IRL,Offaly,admin,14607.0,1372035774
+Killarney,Killarney,52.0588,-9.5072,Ireland,IE,IRL,Kerry,,14412.0,1372916792
+Midleton,Midleton,51.916,-8.175,Ireland,IE,IRL,Cork,,13906.0,1372938716
+Arklow,Arklow,52.7941,-6.1649,Ireland,IE,IRL,Wicklow,,13399.0,1372998803
+Castlebar,Castlebar,53.8608,-9.2988,Ireland,IE,IRL,Mayo,admin,13054.0,1372066739
+Wicklow,Wicklow,52.9779,-6.033,Ireland,IE,IRL,Wicklow,admin,12957.0,1372662642
+Cobh,Cobh,51.851,-8.2967,Ireland,IE,IRL,Cork,,12347.0,1372119751
+Enniscorthy,Enniscorthy,52.5021,-6.5659,Ireland,IE,IRL,Wexford,,12310.0,1372938537
+An Cabhán,An Cabhan,53.991,-7.3601,Ireland,IE,IRL,Cavan,admin,11741.0,1372007853
+Gorey,Gorey,52.677,-6.292,Ireland,IE,IRL,Wexford,,11517.0,1372751399
+Tramore,Tramore,52.1588,-7.1463,Ireland,IE,IRL,Waterford,,11277.0,1372317796
+Palmerston,Palmerston,53.35,-6.379,Ireland,IE,IRL,Fingal,,11130.0,1372809336
+Athy,Athy,52.992,-6.987,Ireland,IE,IRL,Kildare,,11035.0,1372942058
+Longford,Longford,53.727,-7.8,Ireland,IE,IRL,Longford,admin,10952.0,1372905339
+Rush,Rush,53.522,-6.089,Ireland,IE,IRL,Fingal,,10875.0,1372361445
+Na Sceirí,Na Sceiri,53.5828,-6.1083,Ireland,IE,IRL,Fingal,,10743.0,1372992347
+Killiney,Killiney,53.2651,-6.1137,Ireland,IE,IRL,Dún Laoghaire-Rathdown,,10600.0,1372843848
+Ráth Tó,Rath To,53.506,-6.463,Ireland,IE,IRL,Meath,,10077.0,1372907755
+Glanmire,Glanmire,51.9167,-8.4,Ireland,IE,IRL,Cork,,9903.0,1372070147
+Nenagh,Nenagh,52.8632,-8.1995,Ireland,IE,IRL,Tipperary,admin,9895.0,1372867922
+Donabate,Donabate,53.487,-6.152,Ireland,IE,IRL,Fingal,,9669.0,1372605200
+Tuam,Tuam,53.515,-8.851,Ireland,IE,IRL,Galway,,9647.0,1372153412
+Shannon,Shannon,52.7137,-8.8686,Ireland,IE,IRL,Clare,,9222.0,1372328164
+Lusca,Lusca,53.526,-6.167,Ireland,IE,IRL,Fingal,,8806.0,1372313792
+Kilcock,Kilcock,53.4004,-6.6681,Ireland,IE,IRL,Kildare,,8674.0,1372153030
+New Ross,New Ross,52.396,-6.945,Ireland,IE,IRL,Wexford,,8610.0,1372019603
+Youghal,Youghal,51.9517,-7.8456,Ireland,IE,IRL,Cork,,8564.0,1372068050
+Monaghan,Monaghan,54.2478,-6.9708,Ireland,IE,IRL,Monaghan,admin,7894.0,1372399438
+Ros Comáin,Ros Comain,53.6333,-8.1833,Ireland,IE,IRL,Roscommon,admin,6555.0,1372870384
+Carrick on Shannon,Carrick on Shannon,53.944,-8.095,Ireland,IE,IRL,Leitrim,admin,4743.0,1372960774
+Donegal,Donegal,54.654,-8.11,Ireland,IE,IRL,Donegal,,2618.0,1372576120
+Lifford,Lifford,54.834,-7.486,Ireland,IE,IRL,Donegal,admin,1613.0,1372149317
+Trim,Trim,53.555,-6.7917,Ireland,IE,IRL,Meath,admin,,1372676556

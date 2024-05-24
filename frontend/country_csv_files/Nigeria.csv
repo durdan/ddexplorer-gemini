@@ -1,0 +1,265 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Lagos,Lagos,6.455,3.3841,Nigeria,NG,NGA,Lagos,minor,16637000.0,1566593751
+Abuja,Abuja,9.0667,7.4833,Nigeria,NG,NGA,Federal Capital Territory,primary,3770000.0,1566342270
+Ibadan,Ibadan,7.3964,3.9167,Nigeria,NG,NGA,Oyo,admin,3552000.0,1566366407
+Awka,Awka,6.2069,7.0678,Nigeria,NG,NGA,Anambra,admin,2171900.0,1566560581
+Kano,Kano,12.0,8.5167,Nigeria,NG,NGA,Kano,admin,2095000.0,1566422868
+Port Harcourt,Port Harcourt,4.8242,7.0336,Nigeria,NG,NGA,Rivers,admin,1865000.0,1566070649
+Nneyi-Umuleri,Nneyi-Umuleri,6.3333,6.8333,Nigeria,NG,NGA,Anambra,,1500000.0,1566349733
+Onitsha,Onitsha,6.1667,6.7833,Nigeria,NG,NGA,Anambra,minor,1483000.0,1566593483
+Maiduguri,Maiduguri,11.8333,13.15,Nigeria,NG,NGA,Borno,admin,1197497.0,1566540296
+Aba,Aba,5.1167,7.3667,Nigeria,NG,NGA,Abia,minor,1160000.0,1566262000
+Benin City,Benin City,6.3333,5.6222,Nigeria,NG,NGA,Edo,admin,1147188.0,1566080151
+Shagamu,Shagamu,6.8333,3.65,Nigeria,NG,NGA,Ogun,minor,1132270.0,1566202131
+Ikare,Ikare,7.5167,5.75,Nigeria,NG,NGA,Ondo,minor,1099931.0,1566683694
+Ogbomoso,Ogbomoso,8.1333,4.25,Nigeria,NG,NGA,Oyo,minor,1032000.0,1566373448
+Mushin,Mushin,6.5333,3.35,Nigeria,NG,NGA,Lagos,minor,935400.0,1566329100
+Owerri,Owerri,5.485,7.035,Nigeria,NG,NGA,Imo,admin,908109.0,1566679132
+Abeokuta,Abeokuta,7.1608,3.3483,Nigeria,NG,NGA,Ogun,admin,888924.0,1566979497
+Ikeja,Ikeja,6.6,3.35,Nigeria,NG,NGA,Lagos,admin,861300.0,1566486388
+Akure,Akure,7.25,5.195,Nigeria,NG,NGA,Ondo,admin,847903.0,1566568277
+Ilorin,Ilorin,8.5,4.55,Nigeria,NG,NGA,Kwara,admin,847582.0,1566480168
+Kaduna,Kaduna,10.5167,7.4333,Nigeria,NG,NGA,Kaduna,admin,760084.0,1566368729
+Osogbo,Osogbo,7.7667,4.5667,Nigeria,NG,NGA,Osun,admin,731000.0,1566395088
+Enugu,Enugu,6.4528,7.5111,Nigeria,NG,NGA,Enugu,admin,715774.0,1566212729
+Bauchi,Bauchi,10.3158,9.8442,Nigeria,NG,NGA,Bauchi,admin,693700.0,1566483284
+Lokoja,Lokoja,7.8019,6.7442,Nigeria,NG,NGA,Kogi,admin,692050.0,1566772925
+Agege,Agege,6.6219,3.3258,Nigeria,NG,NGA,Lagos,minor,683600.0,1566564887
+Jalingo,Jalingo,8.9,11.3667,Nigeria,NG,NGA,Taraba,admin,660213.0,1566732241
+Jos,Jos,9.9167,8.8903,Nigeria,NG,NGA,Plateau,admin,622802.0,1566773679
+Somolu,Somolu,6.5408,3.3872,Nigeria,NG,NGA,Lagos,minor,597400.0,1566609760
+Uyo,Uyo,5.0333,7.9275,Nigeria,NG,NGA,Akwa Ibom,admin,554906.0,1566061694
+Ile-Ife,Ile-Ife,7.4667,4.5667,Nigeria,NG,NGA,Osun,minor,501952.0,1566756897
+Ado-Ekiti,Ado-Ekiti,7.6211,5.2214,Nigeria,NG,NGA,Ekiti,admin,446749.0,1566196391
+Sokoto,Sokoto,13.0622,5.2339,Nigeria,NG,NGA,Sokoto,admin,427760.0,1566574518
+Ugep,Ugep,5.8,8.0833,Nigeria,NG,NGA,Cross River,minor,420000.0,1566000091
+Zaria,Zaria,11.0667,7.7,Nigeria,NG,NGA,Kaduna,minor,408198.0,1566287704
+Yola,Yola,9.23,12.46,Nigeria,NG,NGA,Adamawa,admin,392854.0,1566782065
+Nnewi,Nnewi,6.0167,6.9167,Nigeria,NG,NGA,Anambra,minor,391227.0,1566097410
+Gwoza,Gwoza,11.0861,13.6914,Nigeria,NG,NGA,Borno,minor,388600.0,1566834535
+Saki,Saki,8.6667,3.4,Nigeria,NG,NGA,Oyo,minor,388225.0,1566404680
+Oyo,Oyo,7.85,3.933,Nigeria,NG,NGA,Oyo,minor,386723.0,1566930579
+Ilesa,Ilesa,7.6167,4.7167,Nigeria,NG,NGA,Osun,minor,384334.0,1566937414
+Gusau,Gusau,12.15,6.6667,Nigeria,NG,NGA,Zamfara,admin,383162.0,1566383682
+Warri,Warri,5.5167,5.75,Nigeria,NG,NGA,Delta,minor,363382.0,1566325734
+Umuahia,Umuahia,5.5333,7.4833,Nigeria,NG,NGA,Abia,admin,359230.0,1566217980
+Gwagwalada,Gwagwalada,8.9392,7.0758,Nigeria,NG,NGA,Federal Capital Territory,minor,346000.0,1566419265
+Lafia,Lafia,8.4917,8.5167,Nigeria,NG,NGA,Nasarawa,admin,330712.0,1566042542
+Okene,Okene,7.55,6.2333,Nigeria,NG,NGA,Kogi,minor,320260.0,1566909987
+Katsina,Katsina,12.9889,7.6008,Nigeria,NG,NGA,Katsina,admin,318459.0,1566777297
+Minna,Minna,9.6139,6.5569,Nigeria,NG,NGA,Niger,admin,304113.0,1566285237
+Kaura Namoda,Kaura Namoda,12.6,6.5897,Nigeria,NG,NGA,Zamfara,minor,281367.0,1566455111
+Nguru,Nguru,12.8792,10.4525,Nigeria,NG,NGA,Yobe,minor,270632.0,1566737779
+Gombe,Gombe,10.2904,11.17,Nigeria,NG,NGA,Gombe,admin,270366.0,1566855445
+Hong,Hong,10.2317,12.9303,Nigeria,NG,NGA,Adamawa,minor,260900.0,1566033629
+Ondo,Ondo,7.0833,4.8333,Nigeria,NG,NGA,Ondo,minor,257005.0,1566993724
+Sapele,Sapele,5.9,5.6667,Nigeria,NG,NGA,Delta,minor,242652.0,1566310893
+Iseyin,Iseyin,7.9667,3.6,Nigeria,NG,NGA,Oyo,minor,236000.0,1566714777
+Damboa,Damboa,11.15,12.75,Nigeria,NG,NGA,Borno,minor,233500.0,1566264329
+Ijebu-Ode,Ijebu-Ode,6.8208,3.9208,Nigeria,NG,NGA,Ogun,minor,222653.0,1566495747
+Owo,Owo,7.1961,5.5864,Nigeria,NG,NGA,Ondo,minor,222262.0,1566833788
+Osisioma,Osisioma,5.1497,7.3303,Nigeria,NG,NGA,Abia,minor,219632.0,1566203950
+Apapa,Apapa,6.45,3.3667,Nigeria,NG,NGA,Lagos,minor,217362.0,1566625487
+Kuje,Kuje,8.8822,7.2203,Nigeria,NG,NGA,Federal Capital Territory,minor,212100.0,1566591024
+Burutu,Burutu,5.35,5.5167,Nigeria,NG,NGA,Delta,minor,209666.0,1566686777
+Kukawa,Kukawa,12.9167,13.5667,Nigeria,NG,NGA,Borno,minor,203864.0,1566891739
+Mai’Adua,Mai'Adua,13.1906,8.2117,Nigeria,NG,NGA,Katsina,minor,201178.0,1566695464
+Isanlu,Isanlu,8.1667,5.8,Nigeria,NG,NGA,Kogi,minor,200000.0,1566562770
+Baure,Baure,12.7833,8.7667,Nigeria,NG,NGA,Katsina,minor,197425.0,1566183701
+Iwo,Iwo,7.6333,4.1833,Nigeria,NG,NGA,Osun,minor,191377.0,1566462707
+Malumfashi,Malumfashi,11.8,7.6167,Nigeria,NG,NGA,Katsina,minor,182920.0,1566616936
+Epe,Epe,6.5833,3.9833,Nigeria,NG,NGA,Lagos,minor,181409.0,1566461573
+Inisa,Inisa,7.9833,4.65,Nigeria,NG,NGA,Osun,,180533.0,1566568743
+Ikot Ekpene,Ikot Ekpene,5.1833,7.7167,Nigeria,NG,NGA,Akwa Ibom,minor,180500.0,1566150661
+Funtua,Funtua,11.5204,7.32,Nigeria,NG,NGA,Katsina,minor,180475.0,1566877863
+Calabar,Calabar,4.9767,8.3383,Nigeria,NG,NGA,Cross River,admin,179392.0,1566495489
+Biu,Biu,10.6111,12.195,Nigeria,NG,NGA,Borno,minor,176072.0,1566675681
+Ada,Ada,7.8956,4.7094,Nigeria,NG,NGA,Osun,,174152.0,1566487740
+Bida,Bida,9.0804,6.01,Nigeria,NG,NGA,Niger,minor,173849.0,1566468363
+Makurdi,Makurdi,7.7333,8.5,Nigeria,NG,NGA,Benue,admin,170925.0,1566873994
+Offa,Offa,8.147,4.72,Nigeria,NG,NGA,Kwara,minor,166112.0,1566192714
+Ede,Ede,7.7389,4.4361,Nigeria,NG,NGA,Osun,minor,159866.0,1566336253
+Kisi,Kisi,9.0833,3.85,Nigeria,NG,NGA,Oyo,minor,155510.0,1566512059
+Zango,Zango,12.9333,8.5333,Nigeria,NG,NGA,Katsina,minor,154743.0,1566483135
+Dutse,Dutse,11.7011,9.3419,Nigeria,NG,NGA,Jigawa,admin,153000.0,1566855083
+Ipokia,Ipokia,6.5333,2.85,Nigeria,NG,NGA,Ogun,minor,150426.0,1566918556
+Auchi,Auchi,7.0667,6.2667,Nigeria,NG,NGA,Edo,minor,150000.0,1566873539
+Asaba,Asaba,6.1833,6.7333,Nigeria,NG,NGA,Delta,admin,149603.0,1566322425
+Numan,Numan,9.4669,12.0328,Nigeria,NG,NGA,Adamawa,minor,141200.0,1566815415
+Igboho,Igboho,8.8333,3.75,Nigeria,NG,NGA,Oyo,minor,136772.0,1566640824
+Ipetumodu,Ipetumodu,7.507,4.4447,Nigeria,NG,NGA,Osun,minor,135000.0,1566155015
+Idanre,Idanre,7.0922,5.1322,Nigeria,NG,NGA,Ondo,,129024.0,1566785839
+Mubi,Mubi,10.2667,13.2667,Nigeria,NG,NGA,Adamawa,minor,128900.0,1566265170
+Abaji,Abaji,8.4756,6.9433,Nigeria,NG,NGA,Federal Capital Territory,minor,127900.0,1566650592
+Gashua,Gashua,12.8681,11.0464,Nigeria,NG,NGA,Yobe,minor,125100.0,1566925429
+Unwana,Unwana,5.8625,7.9486,Nigeria,NG,NGA,Abia,,120000.0,1566334848
+Bama,Bama,11.5189,13.6842,Nigeria,NG,NGA,Borno,minor,118121.0,1566590565
+Ilobu,Ilobu,7.84,4.486,Nigeria,NG,NGA,Osun,minor,118097.0,1566604971
+Nsukka,Nsukka,6.8567,7.3958,Nigeria,NG,NGA,Enugu,minor,111017.0,1566882360
+Itele,Itele,6.7667,4.0625,Nigeria,NG,NGA,Ogun,,110196.0,1566450486
+Nkpor,Nkpor,6.15,6.8333,Nigeria,NG,NGA,Anambra,,109377.0,1566172737
+Birnin Kebbi,Birnin Kebbi,12.4504,4.1999,Nigeria,NG,NGA,Kebbi,admin,108164.0,1566191812
+Azare,Azare,11.6742,10.1911,Nigeria,NG,NGA,Bauchi,minor,105687.0,1566322480
+Kontagora,Kontagora,10.403,5.473,Nigeria,NG,NGA,Niger,minor,98763.0,1566599231
+Wukari,Wukari,7.8704,9.78,Nigeria,NG,NGA,Taraba,minor,92933.0,1566025302
+Damaturu,Damaturu,11.7444,11.9611,Nigeria,NG,NGA,Yobe,admin,88014.0,1566897107
+Potiskum,Potiskum,11.7104,11.08,Nigeria,NG,NGA,Yobe,minor,86002.0,1566461523
+Keffi,Keffi,8.8464,7.8733,Nigeria,NG,NGA,Nasarawa,minor,85911.0,1566364417
+Idah,Idah,7.0978,6.7433,Nigeria,NG,NGA,Kogi,minor,79815.0,1566566689
+Ikom,Ikom,6.0833,8.6167,Nigeria,NG,NGA,Cross River,minor,79103.0,1566375153
+Iperu,Iperu,6.9143,3.6632,Nigeria,NG,NGA,Ogun,,78412.0,1566848833
+Iju,Iju,6.6107,3.0857,Nigeria,NG,NGA,Ogun,,75000.0,1566694893
+Igbanke,Igbanke,6.3869,6.1647,Nigeria,NG,NGA,Edo,,68500.0,1566776421
+Otukpo,Otukpo,7.1904,8.13,Nigeria,NG,NGA,Benue,minor,68220.0,1566465153
+Chibok,Chibok,10.8697,12.8467,Nigeria,NG,NGA,Borno,minor,66105.0,1566191891
+Ipele,Ipele,7.1333,5.6667,Nigeria,NG,NGA,Ondo,,57000.0,1566772510
+Oke-Mesi,Oke-Mesi,7.8167,4.9167,Nigeria,NG,NGA,Ekiti,,56000.0,1566922020
+Ikot Okoro,Ikot Okoro,4.9,7.7167,Nigeria,NG,NGA,Akwa Ibom,,50000.0,1566577228
+Itapa-Ekiti,Itapa-Ekiti,7.8131,5.3844,Nigeria,NG,NGA,Ekiti,,42509.0,1566000321
+Kumo,Kumo,10.0431,11.2183,Nigeria,NG,NGA,Gombe,minor,35712.0,1566501095
+Ikot Abasi,Ikot Abasi,4.5704,7.56,Nigeria,NG,NGA,Akwa Ibom,minor,34911.0,1566812706
+Ire,Ire,7.9361,4.725,Nigeria,NG,NGA,Osun,,32336.0,1566894359
+Choba,Choba,4.8906,6.9033,Nigeria,NG,NGA,Rivers,,27253.0,1566302729
+Okuta,Okuta,9.2199,3.2005,Nigeria,NG,NGA,Kwara,,26589.0,1566074252
+Koko,Koko,11.4232,4.517,Nigeria,NG,NGA,Kebbi,,25792.0,1566646210
+Zungeru,Zungeru,9.8128,6.1558,Nigeria,NG,NGA,Niger,,24447.0,1566658964
+Tegina,Tegina,10.0706,6.1906,Nigeria,NG,NGA,Niger,,24037.0,1566672639
+Jebba,Jebba,9.1539,4.8119,Nigeria,NG,NGA,Kwara,,22411.0,1566859918
+Aiyetoro Gbede,Aiyetoro Gbede,7.9833,6.0,Nigeria,NG,NGA,Kogi,,15000.0,1566150800
+Amawom,Amawom,5.4667,7.5667,Nigeria,NG,NGA,Abia,,15000.0,1566956703
+Orlu,Orlu,5.7837,7.0333,Nigeria,NG,NGA,Imo,minor,9351.0,1566062510
+Abakaliki,Abakaliki,6.3249,8.1137,Nigeria,NG,NGA,Ebonyi,admin,,1566879878
+Yenagoa,Yenagoa,4.9267,6.2676,Nigeria,NG,NGA,Bayelsa,admin,,1566468984
+Isemi-Ile,Isemi-Ile,7.97,3.59,Nigeria,NG,NGA,Oyo,,,1566369938
+Lagos,Lagos,6.455,3.3841,Nigeria,NG,NGA,Lagos,minor,16637000.0,1566593751
+Abuja,Abuja,9.0667,7.4833,Nigeria,NG,NGA,Federal Capital Territory,primary,3770000.0,1566342270
+Ibadan,Ibadan,7.3964,3.9167,Nigeria,NG,NGA,Oyo,admin,3552000.0,1566366407
+Awka,Awka,6.2069,7.0678,Nigeria,NG,NGA,Anambra,admin,2171900.0,1566560581
+Kano,Kano,12.0,8.5167,Nigeria,NG,NGA,Kano,admin,2095000.0,1566422868
+Port Harcourt,Port Harcourt,4.8242,7.0336,Nigeria,NG,NGA,Rivers,admin,1865000.0,1566070649
+Nneyi-Umuleri,Nneyi-Umuleri,6.3333,6.8333,Nigeria,NG,NGA,Anambra,,1500000.0,1566349733
+Onitsha,Onitsha,6.1667,6.7833,Nigeria,NG,NGA,Anambra,minor,1483000.0,1566593483
+Maiduguri,Maiduguri,11.8333,13.15,Nigeria,NG,NGA,Borno,admin,1197497.0,1566540296
+Aba,Aba,5.1167,7.3667,Nigeria,NG,NGA,Abia,minor,1160000.0,1566262000
+Benin City,Benin City,6.3333,5.6222,Nigeria,NG,NGA,Edo,admin,1147188.0,1566080151
+Shagamu,Shagamu,6.8333,3.65,Nigeria,NG,NGA,Ogun,minor,1132270.0,1566202131
+Ikare,Ikare,7.5167,5.75,Nigeria,NG,NGA,Ondo,minor,1099931.0,1566683694
+Ogbomoso,Ogbomoso,8.1333,4.25,Nigeria,NG,NGA,Oyo,minor,1032000.0,1566373448
+Mushin,Mushin,6.5333,3.35,Nigeria,NG,NGA,Lagos,minor,935400.0,1566329100
+Owerri,Owerri,5.485,7.035,Nigeria,NG,NGA,Imo,admin,908109.0,1566679132
+Abeokuta,Abeokuta,7.1608,3.3483,Nigeria,NG,NGA,Ogun,admin,888924.0,1566979497
+Ikeja,Ikeja,6.6,3.35,Nigeria,NG,NGA,Lagos,admin,861300.0,1566486388
+Akure,Akure,7.25,5.195,Nigeria,NG,NGA,Ondo,admin,847903.0,1566568277
+Ilorin,Ilorin,8.5,4.55,Nigeria,NG,NGA,Kwara,admin,847582.0,1566480168
+Kaduna,Kaduna,10.5167,7.4333,Nigeria,NG,NGA,Kaduna,admin,760084.0,1566368729
+Osogbo,Osogbo,7.7667,4.5667,Nigeria,NG,NGA,Osun,admin,731000.0,1566395088
+Enugu,Enugu,6.4528,7.5111,Nigeria,NG,NGA,Enugu,admin,715774.0,1566212729
+Bauchi,Bauchi,10.3158,9.8442,Nigeria,NG,NGA,Bauchi,admin,693700.0,1566483284
+Lokoja,Lokoja,7.8019,6.7442,Nigeria,NG,NGA,Kogi,admin,692050.0,1566772925
+Agege,Agege,6.6219,3.3258,Nigeria,NG,NGA,Lagos,minor,683600.0,1566564887
+Jalingo,Jalingo,8.9,11.3667,Nigeria,NG,NGA,Taraba,admin,660213.0,1566732241
+Jos,Jos,9.9167,8.8903,Nigeria,NG,NGA,Plateau,admin,622802.0,1566773679
+Somolu,Somolu,6.5408,3.3872,Nigeria,NG,NGA,Lagos,minor,597400.0,1566609760
+Uyo,Uyo,5.0333,7.9275,Nigeria,NG,NGA,Akwa Ibom,admin,554906.0,1566061694
+Ile-Ife,Ile-Ife,7.4667,4.5667,Nigeria,NG,NGA,Osun,minor,501952.0,1566756897
+Ado-Ekiti,Ado-Ekiti,7.6211,5.2214,Nigeria,NG,NGA,Ekiti,admin,446749.0,1566196391
+Sokoto,Sokoto,13.0622,5.2339,Nigeria,NG,NGA,Sokoto,admin,427760.0,1566574518
+Ugep,Ugep,5.8,8.0833,Nigeria,NG,NGA,Cross River,minor,420000.0,1566000091
+Zaria,Zaria,11.0667,7.7,Nigeria,NG,NGA,Kaduna,minor,408198.0,1566287704
+Yola,Yola,9.23,12.46,Nigeria,NG,NGA,Adamawa,admin,392854.0,1566782065
+Nnewi,Nnewi,6.0167,6.9167,Nigeria,NG,NGA,Anambra,minor,391227.0,1566097410
+Gwoza,Gwoza,11.0861,13.6914,Nigeria,NG,NGA,Borno,minor,388600.0,1566834535
+Saki,Saki,8.6667,3.4,Nigeria,NG,NGA,Oyo,minor,388225.0,1566404680
+Oyo,Oyo,7.85,3.933,Nigeria,NG,NGA,Oyo,minor,386723.0,1566930579
+Ilesa,Ilesa,7.6167,4.7167,Nigeria,NG,NGA,Osun,minor,384334.0,1566937414
+Gusau,Gusau,12.15,6.6667,Nigeria,NG,NGA,Zamfara,admin,383162.0,1566383682
+Warri,Warri,5.5167,5.75,Nigeria,NG,NGA,Delta,minor,363382.0,1566325734
+Umuahia,Umuahia,5.5333,7.4833,Nigeria,NG,NGA,Abia,admin,359230.0,1566217980
+Gwagwalada,Gwagwalada,8.9392,7.0758,Nigeria,NG,NGA,Federal Capital Territory,minor,346000.0,1566419265
+Lafia,Lafia,8.4917,8.5167,Nigeria,NG,NGA,Nasarawa,admin,330712.0,1566042542
+Okene,Okene,7.55,6.2333,Nigeria,NG,NGA,Kogi,minor,320260.0,1566909987
+Katsina,Katsina,12.9889,7.6008,Nigeria,NG,NGA,Katsina,admin,318459.0,1566777297
+Minna,Minna,9.6139,6.5569,Nigeria,NG,NGA,Niger,admin,304113.0,1566285237
+Kaura Namoda,Kaura Namoda,12.6,6.5897,Nigeria,NG,NGA,Zamfara,minor,281367.0,1566455111
+Nguru,Nguru,12.8792,10.4525,Nigeria,NG,NGA,Yobe,minor,270632.0,1566737779
+Gombe,Gombe,10.2904,11.17,Nigeria,NG,NGA,Gombe,admin,270366.0,1566855445
+Hong,Hong,10.2317,12.9303,Nigeria,NG,NGA,Adamawa,minor,260900.0,1566033629
+Ondo,Ondo,7.0833,4.8333,Nigeria,NG,NGA,Ondo,minor,257005.0,1566993724
+Sapele,Sapele,5.9,5.6667,Nigeria,NG,NGA,Delta,minor,242652.0,1566310893
+Iseyin,Iseyin,7.9667,3.6,Nigeria,NG,NGA,Oyo,minor,236000.0,1566714777
+Damboa,Damboa,11.15,12.75,Nigeria,NG,NGA,Borno,minor,233500.0,1566264329
+Ijebu-Ode,Ijebu-Ode,6.8208,3.9208,Nigeria,NG,NGA,Ogun,minor,222653.0,1566495747
+Owo,Owo,7.1961,5.5864,Nigeria,NG,NGA,Ondo,minor,222262.0,1566833788
+Osisioma,Osisioma,5.1497,7.3303,Nigeria,NG,NGA,Abia,minor,219632.0,1566203950
+Apapa,Apapa,6.45,3.3667,Nigeria,NG,NGA,Lagos,minor,217362.0,1566625487
+Kuje,Kuje,8.8822,7.2203,Nigeria,NG,NGA,Federal Capital Territory,minor,212100.0,1566591024
+Burutu,Burutu,5.35,5.5167,Nigeria,NG,NGA,Delta,minor,209666.0,1566686777
+Kukawa,Kukawa,12.9167,13.5667,Nigeria,NG,NGA,Borno,minor,203864.0,1566891739
+Mai’Adua,Mai'Adua,13.1906,8.2117,Nigeria,NG,NGA,Katsina,minor,201178.0,1566695464
+Isanlu,Isanlu,8.1667,5.8,Nigeria,NG,NGA,Kogi,minor,200000.0,1566562770
+Baure,Baure,12.7833,8.7667,Nigeria,NG,NGA,Katsina,minor,197425.0,1566183701
+Iwo,Iwo,7.6333,4.1833,Nigeria,NG,NGA,Osun,minor,191377.0,1566462707
+Malumfashi,Malumfashi,11.8,7.6167,Nigeria,NG,NGA,Katsina,minor,182920.0,1566616936
+Epe,Epe,6.5833,3.9833,Nigeria,NG,NGA,Lagos,minor,181409.0,1566461573
+Inisa,Inisa,7.9833,4.65,Nigeria,NG,NGA,Osun,,180533.0,1566568743
+Ikot Ekpene,Ikot Ekpene,5.1833,7.7167,Nigeria,NG,NGA,Akwa Ibom,minor,180500.0,1566150661
+Funtua,Funtua,11.5204,7.32,Nigeria,NG,NGA,Katsina,minor,180475.0,1566877863
+Calabar,Calabar,4.9767,8.3383,Nigeria,NG,NGA,Cross River,admin,179392.0,1566495489
+Biu,Biu,10.6111,12.195,Nigeria,NG,NGA,Borno,minor,176072.0,1566675681
+Ada,Ada,7.8956,4.7094,Nigeria,NG,NGA,Osun,,174152.0,1566487740
+Bida,Bida,9.0804,6.01,Nigeria,NG,NGA,Niger,minor,173849.0,1566468363
+Makurdi,Makurdi,7.7333,8.5,Nigeria,NG,NGA,Benue,admin,170925.0,1566873994
+Offa,Offa,8.147,4.72,Nigeria,NG,NGA,Kwara,minor,166112.0,1566192714
+Ede,Ede,7.7389,4.4361,Nigeria,NG,NGA,Osun,minor,159866.0,1566336253
+Kisi,Kisi,9.0833,3.85,Nigeria,NG,NGA,Oyo,minor,155510.0,1566512059
+Zango,Zango,12.9333,8.5333,Nigeria,NG,NGA,Katsina,minor,154743.0,1566483135
+Dutse,Dutse,11.7011,9.3419,Nigeria,NG,NGA,Jigawa,admin,153000.0,1566855083
+Ipokia,Ipokia,6.5333,2.85,Nigeria,NG,NGA,Ogun,minor,150426.0,1566918556
+Auchi,Auchi,7.0667,6.2667,Nigeria,NG,NGA,Edo,minor,150000.0,1566873539
+Asaba,Asaba,6.1833,6.7333,Nigeria,NG,NGA,Delta,admin,149603.0,1566322425
+Numan,Numan,9.4669,12.0328,Nigeria,NG,NGA,Adamawa,minor,141200.0,1566815415
+Igboho,Igboho,8.8333,3.75,Nigeria,NG,NGA,Oyo,minor,136772.0,1566640824
+Ipetumodu,Ipetumodu,7.507,4.4447,Nigeria,NG,NGA,Osun,minor,135000.0,1566155015
+Idanre,Idanre,7.0922,5.1322,Nigeria,NG,NGA,Ondo,,129024.0,1566785839
+Mubi,Mubi,10.2667,13.2667,Nigeria,NG,NGA,Adamawa,minor,128900.0,1566265170
+Abaji,Abaji,8.4756,6.9433,Nigeria,NG,NGA,Federal Capital Territory,minor,127900.0,1566650592
+Gashua,Gashua,12.8681,11.0464,Nigeria,NG,NGA,Yobe,minor,125100.0,1566925429
+Unwana,Unwana,5.8625,7.9486,Nigeria,NG,NGA,Abia,,120000.0,1566334848
+Bama,Bama,11.5189,13.6842,Nigeria,NG,NGA,Borno,minor,118121.0,1566590565
+Ilobu,Ilobu,7.84,4.486,Nigeria,NG,NGA,Osun,minor,118097.0,1566604971
+Nsukka,Nsukka,6.8567,7.3958,Nigeria,NG,NGA,Enugu,minor,111017.0,1566882360
+Itele,Itele,6.7667,4.0625,Nigeria,NG,NGA,Ogun,,110196.0,1566450486
+Nkpor,Nkpor,6.15,6.8333,Nigeria,NG,NGA,Anambra,,109377.0,1566172737
+Birnin Kebbi,Birnin Kebbi,12.4504,4.1999,Nigeria,NG,NGA,Kebbi,admin,108164.0,1566191812
+Azare,Azare,11.6742,10.1911,Nigeria,NG,NGA,Bauchi,minor,105687.0,1566322480
+Kontagora,Kontagora,10.403,5.473,Nigeria,NG,NGA,Niger,minor,98763.0,1566599231
+Wukari,Wukari,7.8704,9.78,Nigeria,NG,NGA,Taraba,minor,92933.0,1566025302
+Damaturu,Damaturu,11.7444,11.9611,Nigeria,NG,NGA,Yobe,admin,88014.0,1566897107
+Potiskum,Potiskum,11.7104,11.08,Nigeria,NG,NGA,Yobe,minor,86002.0,1566461523
+Keffi,Keffi,8.8464,7.8733,Nigeria,NG,NGA,Nasarawa,minor,85911.0,1566364417
+Idah,Idah,7.0978,6.7433,Nigeria,NG,NGA,Kogi,minor,79815.0,1566566689
+Ikom,Ikom,6.0833,8.6167,Nigeria,NG,NGA,Cross River,minor,79103.0,1566375153
+Iperu,Iperu,6.9143,3.6632,Nigeria,NG,NGA,Ogun,,78412.0,1566848833
+Iju,Iju,6.6107,3.0857,Nigeria,NG,NGA,Ogun,,75000.0,1566694893
+Igbanke,Igbanke,6.3869,6.1647,Nigeria,NG,NGA,Edo,,68500.0,1566776421
+Otukpo,Otukpo,7.1904,8.13,Nigeria,NG,NGA,Benue,minor,68220.0,1566465153
+Chibok,Chibok,10.8697,12.8467,Nigeria,NG,NGA,Borno,minor,66105.0,1566191891
+Ipele,Ipele,7.1333,5.6667,Nigeria,NG,NGA,Ondo,,57000.0,1566772510
+Oke-Mesi,Oke-Mesi,7.8167,4.9167,Nigeria,NG,NGA,Ekiti,,56000.0,1566922020
+Ikot Okoro,Ikot Okoro,4.9,7.7167,Nigeria,NG,NGA,Akwa Ibom,,50000.0,1566577228
+Itapa-Ekiti,Itapa-Ekiti,7.8131,5.3844,Nigeria,NG,NGA,Ekiti,,42509.0,1566000321
+Kumo,Kumo,10.0431,11.2183,Nigeria,NG,NGA,Gombe,minor,35712.0,1566501095
+Ikot Abasi,Ikot Abasi,4.5704,7.56,Nigeria,NG,NGA,Akwa Ibom,minor,34911.0,1566812706
+Ire,Ire,7.9361,4.725,Nigeria,NG,NGA,Osun,,32336.0,1566894359
+Choba,Choba,4.8906,6.9033,Nigeria,NG,NGA,Rivers,,27253.0,1566302729
+Okuta,Okuta,9.2199,3.2005,Nigeria,NG,NGA,Kwara,,26589.0,1566074252
+Koko,Koko,11.4232,4.517,Nigeria,NG,NGA,Kebbi,,25792.0,1566646210
+Zungeru,Zungeru,9.8128,6.1558,Nigeria,NG,NGA,Niger,,24447.0,1566658964
+Tegina,Tegina,10.0706,6.1906,Nigeria,NG,NGA,Niger,,24037.0,1566672639
+Jebba,Jebba,9.1539,4.8119,Nigeria,NG,NGA,Kwara,,22411.0,1566859918
+Aiyetoro Gbede,Aiyetoro Gbede,7.9833,6.0,Nigeria,NG,NGA,Kogi,,15000.0,1566150800
+Amawom,Amawom,5.4667,7.5667,Nigeria,NG,NGA,Abia,,15000.0,1566956703
+Orlu,Orlu,5.7837,7.0333,Nigeria,NG,NGA,Imo,minor,9351.0,1566062510
+Abakaliki,Abakaliki,6.3249,8.1137,Nigeria,NG,NGA,Ebonyi,admin,,1566879878
+Yenagoa,Yenagoa,4.9267,6.2676,Nigeria,NG,NGA,Bayelsa,admin,,1566468984
+Isemi-Ile,Isemi-Ile,7.97,3.59,Nigeria,NG,NGA,Oyo,,,1566369938

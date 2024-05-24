@@ -1,0 +1,33 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Asmara,Asmara,15.3228,38.925,Eritrea,ER,ERI,Ma’ĭkel,primary,963000.0,1232791236
+Keren,Keren,15.7778,38.4581,Eritrea,ER,ERI,‘Anseba,admin,146500.0,1232693598
+Gwelej,Gwelej,14.75,36.7167,Eritrea,ER,ERI,Gash-Barka,,100000.0,1232869245
+Assab,Assab,13.0167,42.7333,Eritrea,ER,ERI,Debubawi K’eyyĭḥ Baḥri,admin,74405.0,1232396238
+Massawa,Massawa,15.6097,39.45,Eritrea,ER,ERI,Semienawi K’eyyĭḥ Baḥri,admin,39758.0,1232344222
+Mendefera,Mendefera,14.8833,38.8167,Eritrea,ER,ERI,Debub,admin,28492.0,1232751882
+Dbarwa,Dbarwa,15.1,38.8333,Eritrea,ER,ERI,Debub,,25000.0,1232218993
+Barentu,Barentu,15.1167,37.6,Eritrea,ER,ERI,Gash-Barka,admin,15891.0,1232695352
+Bēylul,Beylul,13.2644,42.3342,Eritrea,ER,ERI,Debubawi K’eyyĭḥ Baḥri,,14055.0,1232983964
+Adi Keyh,Adi Keyh,14.8333,39.3667,Eritrea,ER,ERI,Ma’ĭkel,,13061.0,1232384326
+Ghinda’e,Ghinda'e,15.45,39.0833,Eritrea,ER,ERI,Semienawi K’eyyĭḥ Baḥri,,11560.0,1232629758
+Edd,Edd,13.9333,41.7,Eritrea,ER,ERI,Debubawi K’eyyĭḥ Baḥri,,11259.0,1232211688
+Dek’emhāre,Dek'emhare,15.0667,39.0333,Eritrea,ER,ERI,Debub,,10959.0,1232763839
+Ak’ordat,Ak'ordat,15.55,37.8833,Eritrea,ER,ERI,Gash-Barka,,8857.0,1232800240
+Nefasīt,Nefasit,15.3333,39.0619,Eritrea,ER,ERI,Semienawi K’eyyĭḥ Baḥri,,8600.0,1232567577
+Teseney,Teseney,15.11,36.6575,Eritrea,ER,ERI,Gash-Barka,,3753.0,1232609825
+Asmara,Asmara,15.3228,38.925,Eritrea,ER,ERI,Ma’ĭkel,primary,963000.0,1232791236
+Keren,Keren,15.7778,38.4581,Eritrea,ER,ERI,‘Anseba,admin,146500.0,1232693598
+Gwelej,Gwelej,14.75,36.7167,Eritrea,ER,ERI,Gash-Barka,,100000.0,1232869245
+Assab,Assab,13.0167,42.7333,Eritrea,ER,ERI,Debubawi K’eyyĭḥ Baḥri,admin,74405.0,1232396238
+Massawa,Massawa,15.6097,39.45,Eritrea,ER,ERI,Semienawi K’eyyĭḥ Baḥri,admin,39758.0,1232344222
+Mendefera,Mendefera,14.8833,38.8167,Eritrea,ER,ERI,Debub,admin,28492.0,1232751882
+Dbarwa,Dbarwa,15.1,38.8333,Eritrea,ER,ERI,Debub,,25000.0,1232218993
+Barentu,Barentu,15.1167,37.6,Eritrea,ER,ERI,Gash-Barka,admin,15891.0,1232695352
+Bēylul,Beylul,13.2644,42.3342,Eritrea,ER,ERI,Debubawi K’eyyĭḥ Baḥri,,14055.0,1232983964
+Adi Keyh,Adi Keyh,14.8333,39.3667,Eritrea,ER,ERI,Ma’ĭkel,,13061.0,1232384326
+Ghinda’e,Ghinda'e,15.45,39.0833,Eritrea,ER,ERI,Semienawi K’eyyĭḥ Baḥri,,11560.0,1232629758
+Edd,Edd,13.9333,41.7,Eritrea,ER,ERI,Debubawi K’eyyĭḥ Baḥri,,11259.0,1232211688
+Dek’emhāre,Dek'emhare,15.0667,39.0333,Eritrea,ER,ERI,Debub,,10959.0,1232763839
+Ak’ordat,Ak'ordat,15.55,37.8833,Eritrea,ER,ERI,Gash-Barka,,8857.0,1232800240
+Nefasīt,Nefasit,15.3333,39.0619,Eritrea,ER,ERI,Semienawi K’eyyĭḥ Baḥri,,8600.0,1232567577
+Teseney,Teseney,15.11,36.6575,Eritrea,ER,ERI,Gash-Barka,,3753.0,1232609825

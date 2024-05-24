@@ -1,0 +1,931 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Warsaw,Warsaw,52.23,21.0111,Poland,PL,POL,Mazowieckie,primary,1860281.0,1616024847
+Kraków,Krakow,50.0614,19.9372,Poland,PL,POL,Małopolskie,admin,804237.0,1616172264
+Wrocław,Wroclaw,51.11,17.0325,Poland,PL,POL,Dolnośląskie,admin,672929.0,1616108520
+Łódź,Lodz,51.7769,19.4547,Poland,PL,POL,Łódzkie,admin,670642.0,1616832750
+Poznań,Poznan,52.4083,16.9336,Poland,PL,POL,Wielkopolskie,admin,546859.0,1616725607
+Gdańsk,Gdansk,54.3475,18.6453,Poland,PL,POL,Pomorskie,admin,486022.0,1616406372
+Szczecin,Szczecin,53.4325,14.5481,Poland,PL,POL,Zachodniopomorskie,admin,396168.0,1616256546
+Bydgoszcz,Bydgoszcz,53.1219,18.0003,Poland,PL,POL,Kujawsko-Pomorskie,admin,337666.0,1616454014
+Lublin,Lublin,51.25,22.5667,Poland,PL,POL,Lubelskie,admin,334681.0,1616953501
+Białystok,Bialystok,53.1353,23.1456,Poland,PL,POL,Podlaskie,admin,294242.0,1616443575
+Katowice,Katowice,50.2625,19.0217,Poland,PL,POL,Śląskie,admin,285711.0,1616798495
+Gdynia,Gdynia,54.5175,18.54,Poland,PL,POL,Pomorskie,minor,245222.0,1616385189
+Zielona Góra,Zielona Gora,51.9333,15.5,Poland,PL,POL,Lubuskie,admin,216781.0,1616050904
+Częstochowa,Czestochowa,50.8,19.1167,Poland,PL,POL,Śląskie,minor,213107.0,1616881632
+Radom,Radom,51.4036,21.1567,Poland,PL,POL,Mazowieckie,minor,201601.0,1616327727
+Toruń,Torun,53.0222,18.6111,Poland,PL,POL,Kujawsko-Pomorskie,admin,198273.0,1616267221
+Rzeszów,Rzeszow,50.0333,22.0,Poland,PL,POL,Podkarpackie,admin,195871.0,1616879570
+Sosnowiec,Sosnowiec,50.2833,19.1333,Poland,PL,POL,Śląskie,minor,193660.0,1616057255
+Kielce,Kielce,50.8742,20.6333,Poland,PL,POL,Świętokrzyskie,admin,186894.0,1616176351
+Gliwice,Gliwice,50.2833,18.6667,Poland,PL,POL,Śląskie,minor,174016.0,1616311376
+Olsztyn,Olsztyn,53.7778,20.4792,Poland,PL,POL,Warmińsko-Mazurskie,admin,170225.0,1616383275
+Bielsko-Biała,Bielsko-Biala,49.8225,19.0444,Poland,PL,POL,Śląskie,minor,169089.0,1616302636
+Zabrze,Zabrze,50.3025,18.7781,Poland,PL,POL,Śląskie,minor,158307.0,1616784915
+Bytom,Bytom,50.3483,18.9156,Poland,PL,POL,Śląskie,minor,153274.0,1616740907
+Ruda Śląska,Ruda Slaska,50.2628,18.8536,Poland,PL,POL,Śląskie,minor,133793.0,1616148566
+Rybnik,Rybnik,50.0833,18.55,Poland,PL,POL,Śląskie,minor,133772.0,1616092098
+Opole,Opole,50.6667,17.9333,Poland,PL,POL,Opolskie,admin,127387.0,1616096837
+Tychy,Tychy,50.1236,18.9867,Poland,PL,POL,Śląskie,minor,124882.0,1616396493
+Gorzów Wielkopolski,Gorzow Wielkopolski,52.7333,15.25,Poland,PL,POL,Lubuskie,admin,119964.0,1616788025
+Dąbrowa Górnicza,Dabrowa Gornicza,50.3214,19.1872,Poland,PL,POL,Śląskie,minor,116930.0,1616312023
+Elbląg,Elblag,54.1667,19.4,Poland,PL,POL,Warmińsko-Mazurskie,minor,115220.0,1616395994
+Płock,Plock,52.55,19.7,Poland,PL,POL,Mazowieckie,minor,114594.0,1616954507
+Tarnów,Tarnow,50.0125,20.9886,Poland,PL,POL,Małopolskie,minor,106259.0,1616375879
+Koszalin,Koszalin,54.2,16.1833,Poland,PL,POL,Zachodniopomorskie,minor,105883.0,1616258002
+Włocławek,Wloclawek,52.6592,19.0681,Poland,PL,POL,Kujawsko-Pomorskie,minor,104705.0,1616143097
+Wałbrzych,Walbrzych,50.7667,16.2833,Poland,PL,POL,Dolnośląskie,minor,104401.0,1616162263
+Chorzów,Chorzow,50.3,18.95,Poland,PL,POL,Śląskie,minor,104193.0,1616517871
+Kalisz,Kalisz,51.7575,18.08,Poland,PL,POL,Wielkopolskie,minor,95905.0,1616861321
+Legnica,Legnica,51.2083,16.1603,Poland,PL,POL,Dolnośląskie,minor,94878.0,1616578356
+Grudziądz,Grudziadz,53.4875,18.755,Poland,PL,POL,Kujawsko-Pomorskie,minor,90890.0,1616391533
+Jaworzno,Jaworzno,50.2044,19.27,Poland,PL,POL,Śląskie,minor,88998.0,1616134743
+Słupsk,Slupsk,54.4658,17.0292,Poland,PL,POL,Pomorskie,minor,87660.0,1616346559
+Jastrzębie-Zdrój,Jastrzebie-Zdroj,49.95,18.5833,Poland,PL,POL,Śląskie,minor,85050.0,1616365516
+Nowy Sącz,Nowy Sacz,49.6239,20.6972,Poland,PL,POL,Małopolskie,minor,81281.0,1616869871
+Skarżysko-Kamienna,Skarzysko-Kamienna,51.1167,20.9167,Poland,PL,POL,Świętokrzyskie,minor,78636.0,1616858398
+Jelenia Góra,Jelenia Gora,50.9033,15.7344,Poland,PL,POL,Dolnośląskie,minor,77305.0,1616105652
+Siedlce,Siedlce,52.165,22.2714,Poland,PL,POL,Mazowieckie,minor,76357.0,1616939180
+Mysłowice,Myslowice,50.2333,19.1333,Poland,PL,POL,Śląskie,minor,72553.0,1616757185
+Piła,Pila,53.15,16.7333,Poland,PL,POL,Wielkopolskie,minor,71735.0,1616414354
+Ostrów Wielkopolski,Ostrow Wielkopolski,51.6494,17.8164,Poland,PL,POL,Wielkopolskie,minor,70725.0,1616691422
+Lubin,Lubin,51.4,16.2,Poland,PL,POL,Dolnośląskie,minor,70016.0,1616748050
+Konin,Konin,52.2167,18.2667,Poland,PL,POL,Wielkopolskie,minor,69858.0,1616883533
+Inowrocław,Inowroclaw,52.7931,18.2611,Poland,PL,POL,Kujawsko-Pomorskie,minor,69576.0,1616606592
+Piotrków Trybunalski,Piotrkow Trybunalski,51.4,19.6833,Poland,PL,POL,Łódzkie,minor,68978.0,1616450789
+Suwałki,Suwalki,54.0989,22.9286,Poland,PL,POL,Podlaskie,minor,68752.0,1616523627
+Stargard Szczeciński,Stargard Szczecinski,53.3333,15.0333,Poland,PL,POL,Zachodniopomorskie,minor,67348.0,1616480646
+Gniezno,Gniezno,52.5358,17.5958,Poland,PL,POL,Wielkopolskie,minor,65452.0,1616984350
+Pruszków,Pruszkow,52.1667,20.8,Poland,PL,POL,Mazowieckie,minor,65283.0,1616154673
+Ostrowiec Świętokrzyski,Ostrowiec Swietokrzyski,50.9333,21.4,Poland,PL,POL,Świętokrzyskie,minor,64796.0,1616984527
+Siemianowice Śląskie,Siemianowice Slaskie,50.2758,18.9858,Poland,PL,POL,Śląskie,minor,64676.0,1616000741
+Głogów,Glogow,51.6589,16.0803,Poland,PL,POL,Dolnośląskie,minor,64261.0,1616244076
+Pabianice,Pabianice,51.65,19.3833,Poland,PL,POL,Łódzkie,minor,62954.0,1616294006
+Żory,Zory,50.05,18.7,Poland,PL,POL,Śląskie,minor,61823.0,1616545481
+Leszno,Leszno,51.8458,16.5806,Poland,PL,POL,Wielkopolskie,minor,61791.0,1616030015
+Tarnowskie Góry,Tarnowskie Gory,50.4444,18.8583,Poland,PL,POL,Śląskie,minor,61288.0,1616868201
+Łomża,Lomza,53.1764,22.0731,Poland,PL,POL,Podlaskie,minor,60848.0,1616678952
+Ełk,Elk,53.8214,22.3622,Poland,PL,POL,Warmińsko-Mazurskie,minor,60390.0,1616783003
+Zamość,Zamosc,50.7167,23.2528,Poland,PL,POL,Lubelskie,minor,60148.0,1616490229
+Chełm,Chelm,51.1322,23.4778,Poland,PL,POL,Lubelskie,minor,59546.0,1616688578
+Tomaszów Mazowiecki,Tomaszow Mazowiecki,51.5167,20.0167,Poland,PL,POL,Łódzkie,minor,59388.0,1616394410
+Przemyśl,Przemysl,49.7833,22.7667,Poland,PL,POL,Podkarpackie,minor,58408.0,1616506094
+Mielec,Mielec,50.2833,21.4333,Poland,PL,POL,Podkarpackie,minor,58213.0,1616825607
+Tczew,Tczew,54.0875,18.7972,Poland,PL,POL,Pomorskie,minor,57990.0,1616578037
+Stalowa Wola,Stalowa Wola,50.5667,22.05,Poland,PL,POL,Podkarpackie,minor,57620.0,1616964956
+Kędzierzyn-Koźle,Kedzierzyn-Kozle,50.35,18.2,Poland,PL,POL,Opolskie,minor,56931.0,1616306372
+Będzin,Bedzin,50.3333,19.1167,Poland,PL,POL,Śląskie,minor,55695.0,1616409616
+Biała Podlaska,Biala Podlaska,52.0333,23.1167,Poland,PL,POL,Lubelskie,minor,55429.0,1616025020
+Zgierz,Zgierz,51.85,19.4167,Poland,PL,POL,Łódzkie,minor,55079.0,1616382343
+Świdnica,Swidnica,50.85,16.4833,Poland,PL,POL,Dolnośląskie,minor,54792.0,1616002338
+Bełchatów,Belchatow,51.3667,19.3667,Poland,PL,POL,Łódzkie,minor,54338.0,1616973390
+Legionowo,Legionowo,52.4,20.8833,Poland,PL,POL,Mazowieckie,minor,53216.0,1616994284
+Piekary Śląskie,Piekary Slaskie,50.3833,18.95,Poland,PL,POL,Śląskie,minor,53017.0,1616227996
+Piaseczno,Piaseczno,52.0667,21.0167,Poland,PL,POL,Mazowieckie,minor,51945.0,1616877485
+Rumia,Rumia,54.5667,18.4,Poland,PL,POL,Pomorskie,,51879.0,1616655416
+Racibórz,Raciborz,50.0833,18.2333,Poland,PL,POL,Śląskie,minor,51257.0,1616829452
+Ostrołęka,Ostroleka,53.0667,21.5667,Poland,PL,POL,Mazowieckie,minor,49805.0,1616360926
+Zawiercie,Zawiercie,50.5,19.4167,Poland,PL,POL,Śląskie,minor,47689.0,1616113254
+Wejherowo,Wejherowo,54.6,18.25,Poland,PL,POL,Pomorskie,minor,47357.0,1616233029
+Świętochłowice,Swietochlowice,50.2919,18.9178,Poland,PL,POL,Śląskie,minor,46494.0,1616910155
+Skierniewice,Skierniewice,51.9528,20.1417,Poland,PL,POL,Łódzkie,minor,46437.0,1616077823
+Starogard Gdański,Starogard Gdanski,53.9667,18.5333,Poland,PL,POL,Pomorskie,minor,46373.0,1616735469
+Starachowice,Starachowice,51.05,21.0667,Poland,PL,POL,Świętokrzyskie,minor,46270.0,1616418874
+Wodzisław Śląski,Wodzislaw Slaski,50.0,18.45,Poland,PL,POL,Śląskie,minor,45949.0,1616578364
+Puławy,Pulawy,51.4167,21.9667,Poland,PL,POL,Lubelskie,minor,45267.0,1616098904
+Krosno,Krosno,49.6833,21.75,Poland,PL,POL,Podkarpackie,minor,45057.0,1616223462
+Tarnobrzeg,Tarnobrzeg,50.5833,21.6833,Poland,PL,POL,Podkarpackie,minor,44901.0,1616631454
+Otwock,Otwock,52.1167,21.2667,Poland,PL,POL,Mazowieckie,minor,44524.0,1616596983
+Radomsko,Radomsko,51.0667,19.45,Poland,PL,POL,Łódzkie,minor,44441.0,1616575463
+Kołobrzeg,Kolobrzeg,54.1761,15.5761,Poland,PL,POL,Zachodniopomorskie,minor,44340.0,1616732501
+Dębica,Debica,50.05,21.4167,Poland,PL,POL,Podkarpackie,minor,44047.0,1616197893
+Ząbki,Zabki,52.2928,21.1161,Poland,PL,POL,Mazowieckie,,43740.0,1616088121
+Ciechanów,Ciechanow,52.8667,20.6333,Poland,PL,POL,Mazowieckie,minor,42705.0,1616466171
+Kutno,Kutno,52.2333,19.3667,Poland,PL,POL,Łódzkie,minor,42255.0,1616586955
+Marki,Marki,52.3333,21.1,Poland,PL,POL,Mazowieckie,,42252.0,1616076713
+Nysa,Nysa,50.4714,17.3339,Poland,PL,POL,Opolskie,minor,42151.0,1616093801
+Mikołów,Mikolow,50.1667,18.9,Poland,PL,POL,Śląskie,minor,41266.0,1616187671
+Mińsk Mazowiecki,Minsk Mazowiecki,52.1833,21.5667,Poland,PL,POL,Mazowieckie,minor,40467.0,1616444517
+Świnoujście,Swinoujscie,53.9167,14.25,Poland,PL,POL,Zachodniopomorskie,minor,40204.0,1616487084
+Sieradz,Sieradz,51.6,18.75,Poland,PL,POL,Łódzkie,minor,40014.0,1616121526
+Żyrardów,Zyrardow,52.05,20.4333,Poland,PL,POL,Mazowieckie,minor,39374.0,1616145588
+Chojnice,Chojnice,53.7,17.55,Poland,PL,POL,Pomorskie,minor,39275.0,1616746687
+Szczecinek,Szczecinek,53.7167,16.6833,Poland,PL,POL,Zachodniopomorskie,minor,38446.0,1616218175
+Świdnik,Swidnik,51.2167,22.7,Poland,PL,POL,Lubelskie,minor,37884.0,1616873846
+Kwidzyn,Kwidzyn,53.7358,18.9308,Poland,PL,POL,Pomorskie,minor,37768.0,1616851475
+Malbork,Malbork,54.0333,19.0333,Poland,PL,POL,Pomorskie,minor,37635.0,1616964352
+Bolesławiec,Boleslawiec,51.2667,15.5667,Poland,PL,POL,Dolnośląskie,minor,37559.0,1616593724
+Oświęcim,Oswiecim,50.0381,19.2214,Poland,PL,POL,Małopolskie,minor,36956.0,1616528804
+Nowa Sól,Nowa Sol,51.8,15.7167,Poland,PL,POL,Lubuskie,minor,36843.0,1616040847
+Knurów,Knurow,50.2167,18.6833,Poland,PL,POL,Śląskie,,36498.0,1616347151
+Wołomin,Wolomin,52.35,21.2333,Poland,PL,POL,Mazowieckie,minor,36311.0,1616965427
+Jarosław,Jaroslaw,50.0186,22.6797,Poland,PL,POL,Podkarpackie,minor,36303.0,1616590558
+Żary,Zary,51.6333,15.1333,Poland,PL,POL,Lubuskie,minor,36004.0,1616092414
+Oleśnica,Olesnica,51.2,17.3833,Poland,PL,POL,Dolnośląskie,minor,35856.0,1616255385
+Sanok,Sanok,49.55,22.2167,Poland,PL,POL,Podkarpackie,minor,35546.0,1616025467
+Czechowice-Dziedzice,Czechowice-Dziedzice,49.9131,19.0064,Poland,PL,POL,Śląskie,,35261.0,1616154009
+Chrzanów,Chrzanow,50.1333,19.4,Poland,PL,POL,Małopolskie,minor,35091.0,1616227522
+Lębork,Lebork,54.55,17.75,Poland,PL,POL,Pomorskie,minor,34500.0,1616424238
+Brzeg,Brzeg,50.8667,17.4833,Poland,PL,POL,Opolskie,minor,34492.0,1616000502
+Sochaczew,Sochaczew,52.2333,20.2333,Poland,PL,POL,Mazowieckie,minor,34439.0,1616172675
+Podgórze,Podgorze,50.0417,19.9833,Poland,PL,POL,Małopolskie,,34045.0,1616725175
+Cieszyn,Cieszyn,49.7484,18.6332,Poland,PL,POL,Śląskie,minor,33958.0,1616089679
+Jasło,Jaslo,49.7478,21.4714,Poland,PL,POL,Podkarpackie,minor,33830.0,1616015306
+Grodzisk Mazowiecki,Grodzisk Mazowiecki,52.1089,20.625,Poland,PL,POL,Mazowieckie,minor,33708.0,1616204400
+Olkusz,Olkusz,50.2833,19.5667,Poland,PL,POL,Małopolskie,minor,33462.0,1616458567
+Nowy Targ,Nowy Targ,49.4667,20.0167,Poland,PL,POL,Małopolskie,minor,33273.0,1616880514
+Oława,Olawa,50.9333,17.3,Poland,PL,POL,Dolnośląskie,minor,33268.0,1616142881
+Luboń,Lubon,52.3333,16.8833,Poland,PL,POL,Wielkopolskie,,33024.0,1616642403
+Sopot,Sopot,54.4333,18.55,Poland,PL,POL,Pomorskie,minor,32962.0,1616375300
+Iława,Ilawa,53.5964,19.5656,Poland,PL,POL,Warmińsko-Mazurskie,minor,32664.0,1616033026
+Kraśnik,Krasnik,50.9167,22.2167,Poland,PL,POL,Lubelskie,minor,32593.0,1616082443
+Września,Wrzesnia,52.3333,17.5833,Poland,PL,POL,Wielkopolskie,minor,31986.0,1616719550
+Dzierżoniów,Dzierzoniow,50.7281,16.6511,Poland,PL,POL,Dolnośląskie,minor,31866.0,1616826931
+Pruszcz Gdański,Pruszcz Gdanski,54.2667,18.6333,Poland,PL,POL,Pomorskie,minor,31582.0,1616008731
+Mława,Mlawa,53.1167,20.3667,Poland,PL,POL,Mazowieckie,minor,30919.0,1616236136
+Czeladź,Czeladz,50.3333,19.0833,Poland,PL,POL,Śląskie,,30681.0,1616073267
+Police,Police,53.5333,14.5667,Poland,PL,POL,Zachodniopomorskie,minor,30623.0,1616953743
+Myszków,Myszkow,50.5706,19.3144,Poland,PL,POL,Śląskie,minor,30415.0,1616173209
+Żywiec,Zywiec,49.6892,19.2058,Poland,PL,POL,Śląskie,minor,30334.0,1616870150
+Rury,Rury,51.2386,22.5164,Poland,PL,POL,Lubelskie,,30093.0,1616795231
+Zgorzelec,Zgorzelec,51.15,15.0083,Poland,PL,POL,Dolnośląskie,minor,29966.0,1616207310
+Augustów,Augustow,53.8436,22.9794,Poland,PL,POL,Podlaskie,minor,29494.0,1616778386
+Swarzędz,Swarzedz,52.4083,17.0714,Poland,PL,POL,Wielkopolskie,,29295.0,1616602592
+Bochnia,Bochnia,49.9833,20.4333,Poland,PL,POL,Małopolskie,minor,28946.0,1616833825
+Bielawa,Bielawa,50.7,16.6167,Poland,PL,POL,Dolnośląskie,,28896.0,1616721687
+Śrem,Srem,52.0886,17.0147,Poland,PL,POL,Wielkopolskie,minor,28835.0,1616734639
+Krotoszyn,Krotoszyn,51.6833,17.4333,Poland,PL,POL,Wielkopolskie,minor,28704.0,1616105817
+Nowy Dwór Mazowiecki,Nowy Dwor Mazowiecki,52.4333,20.7167,Poland,PL,POL,Mazowieckie,minor,28651.0,1616753471
+Brodnica,Brodnica,53.2597,19.3956,Poland,PL,POL,Kujawsko-Pomorskie,minor,28536.0,1616831249
+Giżycko,Gizycko,54.04,21.7589,Poland,PL,POL,Warmińsko-Mazurskie,minor,28233.0,1616807901
+Reda,Reda,54.6167,18.35,Poland,PL,POL,Pomorskie,,28190.0,1616665081
+Łuków,Lukow,51.9272,22.3833,Poland,PL,POL,Lubelskie,minor,27906.0,1616162700
+Kobyłka,Kobylka,52.3333,21.2,Poland,PL,POL,Mazowieckie,,27185.0,1616520686
+Łowicz,Lowicz,52.1,19.9333,Poland,PL,POL,Łódzkie,minor,26928.0,1616979860
+Wieliczka,Wieliczka,49.9894,20.0661,Poland,PL,POL,Małopolskie,minor,26599.0,1616249410
+Jarocin,Jarocin,51.9667,17.5,Poland,PL,POL,Wielkopolskie,minor,26565.0,1616201243
+Gorlice,Gorlice,49.6547,21.1597,Poland,PL,POL,Małopolskie,minor,26405.0,1616148150
+Wyszków,Wyszkow,52.5928,21.4584,Poland,PL,POL,Mazowieckie,minor,26349.0,1616567857
+Kętrzyn,Ketrzyn,54.0833,21.3833,Poland,PL,POL,Warmińsko-Mazurskie,minor,26174.0,1616659048
+Halemba,Halemba,50.2378,18.8633,Poland,PL,POL,Śląskie,,26080.0,1616209216
+Wągrowiec,Wagrowiec,52.8,17.2,Poland,PL,POL,Wielkopolskie,minor,25773.0,1616366641
+Zakopane,Zakopane,49.3,19.95,Poland,PL,POL,Małopolskie,minor,25770.0,1616298051
+Kłodzko,Klodzko,50.4333,16.65,Poland,PL,POL,Dolnośląskie,minor,25717.0,1616824014
+Pszczyna,Pszczyna,49.9833,18.95,Poland,PL,POL,Śląskie,minor,25565.0,1616839287
+Biłgoraj,Bilgoraj,50.55,22.7333,Poland,PL,POL,Lubelskie,minor,25459.0,1616554572
+Turek,Turek,52.0167,18.5,Poland,PL,POL,Wielkopolskie,minor,25376.0,1616094895
+Świecie,Swiecie,53.4167,18.4333,Poland,PL,POL,Kujawsko-Pomorskie,minor,24796.0,1616982457
+Bielsk Podlaski,Bielsk Podlaski,52.7667,23.2,Poland,PL,POL,Podlaskie,minor,24633.0,1616037323
+Żagań,Zagan,51.6167,15.3167,Poland,PL,POL,Lubuskie,minor,24424.0,1616067846
+Środa Wielkopolska,Sroda Wielkopolska,52.2333,17.2833,Poland,PL,POL,Wielkopolskie,minor,24225.0,1616107812
+Skawina,Skawina,49.9833,19.8333,Poland,PL,POL,Małopolskie,,24177.0,1616660724
+Wałcz,Walcz,53.2667,16.4667,Poland,PL,POL,Zachodniopomorskie,minor,24167.0,1616129049
+Kościan,Koscian,52.0833,16.65,Poland,PL,POL,Wielkopolskie,minor,24022.0,1616047191
+Kościerzyna,Koscierzyna,54.1167,17.9833,Poland,PL,POL,Pomorskie,minor,23723.0,1616544683
+Lubliniec,Lubliniec,50.6833,18.6833,Poland,PL,POL,Śląskie,minor,23660.0,1616573478
+Piastów,Piastow,52.1833,20.85,Poland,PL,POL,Mazowieckie,,23281.0,1616118197
+Białogard,Bialogard,54.0,15.9833,Poland,PL,POL,Zachodniopomorskie,minor,23142.0,1616159820
+Zduńska Wola,Zdunska Wola,51.6,18.9667,Poland,PL,POL,Łódzkie,minor,22904.0,1616720651
+Kluczbork,Kluczbork,50.9833,18.2167,Poland,PL,POL,Opolskie,minor,22703.0,1616259508
+Szczytno,Szczytno,53.5628,20.9853,Poland,PL,POL,Warmińsko-Mazurskie,minor,22389.0,1616017427
+Bartoszyce,Bartoszyce,54.25,20.8,Poland,PL,POL,Warmińsko-Mazurskie,minor,22281.0,1616326744
+Świebodzice,Swiebodzice,50.8667,16.3333,Poland,PL,POL,Dolnośląskie,,22219.0,1616959677
+Sandomierz,Sandomierz,50.6833,21.75,Poland,PL,POL,Świętokrzyskie,minor,22189.0,1616893663
+Goleniów,Goleniow,53.5636,14.8281,Poland,PL,POL,Zachodniopomorskie,minor,22166.0,1616391921
+Aleksandrów Łódzki,Aleksandrow Lodzki,51.8194,19.3039,Poland,PL,POL,Łódzkie,,22148.0,1616531721
+Ostrów Mazowiecka,Ostrow Mazowiecka,52.8,21.9,Poland,PL,POL,Mazowieckie,minor,22013.0,1616194953
+Płońsk,Plonsk,52.6333,20.3833,Poland,PL,POL,Mazowieckie,minor,21800.0,1616662594
+Polkowice,Polkowice,51.5,16.0667,Poland,PL,POL,Dolnośląskie,minor,21786.0,1616214914
+Orzesze,Orzesze,50.15,18.75,Poland,PL,POL,Śląskie,,21631.0,1616872368
+Łaziska Górne,Laziska Gorne,50.15,18.85,Poland,PL,POL,Śląskie,,21592.0,1616701110
+Jawor,Jawor,51.05,16.2,Poland,PL,POL,Dolnośląskie,minor,21494.0,1616434559
+Świedbodzin,Swiedbodzin,52.25,15.5333,Poland,PL,POL,Lubuskie,minor,21399.0,1616504526
+Grajewo,Grajewo,53.65,22.45,Poland,PL,POL,Podlaskie,minor,21395.0,1616787967
+Zambrów,Zambrow,52.9833,22.25,Poland,PL,POL,Podlaskie,minor,21351.0,1616716876
+Mrągowo,Mragowo,53.8667,21.3,Poland,PL,POL,Warmińsko-Mazurskie,minor,21325.0,1616274741
+Wieluń,Wielun,51.2206,18.57,Poland,PL,POL,Łódzkie,minor,21270.0,1616628604
+Nowa Ruda,Nowa Ruda,50.5833,16.5,Poland,PL,POL,Dolnośląskie,,21264.0,1616805229
+Sulejówek,Sulejowek,52.2442,21.28,Poland,PL,POL,Mazowieckie,,21248.0,1616515972
+Józefów,Jozefow,52.1356,21.2369,Poland,PL,POL,Mazowieckie,,21035.0,1616296972
+Działdowo,Dzialdowo,53.2333,20.1833,Poland,PL,POL,Warmińsko-Mazurskie,minor,20670.0,1616181805
+Lubartów,Lubartow,51.4667,22.6,Poland,PL,POL,Lubelskie,minor,20494.0,1616620144
+Koło,Kolo,52.2,18.6333,Poland,PL,POL,Wielkopolskie,minor,20380.0,1616148045
+Rawicz,Rawicz,51.6092,16.8575,Poland,PL,POL,Wielkopolskie,minor,20305.0,1616333894
+Gryfino,Gryfino,53.2531,14.4875,Poland,PL,POL,Zachodniopomorskie,minor,20297.0,1616595491
+Gostyń,Gostyn,51.8792,17.0125,Poland,PL,POL,Wielkopolskie,minor,20210.0,1616275576
+Lubań,Luban,51.1181,15.2889,Poland,PL,POL,Dolnośląskie,minor,20096.0,1616557848
+Prudnik,Prudnik,50.3228,17.5767,Poland,PL,POL,Opolskie,minor,19747.0,1616117977
+Opoczno,Opoczno,51.3772,20.2869,Poland,PL,POL,Łódzkie,minor,19738.0,1616841485
+Hajnówka,Hajnowka,52.7333,23.5667,Poland,PL,POL,Podlaskie,minor,19667.0,1616405290
+Bieruń,Bierun,50.1333,19.1,Poland,PL,POL,Śląskie,minor,19334.0,1616014994
+Pułtusk,Pultusk,52.7,21.0833,Poland,PL,POL,Mazowieckie,minor,19327.0,1616411619
+Andrychów,Andrychow,49.855,19.3414,Poland,PL,POL,Małopolskie,,19203.0,1616553516
+Trzebinia,Trzebinia,50.1667,19.4833,Poland,PL,POL,Małopolskie,,19134.0,1616296505
+Bieruń Stary,Bierun Stary,50.0897,19.0928,Poland,PL,POL,Śląskie,,19100.0,1616995218
+Konstantynów Łódzki,Konstantynow Lodzki,51.75,19.3333,Poland,PL,POL,Łódzkie,,18960.0,1616340948
+Chełmno,Chelmno,53.3492,18.4231,Poland,PL,POL,Kujawsko-Pomorskie,minor,18837.0,1616879030
+Złotów,Zlotow,53.3603,17.0408,Poland,PL,POL,Wielkopolskie,minor,18768.0,1616339419
+Ozorków,Ozorkow,51.9667,19.2833,Poland,PL,POL,Łódzkie,,18721.0,1616513470
+Szamotuły,Szamotuly,52.6,16.5833,Poland,PL,POL,Wielkopolskie,minor,18639.0,1616500868
+Tomaszów Lubelski,Tomaszow Lubelski,50.45,23.4167,Poland,PL,POL,Lubelskie,minor,18567.0,1616783498
+Sokołów Podlaski,Sokolow Podlaski,52.4067,22.2464,Poland,PL,POL,Mazowieckie,minor,18526.0,1616559747
+Giszowiec,Giszowiec,50.2236,19.0694,Poland,PL,POL,Śląskie,,18475.0,1616451758
+Pisz,Pisz,53.6167,21.8,Poland,PL,POL,Warmińsko-Mazurskie,minor,18245.0,1616757867
+Łęczna,Leczna,51.3,22.8833,Poland,PL,POL,Lubelskie,minor,18234.0,1616600546
+Zielonka,Zielonka,52.3008,21.1586,Poland,PL,POL,Mazowieckie,,18219.0,1616038948
+Końskie,Konskie,51.2,20.4167,Poland,PL,POL,Świętokrzyskie,minor,18201.0,1616604827
+Łomianki,Lomianki,52.3333,20.8833,Poland,PL,POL,Mazowieckie,,18124.0,1616717475
+Kęty,Kety,49.9,19.2167,Poland,PL,POL,Małopolskie,,18067.0,1616742375
+Myślenice,Myslenice,49.8347,19.9389,Poland,PL,POL,Małopolskie,minor,18051.0,1616135502
+Chodzież,Chodziez,52.9833,16.9,Poland,PL,POL,Wielkopolskie,minor,18044.0,1616441880
+Jasien,Jasien,54.3667,18.6333,Poland,PL,POL,Pomorskie,,18014.0,1616135118
+Kamienna Góra,Kamienna Gora,50.7833,16.0333,Poland,PL,POL,Dolnośląskie,minor,17998.0,1616000725
+Wadowice,Wadowice,49.8833,19.5,Poland,PL,POL,Małopolskie,minor,17905.0,1616191332
+Kostrzyn nad Odrą,Kostrzyn nad Odra,52.5883,14.6667,Poland,PL,POL,Lubuskie,,17899.0,1616354192
+Łańcut,Lancut,50.0667,22.2333,Poland,PL,POL,Podkarpackie,minor,17768.0,1616335382
+Oborniki,Oborniki,52.65,16.8167,Poland,PL,POL,Wielkopolskie,minor,17629.0,1616127510
+Gostynin,Gostynin,52.4167,19.4667,Poland,PL,POL,Mazowieckie,minor,17624.0,1616908435
+Nakło nad Notecią,Naklo nad Notecia,53.1403,17.5928,Poland,PL,POL,Kujawsko-Pomorskie,minor,17620.0,1616313608
+Sokółka,Sokolka,53.4,23.5,Poland,PL,POL,Podlaskie,minor,17616.0,1616965170
+Krasnystaw,Krasnystaw,51.0,23.1667,Poland,PL,POL,Lubelskie,minor,17519.0,1616374210
+Strzelce Opolskie,Strzelce Opolskie,50.5,18.2833,Poland,PL,POL,Opolskie,minor,17512.0,1616448367
+Międzyrzecz,Miedzyrzecz,52.4483,15.5883,Poland,PL,POL,Lubuskie,minor,17400.0,1616321580
+Pyskowice,Pyskowice,50.3833,18.6167,Poland,PL,POL,Śląskie,,17394.0,1616775078
+Sierpc,Sierpc,52.8833,19.6667,Poland,PL,POL,Mazowieckie,minor,17308.0,1616875285
+Garwolin,Garwolin,51.9,21.6333,Poland,PL,POL,Mazowieckie,minor,17279.0,1616433503
+Konstancin-Jeziorna,Konstancin-Jeziorna,52.0833,21.1167,Poland,PL,POL,Mazowieckie,,17157.0,1616018861
+Grójec,Grojec,51.8656,20.8675,Poland,PL,POL,Mazowieckie,minor,17037.0,1616458276
+Namysłów,Namyslow,51.0728,17.7069,Poland,PL,POL,Opolskie,minor,16942.0,1616674517
+Pleszew,Pleszew,51.8833,17.7833,Poland,PL,POL,Wielkopolskie,minor,16872.0,1616452688
+Hrubieszów,Hrubieszow,50.8167,23.8833,Poland,PL,POL,Lubelskie,minor,16832.0,1616901935
+Trzcianka,Trzcianka,53.05,16.4667,Poland,PL,POL,Wielkopolskie,,16831.0,1616300801
+Pionki,Pionki,51.4833,21.45,Poland,PL,POL,Mazowieckie,,16779.0,1616722660
+Bytów,Bytow,54.1333,17.5,Poland,PL,POL,Pomorskie,minor,16739.0,1616588946
+Przasnysz,Przasnysz,53.0167,20.8833,Poland,PL,POL,Mazowieckie,minor,16662.0,1616909392
+Bogatynia,Bogatynia,50.9069,14.9569,Poland,PL,POL,Dolnośląskie,,16647.0,1616146165
+Łask,Lask,51.5903,19.1333,Poland,PL,POL,Łódzkie,minor,16576.0,1616006477
+Bogucice,Bogucice,50.2668,19.0397,Poland,PL,POL,Śląskie,,16538.0,1616992904
+Słubice,Slubice,52.35,14.5667,Poland,PL,POL,Lubuskie,minor,16495.0,1616690993
+Milanówek,Milanowek,52.1167,20.65,Poland,PL,POL,Mazowieckie,,16490.0,1616814692
+Braniewo,Braniewo,54.3833,19.8333,Poland,PL,POL,Warmińsko-Mazurskie,minor,16480.0,1616740656
+Rawa Mazowiecka,Rawa Mazowiecka,51.7658,20.2533,Poland,PL,POL,Łódzkie,minor,16429.0,1616083640
+Libiąż,Libiaz,50.1,19.3167,Poland,PL,POL,Małopolskie,,16385.0,1616724482
+Radzionków Nowy,Radzionkow Nowy,50.3833,18.8833,Poland,PL,POL,Śląskie,,16253.0,1616721944
+Brzesko,Brzesko,49.9667,20.6167,Poland,PL,POL,Małopolskie,minor,16193.0,1616496298
+Kozienice,Kozienice,51.5833,21.5667,Poland,PL,POL,Mazowieckie,minor,16192.0,1616307779
+Ustroń,Ustron,49.7194,18.8119,Poland,PL,POL,Śląskie,,16118.0,1616758185
+Gubin,Gubin,51.95,14.7167,Poland,PL,POL,Lubuskie,,16114.0,1616164527
+Nowogard,Nowogard,53.6667,15.1167,Poland,PL,POL,Zachodniopomorskie,,16102.0,1616864460
+Olecko,Olecko,54.0333,22.5,Poland,PL,POL,Warmińsko-Mazurskie,minor,16076.0,1616175752
+Czernica,Czernica,51.0464,17.2439,Poland,PL,POL,Dolnośląskie,,16070.0,1616599172
+Sulechów,Sulechow,52.0833,15.6167,Poland,PL,POL,Lubuskie,,16063.0,1616086796
+Gryfice,Gryfice,53.9147,15.1986,Poland,PL,POL,Zachodniopomorskie,minor,15863.0,1616794492
+Osowa,Osowa,54.4272,18.4708,Poland,PL,POL,Pomorskie,,15843.0,1616417029
+Rypin,Rypin,53.0667,19.45,Poland,PL,POL,Kujawsko-Pomorskie,minor,15832.0,1616716547
+Międzyrzec Podlaski,Miedzyrzec Podlaski,51.9833,22.7833,Poland,PL,POL,Lubelskie,,15830.0,1616448418
+Ropczyce,Ropczyce,50.0861,21.6333,Poland,PL,POL,Podkarpackie,minor,15815.0,1616760049
+Krapkowice,Krapkowice,50.4667,17.9667,Poland,PL,POL,Opolskie,minor,15786.0,1616664766
+Niepołomice,Niepolomice,50.0339,20.2172,Poland,PL,POL,Małopolskie,,15697.0,1616183842
+Solec Kujawski,Solec Kujawski,53.0833,18.2333,Poland,PL,POL,Kujawsko-Pomorskie,,15458.0,1616600171
+Jelcz-Laskowice,Jelcz-Laskowice,51.0333,17.3333,Poland,PL,POL,Dolnośląskie,,15380.0,1616808157
+Strzegom,Strzegom,50.9611,16.3444,Poland,PL,POL,Dolnośląskie,,15371.0,1616613189
+Grodzisk Wielkopolski,Grodzisk Wielkopolski,52.2333,16.3667,Poland,PL,POL,Wielkopolskie,minor,15131.0,1616036580
+Busko-Zdrój,Busko-Zdroj,50.4667,20.7167,Poland,PL,POL,Świętokrzyskie,minor,15014.0,1616795752
+Świdwin,Swidwin,53.7833,15.7667,Poland,PL,POL,Zachodniopomorskie,minor,14937.0,1616092118
+Przeworsk,Przeworsk,50.0667,22.5,Poland,PL,POL,Podkarpackie,minor,14881.0,1616040608
+Lidzbark Warmiński,Lidzbark Warminski,54.1167,20.5833,Poland,PL,POL,Warmińsko-Mazurskie,minor,14878.0,1616280672
+Nisko,Nisko,50.52,22.1394,Poland,PL,POL,Podkarpackie,minor,14874.0,1616837686
+Józefosław,Jozefoslaw,52.1069,21.0392,Poland,PL,POL,Mazowieckie,,14806.0,1616077121
+Radzyń Podlaski,Radzyn Podlaski,51.7828,22.6242,Poland,PL,POL,Lubelskie,minor,14806.0,1616425780
+Dęblin,Deblin,51.5667,21.8614,Poland,PL,POL,Lubelskie,,14791.0,1616913108
+Łapy,Lapy,52.9833,22.8833,Poland,PL,POL,Podlaskie,,14790.0,1616816583
+Złotoryja,Zlotoryja,51.1333,15.9167,Poland,PL,POL,Dolnośląskie,minor,14656.0,1616742834
+Boguszów-Gorce,Boguszow-Gorce,50.7667,16.2,Poland,PL,POL,Dolnośląskie,,14648.0,1616569765
+Limanowa,Limanowa,49.7006,20.4267,Poland,PL,POL,Małopolskie,minor,14635.0,1616015371
+Jędrzejów,Jedrzejow,50.6333,20.3,Poland,PL,POL,Świętokrzyskie,minor,14592.0,1616363750
+Ząbkowice Śląskie,Zabkowice Slaskie,50.5833,16.8167,Poland,PL,POL,Dolnośląskie,minor,14578.0,1616718625
+Mosina,Mosina,52.2467,16.845,Poland,PL,POL,Wielkopolskie,,14511.0,1616028362
+Brwinów,Brwinow,52.1417,20.7167,Poland,PL,POL,Mazowieckie,,14448.0,1616620268
+Choszczno,Choszczno,53.1667,15.4,Poland,PL,POL,Zachodniopomorskie,minor,14399.0,1616054552
+Ożarów Mazowiecki,Ozarow Mazowiecki,52.2167,20.8,Poland,PL,POL,Mazowieckie,minor,14375.0,1616007056
+Ustka,Ustka,54.5833,16.85,Poland,PL,POL,Pomorskie,,14321.0,1616638026
+Radzymin,Radzymin,52.4167,21.1833,Poland,PL,POL,Mazowieckie,,14314.0,1616443722
+Biały Kamień,Bialy Kamien,50.7814,16.2539,Poland,PL,POL,Dolnośląskie,,14278.0,1616208893
+Kartuzy,Kartuzy,54.3333,18.2,Poland,PL,POL,Pomorskie,minor,14204.0,1616246268
+Plewiska,Plewiska,52.3664,16.8089,Poland,PL,POL,Wielkopolskie,,14160.0,1616010188
+Staszów,Staszow,50.5633,21.1717,Poland,PL,POL,Świętokrzyskie,minor,14158.0,1616211187
+Nowy Tomyśl,Nowy Tomysl,52.3167,16.1333,Poland,PL,POL,Wielkopolskie,minor,14116.0,1616447936
+Chełmża,Chelmza,53.1847,18.6042,Poland,PL,POL,Kujawsko-Pomorskie,,14045.0,1616701343
+Ostrzeszów,Ostrzeszow,51.4167,17.9333,Poland,PL,POL,Wielkopolskie,minor,14036.0,1616530680
+Kępno,Kepno,51.2833,17.9833,Poland,PL,POL,Wielkopolskie,minor,13951.0,1616511558
+Skoczów,Skoczow,49.8006,18.7883,Poland,PL,POL,Śląskie,,13814.0,1616973602
+Siemiatycze,Siemiatycze,52.4272,22.8625,Poland,PL,POL,Podlaskie,minor,13782.0,1616804060
+Lipno,Lipno,52.85,19.1667,Poland,PL,POL,Kujawsko-Pomorskie,minor,13752.0,1616442467
+Trzebnica,Trzebnica,51.305,17.0614,Poland,PL,POL,Dolnośląskie,minor,13631.0,1616145534
+Łęczyca,Leczyca,52.05,19.2,Poland,PL,POL,Łódzkie,minor,13587.0,1616649790
+Wschowa,Wschowa,51.8,16.3,Poland,PL,POL,Lubuskie,minor,13533.0,1616415919
+Głowno,Glowno,51.9642,19.7117,Poland,PL,POL,Łódzkie,,13506.0,1616156342
+Tuchola,Tuchola,53.6,17.85,Poland,PL,POL,Kujawsko-Pomorskie,minor,13408.0,1616160656
+Zawodzie,Zawodzie,50.2585,19.0449,Poland,PL,POL,Śląskie,,13406.0,1616007841
+Gołdap,Goldap,54.3161,22.3094,Poland,PL,POL,Warmińsko-Mazurskie,minor,13378.0,1616193832
+Słupca,Slupca,52.3,17.8667,Poland,PL,POL,Wielkopolskie,minor,13353.0,1616372877
+Człuchów,Czluchow,53.65,17.3667,Poland,PL,POL,Pomorskie,minor,13343.0,1616601877
+Barlinek,Barlinek,53.0,15.2,Poland,PL,POL,Zachodniopomorskie,,13339.0,1616433075
+Morąg,Morag,53.9167,19.9333,Poland,PL,POL,Warmińsko-Mazurskie,,13317.0,1616114206
+Wąbrzeźno,Wabrzezno,53.2833,18.95,Poland,PL,POL,Kujawsko-Pomorskie,minor,13317.0,1616122226
+Dębno,Debno,52.7333,14.7,Poland,PL,POL,Zachodniopomorskie,,13291.0,1616728902
+Żnin,Znin,52.85,17.7,Poland,PL,POL,Kujawsko-Pomorskie,minor,13268.0,1616616613
+Lubsko,Lubsko,51.7833,14.9667,Poland,PL,POL,Lubuskie,,13240.0,1616174794
+Leżajsk,Lezajsk,50.2667,22.4333,Poland,PL,POL,Podkarpackie,minor,13164.0,1616610279
+Głuchołazy,Glucholazy,50.3131,17.3742,Poland,PL,POL,Opolskie,,13143.0,1616458381
+Kozy,Kozy,49.845,19.1417,Poland,PL,POL,Śląskie,,13098.0,1616180693
+Darłowo,Darlowo,54.4208,16.4097,Poland,PL,POL,Zachodniopomorskie,,13081.0,1616699844
+Nidzica,Nidzica,53.3583,20.425,Poland,PL,POL,Warmińsko-Mazurskie,minor,13052.0,1616216829
+Sidlice,Sidlice,54.3471,18.6171,Poland,PL,POL,Pomorskie,,12842.0,1616658059
+Chojnów,Chojnow,51.2667,15.9333,Poland,PL,POL,Dolnośląskie,,12769.0,1616584715
+Brzeg Dolny,Brzeg Dolny,51.2708,16.7208,Poland,PL,POL,Dolnośląskie,,12765.0,1616585341
+Kochłowice,Kochlowice,50.2538,18.9015,Poland,PL,POL,Śląskie,,12738.0,1616518904
+Chropaczów,Chropaczow,50.3131,18.915,Poland,PL,POL,Śląskie,,12589.0,1616015573
+Kłobuck,Klobuck,50.9167,18.9333,Poland,PL,POL,Śląskie,minor,12513.0,1616782641
+Wolsztyn,Wolsztyn,52.1167,16.1167,Poland,PL,POL,Wielkopolskie,minor,12504.0,1616069343
+Włodawa,Wlodawa,51.55,23.55,Poland,PL,POL,Lubelskie,minor,12500.0,1616013060
+Koszutka,Koszutka,50.2711,19.0211,Poland,PL,POL,Śląskie,,12431.0,1616566467
+Koluszki,Koluszki,51.75,19.8,Poland,PL,POL,Łódzkie,,12396.0,1616140044
+Złocieniec,Zlocieniec,53.5269,16.0122,Poland,PL,POL,Zachodniopomorskie,,12373.0,1616208535
+Sędziszów Małopolski,Sedziszow Malopolski,50.0694,21.7014,Poland,PL,POL,Podkarpackie,,12313.0,1616036495
+Wołów,Wolow,51.3414,16.6283,Poland,PL,POL,Dolnośląskie,minor,12275.0,1616165743
+Błonie,Blonie,52.2,20.6167,Poland,PL,POL,Mazowieckie,,12152.0,1616120917
+Wasilków,Wasilkow,53.205,23.2044,Poland,PL,POL,Podlaskie,,12147.0,1616267315
+Strzelin,Strzelin,50.7833,17.0667,Poland,PL,POL,Dolnośląskie,minor,12131.0,1616993710
+Brzeziny,Brzeziny,51.8,19.75,Poland,PL,POL,Łódzkie,minor,12117.0,1616839084
+Głubczyce,Glubczyce,50.2011,17.8247,Poland,PL,POL,Opolskie,minor,12100.0,1616541369
+Gierałtowice,Gieraltowice,50.2167,18.7167,Poland,PL,POL,Śląskie,,12096.0,1616190609
+Pasłęk,Paslek,54.05,19.6667,Poland,PL,POL,Warmińsko-Mazurskie,,12074.0,1616525306
+Pyrzyce,Pyrzyce,53.1333,14.8833,Poland,PL,POL,Zachodniopomorskie,minor,12041.0,1616856540
+Sławno,Slawno,54.3667,16.6833,Poland,PL,POL,Zachodniopomorskie,minor,12028.0,1616283206
+Warka,Warka,51.7833,21.2,Poland,PL,POL,Mazowieckie,,12003.0,1616212108
+Węgrów,Wegrow,52.4,22.0167,Poland,PL,POL,Mazowieckie,minor,11993.0,1616038840
+Góra Kalwaria,Gora Kalwaria,51.9733,21.2144,Poland,PL,POL,Mazowieckie,,11887.0,1616668959
+Golub-Dobrzyń,Golub-Dobrzyn,53.1,19.05,Poland,PL,POL,Kujawsko-Pomorskie,minor,11722.0,1616198300
+Aleksandrów Kujawski,Aleksandrow Kujawski,52.8767,18.6936,Poland,PL,POL,Kujawsko-Pomorskie,minor,11719.0,1616651073
+Lubaczów,Lubaczow,50.1667,23.1167,Poland,PL,POL,Podkarpackie,minor,11619.0,1616650009
+Dąbrowa Tarnowska,Dabrowa Tarnowska,50.1667,20.9833,Poland,PL,POL,Małopolskie,minor,11549.0,1616908977
+Drawsko Pomorskie,Drawsko Pomorskie,53.5333,15.8,Poland,PL,POL,Zachodniopomorskie,minor,11515.0,1616969885
+Mogilno,Mogilno,52.65,17.95,Poland,PL,POL,Kujawsko-Pomorskie,minor,11453.0,1616055676
+Janów Lubelski,Janow Lubelski,50.7167,22.4167,Poland,PL,POL,Lubelskie,minor,11308.0,1616411246
+Miechów,Miechow,50.3578,20.0325,Poland,PL,POL,Małopolskie,minor,11215.0,1616754821
+Góra,Gora,51.6667,16.55,Poland,PL,POL,Dolnośląskie,minor,11173.0,1616282982
+Szprotawa,Szprotawa,51.5667,15.5,Poland,PL,POL,Lubuskie,,11068.0,1616764705
+Brzeszcze,Brzeszcze,50.0,19.15,Poland,PL,POL,Małopolskie,,11049.0,1616019723
+Milicz,Milicz,51.5333,17.2833,Poland,PL,POL,Dolnośląskie,minor,11025.0,1616770210
+Komorniki,Komorniki,52.3361,16.8069,Poland,PL,POL,Wielkopolskie,,10990.0,1616794356
+Koronowo,Koronowo,53.3167,17.9333,Poland,PL,POL,Kujawsko-Pomorskie,,10974.0,1616300116
+Szydłowiec,Szydlowiec,51.2333,20.85,Poland,PL,POL,Mazowieckie,minor,10959.0,1616837510
+Rogoźno,Rogozno,52.7492,16.9997,Poland,PL,POL,Wielkopolskie,,10959.0,1616112506
+Wronki,Wronki,52.7,16.3833,Poland,PL,POL,Wielkopolskie,,10918.0,1616756713
+Krosno Odrzańskie,Krosno Odrzanskie,52.0333,15.1,Poland,PL,POL,Lubuskie,minor,10905.0,1616603555
+Wisła,Wisla,49.6549,18.8595,Poland,PL,POL,Śląskie,,10887.0,1616358703
+Węgorzewo,Wegorzewo,54.2167,21.75,Poland,PL,POL,Warmińsko-Mazurskie,minor,10879.0,1616206015
+Puck,Puck,54.7,18.4,Poland,PL,POL,Pomorskie,minor,10868.0,1616295439
+Myślibórz,Mysliborz,52.9333,14.8667,Poland,PL,POL,Zachodniopomorskie,minor,10649.0,1616407161
+Nowa Dęba,Nowa Deba,50.4167,21.7667,Poland,PL,POL,Podkarpackie,,10647.0,1616557246
+Lubawa,Lubawa,53.5,19.75,Poland,PL,POL,Warmińsko-Mazurskie,,10626.0,1616962128
+Kiełczów,Kielczow,51.1406,17.1783,Poland,PL,POL,Dolnośląskie,,10572.0,1616463576
+Parczew,Parczew,51.6333,22.8667,Poland,PL,POL,Lubelskie,minor,10519.0,1616266918
+Nowe Miasto Lubawskie,Nowe Miasto Lubawskie,53.4256,19.5878,Poland,PL,POL,Warmińsko-Mazurskie,minor,10492.0,1616871039
+Wapienica,Wapienica,49.8083,18.9839,Poland,PL,POL,Śląskie,,10439.0,1616724407
+Ciechocinek,Ciechocinek,52.8833,18.7833,Poland,PL,POL,Kujawsko-Pomorskie,,10415.0,1616015629
+Suchanino,Suchanino,54.3667,18.65,Poland,PL,POL,Pomorskie,,10392.0,1616723599
+Zdzieszowice,Zdzieszowice,50.4192,18.1236,Poland,PL,POL,Opolskie,,10380.0,1616530342
+Czarnków,Czarnkow,52.9,16.5667,Poland,PL,POL,Wielkopolskie,minor,10370.0,1616859392
+Międzychód,Miedzychod,52.6,15.8833,Poland,PL,POL,Wielkopolskie,minor,10288.0,1616252444
+Murowana Goślina,Murowana Goslina,52.5667,17.0167,Poland,PL,POL,Wielkopolskie,,10247.0,1616479191
+Głogów Małopolski,Glogow Malopolski,50.1667,21.9667,Poland,PL,POL,Podkarpackie,,10232.0,1616792516
+Kowary,Kowary,50.7917,15.8333,Poland,PL,POL,Dolnośląskie,,10217.0,1616926416
+Załęże,Zaleze,50.2672,18.9892,Poland,PL,POL,Śląskie,,10185.0,1616250144
+Biskupiec,Biskupiec,53.85,20.95,Poland,PL,POL,Warmińsko-Mazurskie,,10163.0,1616213985
+Komorowice,Komorowice,49.8544,19.0406,Poland,PL,POL,Śląskie,,10112.0,1616278113
+Syców,Sycow,51.31,17.7236,Poland,PL,POL,Dolnośląskie,,10102.0,1616409792
+Pińczów,Pinczow,50.5333,20.5333,Poland,PL,POL,Świętokrzyskie,minor,10078.0,1616074605
+Mikuszowice,Mikuszowice,49.7833,19.0703,Poland,PL,POL,Śląskie,,10041.0,1616718016
+Krynica,Krynica,49.4117,20.955,Poland,PL,POL,Małopolskie,,10001.0,1616638760
+Kolno,Kolno,53.4106,21.9339,Poland,PL,POL,Podlaskie,minor,9999.0,1616110330
+Czersk Pomorski,Czersk Pomorski,53.7928,17.9739,Poland,PL,POL,Pomorskie,,9997.0,1616943877
+Sulęcin,Sulecin,52.45,15.1167,Poland,PL,POL,Lubuskie,minor,9978.0,1616859082
+Siechnice,Siechnice,51.0367,17.1525,Poland,PL,POL,Dolnośląskie,,9957.0,1616477794
+Strzelce Krajeńskie,Strzelce Krajenskie,52.8756,15.5319,Poland,PL,POL,Lubuskie,minor,9912.0,1616150192
+Krzeszowice,Krzeszowice,50.1333,19.6333,Poland,PL,POL,Małopolskie,,9868.0,1616471634
+Kostrzyń,Kostrzyn,52.3941,17.2221,Poland,PL,POL,Wielkopolskie,,9809.0,1616197568
+Banino,Banino,54.3933,18.4083,Poland,PL,POL,Pomorskie,,9806.0,1616509986
+Drezdenko,Drezdenko,52.8333,15.8333,Poland,PL,POL,Lubuskie,,9800.0,1616180565
+Łobez,Lobez,53.6333,15.6167,Poland,PL,POL,Zachodniopomorskie,minor,9792.0,1616627277
+Bukowno,Bukowno,50.2681,19.4631,Poland,PL,POL,Małopolskie,,9791.0,1616483621
+Miastko,Miastko,54.0167,16.9833,Poland,PL,POL,Pomorskie,,9770.0,1616803904
+Gaszowice,Gaszowice,50.1089,18.4308,Poland,PL,POL,Śląskie,,9755.0,1616209977
+Pobiedziska,Pobiedziska,52.4833,17.4833,Poland,PL,POL,Wielkopolskie,,9755.0,1616215352
+Włoszczowa,Wloszczowa,50.8542,19.9669,Poland,PL,POL,Świętokrzyskie,minor,9750.0,1616505680
+Gołuchów,Goluchow,51.8494,17.9314,Poland,PL,POL,Wielkopolskie,,9703.0,1616000807
+Kokoszki,Kokoszki,54.3541,18.4915,Poland,PL,POL,Pomorskie,,9693.0,1616899678
+Mońki,Monki,53.4,22.8,Poland,PL,POL,Podlaskie,minor,9675.0,1616329542
+Dobre Miasto,Dobre Miasto,53.9875,20.3958,Poland,PL,POL,Warmińsko-Mazurskie,,9629.0,1616619953
+Kudowa-Zdrój,Kudowa-Zdroj,50.4383,16.2397,Poland,PL,POL,Dolnośląskie,,9627.0,1616102407
+Nowy Dwór Gdański,Nowy Dwor Gdanski,54.2167,19.1167,Poland,PL,POL,Pomorskie,minor,9618.0,1616276242
+Władysławowo,Wladyslawowo,54.8339,18.3156,Poland,PL,POL,Pomorskie,,9613.0,1616875034
+Trzebiatów,Trzebiatow,54.0572,15.2786,Poland,PL,POL,Zachodniopomorskie,,9591.0,1616792960
+Karczew,Karczew,52.0833,21.25,Poland,PL,POL,Mazowieckie,,9566.0,1616830765
+Szubin,Szubin,53.0167,17.75,Poland,PL,POL,Kujawsko-Pomorskie,,9563.0,1616354181
+Środa Śląska,Sroda Slaska,51.15,16.5833,Poland,PL,POL,Dolnośląskie,minor,9525.0,1616482692
+Sztum,Sztum,53.9217,19.0336,Poland,PL,POL,Pomorskie,minor,9515.0,1616277062
+Puszczykowo,Puszczykowo,52.2817,16.8542,Poland,PL,POL,Wielkopolskie,,9470.0,1616800720
+Bystrzyca Kłodzka,Bystrzyca Klodzka,50.3,16.65,Poland,PL,POL,Dolnośląskie,,9414.0,1616639168
+Ostróda,Ostroda,53.7,19.9667,Poland,PL,POL,Warmińsko-Mazurskie,minor,9410.0,1616636172
+Opalenica,Opalenica,52.3078,16.4136,Poland,PL,POL,Wielkopolskie,,9360.0,1616220242
+Blachownia,Blachownia,50.7833,18.9667,Poland,PL,POL,Śląskie,,9334.0,1616282069
+Imielin,Imielin,50.1478,19.1814,Poland,PL,POL,Śląskie,,9313.0,1616783615
+Kruszwica,Kruszwica,52.6772,18.3292,Poland,PL,POL,Kujawsko-Pomorskie,,9288.0,1616885548
+Skwierzyna,Skwierzyna,52.6,15.5,Poland,PL,POL,Lubuskie,,9272.0,1616286690
+Ryki,Ryki,51.6333,21.9333,Poland,PL,POL,Lubelskie,minor,9229.0,1616774707
+Maków Mazowiecki,Makow Mazowiecki,52.8667,21.1,Poland,PL,POL,Mazowieckie,minor,9173.0,1616505631
+Wysokie Mazowieckie,Wysokie Mazowieckie,52.9192,22.5144,Poland,PL,POL,Podlaskie,minor,9155.0,1616361738
+Olesno,Olesno,50.875,18.4167,Poland,PL,POL,Opolskie,minor,9122.0,1616142985
+Oborniki Śląskie,Oborniki Slaskie,51.2986,16.9017,Poland,PL,POL,Dolnośląskie,,9101.0,1616398472
+Kożuchów,Kozuchow,51.75,15.6,Poland,PL,POL,Lubuskie,,9086.0,1616495836
+Sucha Beskidzka,Sucha Beskidzka,49.7403,19.5886,Poland,PL,POL,Małopolskie,minor,8951.0,1616035021
+Czarna Białostocka,Czarna Bialostocka,53.3,23.2833,Poland,PL,POL,Podlaskie,,8943.0,1616707256
+Sępólno Krajeńskie,Sepolno Krajenskie,53.45,17.53,Poland,PL,POL,Kujawsko-Pomorskie,minor,8914.0,1616234057
+Bolszewo,Bolszewo,54.6242,18.1753,Poland,PL,POL,Pomorskie,,8808.0,1616848552
+Stary Sącz,Stary Sacz,49.5625,20.6364,Poland,PL,POL,Małopolskie,,8746.0,1616399913
+Ustrzyki Dolne,Ustrzyki Dolne,49.4297,22.5867,Poland,PL,POL,Podkarpackie,minor,8717.0,1616817418
+Kolbuszowa,Kolbuszowa,50.25,21.7667,Poland,PL,POL,Podkarpackie,minor,8710.0,1616946964
+Goworowo,Goworowo,52.9006,21.5544,Poland,PL,POL,Mazowieckie,,8689.0,1616834846
+Chełmek,Chelmek,50.1167,19.25,Poland,PL,POL,Małopolskie,,8669.0,1616126539
+Kościelisko,Koscielisko,49.2908,19.8883,Poland,PL,POL,Małopolskie,,8661.0,1616942761
+Żuromin,Zuromin,53.0667,19.9,Poland,PL,POL,Mazowieckie,minor,8592.0,1616921543
+Kamień Pomorski,Kamien Pomorski,53.97,14.7725,Poland,PL,POL,Zachodniopomorskie,minor,8564.0,1616000112
+Poniatowa,Poniatowa,51.1928,22.0647,Poland,PL,POL,Lubelskie,,8517.0,1616798001
+Wieruszów,Wieruszow,51.3,18.15,Poland,PL,POL,Łódzkie,minor,8514.0,1616576051
+Warsaw,Warsaw,52.23,21.0111,Poland,PL,POL,Mazowieckie,primary,1860281.0,1616024847
+Kraków,Krakow,50.0614,19.9372,Poland,PL,POL,Małopolskie,admin,804237.0,1616172264
+Wrocław,Wroclaw,51.11,17.0325,Poland,PL,POL,Dolnośląskie,admin,672929.0,1616108520
+Łódź,Lodz,51.7769,19.4547,Poland,PL,POL,Łódzkie,admin,670642.0,1616832750
+Poznań,Poznan,52.4083,16.9336,Poland,PL,POL,Wielkopolskie,admin,546859.0,1616725607
+Gdańsk,Gdansk,54.3475,18.6453,Poland,PL,POL,Pomorskie,admin,486022.0,1616406372
+Szczecin,Szczecin,53.4325,14.5481,Poland,PL,POL,Zachodniopomorskie,admin,396168.0,1616256546
+Bydgoszcz,Bydgoszcz,53.1219,18.0003,Poland,PL,POL,Kujawsko-Pomorskie,admin,337666.0,1616454014
+Lublin,Lublin,51.25,22.5667,Poland,PL,POL,Lubelskie,admin,334681.0,1616953501
+Białystok,Bialystok,53.1353,23.1456,Poland,PL,POL,Podlaskie,admin,294242.0,1616443575
+Katowice,Katowice,50.2625,19.0217,Poland,PL,POL,Śląskie,admin,285711.0,1616798495
+Gdynia,Gdynia,54.5175,18.54,Poland,PL,POL,Pomorskie,minor,245222.0,1616385189
+Zielona Góra,Zielona Gora,51.9333,15.5,Poland,PL,POL,Lubuskie,admin,216781.0,1616050904
+Częstochowa,Czestochowa,50.8,19.1167,Poland,PL,POL,Śląskie,minor,213107.0,1616881632
+Radom,Radom,51.4036,21.1567,Poland,PL,POL,Mazowieckie,minor,201601.0,1616327727
+Toruń,Torun,53.0222,18.6111,Poland,PL,POL,Kujawsko-Pomorskie,admin,198273.0,1616267221
+Rzeszów,Rzeszow,50.0333,22.0,Poland,PL,POL,Podkarpackie,admin,195871.0,1616879570
+Sosnowiec,Sosnowiec,50.2833,19.1333,Poland,PL,POL,Śląskie,minor,193660.0,1616057255
+Kielce,Kielce,50.8742,20.6333,Poland,PL,POL,Świętokrzyskie,admin,186894.0,1616176351
+Gliwice,Gliwice,50.2833,18.6667,Poland,PL,POL,Śląskie,minor,174016.0,1616311376
+Olsztyn,Olsztyn,53.7778,20.4792,Poland,PL,POL,Warmińsko-Mazurskie,admin,170225.0,1616383275
+Bielsko-Biała,Bielsko-Biala,49.8225,19.0444,Poland,PL,POL,Śląskie,minor,169089.0,1616302636
+Zabrze,Zabrze,50.3025,18.7781,Poland,PL,POL,Śląskie,minor,158307.0,1616784915
+Bytom,Bytom,50.3483,18.9156,Poland,PL,POL,Śląskie,minor,153274.0,1616740907
+Ruda Śląska,Ruda Slaska,50.2628,18.8536,Poland,PL,POL,Śląskie,minor,133793.0,1616148566
+Rybnik,Rybnik,50.0833,18.55,Poland,PL,POL,Śląskie,minor,133772.0,1616092098
+Opole,Opole,50.6667,17.9333,Poland,PL,POL,Opolskie,admin,127387.0,1616096837
+Tychy,Tychy,50.1236,18.9867,Poland,PL,POL,Śląskie,minor,124882.0,1616396493
+Gorzów Wielkopolski,Gorzow Wielkopolski,52.7333,15.25,Poland,PL,POL,Lubuskie,admin,119964.0,1616788025
+Dąbrowa Górnicza,Dabrowa Gornicza,50.3214,19.1872,Poland,PL,POL,Śląskie,minor,116930.0,1616312023
+Elbląg,Elblag,54.1667,19.4,Poland,PL,POL,Warmińsko-Mazurskie,minor,115220.0,1616395994
+Płock,Plock,52.55,19.7,Poland,PL,POL,Mazowieckie,minor,114594.0,1616954507
+Tarnów,Tarnow,50.0125,20.9886,Poland,PL,POL,Małopolskie,minor,106259.0,1616375879
+Koszalin,Koszalin,54.2,16.1833,Poland,PL,POL,Zachodniopomorskie,minor,105883.0,1616258002
+Włocławek,Wloclawek,52.6592,19.0681,Poland,PL,POL,Kujawsko-Pomorskie,minor,104705.0,1616143097
+Wałbrzych,Walbrzych,50.7667,16.2833,Poland,PL,POL,Dolnośląskie,minor,104401.0,1616162263
+Chorzów,Chorzow,50.3,18.95,Poland,PL,POL,Śląskie,minor,104193.0,1616517871
+Kalisz,Kalisz,51.7575,18.08,Poland,PL,POL,Wielkopolskie,minor,95905.0,1616861321
+Legnica,Legnica,51.2083,16.1603,Poland,PL,POL,Dolnośląskie,minor,94878.0,1616578356
+Grudziądz,Grudziadz,53.4875,18.755,Poland,PL,POL,Kujawsko-Pomorskie,minor,90890.0,1616391533
+Jaworzno,Jaworzno,50.2044,19.27,Poland,PL,POL,Śląskie,minor,88998.0,1616134743
+Słupsk,Slupsk,54.4658,17.0292,Poland,PL,POL,Pomorskie,minor,87660.0,1616346559
+Jastrzębie-Zdrój,Jastrzebie-Zdroj,49.95,18.5833,Poland,PL,POL,Śląskie,minor,85050.0,1616365516
+Nowy Sącz,Nowy Sacz,49.6239,20.6972,Poland,PL,POL,Małopolskie,minor,81281.0,1616869871
+Skarżysko-Kamienna,Skarzysko-Kamienna,51.1167,20.9167,Poland,PL,POL,Świętokrzyskie,minor,78636.0,1616858398
+Jelenia Góra,Jelenia Gora,50.9033,15.7344,Poland,PL,POL,Dolnośląskie,minor,77305.0,1616105652
+Siedlce,Siedlce,52.165,22.2714,Poland,PL,POL,Mazowieckie,minor,76357.0,1616939180
+Mysłowice,Myslowice,50.2333,19.1333,Poland,PL,POL,Śląskie,minor,72553.0,1616757185
+Piła,Pila,53.15,16.7333,Poland,PL,POL,Wielkopolskie,minor,71735.0,1616414354
+Ostrów Wielkopolski,Ostrow Wielkopolski,51.6494,17.8164,Poland,PL,POL,Wielkopolskie,minor,70725.0,1616691422
+Lubin,Lubin,51.4,16.2,Poland,PL,POL,Dolnośląskie,minor,70016.0,1616748050
+Konin,Konin,52.2167,18.2667,Poland,PL,POL,Wielkopolskie,minor,69858.0,1616883533
+Inowrocław,Inowroclaw,52.7931,18.2611,Poland,PL,POL,Kujawsko-Pomorskie,minor,69576.0,1616606592
+Piotrków Trybunalski,Piotrkow Trybunalski,51.4,19.6833,Poland,PL,POL,Łódzkie,minor,68978.0,1616450789
+Suwałki,Suwalki,54.0989,22.9286,Poland,PL,POL,Podlaskie,minor,68752.0,1616523627
+Stargard Szczeciński,Stargard Szczecinski,53.3333,15.0333,Poland,PL,POL,Zachodniopomorskie,minor,67348.0,1616480646
+Gniezno,Gniezno,52.5358,17.5958,Poland,PL,POL,Wielkopolskie,minor,65452.0,1616984350
+Pruszków,Pruszkow,52.1667,20.8,Poland,PL,POL,Mazowieckie,minor,65283.0,1616154673
+Ostrowiec Świętokrzyski,Ostrowiec Swietokrzyski,50.9333,21.4,Poland,PL,POL,Świętokrzyskie,minor,64796.0,1616984527
+Siemianowice Śląskie,Siemianowice Slaskie,50.2758,18.9858,Poland,PL,POL,Śląskie,minor,64676.0,1616000741
+Głogów,Glogow,51.6589,16.0803,Poland,PL,POL,Dolnośląskie,minor,64261.0,1616244076
+Pabianice,Pabianice,51.65,19.3833,Poland,PL,POL,Łódzkie,minor,62954.0,1616294006
+Żory,Zory,50.05,18.7,Poland,PL,POL,Śląskie,minor,61823.0,1616545481
+Leszno,Leszno,51.8458,16.5806,Poland,PL,POL,Wielkopolskie,minor,61791.0,1616030015
+Tarnowskie Góry,Tarnowskie Gory,50.4444,18.8583,Poland,PL,POL,Śląskie,minor,61288.0,1616868201
+Łomża,Lomza,53.1764,22.0731,Poland,PL,POL,Podlaskie,minor,60848.0,1616678952
+Ełk,Elk,53.8214,22.3622,Poland,PL,POL,Warmińsko-Mazurskie,minor,60390.0,1616783003
+Zamość,Zamosc,50.7167,23.2528,Poland,PL,POL,Lubelskie,minor,60148.0,1616490229
+Chełm,Chelm,51.1322,23.4778,Poland,PL,POL,Lubelskie,minor,59546.0,1616688578
+Tomaszów Mazowiecki,Tomaszow Mazowiecki,51.5167,20.0167,Poland,PL,POL,Łódzkie,minor,59388.0,1616394410
+Przemyśl,Przemysl,49.7833,22.7667,Poland,PL,POL,Podkarpackie,minor,58408.0,1616506094
+Mielec,Mielec,50.2833,21.4333,Poland,PL,POL,Podkarpackie,minor,58213.0,1616825607
+Tczew,Tczew,54.0875,18.7972,Poland,PL,POL,Pomorskie,minor,57990.0,1616578037
+Stalowa Wola,Stalowa Wola,50.5667,22.05,Poland,PL,POL,Podkarpackie,minor,57620.0,1616964956
+Kędzierzyn-Koźle,Kedzierzyn-Kozle,50.35,18.2,Poland,PL,POL,Opolskie,minor,56931.0,1616306372
+Będzin,Bedzin,50.3333,19.1167,Poland,PL,POL,Śląskie,minor,55695.0,1616409616
+Biała Podlaska,Biala Podlaska,52.0333,23.1167,Poland,PL,POL,Lubelskie,minor,55429.0,1616025020
+Zgierz,Zgierz,51.85,19.4167,Poland,PL,POL,Łódzkie,minor,55079.0,1616382343
+Świdnica,Swidnica,50.85,16.4833,Poland,PL,POL,Dolnośląskie,minor,54792.0,1616002338
+Bełchatów,Belchatow,51.3667,19.3667,Poland,PL,POL,Łódzkie,minor,54338.0,1616973390
+Legionowo,Legionowo,52.4,20.8833,Poland,PL,POL,Mazowieckie,minor,53216.0,1616994284
+Piekary Śląskie,Piekary Slaskie,50.3833,18.95,Poland,PL,POL,Śląskie,minor,53017.0,1616227996
+Piaseczno,Piaseczno,52.0667,21.0167,Poland,PL,POL,Mazowieckie,minor,51945.0,1616877485
+Rumia,Rumia,54.5667,18.4,Poland,PL,POL,Pomorskie,,51879.0,1616655416
+Racibórz,Raciborz,50.0833,18.2333,Poland,PL,POL,Śląskie,minor,51257.0,1616829452
+Ostrołęka,Ostroleka,53.0667,21.5667,Poland,PL,POL,Mazowieckie,minor,49805.0,1616360926
+Zawiercie,Zawiercie,50.5,19.4167,Poland,PL,POL,Śląskie,minor,47689.0,1616113254
+Wejherowo,Wejherowo,54.6,18.25,Poland,PL,POL,Pomorskie,minor,47357.0,1616233029
+Świętochłowice,Swietochlowice,50.2919,18.9178,Poland,PL,POL,Śląskie,minor,46494.0,1616910155
+Skierniewice,Skierniewice,51.9528,20.1417,Poland,PL,POL,Łódzkie,minor,46437.0,1616077823
+Starogard Gdański,Starogard Gdanski,53.9667,18.5333,Poland,PL,POL,Pomorskie,minor,46373.0,1616735469
+Starachowice,Starachowice,51.05,21.0667,Poland,PL,POL,Świętokrzyskie,minor,46270.0,1616418874
+Wodzisław Śląski,Wodzislaw Slaski,50.0,18.45,Poland,PL,POL,Śląskie,minor,45949.0,1616578364
+Puławy,Pulawy,51.4167,21.9667,Poland,PL,POL,Lubelskie,minor,45267.0,1616098904
+Krosno,Krosno,49.6833,21.75,Poland,PL,POL,Podkarpackie,minor,45057.0,1616223462
+Tarnobrzeg,Tarnobrzeg,50.5833,21.6833,Poland,PL,POL,Podkarpackie,minor,44901.0,1616631454
+Otwock,Otwock,52.1167,21.2667,Poland,PL,POL,Mazowieckie,minor,44524.0,1616596983
+Radomsko,Radomsko,51.0667,19.45,Poland,PL,POL,Łódzkie,minor,44441.0,1616575463
+Kołobrzeg,Kolobrzeg,54.1761,15.5761,Poland,PL,POL,Zachodniopomorskie,minor,44340.0,1616732501
+Dębica,Debica,50.05,21.4167,Poland,PL,POL,Podkarpackie,minor,44047.0,1616197893
+Ząbki,Zabki,52.2928,21.1161,Poland,PL,POL,Mazowieckie,,43740.0,1616088121
+Ciechanów,Ciechanow,52.8667,20.6333,Poland,PL,POL,Mazowieckie,minor,42705.0,1616466171
+Kutno,Kutno,52.2333,19.3667,Poland,PL,POL,Łódzkie,minor,42255.0,1616586955
+Marki,Marki,52.3333,21.1,Poland,PL,POL,Mazowieckie,,42252.0,1616076713
+Nysa,Nysa,50.4714,17.3339,Poland,PL,POL,Opolskie,minor,42151.0,1616093801
+Mikołów,Mikolow,50.1667,18.9,Poland,PL,POL,Śląskie,minor,41266.0,1616187671
+Mińsk Mazowiecki,Minsk Mazowiecki,52.1833,21.5667,Poland,PL,POL,Mazowieckie,minor,40467.0,1616444517
+Świnoujście,Swinoujscie,53.9167,14.25,Poland,PL,POL,Zachodniopomorskie,minor,40204.0,1616487084
+Sieradz,Sieradz,51.6,18.75,Poland,PL,POL,Łódzkie,minor,40014.0,1616121526
+Żyrardów,Zyrardow,52.05,20.4333,Poland,PL,POL,Mazowieckie,minor,39374.0,1616145588
+Chojnice,Chojnice,53.7,17.55,Poland,PL,POL,Pomorskie,minor,39275.0,1616746687
+Szczecinek,Szczecinek,53.7167,16.6833,Poland,PL,POL,Zachodniopomorskie,minor,38446.0,1616218175
+Świdnik,Swidnik,51.2167,22.7,Poland,PL,POL,Lubelskie,minor,37884.0,1616873846
+Kwidzyn,Kwidzyn,53.7358,18.9308,Poland,PL,POL,Pomorskie,minor,37768.0,1616851475
+Malbork,Malbork,54.0333,19.0333,Poland,PL,POL,Pomorskie,minor,37635.0,1616964352
+Bolesławiec,Boleslawiec,51.2667,15.5667,Poland,PL,POL,Dolnośląskie,minor,37559.0,1616593724
+Oświęcim,Oswiecim,50.0381,19.2214,Poland,PL,POL,Małopolskie,minor,36956.0,1616528804
+Nowa Sól,Nowa Sol,51.8,15.7167,Poland,PL,POL,Lubuskie,minor,36843.0,1616040847
+Knurów,Knurow,50.2167,18.6833,Poland,PL,POL,Śląskie,,36498.0,1616347151
+Wołomin,Wolomin,52.35,21.2333,Poland,PL,POL,Mazowieckie,minor,36311.0,1616965427
+Jarosław,Jaroslaw,50.0186,22.6797,Poland,PL,POL,Podkarpackie,minor,36303.0,1616590558
+Żary,Zary,51.6333,15.1333,Poland,PL,POL,Lubuskie,minor,36004.0,1616092414
+Oleśnica,Olesnica,51.2,17.3833,Poland,PL,POL,Dolnośląskie,minor,35856.0,1616255385
+Sanok,Sanok,49.55,22.2167,Poland,PL,POL,Podkarpackie,minor,35546.0,1616025467
+Czechowice-Dziedzice,Czechowice-Dziedzice,49.9131,19.0064,Poland,PL,POL,Śląskie,,35261.0,1616154009
+Chrzanów,Chrzanow,50.1333,19.4,Poland,PL,POL,Małopolskie,minor,35091.0,1616227522
+Lębork,Lebork,54.55,17.75,Poland,PL,POL,Pomorskie,minor,34500.0,1616424238
+Brzeg,Brzeg,50.8667,17.4833,Poland,PL,POL,Opolskie,minor,34492.0,1616000502
+Sochaczew,Sochaczew,52.2333,20.2333,Poland,PL,POL,Mazowieckie,minor,34439.0,1616172675
+Podgórze,Podgorze,50.0417,19.9833,Poland,PL,POL,Małopolskie,,34045.0,1616725175
+Cieszyn,Cieszyn,49.7484,18.6332,Poland,PL,POL,Śląskie,minor,33958.0,1616089679
+Jasło,Jaslo,49.7478,21.4714,Poland,PL,POL,Podkarpackie,minor,33830.0,1616015306
+Grodzisk Mazowiecki,Grodzisk Mazowiecki,52.1089,20.625,Poland,PL,POL,Mazowieckie,minor,33708.0,1616204400
+Olkusz,Olkusz,50.2833,19.5667,Poland,PL,POL,Małopolskie,minor,33462.0,1616458567
+Nowy Targ,Nowy Targ,49.4667,20.0167,Poland,PL,POL,Małopolskie,minor,33273.0,1616880514
+Oława,Olawa,50.9333,17.3,Poland,PL,POL,Dolnośląskie,minor,33268.0,1616142881
+Luboń,Lubon,52.3333,16.8833,Poland,PL,POL,Wielkopolskie,,33024.0,1616642403
+Sopot,Sopot,54.4333,18.55,Poland,PL,POL,Pomorskie,minor,32962.0,1616375300
+Iława,Ilawa,53.5964,19.5656,Poland,PL,POL,Warmińsko-Mazurskie,minor,32664.0,1616033026
+Kraśnik,Krasnik,50.9167,22.2167,Poland,PL,POL,Lubelskie,minor,32593.0,1616082443
+Września,Wrzesnia,52.3333,17.5833,Poland,PL,POL,Wielkopolskie,minor,31986.0,1616719550
+Dzierżoniów,Dzierzoniow,50.7281,16.6511,Poland,PL,POL,Dolnośląskie,minor,31866.0,1616826931
+Pruszcz Gdański,Pruszcz Gdanski,54.2667,18.6333,Poland,PL,POL,Pomorskie,minor,31582.0,1616008731
+Mława,Mlawa,53.1167,20.3667,Poland,PL,POL,Mazowieckie,minor,30919.0,1616236136
+Czeladź,Czeladz,50.3333,19.0833,Poland,PL,POL,Śląskie,,30681.0,1616073267
+Police,Police,53.5333,14.5667,Poland,PL,POL,Zachodniopomorskie,minor,30623.0,1616953743
+Myszków,Myszkow,50.5706,19.3144,Poland,PL,POL,Śląskie,minor,30415.0,1616173209
+Żywiec,Zywiec,49.6892,19.2058,Poland,PL,POL,Śląskie,minor,30334.0,1616870150
+Rury,Rury,51.2386,22.5164,Poland,PL,POL,Lubelskie,,30093.0,1616795231
+Zgorzelec,Zgorzelec,51.15,15.0083,Poland,PL,POL,Dolnośląskie,minor,29966.0,1616207310
+Augustów,Augustow,53.8436,22.9794,Poland,PL,POL,Podlaskie,minor,29494.0,1616778386
+Swarzędz,Swarzedz,52.4083,17.0714,Poland,PL,POL,Wielkopolskie,,29295.0,1616602592
+Bochnia,Bochnia,49.9833,20.4333,Poland,PL,POL,Małopolskie,minor,28946.0,1616833825
+Bielawa,Bielawa,50.7,16.6167,Poland,PL,POL,Dolnośląskie,,28896.0,1616721687
+Śrem,Srem,52.0886,17.0147,Poland,PL,POL,Wielkopolskie,minor,28835.0,1616734639
+Krotoszyn,Krotoszyn,51.6833,17.4333,Poland,PL,POL,Wielkopolskie,minor,28704.0,1616105817
+Nowy Dwór Mazowiecki,Nowy Dwor Mazowiecki,52.4333,20.7167,Poland,PL,POL,Mazowieckie,minor,28651.0,1616753471
+Brodnica,Brodnica,53.2597,19.3956,Poland,PL,POL,Kujawsko-Pomorskie,minor,28536.0,1616831249
+Giżycko,Gizycko,54.04,21.7589,Poland,PL,POL,Warmińsko-Mazurskie,minor,28233.0,1616807901
+Reda,Reda,54.6167,18.35,Poland,PL,POL,Pomorskie,,28190.0,1616665081
+Łuków,Lukow,51.9272,22.3833,Poland,PL,POL,Lubelskie,minor,27906.0,1616162700
+Kobyłka,Kobylka,52.3333,21.2,Poland,PL,POL,Mazowieckie,,27185.0,1616520686
+Łowicz,Lowicz,52.1,19.9333,Poland,PL,POL,Łódzkie,minor,26928.0,1616979860
+Wieliczka,Wieliczka,49.9894,20.0661,Poland,PL,POL,Małopolskie,minor,26599.0,1616249410
+Jarocin,Jarocin,51.9667,17.5,Poland,PL,POL,Wielkopolskie,minor,26565.0,1616201243
+Gorlice,Gorlice,49.6547,21.1597,Poland,PL,POL,Małopolskie,minor,26405.0,1616148150
+Wyszków,Wyszkow,52.5928,21.4584,Poland,PL,POL,Mazowieckie,minor,26349.0,1616567857
+Kętrzyn,Ketrzyn,54.0833,21.3833,Poland,PL,POL,Warmińsko-Mazurskie,minor,26174.0,1616659048
+Halemba,Halemba,50.2378,18.8633,Poland,PL,POL,Śląskie,,26080.0,1616209216
+Wągrowiec,Wagrowiec,52.8,17.2,Poland,PL,POL,Wielkopolskie,minor,25773.0,1616366641
+Zakopane,Zakopane,49.3,19.95,Poland,PL,POL,Małopolskie,minor,25770.0,1616298051
+Kłodzko,Klodzko,50.4333,16.65,Poland,PL,POL,Dolnośląskie,minor,25717.0,1616824014
+Pszczyna,Pszczyna,49.9833,18.95,Poland,PL,POL,Śląskie,minor,25565.0,1616839287
+Biłgoraj,Bilgoraj,50.55,22.7333,Poland,PL,POL,Lubelskie,minor,25459.0,1616554572
+Turek,Turek,52.0167,18.5,Poland,PL,POL,Wielkopolskie,minor,25376.0,1616094895
+Świecie,Swiecie,53.4167,18.4333,Poland,PL,POL,Kujawsko-Pomorskie,minor,24796.0,1616982457
+Bielsk Podlaski,Bielsk Podlaski,52.7667,23.2,Poland,PL,POL,Podlaskie,minor,24633.0,1616037323
+Żagań,Zagan,51.6167,15.3167,Poland,PL,POL,Lubuskie,minor,24424.0,1616067846
+Środa Wielkopolska,Sroda Wielkopolska,52.2333,17.2833,Poland,PL,POL,Wielkopolskie,minor,24225.0,1616107812
+Skawina,Skawina,49.9833,19.8333,Poland,PL,POL,Małopolskie,,24177.0,1616660724
+Wałcz,Walcz,53.2667,16.4667,Poland,PL,POL,Zachodniopomorskie,minor,24167.0,1616129049
+Kościan,Koscian,52.0833,16.65,Poland,PL,POL,Wielkopolskie,minor,24022.0,1616047191
+Kościerzyna,Koscierzyna,54.1167,17.9833,Poland,PL,POL,Pomorskie,minor,23723.0,1616544683
+Lubliniec,Lubliniec,50.6833,18.6833,Poland,PL,POL,Śląskie,minor,23660.0,1616573478
+Piastów,Piastow,52.1833,20.85,Poland,PL,POL,Mazowieckie,,23281.0,1616118197
+Białogard,Bialogard,54.0,15.9833,Poland,PL,POL,Zachodniopomorskie,minor,23142.0,1616159820
+Zduńska Wola,Zdunska Wola,51.6,18.9667,Poland,PL,POL,Łódzkie,minor,22904.0,1616720651
+Kluczbork,Kluczbork,50.9833,18.2167,Poland,PL,POL,Opolskie,minor,22703.0,1616259508
+Szczytno,Szczytno,53.5628,20.9853,Poland,PL,POL,Warmińsko-Mazurskie,minor,22389.0,1616017427
+Bartoszyce,Bartoszyce,54.25,20.8,Poland,PL,POL,Warmińsko-Mazurskie,minor,22281.0,1616326744
+Świebodzice,Swiebodzice,50.8667,16.3333,Poland,PL,POL,Dolnośląskie,,22219.0,1616959677
+Sandomierz,Sandomierz,50.6833,21.75,Poland,PL,POL,Świętokrzyskie,minor,22189.0,1616893663
+Goleniów,Goleniow,53.5636,14.8281,Poland,PL,POL,Zachodniopomorskie,minor,22166.0,1616391921
+Aleksandrów Łódzki,Aleksandrow Lodzki,51.8194,19.3039,Poland,PL,POL,Łódzkie,,22148.0,1616531721
+Ostrów Mazowiecka,Ostrow Mazowiecka,52.8,21.9,Poland,PL,POL,Mazowieckie,minor,22013.0,1616194953
+Płońsk,Plonsk,52.6333,20.3833,Poland,PL,POL,Mazowieckie,minor,21800.0,1616662594
+Polkowice,Polkowice,51.5,16.0667,Poland,PL,POL,Dolnośląskie,minor,21786.0,1616214914
+Orzesze,Orzesze,50.15,18.75,Poland,PL,POL,Śląskie,,21631.0,1616872368
+Łaziska Górne,Laziska Gorne,50.15,18.85,Poland,PL,POL,Śląskie,,21592.0,1616701110
+Jawor,Jawor,51.05,16.2,Poland,PL,POL,Dolnośląskie,minor,21494.0,1616434559
+Świedbodzin,Swiedbodzin,52.25,15.5333,Poland,PL,POL,Lubuskie,minor,21399.0,1616504526
+Grajewo,Grajewo,53.65,22.45,Poland,PL,POL,Podlaskie,minor,21395.0,1616787967
+Zambrów,Zambrow,52.9833,22.25,Poland,PL,POL,Podlaskie,minor,21351.0,1616716876
+Mrągowo,Mragowo,53.8667,21.3,Poland,PL,POL,Warmińsko-Mazurskie,minor,21325.0,1616274741
+Wieluń,Wielun,51.2206,18.57,Poland,PL,POL,Łódzkie,minor,21270.0,1616628604
+Nowa Ruda,Nowa Ruda,50.5833,16.5,Poland,PL,POL,Dolnośląskie,,21264.0,1616805229
+Sulejówek,Sulejowek,52.2442,21.28,Poland,PL,POL,Mazowieckie,,21248.0,1616515972
+Józefów,Jozefow,52.1356,21.2369,Poland,PL,POL,Mazowieckie,,21035.0,1616296972
+Działdowo,Dzialdowo,53.2333,20.1833,Poland,PL,POL,Warmińsko-Mazurskie,minor,20670.0,1616181805
+Lubartów,Lubartow,51.4667,22.6,Poland,PL,POL,Lubelskie,minor,20494.0,1616620144
+Koło,Kolo,52.2,18.6333,Poland,PL,POL,Wielkopolskie,minor,20380.0,1616148045
+Rawicz,Rawicz,51.6092,16.8575,Poland,PL,POL,Wielkopolskie,minor,20305.0,1616333894
+Gryfino,Gryfino,53.2531,14.4875,Poland,PL,POL,Zachodniopomorskie,minor,20297.0,1616595491
+Gostyń,Gostyn,51.8792,17.0125,Poland,PL,POL,Wielkopolskie,minor,20210.0,1616275576
+Lubań,Luban,51.1181,15.2889,Poland,PL,POL,Dolnośląskie,minor,20096.0,1616557848
+Prudnik,Prudnik,50.3228,17.5767,Poland,PL,POL,Opolskie,minor,19747.0,1616117977
+Opoczno,Opoczno,51.3772,20.2869,Poland,PL,POL,Łódzkie,minor,19738.0,1616841485
+Hajnówka,Hajnowka,52.7333,23.5667,Poland,PL,POL,Podlaskie,minor,19667.0,1616405290
+Bieruń,Bierun,50.1333,19.1,Poland,PL,POL,Śląskie,minor,19334.0,1616014994
+Pułtusk,Pultusk,52.7,21.0833,Poland,PL,POL,Mazowieckie,minor,19327.0,1616411619
+Andrychów,Andrychow,49.855,19.3414,Poland,PL,POL,Małopolskie,,19203.0,1616553516
+Trzebinia,Trzebinia,50.1667,19.4833,Poland,PL,POL,Małopolskie,,19134.0,1616296505
+Bieruń Stary,Bierun Stary,50.0897,19.0928,Poland,PL,POL,Śląskie,,19100.0,1616995218
+Konstantynów Łódzki,Konstantynow Lodzki,51.75,19.3333,Poland,PL,POL,Łódzkie,,18960.0,1616340948
+Chełmno,Chelmno,53.3492,18.4231,Poland,PL,POL,Kujawsko-Pomorskie,minor,18837.0,1616879030
+Złotów,Zlotow,53.3603,17.0408,Poland,PL,POL,Wielkopolskie,minor,18768.0,1616339419
+Ozorków,Ozorkow,51.9667,19.2833,Poland,PL,POL,Łódzkie,,18721.0,1616513470
+Szamotuły,Szamotuly,52.6,16.5833,Poland,PL,POL,Wielkopolskie,minor,18639.0,1616500868
+Tomaszów Lubelski,Tomaszow Lubelski,50.45,23.4167,Poland,PL,POL,Lubelskie,minor,18567.0,1616783498
+Sokołów Podlaski,Sokolow Podlaski,52.4067,22.2464,Poland,PL,POL,Mazowieckie,minor,18526.0,1616559747
+Giszowiec,Giszowiec,50.2236,19.0694,Poland,PL,POL,Śląskie,,18475.0,1616451758
+Pisz,Pisz,53.6167,21.8,Poland,PL,POL,Warmińsko-Mazurskie,minor,18245.0,1616757867
+Łęczna,Leczna,51.3,22.8833,Poland,PL,POL,Lubelskie,minor,18234.0,1616600546
+Zielonka,Zielonka,52.3008,21.1586,Poland,PL,POL,Mazowieckie,,18219.0,1616038948
+Końskie,Konskie,51.2,20.4167,Poland,PL,POL,Świętokrzyskie,minor,18201.0,1616604827
+Łomianki,Lomianki,52.3333,20.8833,Poland,PL,POL,Mazowieckie,,18124.0,1616717475
+Kęty,Kety,49.9,19.2167,Poland,PL,POL,Małopolskie,,18067.0,1616742375
+Myślenice,Myslenice,49.8347,19.9389,Poland,PL,POL,Małopolskie,minor,18051.0,1616135502
+Chodzież,Chodziez,52.9833,16.9,Poland,PL,POL,Wielkopolskie,minor,18044.0,1616441880
+Jasien,Jasien,54.3667,18.6333,Poland,PL,POL,Pomorskie,,18014.0,1616135118
+Kamienna Góra,Kamienna Gora,50.7833,16.0333,Poland,PL,POL,Dolnośląskie,minor,17998.0,1616000725
+Wadowice,Wadowice,49.8833,19.5,Poland,PL,POL,Małopolskie,minor,17905.0,1616191332
+Kostrzyn nad Odrą,Kostrzyn nad Odra,52.5883,14.6667,Poland,PL,POL,Lubuskie,,17899.0,1616354192
+Łańcut,Lancut,50.0667,22.2333,Poland,PL,POL,Podkarpackie,minor,17768.0,1616335382
+Oborniki,Oborniki,52.65,16.8167,Poland,PL,POL,Wielkopolskie,minor,17629.0,1616127510
+Gostynin,Gostynin,52.4167,19.4667,Poland,PL,POL,Mazowieckie,minor,17624.0,1616908435
+Nakło nad Notecią,Naklo nad Notecia,53.1403,17.5928,Poland,PL,POL,Kujawsko-Pomorskie,minor,17620.0,1616313608
+Sokółka,Sokolka,53.4,23.5,Poland,PL,POL,Podlaskie,minor,17616.0,1616965170
+Krasnystaw,Krasnystaw,51.0,23.1667,Poland,PL,POL,Lubelskie,minor,17519.0,1616374210
+Strzelce Opolskie,Strzelce Opolskie,50.5,18.2833,Poland,PL,POL,Opolskie,minor,17512.0,1616448367
+Międzyrzecz,Miedzyrzecz,52.4483,15.5883,Poland,PL,POL,Lubuskie,minor,17400.0,1616321580
+Pyskowice,Pyskowice,50.3833,18.6167,Poland,PL,POL,Śląskie,,17394.0,1616775078
+Sierpc,Sierpc,52.8833,19.6667,Poland,PL,POL,Mazowieckie,minor,17308.0,1616875285
+Garwolin,Garwolin,51.9,21.6333,Poland,PL,POL,Mazowieckie,minor,17279.0,1616433503
+Konstancin-Jeziorna,Konstancin-Jeziorna,52.0833,21.1167,Poland,PL,POL,Mazowieckie,,17157.0,1616018861
+Grójec,Grojec,51.8656,20.8675,Poland,PL,POL,Mazowieckie,minor,17037.0,1616458276
+Namysłów,Namyslow,51.0728,17.7069,Poland,PL,POL,Opolskie,minor,16942.0,1616674517
+Pleszew,Pleszew,51.8833,17.7833,Poland,PL,POL,Wielkopolskie,minor,16872.0,1616452688
+Hrubieszów,Hrubieszow,50.8167,23.8833,Poland,PL,POL,Lubelskie,minor,16832.0,1616901935
+Trzcianka,Trzcianka,53.05,16.4667,Poland,PL,POL,Wielkopolskie,,16831.0,1616300801
+Pionki,Pionki,51.4833,21.45,Poland,PL,POL,Mazowieckie,,16779.0,1616722660
+Bytów,Bytow,54.1333,17.5,Poland,PL,POL,Pomorskie,minor,16739.0,1616588946
+Przasnysz,Przasnysz,53.0167,20.8833,Poland,PL,POL,Mazowieckie,minor,16662.0,1616909392
+Bogatynia,Bogatynia,50.9069,14.9569,Poland,PL,POL,Dolnośląskie,,16647.0,1616146165
+Łask,Lask,51.5903,19.1333,Poland,PL,POL,Łódzkie,minor,16576.0,1616006477
+Bogucice,Bogucice,50.2668,19.0397,Poland,PL,POL,Śląskie,,16538.0,1616992904
+Słubice,Slubice,52.35,14.5667,Poland,PL,POL,Lubuskie,minor,16495.0,1616690993
+Milanówek,Milanowek,52.1167,20.65,Poland,PL,POL,Mazowieckie,,16490.0,1616814692
+Braniewo,Braniewo,54.3833,19.8333,Poland,PL,POL,Warmińsko-Mazurskie,minor,16480.0,1616740656
+Rawa Mazowiecka,Rawa Mazowiecka,51.7658,20.2533,Poland,PL,POL,Łódzkie,minor,16429.0,1616083640
+Libiąż,Libiaz,50.1,19.3167,Poland,PL,POL,Małopolskie,,16385.0,1616724482
+Radzionków Nowy,Radzionkow Nowy,50.3833,18.8833,Poland,PL,POL,Śląskie,,16253.0,1616721944
+Brzesko,Brzesko,49.9667,20.6167,Poland,PL,POL,Małopolskie,minor,16193.0,1616496298
+Kozienice,Kozienice,51.5833,21.5667,Poland,PL,POL,Mazowieckie,minor,16192.0,1616307779
+Ustroń,Ustron,49.7194,18.8119,Poland,PL,POL,Śląskie,,16118.0,1616758185
+Gubin,Gubin,51.95,14.7167,Poland,PL,POL,Lubuskie,,16114.0,1616164527
+Nowogard,Nowogard,53.6667,15.1167,Poland,PL,POL,Zachodniopomorskie,,16102.0,1616864460
+Olecko,Olecko,54.0333,22.5,Poland,PL,POL,Warmińsko-Mazurskie,minor,16076.0,1616175752
+Czernica,Czernica,51.0464,17.2439,Poland,PL,POL,Dolnośląskie,,16070.0,1616599172
+Sulechów,Sulechow,52.0833,15.6167,Poland,PL,POL,Lubuskie,,16063.0,1616086796
+Gryfice,Gryfice,53.9147,15.1986,Poland,PL,POL,Zachodniopomorskie,minor,15863.0,1616794492
+Osowa,Osowa,54.4272,18.4708,Poland,PL,POL,Pomorskie,,15843.0,1616417029
+Rypin,Rypin,53.0667,19.45,Poland,PL,POL,Kujawsko-Pomorskie,minor,15832.0,1616716547
+Międzyrzec Podlaski,Miedzyrzec Podlaski,51.9833,22.7833,Poland,PL,POL,Lubelskie,,15830.0,1616448418
+Ropczyce,Ropczyce,50.0861,21.6333,Poland,PL,POL,Podkarpackie,minor,15815.0,1616760049
+Krapkowice,Krapkowice,50.4667,17.9667,Poland,PL,POL,Opolskie,minor,15786.0,1616664766
+Niepołomice,Niepolomice,50.0339,20.2172,Poland,PL,POL,Małopolskie,,15697.0,1616183842
+Solec Kujawski,Solec Kujawski,53.0833,18.2333,Poland,PL,POL,Kujawsko-Pomorskie,,15458.0,1616600171
+Jelcz-Laskowice,Jelcz-Laskowice,51.0333,17.3333,Poland,PL,POL,Dolnośląskie,,15380.0,1616808157
+Strzegom,Strzegom,50.9611,16.3444,Poland,PL,POL,Dolnośląskie,,15371.0,1616613189
+Grodzisk Wielkopolski,Grodzisk Wielkopolski,52.2333,16.3667,Poland,PL,POL,Wielkopolskie,minor,15131.0,1616036580
+Busko-Zdrój,Busko-Zdroj,50.4667,20.7167,Poland,PL,POL,Świętokrzyskie,minor,15014.0,1616795752
+Świdwin,Swidwin,53.7833,15.7667,Poland,PL,POL,Zachodniopomorskie,minor,14937.0,1616092118
+Przeworsk,Przeworsk,50.0667,22.5,Poland,PL,POL,Podkarpackie,minor,14881.0,1616040608
+Lidzbark Warmiński,Lidzbark Warminski,54.1167,20.5833,Poland,PL,POL,Warmińsko-Mazurskie,minor,14878.0,1616280672
+Nisko,Nisko,50.52,22.1394,Poland,PL,POL,Podkarpackie,minor,14874.0,1616837686
+Józefosław,Jozefoslaw,52.1069,21.0392,Poland,PL,POL,Mazowieckie,,14806.0,1616077121
+Radzyń Podlaski,Radzyn Podlaski,51.7828,22.6242,Poland,PL,POL,Lubelskie,minor,14806.0,1616425780
+Dęblin,Deblin,51.5667,21.8614,Poland,PL,POL,Lubelskie,,14791.0,1616913108
+Łapy,Lapy,52.9833,22.8833,Poland,PL,POL,Podlaskie,,14790.0,1616816583
+Złotoryja,Zlotoryja,51.1333,15.9167,Poland,PL,POL,Dolnośląskie,minor,14656.0,1616742834
+Boguszów-Gorce,Boguszow-Gorce,50.7667,16.2,Poland,PL,POL,Dolnośląskie,,14648.0,1616569765
+Limanowa,Limanowa,49.7006,20.4267,Poland,PL,POL,Małopolskie,minor,14635.0,1616015371
+Jędrzejów,Jedrzejow,50.6333,20.3,Poland,PL,POL,Świętokrzyskie,minor,14592.0,1616363750
+Ząbkowice Śląskie,Zabkowice Slaskie,50.5833,16.8167,Poland,PL,POL,Dolnośląskie,minor,14578.0,1616718625
+Mosina,Mosina,52.2467,16.845,Poland,PL,POL,Wielkopolskie,,14511.0,1616028362
+Brwinów,Brwinow,52.1417,20.7167,Poland,PL,POL,Mazowieckie,,14448.0,1616620268
+Choszczno,Choszczno,53.1667,15.4,Poland,PL,POL,Zachodniopomorskie,minor,14399.0,1616054552
+Ożarów Mazowiecki,Ozarow Mazowiecki,52.2167,20.8,Poland,PL,POL,Mazowieckie,minor,14375.0,1616007056
+Ustka,Ustka,54.5833,16.85,Poland,PL,POL,Pomorskie,,14321.0,1616638026
+Radzymin,Radzymin,52.4167,21.1833,Poland,PL,POL,Mazowieckie,,14314.0,1616443722
+Biały Kamień,Bialy Kamien,50.7814,16.2539,Poland,PL,POL,Dolnośląskie,,14278.0,1616208893
+Kartuzy,Kartuzy,54.3333,18.2,Poland,PL,POL,Pomorskie,minor,14204.0,1616246268
+Plewiska,Plewiska,52.3664,16.8089,Poland,PL,POL,Wielkopolskie,,14160.0,1616010188
+Staszów,Staszow,50.5633,21.1717,Poland,PL,POL,Świętokrzyskie,minor,14158.0,1616211187
+Nowy Tomyśl,Nowy Tomysl,52.3167,16.1333,Poland,PL,POL,Wielkopolskie,minor,14116.0,1616447936
+Chełmża,Chelmza,53.1847,18.6042,Poland,PL,POL,Kujawsko-Pomorskie,,14045.0,1616701343
+Ostrzeszów,Ostrzeszow,51.4167,17.9333,Poland,PL,POL,Wielkopolskie,minor,14036.0,1616530680
+Kępno,Kepno,51.2833,17.9833,Poland,PL,POL,Wielkopolskie,minor,13951.0,1616511558
+Skoczów,Skoczow,49.8006,18.7883,Poland,PL,POL,Śląskie,,13814.0,1616973602
+Siemiatycze,Siemiatycze,52.4272,22.8625,Poland,PL,POL,Podlaskie,minor,13782.0,1616804060
+Lipno,Lipno,52.85,19.1667,Poland,PL,POL,Kujawsko-Pomorskie,minor,13752.0,1616442467
+Trzebnica,Trzebnica,51.305,17.0614,Poland,PL,POL,Dolnośląskie,minor,13631.0,1616145534
+Łęczyca,Leczyca,52.05,19.2,Poland,PL,POL,Łódzkie,minor,13587.0,1616649790
+Wschowa,Wschowa,51.8,16.3,Poland,PL,POL,Lubuskie,minor,13533.0,1616415919
+Głowno,Glowno,51.9642,19.7117,Poland,PL,POL,Łódzkie,,13506.0,1616156342
+Tuchola,Tuchola,53.6,17.85,Poland,PL,POL,Kujawsko-Pomorskie,minor,13408.0,1616160656
+Zawodzie,Zawodzie,50.2585,19.0449,Poland,PL,POL,Śląskie,,13406.0,1616007841
+Gołdap,Goldap,54.3161,22.3094,Poland,PL,POL,Warmińsko-Mazurskie,minor,13378.0,1616193832
+Słupca,Slupca,52.3,17.8667,Poland,PL,POL,Wielkopolskie,minor,13353.0,1616372877
+Człuchów,Czluchow,53.65,17.3667,Poland,PL,POL,Pomorskie,minor,13343.0,1616601877
+Barlinek,Barlinek,53.0,15.2,Poland,PL,POL,Zachodniopomorskie,,13339.0,1616433075
+Morąg,Morag,53.9167,19.9333,Poland,PL,POL,Warmińsko-Mazurskie,,13317.0,1616114206
+Wąbrzeźno,Wabrzezno,53.2833,18.95,Poland,PL,POL,Kujawsko-Pomorskie,minor,13317.0,1616122226
+Dębno,Debno,52.7333,14.7,Poland,PL,POL,Zachodniopomorskie,,13291.0,1616728902
+Żnin,Znin,52.85,17.7,Poland,PL,POL,Kujawsko-Pomorskie,minor,13268.0,1616616613
+Lubsko,Lubsko,51.7833,14.9667,Poland,PL,POL,Lubuskie,,13240.0,1616174794
+Leżajsk,Lezajsk,50.2667,22.4333,Poland,PL,POL,Podkarpackie,minor,13164.0,1616610279
+Głuchołazy,Glucholazy,50.3131,17.3742,Poland,PL,POL,Opolskie,,13143.0,1616458381
+Kozy,Kozy,49.845,19.1417,Poland,PL,POL,Śląskie,,13098.0,1616180693
+Darłowo,Darlowo,54.4208,16.4097,Poland,PL,POL,Zachodniopomorskie,,13081.0,1616699844
+Nidzica,Nidzica,53.3583,20.425,Poland,PL,POL,Warmińsko-Mazurskie,minor,13052.0,1616216829
+Sidlice,Sidlice,54.3471,18.6171,Poland,PL,POL,Pomorskie,,12842.0,1616658059
+Chojnów,Chojnow,51.2667,15.9333,Poland,PL,POL,Dolnośląskie,,12769.0,1616584715
+Brzeg Dolny,Brzeg Dolny,51.2708,16.7208,Poland,PL,POL,Dolnośląskie,,12765.0,1616585341
+Kochłowice,Kochlowice,50.2538,18.9015,Poland,PL,POL,Śląskie,,12738.0,1616518904
+Chropaczów,Chropaczow,50.3131,18.915,Poland,PL,POL,Śląskie,,12589.0,1616015573
+Kłobuck,Klobuck,50.9167,18.9333,Poland,PL,POL,Śląskie,minor,12513.0,1616782641
+Wolsztyn,Wolsztyn,52.1167,16.1167,Poland,PL,POL,Wielkopolskie,minor,12504.0,1616069343
+Włodawa,Wlodawa,51.55,23.55,Poland,PL,POL,Lubelskie,minor,12500.0,1616013060
+Koszutka,Koszutka,50.2711,19.0211,Poland,PL,POL,Śląskie,,12431.0,1616566467
+Koluszki,Koluszki,51.75,19.8,Poland,PL,POL,Łódzkie,,12396.0,1616140044
+Złocieniec,Zlocieniec,53.5269,16.0122,Poland,PL,POL,Zachodniopomorskie,,12373.0,1616208535
+Sędziszów Małopolski,Sedziszow Malopolski,50.0694,21.7014,Poland,PL,POL,Podkarpackie,,12313.0,1616036495
+Wołów,Wolow,51.3414,16.6283,Poland,PL,POL,Dolnośląskie,minor,12275.0,1616165743
+Błonie,Blonie,52.2,20.6167,Poland,PL,POL,Mazowieckie,,12152.0,1616120917
+Wasilków,Wasilkow,53.205,23.2044,Poland,PL,POL,Podlaskie,,12147.0,1616267315
+Strzelin,Strzelin,50.7833,17.0667,Poland,PL,POL,Dolnośląskie,minor,12131.0,1616993710
+Brzeziny,Brzeziny,51.8,19.75,Poland,PL,POL,Łódzkie,minor,12117.0,1616839084
+Głubczyce,Glubczyce,50.2011,17.8247,Poland,PL,POL,Opolskie,minor,12100.0,1616541369
+Gierałtowice,Gieraltowice,50.2167,18.7167,Poland,PL,POL,Śląskie,,12096.0,1616190609
+Pasłęk,Paslek,54.05,19.6667,Poland,PL,POL,Warmińsko-Mazurskie,,12074.0,1616525306
+Pyrzyce,Pyrzyce,53.1333,14.8833,Poland,PL,POL,Zachodniopomorskie,minor,12041.0,1616856540
+Sławno,Slawno,54.3667,16.6833,Poland,PL,POL,Zachodniopomorskie,minor,12028.0,1616283206
+Warka,Warka,51.7833,21.2,Poland,PL,POL,Mazowieckie,,12003.0,1616212108
+Węgrów,Wegrow,52.4,22.0167,Poland,PL,POL,Mazowieckie,minor,11993.0,1616038840
+Góra Kalwaria,Gora Kalwaria,51.9733,21.2144,Poland,PL,POL,Mazowieckie,,11887.0,1616668959
+Golub-Dobrzyń,Golub-Dobrzyn,53.1,19.05,Poland,PL,POL,Kujawsko-Pomorskie,minor,11722.0,1616198300
+Aleksandrów Kujawski,Aleksandrow Kujawski,52.8767,18.6936,Poland,PL,POL,Kujawsko-Pomorskie,minor,11719.0,1616651073
+Lubaczów,Lubaczow,50.1667,23.1167,Poland,PL,POL,Podkarpackie,minor,11619.0,1616650009
+Dąbrowa Tarnowska,Dabrowa Tarnowska,50.1667,20.9833,Poland,PL,POL,Małopolskie,minor,11549.0,1616908977
+Drawsko Pomorskie,Drawsko Pomorskie,53.5333,15.8,Poland,PL,POL,Zachodniopomorskie,minor,11515.0,1616969885
+Mogilno,Mogilno,52.65,17.95,Poland,PL,POL,Kujawsko-Pomorskie,minor,11453.0,1616055676
+Janów Lubelski,Janow Lubelski,50.7167,22.4167,Poland,PL,POL,Lubelskie,minor,11308.0,1616411246
+Miechów,Miechow,50.3578,20.0325,Poland,PL,POL,Małopolskie,minor,11215.0,1616754821
+Góra,Gora,51.6667,16.55,Poland,PL,POL,Dolnośląskie,minor,11173.0,1616282982
+Szprotawa,Szprotawa,51.5667,15.5,Poland,PL,POL,Lubuskie,,11068.0,1616764705
+Brzeszcze,Brzeszcze,50.0,19.15,Poland,PL,POL,Małopolskie,,11049.0,1616019723
+Milicz,Milicz,51.5333,17.2833,Poland,PL,POL,Dolnośląskie,minor,11025.0,1616770210
+Komorniki,Komorniki,52.3361,16.8069,Poland,PL,POL,Wielkopolskie,,10990.0,1616794356
+Koronowo,Koronowo,53.3167,17.9333,Poland,PL,POL,Kujawsko-Pomorskie,,10974.0,1616300116
+Szydłowiec,Szydlowiec,51.2333,20.85,Poland,PL,POL,Mazowieckie,minor,10959.0,1616837510
+Rogoźno,Rogozno,52.7492,16.9997,Poland,PL,POL,Wielkopolskie,,10959.0,1616112506
+Wronki,Wronki,52.7,16.3833,Poland,PL,POL,Wielkopolskie,,10918.0,1616756713
+Krosno Odrzańskie,Krosno Odrzanskie,52.0333,15.1,Poland,PL,POL,Lubuskie,minor,10905.0,1616603555
+Wisła,Wisla,49.6549,18.8595,Poland,PL,POL,Śląskie,,10887.0,1616358703
+Węgorzewo,Wegorzewo,54.2167,21.75,Poland,PL,POL,Warmińsko-Mazurskie,minor,10879.0,1616206015
+Puck,Puck,54.7,18.4,Poland,PL,POL,Pomorskie,minor,10868.0,1616295439
+Myślibórz,Mysliborz,52.9333,14.8667,Poland,PL,POL,Zachodniopomorskie,minor,10649.0,1616407161
+Nowa Dęba,Nowa Deba,50.4167,21.7667,Poland,PL,POL,Podkarpackie,,10647.0,1616557246
+Lubawa,Lubawa,53.5,19.75,Poland,PL,POL,Warmińsko-Mazurskie,,10626.0,1616962128
+Kiełczów,Kielczow,51.1406,17.1783,Poland,PL,POL,Dolnośląskie,,10572.0,1616463576
+Parczew,Parczew,51.6333,22.8667,Poland,PL,POL,Lubelskie,minor,10519.0,1616266918
+Nowe Miasto Lubawskie,Nowe Miasto Lubawskie,53.4256,19.5878,Poland,PL,POL,Warmińsko-Mazurskie,minor,10492.0,1616871039
+Wapienica,Wapienica,49.8083,18.9839,Poland,PL,POL,Śląskie,,10439.0,1616724407
+Ciechocinek,Ciechocinek,52.8833,18.7833,Poland,PL,POL,Kujawsko-Pomorskie,,10415.0,1616015629
+Suchanino,Suchanino,54.3667,18.65,Poland,PL,POL,Pomorskie,,10392.0,1616723599
+Zdzieszowice,Zdzieszowice,50.4192,18.1236,Poland,PL,POL,Opolskie,,10380.0,1616530342
+Czarnków,Czarnkow,52.9,16.5667,Poland,PL,POL,Wielkopolskie,minor,10370.0,1616859392
+Międzychód,Miedzychod,52.6,15.8833,Poland,PL,POL,Wielkopolskie,minor,10288.0,1616252444
+Murowana Goślina,Murowana Goslina,52.5667,17.0167,Poland,PL,POL,Wielkopolskie,,10247.0,1616479191
+Głogów Małopolski,Glogow Malopolski,50.1667,21.9667,Poland,PL,POL,Podkarpackie,,10232.0,1616792516
+Kowary,Kowary,50.7917,15.8333,Poland,PL,POL,Dolnośląskie,,10217.0,1616926416
+Załęże,Zaleze,50.2672,18.9892,Poland,PL,POL,Śląskie,,10185.0,1616250144
+Biskupiec,Biskupiec,53.85,20.95,Poland,PL,POL,Warmińsko-Mazurskie,,10163.0,1616213985
+Komorowice,Komorowice,49.8544,19.0406,Poland,PL,POL,Śląskie,,10112.0,1616278113
+Syców,Sycow,51.31,17.7236,Poland,PL,POL,Dolnośląskie,,10102.0,1616409792
+Pińczów,Pinczow,50.5333,20.5333,Poland,PL,POL,Świętokrzyskie,minor,10078.0,1616074605
+Mikuszowice,Mikuszowice,49.7833,19.0703,Poland,PL,POL,Śląskie,,10041.0,1616718016
+Krynica,Krynica,49.4117,20.955,Poland,PL,POL,Małopolskie,,10001.0,1616638760
+Kolno,Kolno,53.4106,21.9339,Poland,PL,POL,Podlaskie,minor,9999.0,1616110330
+Czersk Pomorski,Czersk Pomorski,53.7928,17.9739,Poland,PL,POL,Pomorskie,,9997.0,1616943877
+Sulęcin,Sulecin,52.45,15.1167,Poland,PL,POL,Lubuskie,minor,9978.0,1616859082
+Siechnice,Siechnice,51.0367,17.1525,Poland,PL,POL,Dolnośląskie,,9957.0,1616477794
+Strzelce Krajeńskie,Strzelce Krajenskie,52.8756,15.5319,Poland,PL,POL,Lubuskie,minor,9912.0,1616150192
+Krzeszowice,Krzeszowice,50.1333,19.6333,Poland,PL,POL,Małopolskie,,9868.0,1616471634
+Kostrzyń,Kostrzyn,52.3941,17.2221,Poland,PL,POL,Wielkopolskie,,9809.0,1616197568
+Banino,Banino,54.3933,18.4083,Poland,PL,POL,Pomorskie,,9806.0,1616509986
+Drezdenko,Drezdenko,52.8333,15.8333,Poland,PL,POL,Lubuskie,,9800.0,1616180565
+Łobez,Lobez,53.6333,15.6167,Poland,PL,POL,Zachodniopomorskie,minor,9792.0,1616627277
+Bukowno,Bukowno,50.2681,19.4631,Poland,PL,POL,Małopolskie,,9791.0,1616483621
+Miastko,Miastko,54.0167,16.9833,Poland,PL,POL,Pomorskie,,9770.0,1616803904
+Gaszowice,Gaszowice,50.1089,18.4308,Poland,PL,POL,Śląskie,,9755.0,1616209977
+Pobiedziska,Pobiedziska,52.4833,17.4833,Poland,PL,POL,Wielkopolskie,,9755.0,1616215352
+Włoszczowa,Wloszczowa,50.8542,19.9669,Poland,PL,POL,Świętokrzyskie,minor,9750.0,1616505680
+Gołuchów,Goluchow,51.8494,17.9314,Poland,PL,POL,Wielkopolskie,,9703.0,1616000807
+Kokoszki,Kokoszki,54.3541,18.4915,Poland,PL,POL,Pomorskie,,9693.0,1616899678
+Mońki,Monki,53.4,22.8,Poland,PL,POL,Podlaskie,minor,9675.0,1616329542
+Dobre Miasto,Dobre Miasto,53.9875,20.3958,Poland,PL,POL,Warmińsko-Mazurskie,,9629.0,1616619953
+Kudowa-Zdrój,Kudowa-Zdroj,50.4383,16.2397,Poland,PL,POL,Dolnośląskie,,9627.0,1616102407
+Nowy Dwór Gdański,Nowy Dwor Gdanski,54.2167,19.1167,Poland,PL,POL,Pomorskie,minor,9618.0,1616276242
+Władysławowo,Wladyslawowo,54.8339,18.3156,Poland,PL,POL,Pomorskie,,9613.0,1616875034
+Trzebiatów,Trzebiatow,54.0572,15.2786,Poland,PL,POL,Zachodniopomorskie,,9591.0,1616792960
+Karczew,Karczew,52.0833,21.25,Poland,PL,POL,Mazowieckie,,9566.0,1616830765
+Szubin,Szubin,53.0167,17.75,Poland,PL,POL,Kujawsko-Pomorskie,,9563.0,1616354181
+Środa Śląska,Sroda Slaska,51.15,16.5833,Poland,PL,POL,Dolnośląskie,minor,9525.0,1616482692
+Sztum,Sztum,53.9217,19.0336,Poland,PL,POL,Pomorskie,minor,9515.0,1616277062
+Puszczykowo,Puszczykowo,52.2817,16.8542,Poland,PL,POL,Wielkopolskie,,9470.0,1616800720
+Bystrzyca Kłodzka,Bystrzyca Klodzka,50.3,16.65,Poland,PL,POL,Dolnośląskie,,9414.0,1616639168
+Ostróda,Ostroda,53.7,19.9667,Poland,PL,POL,Warmińsko-Mazurskie,minor,9410.0,1616636172
+Opalenica,Opalenica,52.3078,16.4136,Poland,PL,POL,Wielkopolskie,,9360.0,1616220242
+Blachownia,Blachownia,50.7833,18.9667,Poland,PL,POL,Śląskie,,9334.0,1616282069
+Imielin,Imielin,50.1478,19.1814,Poland,PL,POL,Śląskie,,9313.0,1616783615
+Kruszwica,Kruszwica,52.6772,18.3292,Poland,PL,POL,Kujawsko-Pomorskie,,9288.0,1616885548
+Skwierzyna,Skwierzyna,52.6,15.5,Poland,PL,POL,Lubuskie,,9272.0,1616286690
+Ryki,Ryki,51.6333,21.9333,Poland,PL,POL,Lubelskie,minor,9229.0,1616774707
+Maków Mazowiecki,Makow Mazowiecki,52.8667,21.1,Poland,PL,POL,Mazowieckie,minor,9173.0,1616505631
+Wysokie Mazowieckie,Wysokie Mazowieckie,52.9192,22.5144,Poland,PL,POL,Podlaskie,minor,9155.0,1616361738
+Olesno,Olesno,50.875,18.4167,Poland,PL,POL,Opolskie,minor,9122.0,1616142985
+Oborniki Śląskie,Oborniki Slaskie,51.2986,16.9017,Poland,PL,POL,Dolnośląskie,,9101.0,1616398472
+Kożuchów,Kozuchow,51.75,15.6,Poland,PL,POL,Lubuskie,,9086.0,1616495836
+Sucha Beskidzka,Sucha Beskidzka,49.7403,19.5886,Poland,PL,POL,Małopolskie,minor,8951.0,1616035021
+Czarna Białostocka,Czarna Bialostocka,53.3,23.2833,Poland,PL,POL,Podlaskie,,8943.0,1616707256
+Sępólno Krajeńskie,Sepolno Krajenskie,53.45,17.53,Poland,PL,POL,Kujawsko-Pomorskie,minor,8914.0,1616234057
+Bolszewo,Bolszewo,54.6242,18.1753,Poland,PL,POL,Pomorskie,,8808.0,1616848552
+Stary Sącz,Stary Sacz,49.5625,20.6364,Poland,PL,POL,Małopolskie,,8746.0,1616399913
+Ustrzyki Dolne,Ustrzyki Dolne,49.4297,22.5867,Poland,PL,POL,Podkarpackie,minor,8717.0,1616817418
+Kolbuszowa,Kolbuszowa,50.25,21.7667,Poland,PL,POL,Podkarpackie,minor,8710.0,1616946964
+Goworowo,Goworowo,52.9006,21.5544,Poland,PL,POL,Mazowieckie,,8689.0,1616834846
+Chełmek,Chelmek,50.1167,19.25,Poland,PL,POL,Małopolskie,,8669.0,1616126539
+Kościelisko,Koscielisko,49.2908,19.8883,Poland,PL,POL,Małopolskie,,8661.0,1616942761
+Żuromin,Zuromin,53.0667,19.9,Poland,PL,POL,Mazowieckie,minor,8592.0,1616921543
+Kamień Pomorski,Kamien Pomorski,53.97,14.7725,Poland,PL,POL,Zachodniopomorskie,minor,8564.0,1616000112
+Poniatowa,Poniatowa,51.1928,22.0647,Poland,PL,POL,Lubelskie,,8517.0,1616798001
+Wieruszów,Wieruszow,51.3,18.15,Poland,PL,POL,Łódzkie,minor,8514.0,1616576051

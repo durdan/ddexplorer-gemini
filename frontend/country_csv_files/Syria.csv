@@ -1,0 +1,341 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Damascus,Damascus,33.5131,36.2919,Syria,SY,SYR,Dimashq,primary,2584771.0,1760685964
+Aleppo,Aleppo,36.2,37.16,Syria,SY,SYR,Ḩalab,admin,2003671.0,1760366651
+Homs,Homs,34.7308,36.7094,Syria,SY,SYR,Ḩimş,admin,775404.0,1760013934
+Latakia,Latakia,35.5167,35.7833,Syria,SY,SYR,Al Lādhiqīyah,admin,700000.0,1760555544
+Ḩamāh,Hamah,35.1333,36.75,Syria,SY,SYR,Ḩamāh,admin,696863.0,1760197502
+Ar Raqqah,Ar Raqqah,35.95,39.01,Syria,SY,SYR,Ar Raqqah,admin,299824.0,1760035911
+Dayr az Zawr,Dayr az Zawr,35.3333,40.15,Syria,SY,SYR,Dayr az Zawr,admin,271800.0,1760792603
+Al Ḩasakah,Al Hasakah,36.5117,40.7422,Syria,SY,SYR,Al Ḩasakah,admin,188160.0,1760476337
+Al Qāmishlī,Al Qamishli,37.05,41.22,Syria,SY,SYR,Al Ḩasakah,minor,184231.0,1760560461
+Idlib,Idlib,35.9333,36.6333,Syria,SY,SYR,Idlib,admin,165000.0,1760305230
+Dar‘ā,Dar`a,32.6189,36.1021,Syria,SY,SYR,Dar‘ā,admin,146481.0,1760427038
+Qabr as Sitt,Qabr as Sitt,33.4472,36.3361,Syria,SY,SYR,Rīf Dimashq,,136427.0,1760060975
+Dūmā,Duma,33.5711,36.4011,Syria,SY,SYR,Rīf Dimashq,minor,123494.0,1760821818
+Jaramānā,Jaramana,33.4833,36.35,Syria,SY,SYR,Rīf Dimashq,minor,114363.0,1760709370
+As Salamīyah,As Salamiyah,35.0118,37.0525,Syria,SY,SYR,Ḩamāh,minor,110683.0,1760391067
+As Safīrah,As Safirah,36.0778,37.3733,Syria,SY,SYR,Ḩalab,minor,106460.0,1760134354
+Al Ḩajar al Aswad,Al Hajar al Aswad,33.464,36.3044,Syria,SY,SYR,Rīf Dimashq,minor,101827.0,1760587307
+Ma‘arrat an Nu‘mān,Ma`arrat an Nu`man,35.6386,36.6717,Syria,SY,SYR,Idlib,minor,90000.0,1760482977
+Ţarţūs,Tartus,34.8833,35.8833,Syria,SY,SYR,Ţarţūs,admin,89457.0,1760695473
+Dārayyā,Darayya,33.45,36.25,Syria,SY,SYR,Rīf Dimashq,minor,84044.0,1760409750
+Ath Thawrah,Ath Thawrah,35.8367,38.5481,Syria,SY,SYR,Ar Raqqah,minor,84000.0,1760605225
+Manbij,Manbij,36.5275,37.9553,Syria,SY,SYR,Ḩalab,minor,78255.0,1760355581
+Jablah,Jablah,35.35,35.9167,Syria,SY,SYR,Al Lādhiqīyah,minor,75505.0,1760685267
+Al Qurayyā,Al Qurayya,35.0025,40.5117,Syria,SY,SYR,Dayr az Zawr,,70680.0,1760541645
+As Suwaydā’,As Suwayda',32.7125,36.5667,Syria,SY,SYR,As Suwaydā’,admin,64730.0,1760680757
+Nawá,Nawa,32.8889,36.0431,Syria,SY,SYR,Dar‘ā,minor,63676.0,1760963983
+At Tall,At Tall,33.6,36.3,Syria,SY,SYR,Rīf Dimashq,minor,63554.0,1760718626
+Ar Rastan,Ar Rastan,34.9167,36.7333,Syria,SY,SYR,Ḩimş,minor,61176.0,1760205423
+Khān Shaykhūn,Khan Shaykhun,35.4389,36.6511,Syria,SY,SYR,Idlib,minor,55843.0,1760049407
+An Nabk,An Nabk,34.0167,36.7167,Syria,SY,SYR,Rīf Dimashq,minor,52502.0,1760474665
+Ālbū Kamāl,Albu Kamal,34.4536,40.9367,Syria,SY,SYR,Dayr az Zawr,minor,52020.0,1760836213
+Tadmur,Tadmur,34.56,38.2672,Syria,SY,SYR,Ḩimş,minor,51323.0,1760484707
+Babīlā,Babila,33.4728,36.3344,Syria,SY,SYR,Rīf Dimashq,minor,50880.0,1760722268
+Al Mayādīn,Al Mayadin,35.0183,40.4533,Syria,SY,SYR,Dayr az Zawr,minor,48922.0,1760808069
+Ash Shaykh Badr,Ash Shaykh Badr,34.9833,36.0833,Syria,SY,SYR,Ţarţūs,minor,47982.0,1760412368
+‘Āmūdā,`Amuda,37.1042,40.93,Syria,SY,SYR,Al Ḩasakah,minor,47580.0,1760247135
+Yabrūd,Yabrud,33.9667,36.6667,Syria,SY,SYR,Rīf Dimashq,minor,47136.0,1760885103
+Al Quşayr,Al Qusayr,34.5119,36.5764,Syria,SY,SYR,Ḩimş,minor,46772.0,1760157542
+Ḩarastā,Harasta,33.5667,36.3667,Syria,SY,SYR,Rīf Dimashq,minor,45974.0,1760273732
+Tallbīsah,Tallbisah,34.8333,36.7333,Syria,SY,SYR,Ḩimş,minor,45853.0,1760319800
+‘Ayn al ‘Arab,`Ayn al `Arab,36.891,38.3536,Syria,SY,SYR,Ḩalab,minor,44821.0,1760764004
+Zamalkā,Zamalka,33.5253,36.3528,Syria,SY,SYR,Rīf Dimashq,,44661.0,1760999732
+Jisr ash Shughūr,Jisr ash Shughur,35.8126,36.3176,Syria,SY,SYR,Idlib,minor,44322.0,1760389710
+Al Kiswah,Al Kiswah,33.35,36.2333,Syria,SY,SYR,Rīf Dimashq,minor,43456.0,1760910325
+Bāniyās,Baniyas,35.1822,35.9403,Syria,SY,SYR,Ţarţūs,minor,43151.0,1760780974
+Tādif,Tadif,36.3481,37.5308,Syria,SY,SYR,Ḩalab,minor,41786.0,1760362095
+Jayrūd,Jayrud,33.8067,36.7403,Syria,SY,SYR,Rīf Dimashq,minor,39903.0,1760101368
+Sarāqib,Saraqib,35.8636,36.8006,Syria,SY,SYR,Idlib,minor,39901.0,1760810482
+Al Mālikīyah,Al Malikiyah,37.1667,42.1333,Syria,SY,SYR,Al Ḩasakah,minor,39000.0,1760784945
+Al Ghizlānīyah,Al Ghizlaniyah,33.3986,36.4531,Syria,SY,SYR,Rīf Dimashq,minor,38473.0,1760034578
+Hajīn,Hajin,34.6894,40.8308,Syria,SY,SYR,Dayr az Zawr,minor,37935.0,1760926776
+Al Qaryatayn,Al Qaryatayn,34.2283,37.2406,Syria,SY,SYR,Ḩimş,minor,37820.0,1760172806
+Ma‘arratmişrīn,Ma`arratmisrin,36.0,36.6667,Syria,SY,SYR,Idlib,minor,37490.0,1760812215
+Maşyāf,Masyaf,35.0653,36.3422,Syria,SY,SYR,Ḩamāh,minor,37109.0,1760933504
+‘Afrīn,`Afrin,36.5083,36.8692,Syria,SY,SYR,Ḩalab,minor,36562.0,1760410858
+Tallkalakh,Tallkalakh,34.6683,36.2597,Syria,SY,SYR,Ḩimş,minor,35445.0,1760254463
+Dayr Ḩāfir,Dayr Hafir,36.1569,37.7078,Syria,SY,SYR,Ḩalab,minor,35409.0,1760046071
+Şalkhad,Salkhad,32.4917,36.7111,Syria,SY,SYR,As Suwaydā’,minor,35000.0,1760200029
+Tall Salḩab,Tall Salhab,35.2609,36.3822,Syria,SY,SYR,Ḩamāh,minor,35000.0,1760127036
+Qadsayyā,Qadsayya,33.5333,36.2167,Syria,SY,SYR,Rīf Dimashq,minor,33571.0,1760188872
+Ţafas,Tafas,32.7356,36.0669,Syria,SY,SYR,Dar‘ā,,32236.0,1760012771
+Şāfītā,Safita,34.8167,36.1167,Syria,SY,SYR,Ţarţūs,minor,32213.0,1760592493
+Jāsim,Jasim,32.9667,36.0667,Syria,SY,SYR,Dar‘ā,minor,31683.0,1760676905
+I‘zāz,I`zaz,36.5866,37.0463,Syria,SY,SYR,Ḩalab,minor,31534.0,1760669569
+Inkhil,Inkhil,33.0,36.1167,Syria,SY,SYR,Dar‘ā,,31258.0,1760570627
+Ar Ruḩaybah,Ar Ruhaybah,33.7436,36.7012,Syria,SY,SYR,Rīf Dimashq,minor,30450.0,1760100307
+Kafr Nubl,Kafr Nubl,35.6139,36.5611,Syria,SY,SYR,Idlib,minor,30000.0,1760535722
+Ra’s al ‘Ayn,Ra's al `Ayn,36.8503,40.0706,Syria,SY,SYR,Al Ḩasakah,minor,29347.0,1760030804
+Şūrān,Suran,35.2897,36.7433,Syria,SY,SYR,Ḩamāh,minor,29100.0,1760512352
+Yaldā,Yalda,33.4628,36.3217,Syria,SY,SYR,Rīf Dimashq,,28384.0,1760171113
+Tall Rif‘at,Tall Rif`at,36.4733,37.0972,Syria,SY,SYR,Ḩalab,minor,27086.0,1760489101
+Al Quţayfah,Al Qutayfah,33.7389,36.6,Syria,SY,SYR,Rīf Dimashq,minor,26671.0,1760671268
+Az Zabadānī,Az Zabadani,33.725,36.0972,Syria,SY,SYR,Rīf Dimashq,minor,26285.0,1760989247
+Aş Şanamayn,As Sanamayn,33.0711,36.1842,Syria,SY,SYR,Dar‘ā,minor,26268.0,1760865788
+Siqbā,Siqba,33.5197,36.3844,Syria,SY,SYR,Rīf Dimashq,,25654.0,1760248579
+Şaydnāyā,Saydnaya,33.6967,36.3739,Syria,SY,SYR,Rīf Dimashq,minor,25194.0,1760302528
+Tall Shihāb,Tall Shihab,32.6886,35.9889,Syria,SY,SYR,Dar‘ā,,25000.0,1760255410
+Ţayyibat al Imām,Tayyibat al Imam,35.2661,36.7114,Syria,SY,SYR,Ḩamāh,,24105.0,1760649932
+Subaykhān,Subaykhan,34.8464,40.5939,Syria,SY,SYR,Dayr az Zawr,,23867.0,1760638226
+Salqīn,Salqin,36.1333,36.45,Syria,SY,SYR,Idlib,minor,23700.0,1760573067
+Qaţanā,Qatana,33.4333,36.0833,Syria,SY,SYR,Rīf Dimashq,minor,22831.0,1760346496
+Kafr Baţnā,Kafr Batna,33.5,36.3667,Syria,SY,SYR,Rīf Dimashq,minor,22535.0,1760528656
+Ḩārim,Harim,36.2,36.5167,Syria,SY,SYR,Idlib,minor,21934.0,1760216782
+Binnish,Binnish,35.95,36.7,Syria,SY,SYR,Idlib,minor,21848.0,1760335847
+Nubl,Nubl,36.3756,36.9942,Syria,SY,SYR,Ḩalab,minor,21039.0,1760030884
+‘Adrā,`Adra,33.6,36.515,Syria,SY,SYR,Rīf Dimashq,,20559.0,1760640037
+Kafr Lāhā,Kafr Laha,34.8831,36.5,Syria,SY,SYR,Ḩimş,,20041.0,1760660605
+Buşrá ash Shām,Busra ash Sham,32.5167,36.4833,Syria,SY,SYR,Dar‘ā,minor,19683.0,1760158105
+Izra,Izra,32.8454,36.2499,Syria,SY,SYR,Dar‘ā,minor,19158.0,1760987853
+Zākīyah,Zakiyah,33.3344,36.1567,Syria,SY,SYR,Rīf Dimashq,,18553.0,1760898961
+Tall ‘Aran,Tall `Aran,36.1231,37.3369,Syria,SY,SYR,Ḩalab,,17767.0,1760332493
+Muḩradah,Muhradah,35.25,36.5833,Syria,SY,SYR,Ḩamāh,minor,17578.0,1760500956
+Al ‘Ashārah,Al `Asharah,34.9203,40.5594,Syria,SY,SYR,Dayr az Zawr,minor,17537.0,1760227736
+Manīn,Manin,33.6422,36.2978,Syria,SY,SYR,Rīf Dimashq,,17521.0,1760640796
+As Suqaylibīyah,As Suqaylibiyah,35.3697,36.38,Syria,SY,SYR,Ḩamāh,minor,17313.0,1760164203
+Al Ḩārah,Al Harah,33.05,36.0,Syria,SY,SYR,Dar‘ā,,17172.0,1760419453
+Kafr Zaytā,Kafr Zayta,35.3736,36.6017,Syria,SY,SYR,Ḩamāh,minor,17052.0,1760801679
+Māri‘,Mari`,36.4828,37.1964,Syria,SY,SYR,Ḩalab,minor,16904.0,1760793833
+Shahbā,Shahba,32.8542,36.6292,Syria,SY,SYR,As Suwaydā’,minor,16745.0,1760158993
+Al Laţāminah,Al Lataminah,35.3208,36.6225,Syria,SY,SYR,Ḩamāh,,16267.0,1760263860
+Khirbat Ghazālah,Khirbat Ghazalah,32.7333,36.2,Syria,SY,SYR,Dar‘ā,minor,16240.0,1760127200
+As Sukhnah,As Sukhnah,34.8868,38.8721,Syria,SY,SYR,Ḩimş,minor,16173.0,1760585431
+Tasīl,Tasil,32.8353,35.9714,Syria,SY,SYR,Dar‘ā,minor,15985.0,1760040877
+Ash Shaddādah,Ash Shaddadah,36.0561,40.7303,Syria,SY,SYR,Al Ḩasakah,minor,15806.0,1760828558
+Al Mu‘abbadah,Al Mu`abbadah,37.0164,41.9544,Syria,SY,SYR,Al Ḩasakah,,15759.0,1760650060
+Bayt Saḩam,Bayt Saham,33.4733,36.3372,Syria,SY,SYR,Rīf Dimashq,,15667.0,1760362241
+Maskanah,Maskanah,35.9632,38.0356,Syria,SY,SYR,Ḩalab,minor,15477.0,1760994714
+Kuljibrīn,Kuljibrin,36.5361,37.1175,Syria,SY,SYR,Ḩalab,,15000.0,1760857046
+Sarmadā,Sarmada,36.1833,36.7167,Syria,SY,SYR,Idlib,,15000.0,1760828582
+Tall Abyaḑ,Tall Abyad,36.6975,38.9567,Syria,SY,SYR,Ar Raqqah,minor,14825.0,1760694879
+Sarmīn,Sarmin,35.9033,36.7258,Syria,SY,SYR,Idlib,minor,14530.0,1760931266
+Mūrak,Murak,35.3753,36.6872,Syria,SY,SYR,Ḩamāh,,14307.0,1760107905
+Al Mu‘aḑḑamīyah,Al Mu`addamiyah,33.7421,36.6435,Syria,SY,SYR,Rīf Dimashq,,14228.0,1760021523
+Şaḩnāyā,Sahnaya,33.4242,36.2244,Syria,SY,SYR,Rīf Dimashq,minor,13993.0,1760192285
+Kanākir,Kanakir,33.2672,36.0969,Syria,SY,SYR,Rīf Dimashq,,13950.0,1760897591
+Jindayris,Jindayris,36.3947,36.6889,Syria,SY,SYR,Ḩalab,minor,13661.0,1760063267
+Dārat ‘Izzah,Darat `Izzah,36.2828,36.8519,Syria,SY,SYR,Ḩalab,minor,13525.0,1760338572
+Kafr Nabūdah,Kafr Nabudah,35.4317,36.4928,Syria,SY,SYR,Ḩamāh,,13513.0,1760648464
+Buşrá al Ḩarīr,Busra al Harir,32.8425,36.34,Syria,SY,SYR,Dar‘ā,,13315.0,1760065014
+Ad Duraykīsh,Ad Duraykish,34.8969,36.1346,Syria,SY,SYR,Ţarţūs,minor,13244.0,1760515031
+Shīn,Shin,34.7833,36.4333,Syria,SY,SYR,Ḩimş,minor,13020.0,1760607600
+Qal‘at al Maḑīq,Qal`at al Madiq,35.41,36.39,Syria,SY,SYR,Ḩamāh,minor,12925.0,1760079003
+Al Muzayrīb,Al Muzayrib,32.7109,36.0266,Syria,SY,SYR,Dar‘ā,minor,12640.0,1760935578
+Qārah,Qarah,34.1542,36.7442,Syria,SY,SYR,Rīf Dimashq,,12508.0,1760019863
+Mi‘rabah,Mi`rabah,32.5458,36.4283,Syria,SY,SYR,Dar‘ā,,12359.0,1760390281
+Ḩawsh al Baḩdalīyah,Hawsh al Bahdaliyah,33.4292,36.3611,Syria,SY,SYR,Rīf Dimashq,,12330.0,1760272131
+Kafr Rūmā,Kafr Ruma,35.6342,36.6322,Syria,SY,SYR,Idlib,,12276.0,1760413960
+Kafr Buhum,Kafr Buhum,35.0611,36.6972,Syria,SY,SYR,Ḩamāh,,12194.0,1760856800
+Tall Dhahab,Tall Dhahab,34.8581,36.4517,Syria,SY,SYR,Ḩimş,,12055.0,1760071536
+‘Anadān,`Anadan,36.2936,37.0444,Syria,SY,SYR,Ḩalab,,11918.0,1760993442
+Ghabāghib,Ghabaghib,33.1839,36.2264,Syria,SY,SYR,Dar‘ā,minor,11802.0,1760507267
+Jarābulus,Jarabulus,36.8175,38.0111,Syria,SY,SYR,Ḩalab,minor,11570.0,1760404681
+Şaydā,Sayda,32.6283,36.2261,Syria,SY,SYR,Dar‘ā,,11215.0,1760191723
+Mahīn,Mahin,34.2425,37.0589,Syria,SY,SYR,Ḩimş,minor,11064.0,1760830221
+Dayr ‘Aţīyah,Dayr `Atiyah,34.0833,36.7667,Syria,SY,SYR,Rīf Dimashq,minor,10984.0,1760656122
+Aş Şabbūrah,As Sabburah,33.5151,36.1259,Syria,SY,SYR,Rīf Dimashq,,10969.0,1760388490
+Khaţţāb,Khattab,35.1975,36.6672,Syria,SY,SYR,Ḩamāh,,10830.0,1760480651
+Jarjanāz,Jarjanaz,35.6175,36.7772,Syria,SY,SYR,Idlib,,10756.0,1760182310
+Bāghūz Fawqānī,Baghuz Fawqani,34.4586,40.9506,Syria,SY,SYR,Dayr az Zawr,,10689.0,1760767113
+Al Atārib,Al Atarib,36.1389,36.83,Syria,SY,SYR,Ḩalab,minor,10657.0,1760645780
+‘Utaybah,`Utaybah,33.4861,36.6011,Syria,SY,SYR,Rīf Dimashq,,10548.0,1760277356
+Al Karak,Al Karak,32.6872,36.3508,Syria,SY,SYR,Dar‘ā,,10510.0,1760662901
+Al Musayfirah,Al Musayfirah,32.6322,36.3386,Syria,SY,SYR,Dar‘ā,minor,10466.0,1760039988
+Turmānīn,Turmanin,36.2333,36.8167,Syria,SY,SYR,Idlib,,10394.0,1760551418
+Bārah,Barah,35.683,36.533,Syria,SY,SYR,Idlib,,10353.0,1760852702
+Armanāz,Armanaz,36.0833,36.5,Syria,SY,SYR,Idlib,minor,10296.0,1760438666
+Ma‘rabā,Ma`raba,33.5775,36.2969,Syria,SY,SYR,Rīf Dimashq,,10290.0,1760521732
+Miḩqan,Mihqan,34.9744,40.4856,Syria,SY,SYR,Dayr az Zawr,,10086.0,1760022929
+Kafr Takhārīm,Kafr Takharim,36.1164,36.5147,Syria,SY,SYR,Idlib,minor,10084.0,1760371396
+Al Hāmah,Al Hamah,33.5581,36.2222,Syria,SY,SYR,Rīf Dimashq,,10045.0,1760765828
+An Nayrab,An Nayrab,36.1756,37.2278,Syria,SY,SYR,Ḩalab,,10018.0,1760678777
+Maḩajjah,Mahajjah,32.9558,36.2214,Syria,SY,SYR,Dar‘ā,,9982.0,1760190111
+Ghāriyah al Gharbīyah,Ghariyah al Gharbiyah,32.6828,36.2233,Syria,SY,SYR,Dar‘ā,,9784.0,1760612847
+Ghabrah,Ghabrah,34.5378,40.9125,Syria,SY,SYR,Dayr az Zawr,,9748.0,1760187998
+Ḩās,Has,35.6169,36.5953,Syria,SY,SYR,Idlib,,9595.0,1760767618
+Mūḩ Ḩasan,Muh Hasan,35.2394,40.3244,Syria,SY,SYR,Dayr az Zawr,minor,9501.0,1760986966
+Jisrayn,Jisrayn,33.5064,36.3858,Syria,SY,SYR,Rīf Dimashq,,9442.0,1760312917
+Maḑāyā,Madaya,33.6878,36.1008,Syria,SY,SYR,Rīf Dimashq,minor,9371.0,1760921670
+Abū Khashab,Abu Khashab,35.9358,40.0367,Syria,SY,SYR,Dayr az Zawr,,9046.0,1760868010
+Dhībān,Dhiban,35.0025,40.5117,Syria,SY,SYR,Dayr az Zawr,minor,9000.0,1760211597
+Al Yādūdah,Al Yadudah,32.6653,36.0611,Syria,SY,SYR,Dar‘ā,,8967.0,1760881970
+Kafr Sajnah,Kafr Sajnah,35.5261,36.5886,Syria,SY,SYR,Idlib,,8935.0,1760926229
+Al Buwayḑah,Al Buwaydah,33.4264,36.3208,Syria,SY,SYR,Rīf Dimashq,,8832.0,1760211674
+Ḩīsh,Hish,35.5464,36.6431,Syria,SY,SYR,Idlib,minor,8817.0,1760171241
+Al Qardāḩah,Al Qardahah,35.4572,36.0597,Syria,SY,SYR,Al Lādhiqīyah,minor,8671.0,1760811337
+Abū Ḩardūb,Abu Hardub,34.845,40.6431,Syria,SY,SYR,Dayr az Zawr,,8657.0,1760872653
+Ad Darbāsīyah,Ad Darbasiyah,37.0728,40.6519,Syria,SY,SYR,Al Ḩasakah,minor,8551.0,1760503745
+Taftanāz,Taftanaz,35.9969,36.7867,Syria,SY,SYR,Idlib,minor,8540.0,1760676375
+Ra’s al Ma‘arrah,Ra's al Ma`arrah,34.0008,36.5628,Syria,SY,SYR,Rīf Dimashq,,8520.0,1760784421
+Al Qunayţirah,Al Qunaytirah,33.1256,35.8239,Syria,SY,SYR,Al Qunayţirah,admin,153.0,1760132692
+Damascus,Damascus,33.5131,36.2919,Syria,SY,SYR,Dimashq,primary,2584771.0,1760685964
+Aleppo,Aleppo,36.2,37.16,Syria,SY,SYR,Ḩalab,admin,2003671.0,1760366651
+Homs,Homs,34.7308,36.7094,Syria,SY,SYR,Ḩimş,admin,775404.0,1760013934
+Latakia,Latakia,35.5167,35.7833,Syria,SY,SYR,Al Lādhiqīyah,admin,700000.0,1760555544
+Ḩamāh,Hamah,35.1333,36.75,Syria,SY,SYR,Ḩamāh,admin,696863.0,1760197502
+Ar Raqqah,Ar Raqqah,35.95,39.01,Syria,SY,SYR,Ar Raqqah,admin,299824.0,1760035911
+Dayr az Zawr,Dayr az Zawr,35.3333,40.15,Syria,SY,SYR,Dayr az Zawr,admin,271800.0,1760792603
+Al Ḩasakah,Al Hasakah,36.5117,40.7422,Syria,SY,SYR,Al Ḩasakah,admin,188160.0,1760476337
+Al Qāmishlī,Al Qamishli,37.05,41.22,Syria,SY,SYR,Al Ḩasakah,minor,184231.0,1760560461
+Idlib,Idlib,35.9333,36.6333,Syria,SY,SYR,Idlib,admin,165000.0,1760305230
+Dar‘ā,Dar`a,32.6189,36.1021,Syria,SY,SYR,Dar‘ā,admin,146481.0,1760427038
+Qabr as Sitt,Qabr as Sitt,33.4472,36.3361,Syria,SY,SYR,Rīf Dimashq,,136427.0,1760060975
+Dūmā,Duma,33.5711,36.4011,Syria,SY,SYR,Rīf Dimashq,minor,123494.0,1760821818
+Jaramānā,Jaramana,33.4833,36.35,Syria,SY,SYR,Rīf Dimashq,minor,114363.0,1760709370
+As Salamīyah,As Salamiyah,35.0118,37.0525,Syria,SY,SYR,Ḩamāh,minor,110683.0,1760391067
+As Safīrah,As Safirah,36.0778,37.3733,Syria,SY,SYR,Ḩalab,minor,106460.0,1760134354
+Al Ḩajar al Aswad,Al Hajar al Aswad,33.464,36.3044,Syria,SY,SYR,Rīf Dimashq,minor,101827.0,1760587307
+Ma‘arrat an Nu‘mān,Ma`arrat an Nu`man,35.6386,36.6717,Syria,SY,SYR,Idlib,minor,90000.0,1760482977
+Ţarţūs,Tartus,34.8833,35.8833,Syria,SY,SYR,Ţarţūs,admin,89457.0,1760695473
+Dārayyā,Darayya,33.45,36.25,Syria,SY,SYR,Rīf Dimashq,minor,84044.0,1760409750
+Ath Thawrah,Ath Thawrah,35.8367,38.5481,Syria,SY,SYR,Ar Raqqah,minor,84000.0,1760605225
+Manbij,Manbij,36.5275,37.9553,Syria,SY,SYR,Ḩalab,minor,78255.0,1760355581
+Jablah,Jablah,35.35,35.9167,Syria,SY,SYR,Al Lādhiqīyah,minor,75505.0,1760685267
+Al Qurayyā,Al Qurayya,35.0025,40.5117,Syria,SY,SYR,Dayr az Zawr,,70680.0,1760541645
+As Suwaydā’,As Suwayda',32.7125,36.5667,Syria,SY,SYR,As Suwaydā’,admin,64730.0,1760680757
+Nawá,Nawa,32.8889,36.0431,Syria,SY,SYR,Dar‘ā,minor,63676.0,1760963983
+At Tall,At Tall,33.6,36.3,Syria,SY,SYR,Rīf Dimashq,minor,63554.0,1760718626
+Ar Rastan,Ar Rastan,34.9167,36.7333,Syria,SY,SYR,Ḩimş,minor,61176.0,1760205423
+Khān Shaykhūn,Khan Shaykhun,35.4389,36.6511,Syria,SY,SYR,Idlib,minor,55843.0,1760049407
+An Nabk,An Nabk,34.0167,36.7167,Syria,SY,SYR,Rīf Dimashq,minor,52502.0,1760474665
+Ālbū Kamāl,Albu Kamal,34.4536,40.9367,Syria,SY,SYR,Dayr az Zawr,minor,52020.0,1760836213
+Tadmur,Tadmur,34.56,38.2672,Syria,SY,SYR,Ḩimş,minor,51323.0,1760484707
+Babīlā,Babila,33.4728,36.3344,Syria,SY,SYR,Rīf Dimashq,minor,50880.0,1760722268
+Al Mayādīn,Al Mayadin,35.0183,40.4533,Syria,SY,SYR,Dayr az Zawr,minor,48922.0,1760808069
+Ash Shaykh Badr,Ash Shaykh Badr,34.9833,36.0833,Syria,SY,SYR,Ţarţūs,minor,47982.0,1760412368
+‘Āmūdā,`Amuda,37.1042,40.93,Syria,SY,SYR,Al Ḩasakah,minor,47580.0,1760247135
+Yabrūd,Yabrud,33.9667,36.6667,Syria,SY,SYR,Rīf Dimashq,minor,47136.0,1760885103
+Al Quşayr,Al Qusayr,34.5119,36.5764,Syria,SY,SYR,Ḩimş,minor,46772.0,1760157542
+Ḩarastā,Harasta,33.5667,36.3667,Syria,SY,SYR,Rīf Dimashq,minor,45974.0,1760273732
+Tallbīsah,Tallbisah,34.8333,36.7333,Syria,SY,SYR,Ḩimş,minor,45853.0,1760319800
+‘Ayn al ‘Arab,`Ayn al `Arab,36.891,38.3536,Syria,SY,SYR,Ḩalab,minor,44821.0,1760764004
+Zamalkā,Zamalka,33.5253,36.3528,Syria,SY,SYR,Rīf Dimashq,,44661.0,1760999732
+Jisr ash Shughūr,Jisr ash Shughur,35.8126,36.3176,Syria,SY,SYR,Idlib,minor,44322.0,1760389710
+Al Kiswah,Al Kiswah,33.35,36.2333,Syria,SY,SYR,Rīf Dimashq,minor,43456.0,1760910325
+Bāniyās,Baniyas,35.1822,35.9403,Syria,SY,SYR,Ţarţūs,minor,43151.0,1760780974
+Tādif,Tadif,36.3481,37.5308,Syria,SY,SYR,Ḩalab,minor,41786.0,1760362095
+Jayrūd,Jayrud,33.8067,36.7403,Syria,SY,SYR,Rīf Dimashq,minor,39903.0,1760101368
+Sarāqib,Saraqib,35.8636,36.8006,Syria,SY,SYR,Idlib,minor,39901.0,1760810482
+Al Mālikīyah,Al Malikiyah,37.1667,42.1333,Syria,SY,SYR,Al Ḩasakah,minor,39000.0,1760784945
+Al Ghizlānīyah,Al Ghizlaniyah,33.3986,36.4531,Syria,SY,SYR,Rīf Dimashq,minor,38473.0,1760034578
+Hajīn,Hajin,34.6894,40.8308,Syria,SY,SYR,Dayr az Zawr,minor,37935.0,1760926776
+Al Qaryatayn,Al Qaryatayn,34.2283,37.2406,Syria,SY,SYR,Ḩimş,minor,37820.0,1760172806
+Ma‘arratmişrīn,Ma`arratmisrin,36.0,36.6667,Syria,SY,SYR,Idlib,minor,37490.0,1760812215
+Maşyāf,Masyaf,35.0653,36.3422,Syria,SY,SYR,Ḩamāh,minor,37109.0,1760933504
+‘Afrīn,`Afrin,36.5083,36.8692,Syria,SY,SYR,Ḩalab,minor,36562.0,1760410858
+Tallkalakh,Tallkalakh,34.6683,36.2597,Syria,SY,SYR,Ḩimş,minor,35445.0,1760254463
+Dayr Ḩāfir,Dayr Hafir,36.1569,37.7078,Syria,SY,SYR,Ḩalab,minor,35409.0,1760046071
+Şalkhad,Salkhad,32.4917,36.7111,Syria,SY,SYR,As Suwaydā’,minor,35000.0,1760200029
+Tall Salḩab,Tall Salhab,35.2609,36.3822,Syria,SY,SYR,Ḩamāh,minor,35000.0,1760127036
+Qadsayyā,Qadsayya,33.5333,36.2167,Syria,SY,SYR,Rīf Dimashq,minor,33571.0,1760188872
+Ţafas,Tafas,32.7356,36.0669,Syria,SY,SYR,Dar‘ā,,32236.0,1760012771
+Şāfītā,Safita,34.8167,36.1167,Syria,SY,SYR,Ţarţūs,minor,32213.0,1760592493
+Jāsim,Jasim,32.9667,36.0667,Syria,SY,SYR,Dar‘ā,minor,31683.0,1760676905
+I‘zāz,I`zaz,36.5866,37.0463,Syria,SY,SYR,Ḩalab,minor,31534.0,1760669569
+Inkhil,Inkhil,33.0,36.1167,Syria,SY,SYR,Dar‘ā,,31258.0,1760570627
+Ar Ruḩaybah,Ar Ruhaybah,33.7436,36.7012,Syria,SY,SYR,Rīf Dimashq,minor,30450.0,1760100307
+Kafr Nubl,Kafr Nubl,35.6139,36.5611,Syria,SY,SYR,Idlib,minor,30000.0,1760535722
+Ra’s al ‘Ayn,Ra's al `Ayn,36.8503,40.0706,Syria,SY,SYR,Al Ḩasakah,minor,29347.0,1760030804
+Şūrān,Suran,35.2897,36.7433,Syria,SY,SYR,Ḩamāh,minor,29100.0,1760512352
+Yaldā,Yalda,33.4628,36.3217,Syria,SY,SYR,Rīf Dimashq,,28384.0,1760171113
+Tall Rif‘at,Tall Rif`at,36.4733,37.0972,Syria,SY,SYR,Ḩalab,minor,27086.0,1760489101
+Al Quţayfah,Al Qutayfah,33.7389,36.6,Syria,SY,SYR,Rīf Dimashq,minor,26671.0,1760671268
+Az Zabadānī,Az Zabadani,33.725,36.0972,Syria,SY,SYR,Rīf Dimashq,minor,26285.0,1760989247
+Aş Şanamayn,As Sanamayn,33.0711,36.1842,Syria,SY,SYR,Dar‘ā,minor,26268.0,1760865788
+Siqbā,Siqba,33.5197,36.3844,Syria,SY,SYR,Rīf Dimashq,,25654.0,1760248579
+Şaydnāyā,Saydnaya,33.6967,36.3739,Syria,SY,SYR,Rīf Dimashq,minor,25194.0,1760302528
+Tall Shihāb,Tall Shihab,32.6886,35.9889,Syria,SY,SYR,Dar‘ā,,25000.0,1760255410
+Ţayyibat al Imām,Tayyibat al Imam,35.2661,36.7114,Syria,SY,SYR,Ḩamāh,,24105.0,1760649932
+Subaykhān,Subaykhan,34.8464,40.5939,Syria,SY,SYR,Dayr az Zawr,,23867.0,1760638226
+Salqīn,Salqin,36.1333,36.45,Syria,SY,SYR,Idlib,minor,23700.0,1760573067
+Qaţanā,Qatana,33.4333,36.0833,Syria,SY,SYR,Rīf Dimashq,minor,22831.0,1760346496
+Kafr Baţnā,Kafr Batna,33.5,36.3667,Syria,SY,SYR,Rīf Dimashq,minor,22535.0,1760528656
+Ḩārim,Harim,36.2,36.5167,Syria,SY,SYR,Idlib,minor,21934.0,1760216782
+Binnish,Binnish,35.95,36.7,Syria,SY,SYR,Idlib,minor,21848.0,1760335847
+Nubl,Nubl,36.3756,36.9942,Syria,SY,SYR,Ḩalab,minor,21039.0,1760030884
+‘Adrā,`Adra,33.6,36.515,Syria,SY,SYR,Rīf Dimashq,,20559.0,1760640037
+Kafr Lāhā,Kafr Laha,34.8831,36.5,Syria,SY,SYR,Ḩimş,,20041.0,1760660605
+Buşrá ash Shām,Busra ash Sham,32.5167,36.4833,Syria,SY,SYR,Dar‘ā,minor,19683.0,1760158105
+Izra,Izra,32.8454,36.2499,Syria,SY,SYR,Dar‘ā,minor,19158.0,1760987853
+Zākīyah,Zakiyah,33.3344,36.1567,Syria,SY,SYR,Rīf Dimashq,,18553.0,1760898961
+Tall ‘Aran,Tall `Aran,36.1231,37.3369,Syria,SY,SYR,Ḩalab,,17767.0,1760332493
+Muḩradah,Muhradah,35.25,36.5833,Syria,SY,SYR,Ḩamāh,minor,17578.0,1760500956
+Al ‘Ashārah,Al `Asharah,34.9203,40.5594,Syria,SY,SYR,Dayr az Zawr,minor,17537.0,1760227736
+Manīn,Manin,33.6422,36.2978,Syria,SY,SYR,Rīf Dimashq,,17521.0,1760640796
+As Suqaylibīyah,As Suqaylibiyah,35.3697,36.38,Syria,SY,SYR,Ḩamāh,minor,17313.0,1760164203
+Al Ḩārah,Al Harah,33.05,36.0,Syria,SY,SYR,Dar‘ā,,17172.0,1760419453
+Kafr Zaytā,Kafr Zayta,35.3736,36.6017,Syria,SY,SYR,Ḩamāh,minor,17052.0,1760801679
+Māri‘,Mari`,36.4828,37.1964,Syria,SY,SYR,Ḩalab,minor,16904.0,1760793833
+Shahbā,Shahba,32.8542,36.6292,Syria,SY,SYR,As Suwaydā’,minor,16745.0,1760158993
+Al Laţāminah,Al Lataminah,35.3208,36.6225,Syria,SY,SYR,Ḩamāh,,16267.0,1760263860
+Khirbat Ghazālah,Khirbat Ghazalah,32.7333,36.2,Syria,SY,SYR,Dar‘ā,minor,16240.0,1760127200
+As Sukhnah,As Sukhnah,34.8868,38.8721,Syria,SY,SYR,Ḩimş,minor,16173.0,1760585431
+Tasīl,Tasil,32.8353,35.9714,Syria,SY,SYR,Dar‘ā,minor,15985.0,1760040877
+Ash Shaddādah,Ash Shaddadah,36.0561,40.7303,Syria,SY,SYR,Al Ḩasakah,minor,15806.0,1760828558
+Al Mu‘abbadah,Al Mu`abbadah,37.0164,41.9544,Syria,SY,SYR,Al Ḩasakah,,15759.0,1760650060
+Bayt Saḩam,Bayt Saham,33.4733,36.3372,Syria,SY,SYR,Rīf Dimashq,,15667.0,1760362241
+Maskanah,Maskanah,35.9632,38.0356,Syria,SY,SYR,Ḩalab,minor,15477.0,1760994714
+Kuljibrīn,Kuljibrin,36.5361,37.1175,Syria,SY,SYR,Ḩalab,,15000.0,1760857046
+Sarmadā,Sarmada,36.1833,36.7167,Syria,SY,SYR,Idlib,,15000.0,1760828582
+Tall Abyaḑ,Tall Abyad,36.6975,38.9567,Syria,SY,SYR,Ar Raqqah,minor,14825.0,1760694879
+Sarmīn,Sarmin,35.9033,36.7258,Syria,SY,SYR,Idlib,minor,14530.0,1760931266
+Mūrak,Murak,35.3753,36.6872,Syria,SY,SYR,Ḩamāh,,14307.0,1760107905
+Al Mu‘aḑḑamīyah,Al Mu`addamiyah,33.7421,36.6435,Syria,SY,SYR,Rīf Dimashq,,14228.0,1760021523
+Şaḩnāyā,Sahnaya,33.4242,36.2244,Syria,SY,SYR,Rīf Dimashq,minor,13993.0,1760192285
+Kanākir,Kanakir,33.2672,36.0969,Syria,SY,SYR,Rīf Dimashq,,13950.0,1760897591
+Jindayris,Jindayris,36.3947,36.6889,Syria,SY,SYR,Ḩalab,minor,13661.0,1760063267
+Dārat ‘Izzah,Darat `Izzah,36.2828,36.8519,Syria,SY,SYR,Ḩalab,minor,13525.0,1760338572
+Kafr Nabūdah,Kafr Nabudah,35.4317,36.4928,Syria,SY,SYR,Ḩamāh,,13513.0,1760648464
+Buşrá al Ḩarīr,Busra al Harir,32.8425,36.34,Syria,SY,SYR,Dar‘ā,,13315.0,1760065014
+Ad Duraykīsh,Ad Duraykish,34.8969,36.1346,Syria,SY,SYR,Ţarţūs,minor,13244.0,1760515031
+Shīn,Shin,34.7833,36.4333,Syria,SY,SYR,Ḩimş,minor,13020.0,1760607600
+Qal‘at al Maḑīq,Qal`at al Madiq,35.41,36.39,Syria,SY,SYR,Ḩamāh,minor,12925.0,1760079003
+Al Muzayrīb,Al Muzayrib,32.7109,36.0266,Syria,SY,SYR,Dar‘ā,minor,12640.0,1760935578
+Qārah,Qarah,34.1542,36.7442,Syria,SY,SYR,Rīf Dimashq,,12508.0,1760019863
+Mi‘rabah,Mi`rabah,32.5458,36.4283,Syria,SY,SYR,Dar‘ā,,12359.0,1760390281
+Ḩawsh al Baḩdalīyah,Hawsh al Bahdaliyah,33.4292,36.3611,Syria,SY,SYR,Rīf Dimashq,,12330.0,1760272131
+Kafr Rūmā,Kafr Ruma,35.6342,36.6322,Syria,SY,SYR,Idlib,,12276.0,1760413960
+Kafr Buhum,Kafr Buhum,35.0611,36.6972,Syria,SY,SYR,Ḩamāh,,12194.0,1760856800
+Tall Dhahab,Tall Dhahab,34.8581,36.4517,Syria,SY,SYR,Ḩimş,,12055.0,1760071536
+‘Anadān,`Anadan,36.2936,37.0444,Syria,SY,SYR,Ḩalab,,11918.0,1760993442
+Ghabāghib,Ghabaghib,33.1839,36.2264,Syria,SY,SYR,Dar‘ā,minor,11802.0,1760507267
+Jarābulus,Jarabulus,36.8175,38.0111,Syria,SY,SYR,Ḩalab,minor,11570.0,1760404681
+Şaydā,Sayda,32.6283,36.2261,Syria,SY,SYR,Dar‘ā,,11215.0,1760191723
+Mahīn,Mahin,34.2425,37.0589,Syria,SY,SYR,Ḩimş,minor,11064.0,1760830221
+Dayr ‘Aţīyah,Dayr `Atiyah,34.0833,36.7667,Syria,SY,SYR,Rīf Dimashq,minor,10984.0,1760656122
+Aş Şabbūrah,As Sabburah,33.5151,36.1259,Syria,SY,SYR,Rīf Dimashq,,10969.0,1760388490
+Khaţţāb,Khattab,35.1975,36.6672,Syria,SY,SYR,Ḩamāh,,10830.0,1760480651
+Jarjanāz,Jarjanaz,35.6175,36.7772,Syria,SY,SYR,Idlib,,10756.0,1760182310
+Bāghūz Fawqānī,Baghuz Fawqani,34.4586,40.9506,Syria,SY,SYR,Dayr az Zawr,,10689.0,1760767113
+Al Atārib,Al Atarib,36.1389,36.83,Syria,SY,SYR,Ḩalab,minor,10657.0,1760645780
+‘Utaybah,`Utaybah,33.4861,36.6011,Syria,SY,SYR,Rīf Dimashq,,10548.0,1760277356
+Al Karak,Al Karak,32.6872,36.3508,Syria,SY,SYR,Dar‘ā,,10510.0,1760662901
+Al Musayfirah,Al Musayfirah,32.6322,36.3386,Syria,SY,SYR,Dar‘ā,minor,10466.0,1760039988
+Turmānīn,Turmanin,36.2333,36.8167,Syria,SY,SYR,Idlib,,10394.0,1760551418
+Bārah,Barah,35.683,36.533,Syria,SY,SYR,Idlib,,10353.0,1760852702
+Armanāz,Armanaz,36.0833,36.5,Syria,SY,SYR,Idlib,minor,10296.0,1760438666
+Ma‘rabā,Ma`raba,33.5775,36.2969,Syria,SY,SYR,Rīf Dimashq,,10290.0,1760521732
+Miḩqan,Mihqan,34.9744,40.4856,Syria,SY,SYR,Dayr az Zawr,,10086.0,1760022929
+Kafr Takhārīm,Kafr Takharim,36.1164,36.5147,Syria,SY,SYR,Idlib,minor,10084.0,1760371396
+Al Hāmah,Al Hamah,33.5581,36.2222,Syria,SY,SYR,Rīf Dimashq,,10045.0,1760765828
+An Nayrab,An Nayrab,36.1756,37.2278,Syria,SY,SYR,Ḩalab,,10018.0,1760678777
+Maḩajjah,Mahajjah,32.9558,36.2214,Syria,SY,SYR,Dar‘ā,,9982.0,1760190111
+Ghāriyah al Gharbīyah,Ghariyah al Gharbiyah,32.6828,36.2233,Syria,SY,SYR,Dar‘ā,,9784.0,1760612847
+Ghabrah,Ghabrah,34.5378,40.9125,Syria,SY,SYR,Dayr az Zawr,,9748.0,1760187998
+Ḩās,Has,35.6169,36.5953,Syria,SY,SYR,Idlib,,9595.0,1760767618
+Mūḩ Ḩasan,Muh Hasan,35.2394,40.3244,Syria,SY,SYR,Dayr az Zawr,minor,9501.0,1760986966
+Jisrayn,Jisrayn,33.5064,36.3858,Syria,SY,SYR,Rīf Dimashq,,9442.0,1760312917
+Maḑāyā,Madaya,33.6878,36.1008,Syria,SY,SYR,Rīf Dimashq,minor,9371.0,1760921670
+Abū Khashab,Abu Khashab,35.9358,40.0367,Syria,SY,SYR,Dayr az Zawr,,9046.0,1760868010
+Dhībān,Dhiban,35.0025,40.5117,Syria,SY,SYR,Dayr az Zawr,minor,9000.0,1760211597
+Al Yādūdah,Al Yadudah,32.6653,36.0611,Syria,SY,SYR,Dar‘ā,,8967.0,1760881970
+Kafr Sajnah,Kafr Sajnah,35.5261,36.5886,Syria,SY,SYR,Idlib,,8935.0,1760926229
+Al Buwayḑah,Al Buwaydah,33.4264,36.3208,Syria,SY,SYR,Rīf Dimashq,,8832.0,1760211674
+Ḩīsh,Hish,35.5464,36.6431,Syria,SY,SYR,Idlib,minor,8817.0,1760171241
+Al Qardāḩah,Al Qardahah,35.4572,36.0597,Syria,SY,SYR,Al Lādhiqīyah,minor,8671.0,1760811337
+Abū Ḩardūb,Abu Hardub,34.845,40.6431,Syria,SY,SYR,Dayr az Zawr,,8657.0,1760872653
+Ad Darbāsīyah,Ad Darbasiyah,37.0728,40.6519,Syria,SY,SYR,Al Ḩasakah,minor,8551.0,1760503745
+Taftanāz,Taftanaz,35.9969,36.7867,Syria,SY,SYR,Idlib,minor,8540.0,1760676375
+Ra’s al Ma‘arrah,Ra's al Ma`arrah,34.0008,36.5628,Syria,SY,SYR,Rīf Dimashq,,8520.0,1760784421
+Al Qunayţirah,Al Qunaytirah,33.1256,35.8239,Syria,SY,SYR,Al Qunayţirah,admin,153.0,1760132692

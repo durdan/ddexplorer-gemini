@@ -1,0 +1,67 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Amman,Amman,31.9497,35.9328,Jordan,JO,JOR,Al ‘Āşimah,primary,4007526.0,1400522593
+Al Mafraq,Al Mafraq,32.3399,36.2052,Jordan,JO,JOR,Al Mafraq,admin,580000.0,1400040712
+Irbid,Irbid,32.55,35.85,Jordan,JO,JOR,Irbid,admin,569068.0,1400221568
+Az Zarqā’,Az Zarqa',32.0833,36.1,Jordan,JO,JOR,Az Zarqā’,admin,481300.0,1400161837
+Ar Ruşayfah,Ar Rusayfah,32.0178,36.0464,Jordan,JO,JOR,Az Zarqā’,minor,472604.0,1400369457
+Al Juwayyidah,Al Juwayyidah,31.9167,35.95,Jordan,JO,JOR,Al ‘Āşimah,minor,176400.0,1400206772
+Saḩāb,Sahab,31.8667,36.0,Jordan,JO,JOR,Al ‘Āşimah,minor,169434.0,1400064688
+Ar Ramthā,Ar Ramtha,32.5589,36.0147,Jordan,JO,JOR,Irbid,minor,155693.0,1400675695
+‘Ajlūn,`Ajlun,32.3325,35.7517,Jordan,JO,JOR,‘Ajlūn,admin,148870.0,1400775371
+Al ‘Aqabah,Al `Aqabah,29.5319,35.0056,Jordan,JO,JOR,Al ‘Aqabah,admin,148398.0,1400618058
+Al Jīzah,Al Jizah,31.6833,35.95,Jordan,JO,JOR,Al ‘Āşimah,minor,95045.0,1400797654
+As Salţ,As Salt,32.0333,35.7333,Jordan,JO,JOR,Al Balqā’,admin,88900.0,1400470384
+Mādabā,Madaba,31.7167,35.8,Jordan,JO,JOR,Mādabā,admin,84600.0,1400962992
+Jarash,Jarash,32.2806,35.8972,Jordan,JO,JOR,Jarash,admin,50745.0,1400505859
+Ma‘ān,Ma`an,30.1962,35.7341,Jordan,JO,JOR,Ma‘ān,admin,50350.0,1400670443
+Al Ḩişn,Al Hisn,32.4583,35.8583,Jordan,JO,JOR,Irbid,minor,35085.0,1400378169
+Aţ Ţurrah,At Turrah,32.6368,35.99,Jordan,JO,JOR,Irbid,,34948.0,1400078308
+Dayr Abū Sa‘īd,Dayr Abu Sa`id,32.5025,35.6922,Jordan,JO,JOR,Irbid,minor,29590.0,1400352428
+Ash Shajarah,Ash Shajarah,32.6417,35.9417,Jordan,JO,JOR,Irbid,,27902.0,1400450578
+Mu’tah,Mu'tah,31.1,35.7,Jordan,JO,JOR,Al Karak,,27426.0,1400088878
+Ash Shūnah ash Shamālīyah,Ash Shunah ash Shamaliyah,32.61,35.6081,Jordan,JO,JOR,Irbid,minor,25000.0,1400135383
+Aţ Ţafīlah,At Tafilah,30.84,35.6,Jordan,JO,JOR,Aţ Ţafīlah,admin,23512.0,1400134505
+Al Fuḩayş,Al Fuhays,32.0167,35.7667,Jordan,JO,JOR,Al Balqā’,minor,21908.0,1400712553
+Al Karak,Al Karak,31.1833,35.7,Jordan,JO,JOR,Al Karak,admin,21678.0,1400073941
+Şammā,Samma,32.57,35.69,Jordan,JO,JOR,Irbid,,18659.0,1400057552
+Māḩiş,Mahis,31.9833,35.7667,Jordan,JO,JOR,Al Balqā’,,17754.0,1400449886
+Al Mazār ash Shamālī,Al Mazar ash Shamali,32.4725,35.7928,Jordan,JO,JOR,Irbid,minor,16000.0,1400714744
+Muthallath al Azraq,Muthallath al Azraq,31.8342,36.815,Jordan,JO,JOR,Az Zarqā’,minor,14800.0,1400807685
+Kafr ‘Awān,Kafr `Awan,32.4167,35.6833,Jordan,JO,JOR,Irbid,,13056.0,1400261137
+Malkā,Malka,32.6653,35.7333,Jordan,JO,JOR,Irbid,,11706.0,1400950108
+Sākib,Sakib,32.2854,35.8113,Jordan,JO,JOR,Jarash,,11586.0,1400579775
+Buşayrā,Busayra,30.7389,35.6072,Jordan,JO,JOR,Aţ Ţafīlah,minor,10587.0,1400361602
+Ḩalāwah,Halawah,32.3828,35.6619,Jordan,JO,JOR,‘Ajlūn,,8647.0,1400561057
+Amman,Amman,31.9497,35.9328,Jordan,JO,JOR,Al ‘Āşimah,primary,4007526.0,1400522593
+Al Mafraq,Al Mafraq,32.3399,36.2052,Jordan,JO,JOR,Al Mafraq,admin,580000.0,1400040712
+Irbid,Irbid,32.55,35.85,Jordan,JO,JOR,Irbid,admin,569068.0,1400221568
+Az Zarqā’,Az Zarqa',32.0833,36.1,Jordan,JO,JOR,Az Zarqā’,admin,481300.0,1400161837
+Ar Ruşayfah,Ar Rusayfah,32.0178,36.0464,Jordan,JO,JOR,Az Zarqā’,minor,472604.0,1400369457
+Al Juwayyidah,Al Juwayyidah,31.9167,35.95,Jordan,JO,JOR,Al ‘Āşimah,minor,176400.0,1400206772
+Saḩāb,Sahab,31.8667,36.0,Jordan,JO,JOR,Al ‘Āşimah,minor,169434.0,1400064688
+Ar Ramthā,Ar Ramtha,32.5589,36.0147,Jordan,JO,JOR,Irbid,minor,155693.0,1400675695
+‘Ajlūn,`Ajlun,32.3325,35.7517,Jordan,JO,JOR,‘Ajlūn,admin,148870.0,1400775371
+Al ‘Aqabah,Al `Aqabah,29.5319,35.0056,Jordan,JO,JOR,Al ‘Aqabah,admin,148398.0,1400618058
+Al Jīzah,Al Jizah,31.6833,35.95,Jordan,JO,JOR,Al ‘Āşimah,minor,95045.0,1400797654
+As Salţ,As Salt,32.0333,35.7333,Jordan,JO,JOR,Al Balqā’,admin,88900.0,1400470384
+Mādabā,Madaba,31.7167,35.8,Jordan,JO,JOR,Mādabā,admin,84600.0,1400962992
+Jarash,Jarash,32.2806,35.8972,Jordan,JO,JOR,Jarash,admin,50745.0,1400505859
+Ma‘ān,Ma`an,30.1962,35.7341,Jordan,JO,JOR,Ma‘ān,admin,50350.0,1400670443
+Al Ḩişn,Al Hisn,32.4583,35.8583,Jordan,JO,JOR,Irbid,minor,35085.0,1400378169
+Aţ Ţurrah,At Turrah,32.6368,35.99,Jordan,JO,JOR,Irbid,,34948.0,1400078308
+Dayr Abū Sa‘īd,Dayr Abu Sa`id,32.5025,35.6922,Jordan,JO,JOR,Irbid,minor,29590.0,1400352428
+Ash Shajarah,Ash Shajarah,32.6417,35.9417,Jordan,JO,JOR,Irbid,,27902.0,1400450578
+Mu’tah,Mu'tah,31.1,35.7,Jordan,JO,JOR,Al Karak,,27426.0,1400088878
+Ash Shūnah ash Shamālīyah,Ash Shunah ash Shamaliyah,32.61,35.6081,Jordan,JO,JOR,Irbid,minor,25000.0,1400135383
+Aţ Ţafīlah,At Tafilah,30.84,35.6,Jordan,JO,JOR,Aţ Ţafīlah,admin,23512.0,1400134505
+Al Fuḩayş,Al Fuhays,32.0167,35.7667,Jordan,JO,JOR,Al Balqā’,minor,21908.0,1400712553
+Al Karak,Al Karak,31.1833,35.7,Jordan,JO,JOR,Al Karak,admin,21678.0,1400073941
+Şammā,Samma,32.57,35.69,Jordan,JO,JOR,Irbid,,18659.0,1400057552
+Māḩiş,Mahis,31.9833,35.7667,Jordan,JO,JOR,Al Balqā’,,17754.0,1400449886
+Al Mazār ash Shamālī,Al Mazar ash Shamali,32.4725,35.7928,Jordan,JO,JOR,Irbid,minor,16000.0,1400714744
+Muthallath al Azraq,Muthallath al Azraq,31.8342,36.815,Jordan,JO,JOR,Az Zarqā’,minor,14800.0,1400807685
+Kafr ‘Awān,Kafr `Awan,32.4167,35.6833,Jordan,JO,JOR,Irbid,,13056.0,1400261137
+Malkā,Malka,32.6653,35.7333,Jordan,JO,JOR,Irbid,,11706.0,1400950108
+Sākib,Sakib,32.2854,35.8113,Jordan,JO,JOR,Jarash,,11586.0,1400579775
+Buşayrā,Busayra,30.7389,35.6072,Jordan,JO,JOR,Aţ Ţafīlah,minor,10587.0,1400361602
+Ḩalāwah,Halawah,32.3828,35.6619,Jordan,JO,JOR,‘Ajlūn,,8647.0,1400561057

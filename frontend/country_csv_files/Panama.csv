@@ -1,0 +1,75 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Panama City,Panama City,8.9833,-79.5167,Panama,PA,PAN,Panamá,primary,1500189.0,1591672475
+San Miguelito,San Miguelito,9.033,-79.5,Panama,PA,PAN,Panamá,minor,315019.0,1591394184
+David,David,8.4333,-82.4333,Panama,PA,PAN,Chiriquí,admin,82907.0,1591487342
+Colón,Colon,9.3572,-79.8986,Panama,PA,PAN,Colón,admin,78000.0,1591599922
+Tocumen,Tocumen,9.08,-79.38,Panama,PA,PAN,Panamá,minor,74952.0,1591862635
+La Chorrera,La Chorrera,8.8792,-79.7822,Panama,PA,PAN,Panamá Oeste,admin,68896.0,1591982720
+Balboa Heights,Balboa Heights,8.95,-79.55,Panama,PA,PAN,Panamá,,62882.0,1591234164
+Chilibre,Chilibre,9.15,-79.62,Panama,PA,PAN,Panamá,minor,53955.0,1591081204
+Pacora,Pacora,9.08,-79.28,Panama,PA,PAN,Panamá,minor,52494.0,1591023850
+Aguadulce,Aguadulce,8.24,-80.54,Panama,PA,PAN,Coclé,minor,51668.0,1591589017
+Chitré,Chitre,7.9667,-80.4333,Panama,PA,PAN,Herrera,admin,46191.0,1591257375
+Santiago,Santiago,8.1004,-80.9833,Panama,PA,PAN,Veraguas,admin,45955.0,1591231138
+Alcalde Díaz,Alcalde Diaz,9.12,-79.55,Panama,PA,PAN,Panamá,minor,41292.0,1591462898
+Arraiján,Arraijan,8.95,-79.65,Panama,PA,PAN,Panamá Oeste,minor,41041.0,1591458943
+Cativá,Cativa,9.36,-79.84,Panama,PA,PAN,Colón,minor,34558.0,1591118642
+Kusapín,Kusapin,9.18,-81.89,Panama,PA,PAN,Ngäbe-Buglé,minor,33121.0,1591073084
+Changuinola,Changuinola,9.4333,-82.5167,Panama,PA,PAN,Bocas del Toro,minor,31223.0,1591849136
+Ancón,Ancon,8.97,-79.55,Panama,PA,PAN,Panamá,minor,29761.0,1591827249
+Nuevo Arraiján,Nuevo Arraijan,8.92,-79.72,Panama,PA,PAN,Panamá Oeste,minor,26298.0,1591824667
+Penonomé,Penonome,8.5187,-80.3553,Panama,PA,PAN,Coclé,admin,21748.0,1591602960
+Chepo,Chepo,9.17,-79.1,Panama,PA,PAN,Panamá,minor,20420.0,1591679968
+Puerto Armuelles,Puerto Armuelles,8.2833,-82.8667,Panama,PA,PAN,Chiriquí,minor,19763.0,1591562054
+El Coco,El Coco,8.8834,-79.8332,Panama,PA,PAN,Panamá Oeste,minor,19603.0,1591500996
+Sabanitas,Sabanitas,9.34,-79.8,Panama,PA,PAN,Colón,minor,19052.0,1591407052
+Bajo Boquete,Bajo Boquete,8.78,-82.44,Panama,PA,PAN,Chiriquí,minor,19000.0,1591141139
+Puerto Caimito,Puerto Caimito,8.87,-79.72,Panama,PA,PAN,Panamá Oeste,minor,16951.0,1591589350
+Puerto Pilón,Puerto Pilon,9.36,-79.79,Panama,PA,PAN,Colón,minor,16517.0,1591571377
+Bocas del Toro,Bocas del Toro,9.3333,-82.25,Panama,PA,PAN,Bocas del Toro,admin,12996.0,1591037947
+Almirante,Almirante,9.3,-82.4,Panama,PA,PAN,Bocas del Toro,minor,12731.0,1591293829
+Paso Canoas,Paso Canoas,8.5333,-82.8333,Panama,PA,PAN,Chiriquí,,9543.0,1591880725
+Las Tablas,Las Tablas,7.7667,-80.2833,Panama,PA,PAN,Los Santos,admin,9255.0,1591472114
+La Palma,La Palma,8.41,-78.15,Panama,PA,PAN,Darién,admin,4205.0,1591177082
+Jaqué,Jaque,7.5181,-78.1625,Panama,PA,PAN,Darién,minor,2386.0,1591579329
+Buabidi,Buabidi,8.4667,-81.7,Panama,PA,PAN,Ngäbe-Buglé,admin,420.0,1591495919
+Gaigirgordub,Gaigirgordub,9.5586,-78.9484,Panama,PA,PAN,Guna Yala,admin,10.0,1591425685
+Unión Chocó,Union Choco,8.1021,-77.6058,Panama,PA,PAN,Emberá-Wounaan,admin,,1591671914
+Sieyik,Sieyik,9.3833,-82.6522,Panama,PA,PAN,Naso Tjër Di,admin,,1591986999
+Panama City,Panama City,8.9833,-79.5167,Panama,PA,PAN,Panamá,primary,1500189.0,1591672475
+San Miguelito,San Miguelito,9.033,-79.5,Panama,PA,PAN,Panamá,minor,315019.0,1591394184
+David,David,8.4333,-82.4333,Panama,PA,PAN,Chiriquí,admin,82907.0,1591487342
+Colón,Colon,9.3572,-79.8986,Panama,PA,PAN,Colón,admin,78000.0,1591599922
+Tocumen,Tocumen,9.08,-79.38,Panama,PA,PAN,Panamá,minor,74952.0,1591862635
+La Chorrera,La Chorrera,8.8792,-79.7822,Panama,PA,PAN,Panamá Oeste,admin,68896.0,1591982720
+Balboa Heights,Balboa Heights,8.95,-79.55,Panama,PA,PAN,Panamá,,62882.0,1591234164
+Chilibre,Chilibre,9.15,-79.62,Panama,PA,PAN,Panamá,minor,53955.0,1591081204
+Pacora,Pacora,9.08,-79.28,Panama,PA,PAN,Panamá,minor,52494.0,1591023850
+Aguadulce,Aguadulce,8.24,-80.54,Panama,PA,PAN,Coclé,minor,51668.0,1591589017
+Chitré,Chitre,7.9667,-80.4333,Panama,PA,PAN,Herrera,admin,46191.0,1591257375
+Santiago,Santiago,8.1004,-80.9833,Panama,PA,PAN,Veraguas,admin,45955.0,1591231138
+Alcalde Díaz,Alcalde Diaz,9.12,-79.55,Panama,PA,PAN,Panamá,minor,41292.0,1591462898
+Arraiján,Arraijan,8.95,-79.65,Panama,PA,PAN,Panamá Oeste,minor,41041.0,1591458943
+Cativá,Cativa,9.36,-79.84,Panama,PA,PAN,Colón,minor,34558.0,1591118642
+Kusapín,Kusapin,9.18,-81.89,Panama,PA,PAN,Ngäbe-Buglé,minor,33121.0,1591073084
+Changuinola,Changuinola,9.4333,-82.5167,Panama,PA,PAN,Bocas del Toro,minor,31223.0,1591849136
+Ancón,Ancon,8.97,-79.55,Panama,PA,PAN,Panamá,minor,29761.0,1591827249
+Nuevo Arraiján,Nuevo Arraijan,8.92,-79.72,Panama,PA,PAN,Panamá Oeste,minor,26298.0,1591824667
+Penonomé,Penonome,8.5187,-80.3553,Panama,PA,PAN,Coclé,admin,21748.0,1591602960
+Chepo,Chepo,9.17,-79.1,Panama,PA,PAN,Panamá,minor,20420.0,1591679968
+Puerto Armuelles,Puerto Armuelles,8.2833,-82.8667,Panama,PA,PAN,Chiriquí,minor,19763.0,1591562054
+El Coco,El Coco,8.8834,-79.8332,Panama,PA,PAN,Panamá Oeste,minor,19603.0,1591500996
+Sabanitas,Sabanitas,9.34,-79.8,Panama,PA,PAN,Colón,minor,19052.0,1591407052
+Bajo Boquete,Bajo Boquete,8.78,-82.44,Panama,PA,PAN,Chiriquí,minor,19000.0,1591141139
+Puerto Caimito,Puerto Caimito,8.87,-79.72,Panama,PA,PAN,Panamá Oeste,minor,16951.0,1591589350
+Puerto Pilón,Puerto Pilon,9.36,-79.79,Panama,PA,PAN,Colón,minor,16517.0,1591571377
+Bocas del Toro,Bocas del Toro,9.3333,-82.25,Panama,PA,PAN,Bocas del Toro,admin,12996.0,1591037947
+Almirante,Almirante,9.3,-82.4,Panama,PA,PAN,Bocas del Toro,minor,12731.0,1591293829
+Paso Canoas,Paso Canoas,8.5333,-82.8333,Panama,PA,PAN,Chiriquí,,9543.0,1591880725
+Las Tablas,Las Tablas,7.7667,-80.2833,Panama,PA,PAN,Los Santos,admin,9255.0,1591472114
+La Palma,La Palma,8.41,-78.15,Panama,PA,PAN,Darién,admin,4205.0,1591177082
+Jaqué,Jaque,7.5181,-78.1625,Panama,PA,PAN,Darién,minor,2386.0,1591579329
+Buabidi,Buabidi,8.4667,-81.7,Panama,PA,PAN,Ngäbe-Buglé,admin,420.0,1591495919
+Gaigirgordub,Gaigirgordub,9.5586,-78.9484,Panama,PA,PAN,Guna Yala,admin,10.0,1591425685
+Unión Chocó,Union Choco,8.1021,-77.6058,Panama,PA,PAN,Emberá-Wounaan,admin,,1591671914
+Sieyik,Sieyik,9.3833,-82.6522,Panama,PA,PAN,Naso Tjër Di,admin,,1591986999

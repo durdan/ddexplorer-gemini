@@ -1,0 +1,155 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Ouagadougou,Ouagadougou,12.3686,-1.5275,Burkina Faso,BF,BFA,Centre,primary,2453496.0,1854029208
+Bobo-Dioulasso,Bobo-Dioulasso,11.1833,-4.2833,Burkina Faso,BF,BFA,Hauts-Bassins,admin,903887.0,1854348796
+Koudougou,Koudougou,12.25,-2.3667,Burkina Faso,BF,BFA,Centre-Ouest,admin,160207.0,1854839075
+Ouahigouya,Ouahigouya,13.5833,-2.4167,Burkina Faso,BF,BFA,Nord,admin,124580.0,1854011699
+Kaya,Kaya,13.0833,-1.0833,Burkina Faso,BF,BFA,Centre-Nord,admin,122949.0,1854170035
+Banfora,Banfora,10.6308,-4.7589,Burkina Faso,BF,BFA,Cascades,admin,117200.0,1854763822
+Pouytenga,Pouytenga,12.25,-0.4333,Burkina Faso,BF,BFA,Centre-Est,,99950.0,1854151910
+Houndé,Hounde,11.5,-3.5167,Burkina Faso,BF,BFA,Hauts-Bassins,minor,87154.0,1854289245
+Fada Ngourma,Fada Ngourma,12.05,0.3667,Burkina Faso,BF,BFA,Est,admin,73200.0,1854057074
+Dédougou,Dedougou,12.4667,-3.4667,Burkina Faso,BF,BFA,Boucle du Mouhoun,admin,63617.0,1854743311
+Djibo,Djibo,14.1011,-1.6306,Burkina Faso,BF,BFA,Sahel,minor,61456.0,1854364299
+Tenkodogo,Tenkodogo,11.7833,-0.3667,Burkina Faso,BF,BFA,Centre-Est,admin,58600.0,1854646157
+Kongoussi,Kongoussi,13.3333,-1.5333,Burkina Faso,BF,BFA,Centre-Nord,minor,53641.0,1854493633
+Titao,Titao,13.25,-2.05,Burkina Faso,BF,BFA,Nord,minor,48242.0,1854649320
+Dori,Dori,14.03,-0.03,Burkina Faso,BF,BFA,Sahel,admin,46521.0,1854096946
+Koupéla,Koupela,12.1794,-0.3517,Burkina Faso,BF,BFA,Centre-Est,minor,45900.0,1854841246
+Aribinda,Aribinda,14.2292,-0.8633,Burkina Faso,BF,BFA,Sahel,minor,45818.0,1854268234
+Gaoua,Gaoua,10.3167,-3.1667,Burkina Faso,BF,BFA,Sud-Ouest,,45284.0,1854142068
+Gaoua,Gaoua,10.3167,-3.1667,Burkina Faso,BF,BFA,Sud-Ouest,admin,45189.0,1854285570
+Garango,Garango,11.8,-0.55,Burkina Faso,BF,BFA,Centre-Est,,45150.0,1854695901
+Tanghin-Dassouri,Tanghin-Dassouri,12.2667,-1.7167,Burkina Faso,BF,BFA,Centre,minor,43675.0,1854307252
+Gourcy,Gourcy,13.2167,-2.35,Burkina Faso,BF,BFA,Nord,minor,40144.0,1854167073
+Yako,Yako,12.9667,-2.2667,Burkina Faso,BF,BFA,Nord,minor,38689.0,1854815200
+Bindé,Binde,11.75,-1.1,Burkina Faso,BF,BFA,Centre-Sud,,36518.0,1854349204
+Zorgo,Zorgo,12.25,-0.6167,Burkina Faso,BF,BFA,Plateau-Central,minor,35406.0,1854077108
+Réo,Reo,12.3167,-2.4667,Burkina Faso,BF,BFA,Centre-Ouest,minor,33893.0,1854684997
+Léo,Leo,11.1,-2.1,Burkina Faso,BF,BFA,Centre-Ouest,minor,33717.0,1854225723
+Niangoloko,Niangoloko,10.2833,-4.9167,Burkina Faso,BF,BFA,Cascades,,33500.0,1854857887
+Orodara,Orodara,10.98,-4.91,Burkina Faso,BF,BFA,Hauts-Bassins,minor,33422.0,1854111637
+Ziniaré,Ziniare,12.5833,-1.3,Burkina Faso,BF,BFA,Plateau-Central,admin,33296.0,1854052758
+Nouna,Nouna,12.7333,-3.8667,Burkina Faso,BF,BFA,Boucle du Mouhoun,minor,32428.0,1854190171
+Kindi,Kindi,12.4333,-2.0167,Burkina Faso,BF,BFA,,,32207.0,1854813860
+Bittou,Bittou,11.2575,-0.3039,Burkina Faso,BF,BFA,Centre-Est,,31210.0,1854307960
+Kombissiri,Kombissiri,12.0667,-1.3333,Burkina Faso,BF,BFA,Centre-Sud,minor,28617.0,1854637161
+Manga,Manga,11.6667,-1.0667,Burkina Faso,BF,BFA,Centre-Sud,admin,28612.0,1854485968
+Pô,Po,11.1667,-1.15,Burkina Faso,BF,BFA,Centre-Sud,minor,28079.0,1854979912
+Bourzanga,Bourzanga,13.6781,-1.5461,Burkina Faso,BF,BFA,Centre-Nord,,27213.0,1854447025
+Tougan,Tougan,13.0667,-3.0667,Burkina Faso,BF,BFA,Boucle du Mouhoun,minor,26347.0,1854407539
+Sapouy,Sapouy,11.5544,-1.7736,Burkina Faso,BF,BFA,Centre-Ouest,minor,26345.0,1854971695
+Dano,Dano,11.1436,-3.0628,Burkina Faso,BF,BFA,Sud-Ouest,minor,25922.0,1854971871
+Mogtédo,Mogtedo,12.2833,-0.8333,Burkina Faso,BF,BFA,Plateau-Central,,25699.0,1854602237
+Diébougou,Diebougou,10.9667,-3.25,Burkina Faso,BF,BFA,Sud-Ouest,minor,25688.0,1854858995
+Boussé,Bousse,12.6667,-1.8975,Burkina Faso,BF,BFA,Plateau-Central,minor,25022.0,1854235785
+Salanso,Salanso,12.1833,-4.0833,Burkina Faso,BF,BFA,Boucle du Mouhoun,minor,24783.0,1854892822
+Boulsa,Boulsa,12.6667,-0.5833,Burkina Faso,BF,BFA,Centre-Nord,minor,24200.0,1854535753
+Pissila,Pissila,13.1667,-0.8167,Burkina Faso,BF,BFA,Centre-Nord,,23420.0,1854949911
+Béguédo,Beguedo,11.7833,-0.7333,Burkina Faso,BF,BFA,Centre-Est,,21894.0,1854929240
+Zabré,Zabre,11.1833,-0.6333,Burkina Faso,BF,BFA,Centre-Est,,21726.0,1854284230
+Bogandé,Bogande,12.9667,-0.15,Burkina Faso,BF,BFA,Est,minor,21443.0,1854811035
+Saponé,Sapone,12.0528,-1.6036,Burkina Faso,BF,BFA,Centre-Sud,minor,21148.0,1854915322
+Vili,Vili,12.2833,-2.2167,Burkina Faso,BF,BFA,Centre-Ouest,,20914.0,1854996122
+Fara,Fara,11.5333,-2.7667,Burkina Faso,BF,BFA,Boucle du Mouhoun,,20434.0,1854783851
+Boromo,Boromo,11.75,-2.9333,Burkina Faso,BF,BFA,Boucle du Mouhoun,minor,20193.0,1854589040
+Korsimoro,Korsimoro,12.825,-1.0672,Burkina Faso,BF,BFA,Centre-Nord,minor,18875.0,1854567141
+Batié,Batie,9.8833,-2.9167,Burkina Faso,BF,BFA,Sud-Ouest,minor,17997.0,1854437674
+Kouka,Kouka,11.9,-4.3333,Burkina Faso,BF,BFA,Boucle du Mouhoun,,17286.0,1854523229
+Toma,Toma,12.7667,-2.8833,Burkina Faso,BF,BFA,Boucle du Mouhoun,minor,15851.0,1854082077
+Diapaga,Diapaga,12.0667,1.7833,Burkina Faso,BF,BFA,Est,minor,15515.0,1854687079
+Gomboussougou,Gomboussougou,11.4333,-0.7667,Burkina Faso,BF,BFA,Centre-Sud,,15336.0,1854877911
+Gayéri,Gayeri,12.65,0.5,Burkina Faso,BF,BFA,Est,minor,15170.0,1854170724
+Pâ,Pa,11.55,-3.26,Burkina Faso,BF,BFA,Boucle du Mouhoun,,15170.0,1854939518
+Mani,Mani,13.26,-0.2094,Burkina Faso,BF,BFA,Est,,15066.0,1854799448
+Sabou,Sabou,12.0667,-2.2333,Burkina Faso,BF,BFA,Centre-Ouest,,15060.0,1854948165
+Pama,Pama,11.25,0.7,Burkina Faso,BF,BFA,Est,minor,13579.0,1854514463
+Niaogho,Niaogho,11.7667,-0.7667,Burkina Faso,BF,BFA,Centre-Est,,13545.0,1854748181
+Ouargaye,Ouargaye,11.5,0.05,Burkina Faso,BF,BFA,Centre-Est,minor,13431.0,1854385112
+Imassogo,Imassogo,12.4393,-2.3331,Burkina Faso,BF,BFA,Centre-Ouest,,12031.0,1854514348
+Béna,Bena,12.0804,-4.189,Burkina Faso,BF,BFA,Boucle du Mouhoun,,11963.0,1854971765
+Sidéradougou,Sideradougou,10.6876,-4.2627,Burkina Faso,BF,BFA,Cascades,,11443.0,1854474871
+Sebba,Sebba,13.4333,0.5333,Burkina Faso,BF,BFA,Sahel,minor,11298.0,1854960093
+Nandiala,Nandiala,12.3333,-2.1667,Burkina Faso,BF,BFA,Centre-Ouest,,10711.0,1854416310
+Gorom-Gorom,Gorom-Gorom,14.45,-0.2333,Burkina Faso,BF,BFA,Sahel,minor,9752.0,1854609702
+Kokologo,Kokologo,12.1833,-1.8833,Burkina Faso,BF,BFA,Centre-Ouest,minor,9704.0,1854194060
+Soubakaniédougou,Soubakaniedougou,10.4824,-5.0098,Burkina Faso,BF,BFA,Cascades,,9423.0,1854966202
+Ouarégou,Ouaregou,11.8,-0.7,Burkina Faso,BF,BFA,Centre-Est,,9090.0,1854034830
+Bérégadougou,Beregadougou,10.7667,-4.75,Burkina Faso,BF,BFA,Cascades,,9036.0,1854196124
+Tiou,Tiou,11.95,-2.2,Burkina Faso,BF,BFA,Centre-Ouest,,8983.0,1854986756
+Ouagadougou,Ouagadougou,12.3686,-1.5275,Burkina Faso,BF,BFA,Centre,primary,2453496.0,1854029208
+Bobo-Dioulasso,Bobo-Dioulasso,11.1833,-4.2833,Burkina Faso,BF,BFA,Hauts-Bassins,admin,903887.0,1854348796
+Koudougou,Koudougou,12.25,-2.3667,Burkina Faso,BF,BFA,Centre-Ouest,admin,160207.0,1854839075
+Ouahigouya,Ouahigouya,13.5833,-2.4167,Burkina Faso,BF,BFA,Nord,admin,124580.0,1854011699
+Kaya,Kaya,13.0833,-1.0833,Burkina Faso,BF,BFA,Centre-Nord,admin,122949.0,1854170035
+Banfora,Banfora,10.6308,-4.7589,Burkina Faso,BF,BFA,Cascades,admin,117200.0,1854763822
+Pouytenga,Pouytenga,12.25,-0.4333,Burkina Faso,BF,BFA,Centre-Est,,99950.0,1854151910
+Houndé,Hounde,11.5,-3.5167,Burkina Faso,BF,BFA,Hauts-Bassins,minor,87154.0,1854289245
+Fada Ngourma,Fada Ngourma,12.05,0.3667,Burkina Faso,BF,BFA,Est,admin,73200.0,1854057074
+Dédougou,Dedougou,12.4667,-3.4667,Burkina Faso,BF,BFA,Boucle du Mouhoun,admin,63617.0,1854743311
+Djibo,Djibo,14.1011,-1.6306,Burkina Faso,BF,BFA,Sahel,minor,61456.0,1854364299
+Tenkodogo,Tenkodogo,11.7833,-0.3667,Burkina Faso,BF,BFA,Centre-Est,admin,58600.0,1854646157
+Kongoussi,Kongoussi,13.3333,-1.5333,Burkina Faso,BF,BFA,Centre-Nord,minor,53641.0,1854493633
+Titao,Titao,13.25,-2.05,Burkina Faso,BF,BFA,Nord,minor,48242.0,1854649320
+Dori,Dori,14.03,-0.03,Burkina Faso,BF,BFA,Sahel,admin,46521.0,1854096946
+Koupéla,Koupela,12.1794,-0.3517,Burkina Faso,BF,BFA,Centre-Est,minor,45900.0,1854841246
+Aribinda,Aribinda,14.2292,-0.8633,Burkina Faso,BF,BFA,Sahel,minor,45818.0,1854268234
+Gaoua,Gaoua,10.3167,-3.1667,Burkina Faso,BF,BFA,Sud-Ouest,,45284.0,1854142068
+Gaoua,Gaoua,10.3167,-3.1667,Burkina Faso,BF,BFA,Sud-Ouest,admin,45189.0,1854285570
+Garango,Garango,11.8,-0.55,Burkina Faso,BF,BFA,Centre-Est,,45150.0,1854695901
+Tanghin-Dassouri,Tanghin-Dassouri,12.2667,-1.7167,Burkina Faso,BF,BFA,Centre,minor,43675.0,1854307252
+Gourcy,Gourcy,13.2167,-2.35,Burkina Faso,BF,BFA,Nord,minor,40144.0,1854167073
+Yako,Yako,12.9667,-2.2667,Burkina Faso,BF,BFA,Nord,minor,38689.0,1854815200
+Bindé,Binde,11.75,-1.1,Burkina Faso,BF,BFA,Centre-Sud,,36518.0,1854349204
+Zorgo,Zorgo,12.25,-0.6167,Burkina Faso,BF,BFA,Plateau-Central,minor,35406.0,1854077108
+Réo,Reo,12.3167,-2.4667,Burkina Faso,BF,BFA,Centre-Ouest,minor,33893.0,1854684997
+Léo,Leo,11.1,-2.1,Burkina Faso,BF,BFA,Centre-Ouest,minor,33717.0,1854225723
+Niangoloko,Niangoloko,10.2833,-4.9167,Burkina Faso,BF,BFA,Cascades,,33500.0,1854857887
+Orodara,Orodara,10.98,-4.91,Burkina Faso,BF,BFA,Hauts-Bassins,minor,33422.0,1854111637
+Ziniaré,Ziniare,12.5833,-1.3,Burkina Faso,BF,BFA,Plateau-Central,admin,33296.0,1854052758
+Nouna,Nouna,12.7333,-3.8667,Burkina Faso,BF,BFA,Boucle du Mouhoun,minor,32428.0,1854190171
+Kindi,Kindi,12.4333,-2.0167,Burkina Faso,BF,BFA,,,32207.0,1854813860
+Bittou,Bittou,11.2575,-0.3039,Burkina Faso,BF,BFA,Centre-Est,,31210.0,1854307960
+Kombissiri,Kombissiri,12.0667,-1.3333,Burkina Faso,BF,BFA,Centre-Sud,minor,28617.0,1854637161
+Manga,Manga,11.6667,-1.0667,Burkina Faso,BF,BFA,Centre-Sud,admin,28612.0,1854485968
+Pô,Po,11.1667,-1.15,Burkina Faso,BF,BFA,Centre-Sud,minor,28079.0,1854979912
+Bourzanga,Bourzanga,13.6781,-1.5461,Burkina Faso,BF,BFA,Centre-Nord,,27213.0,1854447025
+Tougan,Tougan,13.0667,-3.0667,Burkina Faso,BF,BFA,Boucle du Mouhoun,minor,26347.0,1854407539
+Sapouy,Sapouy,11.5544,-1.7736,Burkina Faso,BF,BFA,Centre-Ouest,minor,26345.0,1854971695
+Dano,Dano,11.1436,-3.0628,Burkina Faso,BF,BFA,Sud-Ouest,minor,25922.0,1854971871
+Mogtédo,Mogtedo,12.2833,-0.8333,Burkina Faso,BF,BFA,Plateau-Central,,25699.0,1854602237
+Diébougou,Diebougou,10.9667,-3.25,Burkina Faso,BF,BFA,Sud-Ouest,minor,25688.0,1854858995
+Boussé,Bousse,12.6667,-1.8975,Burkina Faso,BF,BFA,Plateau-Central,minor,25022.0,1854235785
+Salanso,Salanso,12.1833,-4.0833,Burkina Faso,BF,BFA,Boucle du Mouhoun,minor,24783.0,1854892822
+Boulsa,Boulsa,12.6667,-0.5833,Burkina Faso,BF,BFA,Centre-Nord,minor,24200.0,1854535753
+Pissila,Pissila,13.1667,-0.8167,Burkina Faso,BF,BFA,Centre-Nord,,23420.0,1854949911
+Béguédo,Beguedo,11.7833,-0.7333,Burkina Faso,BF,BFA,Centre-Est,,21894.0,1854929240
+Zabré,Zabre,11.1833,-0.6333,Burkina Faso,BF,BFA,Centre-Est,,21726.0,1854284230
+Bogandé,Bogande,12.9667,-0.15,Burkina Faso,BF,BFA,Est,minor,21443.0,1854811035
+Saponé,Sapone,12.0528,-1.6036,Burkina Faso,BF,BFA,Centre-Sud,minor,21148.0,1854915322
+Vili,Vili,12.2833,-2.2167,Burkina Faso,BF,BFA,Centre-Ouest,,20914.0,1854996122
+Fara,Fara,11.5333,-2.7667,Burkina Faso,BF,BFA,Boucle du Mouhoun,,20434.0,1854783851
+Boromo,Boromo,11.75,-2.9333,Burkina Faso,BF,BFA,Boucle du Mouhoun,minor,20193.0,1854589040
+Korsimoro,Korsimoro,12.825,-1.0672,Burkina Faso,BF,BFA,Centre-Nord,minor,18875.0,1854567141
+Batié,Batie,9.8833,-2.9167,Burkina Faso,BF,BFA,Sud-Ouest,minor,17997.0,1854437674
+Kouka,Kouka,11.9,-4.3333,Burkina Faso,BF,BFA,Boucle du Mouhoun,,17286.0,1854523229
+Toma,Toma,12.7667,-2.8833,Burkina Faso,BF,BFA,Boucle du Mouhoun,minor,15851.0,1854082077
+Diapaga,Diapaga,12.0667,1.7833,Burkina Faso,BF,BFA,Est,minor,15515.0,1854687079
+Gomboussougou,Gomboussougou,11.4333,-0.7667,Burkina Faso,BF,BFA,Centre-Sud,,15336.0,1854877911
+Gayéri,Gayeri,12.65,0.5,Burkina Faso,BF,BFA,Est,minor,15170.0,1854170724
+Pâ,Pa,11.55,-3.26,Burkina Faso,BF,BFA,Boucle du Mouhoun,,15170.0,1854939518
+Mani,Mani,13.26,-0.2094,Burkina Faso,BF,BFA,Est,,15066.0,1854799448
+Sabou,Sabou,12.0667,-2.2333,Burkina Faso,BF,BFA,Centre-Ouest,,15060.0,1854948165
+Pama,Pama,11.25,0.7,Burkina Faso,BF,BFA,Est,minor,13579.0,1854514463
+Niaogho,Niaogho,11.7667,-0.7667,Burkina Faso,BF,BFA,Centre-Est,,13545.0,1854748181
+Ouargaye,Ouargaye,11.5,0.05,Burkina Faso,BF,BFA,Centre-Est,minor,13431.0,1854385112
+Imassogo,Imassogo,12.4393,-2.3331,Burkina Faso,BF,BFA,Centre-Ouest,,12031.0,1854514348
+Béna,Bena,12.0804,-4.189,Burkina Faso,BF,BFA,Boucle du Mouhoun,,11963.0,1854971765
+Sidéradougou,Sideradougou,10.6876,-4.2627,Burkina Faso,BF,BFA,Cascades,,11443.0,1854474871
+Sebba,Sebba,13.4333,0.5333,Burkina Faso,BF,BFA,Sahel,minor,11298.0,1854960093
+Nandiala,Nandiala,12.3333,-2.1667,Burkina Faso,BF,BFA,Centre-Ouest,,10711.0,1854416310
+Gorom-Gorom,Gorom-Gorom,14.45,-0.2333,Burkina Faso,BF,BFA,Sahel,minor,9752.0,1854609702
+Kokologo,Kokologo,12.1833,-1.8833,Burkina Faso,BF,BFA,Centre-Ouest,minor,9704.0,1854194060
+Soubakaniédougou,Soubakaniedougou,10.4824,-5.0098,Burkina Faso,BF,BFA,Cascades,,9423.0,1854966202
+Ouarégou,Ouaregou,11.8,-0.7,Burkina Faso,BF,BFA,Centre-Est,,9090.0,1854034830
+Bérégadougou,Beregadougou,10.7667,-4.75,Burkina Faso,BF,BFA,Cascades,,9036.0,1854196124
+Tiou,Tiou,11.95,-2.2,Burkina Faso,BF,BFA,Centre-Ouest,,8983.0,1854986756

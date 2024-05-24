@@ -1,0 +1,7 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Jamestown,Jamestown,-15.9251,-5.7179,"Saint Helena, Ascension, and Tristan da Cunha",SH,SHN,Saint Helena,primary,714.0,1654761576
+Edinburgh of the Seven Seas,Edinburgh of the Seven Seas,-37.0675,-12.3105,"Saint Helena, Ascension, and Tristan da Cunha",SH,SHN,Tristan da Cunha,admin,,1654661876
+Georgetown,Georgetown,-7.9286,-14.4119,"Saint Helena, Ascension, and Tristan da Cunha",SH,SHN,Ascension,admin,,1654363572
+Jamestown,Jamestown,-15.9251,-5.7179,"Saint Helena, Ascension, and Tristan da Cunha",SH,SHN,Saint Helena,primary,714.0,1654761576
+Edinburgh of the Seven Seas,Edinburgh of the Seven Seas,-37.0675,-12.3105,"Saint Helena, Ascension, and Tristan da Cunha",SH,SHN,Tristan da Cunha,admin,,1654661876
+Georgetown,Georgetown,-7.9286,-14.4119,"Saint Helena, Ascension, and Tristan da Cunha",SH,SHN,Ascension,admin,,1654363572

@@ -1,0 +1,29 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Bissau,Bissau,11.85,-15.5667,Guinea-Bissau,GW,GNB,Bissau,primary,492004.0,1624168850
+Farim,Farim,12.4833,-15.2167,Guinea-Bissau,GW,GNB,Oio,admin,46268.0,1624753622
+Quinhámel,Quinhamel,11.8833,-15.85,Guinea-Bissau,GW,GNB,Biombo,admin,42659.0,1624877378
+Gabú,Gabu,12.2833,-14.2167,Guinea-Bissau,GW,GNB,Gabú,admin,37525.0,1624988048
+Bambadinca,Bambadinca,12.0333,-14.8667,Guinea-Bissau,GW,GNB,Bafatá,,32255.0,1624729840
+Catió,Catio,11.2833,-15.25,Guinea-Bissau,GW,GNB,Tombali,admin,26999.0,1624933572
+Bafatá,Bafata,12.1719,-14.6575,Guinea-Bissau,GW,GNB,Bafatá,admin,22501.0,1624735310
+Caió,Caio,11.9278,-16.2028,Guinea-Bissau,GW,GNB,Cacheu,,12696.0,1624580590
+Madina do Boé,Madina do Boe,11.75,-14.2167,Guinea-Bissau,GW,GNB,Gabú,,12000.0,1624464668
+Bissorã,Bissora,12.04,-15.4281,Guinea-Bissau,GW,GNB,Oio,,11964.0,1624953344
+Buba,Buba,11.5833,-15.0,Guinea-Bissau,GW,GNB,Quinara,admin,8556.0,1624903078
+Cacheu,Cacheu,12.2667,-16.1667,Guinea-Bissau,GW,GNB,Cacheu,admin,5674.0,1624294223
+Bolama,Bolama,11.5767,-15.4828,Guinea-Bissau,GW,GNB,Bolama/Bijagós,admin,4819.0,1624958412
+Fulacunda,Fulacunda,11.773,-15.195,Guinea-Bissau,GW,GNB,Quinara,,1311.0,1624165742
+Bissau,Bissau,11.85,-15.5667,Guinea-Bissau,GW,GNB,Bissau,primary,492004.0,1624168850
+Farim,Farim,12.4833,-15.2167,Guinea-Bissau,GW,GNB,Oio,admin,46268.0,1624753622
+Quinhámel,Quinhamel,11.8833,-15.85,Guinea-Bissau,GW,GNB,Biombo,admin,42659.0,1624877378
+Gabú,Gabu,12.2833,-14.2167,Guinea-Bissau,GW,GNB,Gabú,admin,37525.0,1624988048
+Bambadinca,Bambadinca,12.0333,-14.8667,Guinea-Bissau,GW,GNB,Bafatá,,32255.0,1624729840
+Catió,Catio,11.2833,-15.25,Guinea-Bissau,GW,GNB,Tombali,admin,26999.0,1624933572
+Bafatá,Bafata,12.1719,-14.6575,Guinea-Bissau,GW,GNB,Bafatá,admin,22501.0,1624735310
+Caió,Caio,11.9278,-16.2028,Guinea-Bissau,GW,GNB,Cacheu,,12696.0,1624580590
+Madina do Boé,Madina do Boe,11.75,-14.2167,Guinea-Bissau,GW,GNB,Gabú,,12000.0,1624464668
+Bissorã,Bissora,12.04,-15.4281,Guinea-Bissau,GW,GNB,Oio,,11964.0,1624953344
+Buba,Buba,11.5833,-15.0,Guinea-Bissau,GW,GNB,Quinara,admin,8556.0,1624903078
+Cacheu,Cacheu,12.2667,-16.1667,Guinea-Bissau,GW,GNB,Cacheu,admin,5674.0,1624294223
+Bolama,Bolama,11.5767,-15.4828,Guinea-Bissau,GW,GNB,Bolama/Bijagós,admin,4819.0,1624958412
+Fulacunda,Fulacunda,11.773,-15.195,Guinea-Bissau,GW,GNB,Quinara,,1311.0,1624165742

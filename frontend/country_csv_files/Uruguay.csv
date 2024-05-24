@@ -1,0 +1,113 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Montevideo,Montevideo,-34.8836,-56.1819,Uruguay,UY,URY,Montevideo,primary,1719453.0,1858107000
+Maldonado,Maldonado,-34.9,-54.95,Uruguay,UY,URY,Maldonado,admin,135014.0,1858958595
+Salto,Salto,-31.3833,-57.95,Uruguay,UY,URY,Salto,admin,124878.0,1858575950
+Ciudad de la Costa,Ciudad de la Costa,-34.8167,-55.95,Uruguay,UY,URY,Canelones,,112449.0,1858042396
+Paysandú,Paysandu,-32.3214,-58.0756,Uruguay,UY,URY,Paysandú,admin,76429.0,1858756515
+Las Piedras,Las Piedras,-34.7167,-56.2167,Uruguay,UY,URY,Canelones,,71268.0,1858563314
+Rivera,Rivera,-30.9025,-55.5506,Uruguay,UY,URY,Rivera,admin,64465.0,1858819782
+Tacuarembó,Tacuarembo,-31.7333,-55.9833,Uruguay,UY,URY,Tacuarembó,admin,54755.0,1858952595
+Melo,Melo,-32.3667,-54.1833,Uruguay,UY,URY,Cerro Largo,admin,51830.0,1858600801
+Mercedes,Mercedes,-33.25,-58.0333,Uruguay,UY,URY,Soriano,admin,41974.0,1858182538
+Artigas,Artigas,-30.4667,-56.4667,Uruguay,UY,URY,Artigas,admin,40658.0,1858646839
+Minas,Minas,-34.3667,-55.2333,Uruguay,UY,URY,Lavalleja,admin,38446.0,1858724823
+San José,San Jose,-34.3333,-56.7167,Uruguay,UY,URY,San José,admin,36747.0,1858927597
+Durazno,Durazno,-33.3667,-56.5167,Uruguay,UY,URY,Durazno,admin,34368.0,1858006236
+Florida,Florida,-34.1,-56.2167,Uruguay,UY,URY,Florida,admin,33639.0,1858077099
+Barros Blancos,Barros Blancos,-34.7542,-56.0042,Uruguay,UY,URY,Canelones,,31650.0,1858612587
+Ciudad del Plata,Ciudad del Plata,-34.7667,-56.3806,Uruguay,UY,URY,San José,,31145.0,1858720449
+San Carlos,San Carlos,-34.8,-54.9167,Uruguay,UY,URY,Maldonado,,27471.0,1858085265
+Colonia del Sacramento,Colonia del Sacramento,-34.4714,-57.8442,Uruguay,UY,URY,Colonia,admin,26231.0,1858338569
+Pando,Pando,-34.7167,-55.9583,Uruguay,UY,URY,Canelones,,25949.0,1858276269
+Treinta y Tres,Treinta y Tres,-33.2333,-54.3833,Uruguay,UY,URY,Treinta y Tres,admin,25477.0,1858879204
+Rocha,Rocha,-34.4833,-54.35,Uruguay,UY,URY,Rocha,admin,25422.0,1858936449
+Fray Bentos,Fray Bentos,-33.1333,-58.3,Uruguay,UY,URY,Río Negro,admin,24406.0,1858727525
+Trinidad,Trinidad,-33.5333,-56.8833,Uruguay,UY,URY,Flores,,21429.0,1858903609
+El Pinar,El Pinar,-34.7972,-55.9097,Uruguay,UY,URY,Canelones,,21091.0,1858554922
+La Paz,La Paz,-34.7617,-56.2233,Uruguay,UY,URY,Canelones,,20524.0,1858113046
+Canelones,Canelones,-34.5167,-56.2833,Uruguay,UY,URY,Canelones,admin,19865.0,1858741797
+Bella Unión,Bella Union,-30.25,-57.5833,Uruguay,UY,URY,Artigas,,19100.0,1858883224
+Carmelo,Carmelo,-34.0,-58.2833,Uruguay,UY,URY,Colonia,,18041.0,1858670999
+Young,Young,-32.7,-57.6333,Uruguay,UY,URY,Río Negro,,16756.0,1858448729
+Santa Lucía,Santa Lucia,-34.4525,-56.3964,Uruguay,UY,URY,Canelones,,16742.0,1858287723
+Progreso,Progreso,-34.665,-56.2194,Uruguay,UY,URY,Canelones,,16244.0,1858245447
+Paso de Carrasco,Paso de Carrasco,-34.8714,-56.0272,Uruguay,UY,URY,Canelones,,15908.0,1858805647
+Dolores,Dolores,-33.5333,-58.2167,Uruguay,UY,URY,Soriano,,15753.0,1858369530
+Río Branco,Rio Branco,-32.5972,-53.3833,Uruguay,UY,URY,Cerro Largo,,14604.0,1858289927
+Tala,Tala,-34.35,-55.7667,Uruguay,UY,URY,Canelones,,13254.0,1858233151
+Paso de los Toros,Paso de los Toros,-32.8112,-56.5086,Uruguay,UY,URY,Durazno,,12985.0,1858768851
+Juan L. Lacaze,Juan L. Lacaze,-34.4311,-57.4483,Uruguay,UY,URY,Colonia,,12816.0,1858599610
+Libertad,Libertad,-34.6333,-56.6192,Uruguay,UY,URY,San José,,11458.0,1858652953
+Nueva Helvecia,Nueva Helvecia,-34.2833,-57.2,Uruguay,UY,URY,Colonia,,10630.0,1858393787
+Nueva Palmira,Nueva Palmira,-33.8833,-58.4167,Uruguay,UY,URY,Colonia,,9857.0,1858193401
+Chuy,Chuy,-33.6964,-53.46,Uruguay,UY,URY,Rocha,,9675.0,1858852364
+Colonia Nicolich,Colonia Nicolich,-34.8167,-56.0167,Uruguay,UY,URY,Canelones,,9624.0,1858537250
+Rosario,Rosario,-34.3139,-57.3525,Uruguay,UY,URY,Colonia,,9311.0,1858160603
+Punta del Este,Punta del Este,-34.9667,-54.95,Uruguay,UY,URY,Maldonado,,9277.0,1858267433
+Piriápolis,Piriapolis,-34.9,-55.2833,Uruguay,UY,URY,Maldonado,,8830.0,1858127354
+Salinas,Salinas,-34.7833,-55.8333,Uruguay,UY,URY,Canelones,,8626.0,1858193593
+Nuevo Paysandú,Nuevo Paysandu,-32.2667,-58.0667,Uruguay,UY,URY,Paysandú,,8578.0,1858171895
+Lascano,Lascano,-33.6739,-54.2075,Uruguay,UY,URY,Rocha,,7645.0,1858593854
+Castillos,Castillos,-34.1989,-53.8575,Uruguay,UY,URY,Rocha,,7541.0,1858885344
+Tranqueras,Tranqueras,-31.1833,-55.7667,Uruguay,UY,URY,Rivera,,7235.0,1858727708
+Vergara,Vergara,-32.95,-53.9333,Uruguay,UY,URY,Treinta y Tres,,3810.0,1858979569
+La Paloma,La Paloma,-34.65,-54.1667,Uruguay,UY,URY,Rocha,,3495.0,1858559267
+Baltasar Brum,Baltasar Brum,-30.7167,-57.3333,Uruguay,UY,URY,Artigas,,2531.0,1858039985
+Aiguá,Aigua,-34.2,-54.75,Uruguay,UY,URY,Maldonado,,2465.0,1858068520
+José Batlle y Ordóñez,Jose Batlle y Ordonez,-33.4667,-55.15,Uruguay,UY,URY,Lavalleja,,2203.0,1858852252
+Montevideo,Montevideo,-34.8836,-56.1819,Uruguay,UY,URY,Montevideo,primary,1719453.0,1858107000
+Maldonado,Maldonado,-34.9,-54.95,Uruguay,UY,URY,Maldonado,admin,135014.0,1858958595
+Salto,Salto,-31.3833,-57.95,Uruguay,UY,URY,Salto,admin,124878.0,1858575950
+Ciudad de la Costa,Ciudad de la Costa,-34.8167,-55.95,Uruguay,UY,URY,Canelones,,112449.0,1858042396
+Paysandú,Paysandu,-32.3214,-58.0756,Uruguay,UY,URY,Paysandú,admin,76429.0,1858756515
+Las Piedras,Las Piedras,-34.7167,-56.2167,Uruguay,UY,URY,Canelones,,71268.0,1858563314
+Rivera,Rivera,-30.9025,-55.5506,Uruguay,UY,URY,Rivera,admin,64465.0,1858819782
+Tacuarembó,Tacuarembo,-31.7333,-55.9833,Uruguay,UY,URY,Tacuarembó,admin,54755.0,1858952595
+Melo,Melo,-32.3667,-54.1833,Uruguay,UY,URY,Cerro Largo,admin,51830.0,1858600801
+Mercedes,Mercedes,-33.25,-58.0333,Uruguay,UY,URY,Soriano,admin,41974.0,1858182538
+Artigas,Artigas,-30.4667,-56.4667,Uruguay,UY,URY,Artigas,admin,40658.0,1858646839
+Minas,Minas,-34.3667,-55.2333,Uruguay,UY,URY,Lavalleja,admin,38446.0,1858724823
+San José,San Jose,-34.3333,-56.7167,Uruguay,UY,URY,San José,admin,36747.0,1858927597
+Durazno,Durazno,-33.3667,-56.5167,Uruguay,UY,URY,Durazno,admin,34368.0,1858006236
+Florida,Florida,-34.1,-56.2167,Uruguay,UY,URY,Florida,admin,33639.0,1858077099
+Barros Blancos,Barros Blancos,-34.7542,-56.0042,Uruguay,UY,URY,Canelones,,31650.0,1858612587
+Ciudad del Plata,Ciudad del Plata,-34.7667,-56.3806,Uruguay,UY,URY,San José,,31145.0,1858720449
+San Carlos,San Carlos,-34.8,-54.9167,Uruguay,UY,URY,Maldonado,,27471.0,1858085265
+Colonia del Sacramento,Colonia del Sacramento,-34.4714,-57.8442,Uruguay,UY,URY,Colonia,admin,26231.0,1858338569
+Pando,Pando,-34.7167,-55.9583,Uruguay,UY,URY,Canelones,,25949.0,1858276269
+Treinta y Tres,Treinta y Tres,-33.2333,-54.3833,Uruguay,UY,URY,Treinta y Tres,admin,25477.0,1858879204
+Rocha,Rocha,-34.4833,-54.35,Uruguay,UY,URY,Rocha,admin,25422.0,1858936449
+Fray Bentos,Fray Bentos,-33.1333,-58.3,Uruguay,UY,URY,Río Negro,admin,24406.0,1858727525
+Trinidad,Trinidad,-33.5333,-56.8833,Uruguay,UY,URY,Flores,,21429.0,1858903609
+El Pinar,El Pinar,-34.7972,-55.9097,Uruguay,UY,URY,Canelones,,21091.0,1858554922
+La Paz,La Paz,-34.7617,-56.2233,Uruguay,UY,URY,Canelones,,20524.0,1858113046
+Canelones,Canelones,-34.5167,-56.2833,Uruguay,UY,URY,Canelones,admin,19865.0,1858741797
+Bella Unión,Bella Union,-30.25,-57.5833,Uruguay,UY,URY,Artigas,,19100.0,1858883224
+Carmelo,Carmelo,-34.0,-58.2833,Uruguay,UY,URY,Colonia,,18041.0,1858670999
+Young,Young,-32.7,-57.6333,Uruguay,UY,URY,Río Negro,,16756.0,1858448729
+Santa Lucía,Santa Lucia,-34.4525,-56.3964,Uruguay,UY,URY,Canelones,,16742.0,1858287723
+Progreso,Progreso,-34.665,-56.2194,Uruguay,UY,URY,Canelones,,16244.0,1858245447
+Paso de Carrasco,Paso de Carrasco,-34.8714,-56.0272,Uruguay,UY,URY,Canelones,,15908.0,1858805647
+Dolores,Dolores,-33.5333,-58.2167,Uruguay,UY,URY,Soriano,,15753.0,1858369530
+Río Branco,Rio Branco,-32.5972,-53.3833,Uruguay,UY,URY,Cerro Largo,,14604.0,1858289927
+Tala,Tala,-34.35,-55.7667,Uruguay,UY,URY,Canelones,,13254.0,1858233151
+Paso de los Toros,Paso de los Toros,-32.8112,-56.5086,Uruguay,UY,URY,Durazno,,12985.0,1858768851
+Juan L. Lacaze,Juan L. Lacaze,-34.4311,-57.4483,Uruguay,UY,URY,Colonia,,12816.0,1858599610
+Libertad,Libertad,-34.6333,-56.6192,Uruguay,UY,URY,San José,,11458.0,1858652953
+Nueva Helvecia,Nueva Helvecia,-34.2833,-57.2,Uruguay,UY,URY,Colonia,,10630.0,1858393787
+Nueva Palmira,Nueva Palmira,-33.8833,-58.4167,Uruguay,UY,URY,Colonia,,9857.0,1858193401
+Chuy,Chuy,-33.6964,-53.46,Uruguay,UY,URY,Rocha,,9675.0,1858852364
+Colonia Nicolich,Colonia Nicolich,-34.8167,-56.0167,Uruguay,UY,URY,Canelones,,9624.0,1858537250
+Rosario,Rosario,-34.3139,-57.3525,Uruguay,UY,URY,Colonia,,9311.0,1858160603
+Punta del Este,Punta del Este,-34.9667,-54.95,Uruguay,UY,URY,Maldonado,,9277.0,1858267433
+Piriápolis,Piriapolis,-34.9,-55.2833,Uruguay,UY,URY,Maldonado,,8830.0,1858127354
+Salinas,Salinas,-34.7833,-55.8333,Uruguay,UY,URY,Canelones,,8626.0,1858193593
+Nuevo Paysandú,Nuevo Paysandu,-32.2667,-58.0667,Uruguay,UY,URY,Paysandú,,8578.0,1858171895
+Lascano,Lascano,-33.6739,-54.2075,Uruguay,UY,URY,Rocha,,7645.0,1858593854
+Castillos,Castillos,-34.1989,-53.8575,Uruguay,UY,URY,Rocha,,7541.0,1858885344
+Tranqueras,Tranqueras,-31.1833,-55.7667,Uruguay,UY,URY,Rivera,,7235.0,1858727708
+Vergara,Vergara,-32.95,-53.9333,Uruguay,UY,URY,Treinta y Tres,,3810.0,1858979569
+La Paloma,La Paloma,-34.65,-54.1667,Uruguay,UY,URY,Rocha,,3495.0,1858559267
+Baltasar Brum,Baltasar Brum,-30.7167,-57.3333,Uruguay,UY,URY,Artigas,,2531.0,1858039985
+Aiguá,Aigua,-34.2,-54.75,Uruguay,UY,URY,Maldonado,,2465.0,1858068520
+José Batlle y Ordóñez,Jose Batlle y Ordonez,-33.4667,-55.15,Uruguay,UY,URY,Lavalleja,,2203.0,1858852252

@@ -1,0 +1,106 @@
+
+/* General Styles */
+
+.stApp > header {
+    background-color: transparent;
+}
+
+.stApp {
+    margin: auto;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    overflow: auto;
+    background: linear-gradient(315deg,#eef0ec 3%, #e3e6e9 38%, #cbdbda 68%, #efeaf1 98%);
+    
+    animation: gradient 15s ease infinite;
+    background-size: 400% 400%;
+    background-attachment: fixed;
+}
+.stApp > body {
+    font-family: Arial, sans-serif;  
+    margin: 0;  
+}
+/* Title Styles (Target the Correct Element) */
+/* Title Styles */
+.stApp h1 {
+    text-align: center;
+    font-size: 36px;
+    color: rgb(20, 19, 19);
+    margin-bottom: 20px;
+}
+
+/* Search Input Container Styles */
+.stApp .stTextInput > div { /* Target the actual input container */
+    padding: 0; /* Remove any default padding from the container */
+}
+
+.stApp .stTextInput input { /* Target the input element directly */
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 100%; 
+    background-color: #fff; /* Or your desired input background color */
+    /* Add any other desired styles for the input field */
+}
+.stApp .stButton > button {  /* Changed to a descendant selector */
+    background-color: #0066cc;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+/* Chatbot Styles */
+/* ... (Your existing chatbot styles are fine) ... */
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+    .stApp .search-area { /* Changed to a descendant selector */
+        flex-direction: column;
+    }
+    .stApp .search-input { /* Changed to a descendant selector */
+        width: 100%;
+        margin-bottom: 10px;
+    }
+}
+/* Chatbot Styles */
+.stApp .chat-container {
+    background-color: #f5f5f5;  /* Light gray background for the chat area */
+    padding: 20px;
+    border-radius: 8px;
+    position: fixed;  /* Keep the chat container fixed */
+    bottom: 0;  /* Position it at the bottom of the page */
+    width: calc(100% - 40px);  /* Adjust width to fit the screen */
+    max-height: 80vh;  /* Limit height to 80% of the viewport height */
+    overflow-y: auto;  /* Enable vertical scrolling if needed */
+}
+
+.stApp  .chat-message {
+    margin-bottom: 10px;
+}
+
+.stApp .user-message, .assistant-message {
+    padding: 8px 12px;
+    border-radius: 8px;
+}
+
+.stApp .user-message {
+    background-color: hsl(253, 51%, 15%);  /* Slightly darker gray for user messages */
+    text-align: right;
+}
+
+.stApp .assistant-message {
+    background-color: white;
+}
+
+/* Responsive Styles (Example) */
+@media (max-width: 768px) {
+    .search-area {
+        flex-direction: column;  /* Stack input and button on smaller screens */
+    }
+    .search-input {
+        width: 100%;  /* Make the input field full width on smaller screens */
+        margin-bottom: 10px; 
+    }
+}

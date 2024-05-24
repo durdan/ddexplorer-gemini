@@ -1,0 +1,253 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Rangoon,Rangoon,16.795,96.16,Burma,MM,MMR,Yangon,primary,5209541.0,1104616656
+Mandalay,Mandalay,21.9831,96.0844,Burma,MM,MMR,Mandalay,admin,1319452.0,1104468217
+Nay Pyi Taw,Nay Pyi Taw,19.7475,96.115,Burma,MM,MMR,Nay Pyi Taw,primary,1160242.0,1104838105
+Kyaukse,Kyaukse,21.6131,96.1303,Burma,MM,MMR,Mandalay,,741071.0,1104814217
+Hpa-An,Hpa-An,16.8906,97.6333,Burma,MM,MMR,Kayin State,admin,421525.0,1104494124
+Maungdaw,Maungdaw,20.8167,92.3667,Burma,MM,MMR,Rakhine State,,400000.0,1104000431
+Magway,Magway,20.15,94.95,Burma,MM,MMR,Magway,admin,289247.0,1104246517
+Pathein,Pathein,16.7842,94.7333,Burma,MM,MMR,Ayeyarwady,admin,287071.0,1104832430
+Bago,Bago,17.3333,96.4833,Burma,MM,MMR,Bago,admin,284179.0,1104027443
+Taunggyi,Taunggyi,20.7836,97.0354,Burma,MM,MMR,Shan State,admin,264804.0,1104364374
+Mawlamyine,Mawlamyine,16.4847,97.6258,Burma,MM,MMR,Mon State,admin,253734.0,1104530702
+Natogyi,Natogyi,21.4167,95.65,Burma,MM,MMR,Mandalay,,250000.0,1104249540
+Myitkyina,Myitkyina,25.3833,97.4,Burma,MM,MMR,Kachin State,admin,243031.0,1104327329
+Myeik,Myeik,12.4333,98.6,Burma,MM,MMR,Tanintharyi,,222056.0,1104715655
+Monywa,Monywa,22.1083,95.1417,Burma,MM,MMR,Sagaing,admin,207489.0,1104777345
+Myawadi,Myawadi,16.6878,98.5083,Burma,MM,MMR,Kayin State,,195624.0,1104432237
+Thanhlyin,Thanhlyin,16.7333,96.25,Burma,MM,MMR,Yangon,,181000.0,1104911762
+Meiktila,Meiktila,20.8833,95.8833,Burma,MM,MMR,Mandalay,,177442.0,1104916201
+Letpandan,Letpandan,17.7866,95.7507,Burma,MM,MMR,Bago,,176571.0,1104882792
+Hinthada,Hinthada,17.6461,95.4603,Burma,MM,MMR,Ayeyarwady,,170312.0,1104524588
+Thingangyun,Thingangyun,16.8281,96.1842,Burma,MM,MMR,Yangon,,170000.0,1104747384
+Minbya,Minbya,20.3622,93.2733,Burma,MM,MMR,Rakhine State,,169208.0,1104858010
+Katha,Katha,24.1822,96.3306,Burma,MM,MMR,Sagaing,,167700.0,1104074390
+Mogok,Mogok,22.9167,96.5,Burma,MM,MMR,Mandalay,,167149.0,1104205175
+Kyaunggon,Kyaunggon,17.1,95.1833,Burma,MM,MMR,Ayeyarwady,,163035.0,1104893206
+Mahlaing,Mahlaing,21.09,95.64,Burma,MM,MMR,Mandalay,,157674.0,1104117085
+Mudon,Mudon,16.2578,97.7164,Burma,MM,MMR,Mon State,,152300.0,1104174785
+Lashio,Lashio,22.9333,97.75,Burma,MM,MMR,Shan State,,149423.0,1104144745
+Dawei,Dawei,14.0833,98.2,Burma,MM,MMR,Tanintharyi,admin,146964.0,1104373474
+Taungdwingyi,Taungdwingyi,20.0017,95.5461,Burma,MM,MMR,Magway,,145909.0,1104468571
+Thanatpin,Thanatpin,17.2942,96.58,Burma,MM,MMR,Bago,,145287.0,1104961334
+Myebon,Myebon,20.05,93.3667,Burma,MM,MMR,Rakhine State,,137193.0,1104625729
+Pyay,Pyay,18.82,95.2156,Burma,MM,MMR,Bago,,134861.0,1104978348
+Thandwe,Thandwe,18.4667,94.3667,Burma,MM,MMR,Rakhine State,,133484.0,1104527465
+Mogaung,Mogaung,25.3014,96.9417,Burma,MM,MMR,Kachin State,,132608.0,1104504021
+Thaton,Thaton,16.9333,97.3667,Burma,MM,MMR,Mon State,,130763.0,1104227154
+Ponnagyun,Ponnagyun,20.3342,93.0039,Burma,MM,MMR,Rakhine State,,129753.0,1104261097
+Pakokku,Pakokku,21.332,95.0866,Burma,MM,MMR,Magway,,126938.0,1104161315
+An,An,19.7833,94.0333,Burma,MM,MMR,Rakhine State,,119714.0,1104637807
+Taungoo,Taungoo,18.9333,96.4333,Burma,MM,MMR,Bago,,108569.0,1104269989
+Htison,Htison,15.9,98.1833,Burma,MM,MMR,Kayin State,,106427.0,1104040204
+Sittwe,Sittwe,20.167,92.785,Burma,MM,MMR,Rakhine State,admin,100748.0,1104269305
+Pyinmana,Pyinmana,19.75,96.2,Burma,MM,MMR,Nay Pyi Taw,,100001.0,1104492104
+Paletwa,Paletwa,21.3,92.85,Burma,MM,MMR,Chin State,,96899.0,1104846794
+Tiddim,Tiddim,23.3758,93.6539,Burma,MM,MMR,Chin State,,96624.0,1104876098
+Myingyan,Myingyan,21.46,95.3883,Burma,MM,MMR,Mandalay,,91542.0,1104162015
+Möng Tun,Mong Tun,20.3,98.9333,Burma,MM,MMR,Shan State,,90000.0,1104458096
+Shwebo,Shwebo,22.5667,95.7,Burma,MM,MMR,Sagaing,,88914.0,1104118052
+Paingkyon,Paingkyon,17.0242,97.9844,Burma,MM,MMR,Kayin State,,88604.0,1104246583
+Pyapon,Pyapon,16.286,95.6658,Burma,MM,MMR,Ayeyarwady,,76741.0,1104170402
+Kengtung,Kengtung,21.2917,99.6083,Burma,MM,MMR,Shan State,,75865.0,1104395820
+Myaydo,Myaydo,19.3667,95.2167,Burma,MM,MMR,Magway,,72000.0,1104898210
+Nansang,Nansang,20.8889,97.7361,Burma,MM,MMR,Shan State,,70000.0,1104983496
+Sagaing,Sagaing,21.8822,95.9786,Burma,MM,MMR,Sagaing,,69917.0,1104151403
+Zigon,Zigon,18.3385,95.623,Burma,MM,MMR,Bago,,67523.0,1104034261
+Kawthoung,Kawthoung,9.9833,98.55,Burma,MM,MMR,Tanintharyi,,57949.0,1104713098
+Allanmyo,Allanmyo,19.3783,95.2279,Burma,MM,MMR,Magway,,57897.0,1104582279
+Myaungmya,Myaungmya,16.6036,94.9289,Burma,MM,MMR,Ayeyarwady,,56018.0,1104040357
+Buthidaung,Buthidaung,20.8667,92.5333,Burma,MM,MMR,Rakhine State,,55545.0,1104587852
+Thongwa,Thongwa,16.7547,96.5193,Burma,MM,MMR,Yangon,,52496.0,1104339441
+Tachilek,Tachilek,20.45,99.8833,Burma,MM,MMR,Shan State,,51553.0,1104251503
+Maubin,Maubin,16.73,95.65,Burma,MM,MMR,Ayeyarwady,,51542.0,1104838258
+Leiktho,Leiktho,19.2222,96.5811,Burma,MM,MMR,Kayin State,,48606.0,1104120144
+Namtu,Namtu,23.0925,97.4011,Burma,MM,MMR,Shan State,,48591.0,1104043404
+Yenangyaung,Yenangyaung,20.4597,94.8742,Burma,MM,MMR,Magway,,48578.0,1104118838
+Nyaungu,Nyaungu,21.2,94.9167,Burma,MM,MMR,Mandalay,,48528.0,1104062729
+Kawkareik,Kawkareik,16.5556,98.24,Burma,MM,MMR,Kayin State,,48468.0,1104220072
+Wakema,Wakema,16.6,95.1833,Burma,MM,MMR,Ayeyarwady,,48405.0,1104266529
+Bhamo,Bhamo,24.2667,97.2333,Burma,MM,MMR,Kachin State,,47920.0,1104508192
+Labutta,Labutta,16.1467,94.7611,Burma,MM,MMR,Ayeyarwady,,46170.0,1104103403
+Mindat,Mindat,21.3667,93.9833,Burma,MM,MMR,Chin State,,46008.0,1104913521
+Pyu,Pyu,18.4819,96.4369,Burma,MM,MMR,Bago,,44642.0,1104518645
+Mawlaik,Mawlaik,23.2833,94.0833,Burma,MM,MMR,Sagaing,,44540.0,1104686347
+Chauk,Chauk,20.8833,94.8167,Burma,MM,MMR,Magway,,44289.0,1104898616
+Tamu,Tamu,24.2167,94.3097,Burma,MM,MMR,Sagaing,,42549.0,1104850868
+Myanaung,Myanaung,18.2833,95.3167,Burma,MM,MMR,Ayeyarwady,,42252.0,1104426829
+Myedu,Myedu,23.1833,95.4,Burma,MM,MMR,Sagaing,,42000.0,1104497959
+Kyaukme,Kyaukme,22.5392,97.0283,Burma,MM,MMR,Shan State,,39930.0,1104895857
+Nyaungdon,Nyaungdon,17.0461,95.6374,Burma,MM,MMR,Ayeyarwady,,36172.0,1104318813
+Ye,Ye,15.2467,97.8556,Burma,MM,MMR,Mon State,,34430.0,1104513802
+Namhkam,Namhkam,23.8333,97.6833,Burma,MM,MMR,Shan State,,33382.0,1104658655
+Mohnyin,Mohnyin,24.7833,96.3667,Burma,MM,MMR,Kachin State,,33290.0,1104701882
+Tawsalun,Tawsalun,21.406,94.136,Burma,MM,MMR,Magway,,32865.0,1104589040
+Sami,Sami,21.2933,93.0965,Burma,MM,MMR,Chin State,,32082.0,1104034136
+Aungban,Aungban,20.6667,96.6333,Burma,MM,MMR,Shan State,,30515.0,1104836373
+Lewe,Lewe,19.6333,96.1167,Burma,MM,MMR,Nay Pyi Taw,,30208.0,1104486750
+Du Yar,Du Yar,15.2617,97.7819,Burma,MM,MMR,Mon State,,30000.0,1104089904
+Hakha,Hakha,22.6455,93.605,Burma,MM,MMR,Chin State,admin,29800.0,1104739581
+Taungup,Taungup,18.85,94.2333,Burma,MM,MMR,Rakhine State,,28652.0,1104997473
+Kawlin,Kawlin,23.7903,95.6806,Burma,MM,MMR,Sagaing,,25254.0,1104689863
+Panglong,Panglong,24.1003,98.3139,Burma,MM,MMR,Shan State,,24565.0,1104894804
+Kyonpyaw,Kyonpyaw,17.3,95.2,Burma,MM,MMR,Ayeyarwady,,23966.0,1104964864
+Yesagyo,Yesagyo,21.6333,95.2414,Burma,MM,MMR,Magway,,23603.0,1104030863
+Kyeintali,Kyeintali,18.0061,94.49,Burma,MM,MMR,Rakhine State,,23581.0,1104621866
+Amarapura,Amarapura,21.9,96.05,Burma,MM,MMR,Mandalay,,23200.0,1104567036
+Minbu,Minbu,20.18,94.87,Burma,MM,MMR,Magway,,22962.0,1104239805
+Khaw Zar Chaung Wa,Khaw Zar Chaung Wa,15.0375,97.8293,Burma,MM,MMR,Mon State,,22663.0,1104706858
+Palaw,Palaw,12.9597,98.6545,Burma,MM,MMR,Tanintharyi,,22267.0,1104077900
+Ingabu,Ingabu,17.8167,95.2667,Burma,MM,MMR,Ayeyarwady,,22225.0,1104461128
+Shanywathit,Shanywathit,17.4244,97.8878,Burma,MM,MMR,Kayin State,,21735.0,1104224930
+Kamamaung,Kamamaung,17.3469,97.6528,Burma,MM,MMR,Kayin State,,20895.0,1104892359
+Kyaukpyu,Kyaukpyu,19.4264,93.5458,Burma,MM,MMR,Rakhine State,,20866.0,1104321745
+Pantanaw,Pantanaw,16.985,95.4656,Burma,MM,MMR,Ayeyarwady,,20151.0,1104041074
+Haka,Haka,22.9833,94.0167,Burma,MM,MMR,Sagaing,,20000.0,1104921389
+Pauktaw,Pauktaw,20.2128,93.1308,Burma,MM,MMR,Rakhine State,,19157.0,1104903555
+Ngathainggyaung,Ngathainggyaung,17.4,95.0833,Burma,MM,MMR,Ayeyarwady,,18743.0,1104435662
+Mawkanin,Mawkanin,15.5106,97.8533,Burma,MM,MMR,Mon State,,17552.0,1104866506
+Kawa,Kawa,17.0897,96.4663,Burma,MM,MMR,Bago,,17396.0,1104865586
+Bawgalegyi,Bawgalegyi,18.9144,96.7856,Burma,MM,MMR,Kayin State,,17237.0,1104881493
+Nawnghkio,Nawnghkio,22.3167,96.8,Burma,MM,MMR,Shan State,,16274.0,1104930303
+Khampat,Khampat,23.7823,94.1442,Burma,MM,MMR,Sagaing,,15400.0,1104599399
+Wān Long,Wan Long,22.1667,99.1833,Burma,MM,MMR,Shan State,,15000.0,1104904549
+Kyaukmyaung,Kyaukmyaung,22.5833,95.95,Burma,MM,MMR,Sagaing,,15000.0,1104023096
+Razua,Razua,22.0529,93.4086,Burma,MM,MMR,Chin State,,12265.0,1104486868
+Okpo,Okpo,18.1167,95.6667,Burma,MM,MMR,Bago,,11525.0,1104664446
+Hlaingbwe,Hlaingbwe,17.1333,97.8333,Burma,MM,MMR,Kayin State,,11511.0,1104110875
+Shingbwiyang,Shingbwiyang,26.6667,96.2167,Burma,MM,MMR,Kachin State,,11453.0,1104572327
+Chikha,Chikha,23.8898,93.5335,Burma,MM,MMR,Chin State,,11156.0,1104924225
+Loikaw,Loikaw,19.6742,97.2092,Burma,MM,MMR,Kayah State,admin,11000.0,1104542517
+Ngaputaw,Ngaputaw,16.5378,94.6936,Burma,MM,MMR,Ayeyarwady,,10632.0,1104989522
+Sadon,Sadon,25.3927,97.8996,Burma,MM,MMR,Kachin State,,10496.0,1104149165
+Chaungtha,Chaungtha,16.9667,94.45,Burma,MM,MMR,Ayeyarwady,,10181.0,1104467374
+Putao,Putao,27.3258,97.4225,Burma,MM,MMR,Kachin State,,10000.0,1104007518
+Ramree,Ramree,19.0833,93.8667,Burma,MM,MMR,Rakhine State,,9581.0,1104079121
+Falam,Falam,22.9136,93.6778,Burma,MM,MMR,Chin State,,9529.0,1104756468
+Hsenwi,Hsenwi,23.3,97.9667,Burma,MM,MMR,Shan State,,9392.0,1104609760
+Rangoon,Rangoon,16.795,96.16,Burma,MM,MMR,Yangon,primary,5209541.0,1104616656
+Mandalay,Mandalay,21.9831,96.0844,Burma,MM,MMR,Mandalay,admin,1319452.0,1104468217
+Nay Pyi Taw,Nay Pyi Taw,19.7475,96.115,Burma,MM,MMR,Nay Pyi Taw,primary,1160242.0,1104838105
+Kyaukse,Kyaukse,21.6131,96.1303,Burma,MM,MMR,Mandalay,,741071.0,1104814217
+Hpa-An,Hpa-An,16.8906,97.6333,Burma,MM,MMR,Kayin State,admin,421525.0,1104494124
+Maungdaw,Maungdaw,20.8167,92.3667,Burma,MM,MMR,Rakhine State,,400000.0,1104000431
+Magway,Magway,20.15,94.95,Burma,MM,MMR,Magway,admin,289247.0,1104246517
+Pathein,Pathein,16.7842,94.7333,Burma,MM,MMR,Ayeyarwady,admin,287071.0,1104832430
+Bago,Bago,17.3333,96.4833,Burma,MM,MMR,Bago,admin,284179.0,1104027443
+Taunggyi,Taunggyi,20.7836,97.0354,Burma,MM,MMR,Shan State,admin,264804.0,1104364374
+Mawlamyine,Mawlamyine,16.4847,97.6258,Burma,MM,MMR,Mon State,admin,253734.0,1104530702
+Natogyi,Natogyi,21.4167,95.65,Burma,MM,MMR,Mandalay,,250000.0,1104249540
+Myitkyina,Myitkyina,25.3833,97.4,Burma,MM,MMR,Kachin State,admin,243031.0,1104327329
+Myeik,Myeik,12.4333,98.6,Burma,MM,MMR,Tanintharyi,,222056.0,1104715655
+Monywa,Monywa,22.1083,95.1417,Burma,MM,MMR,Sagaing,admin,207489.0,1104777345
+Myawadi,Myawadi,16.6878,98.5083,Burma,MM,MMR,Kayin State,,195624.0,1104432237
+Thanhlyin,Thanhlyin,16.7333,96.25,Burma,MM,MMR,Yangon,,181000.0,1104911762
+Meiktila,Meiktila,20.8833,95.8833,Burma,MM,MMR,Mandalay,,177442.0,1104916201
+Letpandan,Letpandan,17.7866,95.7507,Burma,MM,MMR,Bago,,176571.0,1104882792
+Hinthada,Hinthada,17.6461,95.4603,Burma,MM,MMR,Ayeyarwady,,170312.0,1104524588
+Thingangyun,Thingangyun,16.8281,96.1842,Burma,MM,MMR,Yangon,,170000.0,1104747384
+Minbya,Minbya,20.3622,93.2733,Burma,MM,MMR,Rakhine State,,169208.0,1104858010
+Katha,Katha,24.1822,96.3306,Burma,MM,MMR,Sagaing,,167700.0,1104074390
+Mogok,Mogok,22.9167,96.5,Burma,MM,MMR,Mandalay,,167149.0,1104205175
+Kyaunggon,Kyaunggon,17.1,95.1833,Burma,MM,MMR,Ayeyarwady,,163035.0,1104893206
+Mahlaing,Mahlaing,21.09,95.64,Burma,MM,MMR,Mandalay,,157674.0,1104117085
+Mudon,Mudon,16.2578,97.7164,Burma,MM,MMR,Mon State,,152300.0,1104174785
+Lashio,Lashio,22.9333,97.75,Burma,MM,MMR,Shan State,,149423.0,1104144745
+Dawei,Dawei,14.0833,98.2,Burma,MM,MMR,Tanintharyi,admin,146964.0,1104373474
+Taungdwingyi,Taungdwingyi,20.0017,95.5461,Burma,MM,MMR,Magway,,145909.0,1104468571
+Thanatpin,Thanatpin,17.2942,96.58,Burma,MM,MMR,Bago,,145287.0,1104961334
+Myebon,Myebon,20.05,93.3667,Burma,MM,MMR,Rakhine State,,137193.0,1104625729
+Pyay,Pyay,18.82,95.2156,Burma,MM,MMR,Bago,,134861.0,1104978348
+Thandwe,Thandwe,18.4667,94.3667,Burma,MM,MMR,Rakhine State,,133484.0,1104527465
+Mogaung,Mogaung,25.3014,96.9417,Burma,MM,MMR,Kachin State,,132608.0,1104504021
+Thaton,Thaton,16.9333,97.3667,Burma,MM,MMR,Mon State,,130763.0,1104227154
+Ponnagyun,Ponnagyun,20.3342,93.0039,Burma,MM,MMR,Rakhine State,,129753.0,1104261097
+Pakokku,Pakokku,21.332,95.0866,Burma,MM,MMR,Magway,,126938.0,1104161315
+An,An,19.7833,94.0333,Burma,MM,MMR,Rakhine State,,119714.0,1104637807
+Taungoo,Taungoo,18.9333,96.4333,Burma,MM,MMR,Bago,,108569.0,1104269989
+Htison,Htison,15.9,98.1833,Burma,MM,MMR,Kayin State,,106427.0,1104040204
+Sittwe,Sittwe,20.167,92.785,Burma,MM,MMR,Rakhine State,admin,100748.0,1104269305
+Pyinmana,Pyinmana,19.75,96.2,Burma,MM,MMR,Nay Pyi Taw,,100001.0,1104492104
+Paletwa,Paletwa,21.3,92.85,Burma,MM,MMR,Chin State,,96899.0,1104846794
+Tiddim,Tiddim,23.3758,93.6539,Burma,MM,MMR,Chin State,,96624.0,1104876098
+Myingyan,Myingyan,21.46,95.3883,Burma,MM,MMR,Mandalay,,91542.0,1104162015
+Möng Tun,Mong Tun,20.3,98.9333,Burma,MM,MMR,Shan State,,90000.0,1104458096
+Shwebo,Shwebo,22.5667,95.7,Burma,MM,MMR,Sagaing,,88914.0,1104118052
+Paingkyon,Paingkyon,17.0242,97.9844,Burma,MM,MMR,Kayin State,,88604.0,1104246583
+Pyapon,Pyapon,16.286,95.6658,Burma,MM,MMR,Ayeyarwady,,76741.0,1104170402
+Kengtung,Kengtung,21.2917,99.6083,Burma,MM,MMR,Shan State,,75865.0,1104395820
+Myaydo,Myaydo,19.3667,95.2167,Burma,MM,MMR,Magway,,72000.0,1104898210
+Nansang,Nansang,20.8889,97.7361,Burma,MM,MMR,Shan State,,70000.0,1104983496
+Sagaing,Sagaing,21.8822,95.9786,Burma,MM,MMR,Sagaing,,69917.0,1104151403
+Zigon,Zigon,18.3385,95.623,Burma,MM,MMR,Bago,,67523.0,1104034261
+Kawthoung,Kawthoung,9.9833,98.55,Burma,MM,MMR,Tanintharyi,,57949.0,1104713098
+Allanmyo,Allanmyo,19.3783,95.2279,Burma,MM,MMR,Magway,,57897.0,1104582279
+Myaungmya,Myaungmya,16.6036,94.9289,Burma,MM,MMR,Ayeyarwady,,56018.0,1104040357
+Buthidaung,Buthidaung,20.8667,92.5333,Burma,MM,MMR,Rakhine State,,55545.0,1104587852
+Thongwa,Thongwa,16.7547,96.5193,Burma,MM,MMR,Yangon,,52496.0,1104339441
+Tachilek,Tachilek,20.45,99.8833,Burma,MM,MMR,Shan State,,51553.0,1104251503
+Maubin,Maubin,16.73,95.65,Burma,MM,MMR,Ayeyarwady,,51542.0,1104838258
+Leiktho,Leiktho,19.2222,96.5811,Burma,MM,MMR,Kayin State,,48606.0,1104120144
+Namtu,Namtu,23.0925,97.4011,Burma,MM,MMR,Shan State,,48591.0,1104043404
+Yenangyaung,Yenangyaung,20.4597,94.8742,Burma,MM,MMR,Magway,,48578.0,1104118838
+Nyaungu,Nyaungu,21.2,94.9167,Burma,MM,MMR,Mandalay,,48528.0,1104062729
+Kawkareik,Kawkareik,16.5556,98.24,Burma,MM,MMR,Kayin State,,48468.0,1104220072
+Wakema,Wakema,16.6,95.1833,Burma,MM,MMR,Ayeyarwady,,48405.0,1104266529
+Bhamo,Bhamo,24.2667,97.2333,Burma,MM,MMR,Kachin State,,47920.0,1104508192
+Labutta,Labutta,16.1467,94.7611,Burma,MM,MMR,Ayeyarwady,,46170.0,1104103403
+Mindat,Mindat,21.3667,93.9833,Burma,MM,MMR,Chin State,,46008.0,1104913521
+Pyu,Pyu,18.4819,96.4369,Burma,MM,MMR,Bago,,44642.0,1104518645
+Mawlaik,Mawlaik,23.2833,94.0833,Burma,MM,MMR,Sagaing,,44540.0,1104686347
+Chauk,Chauk,20.8833,94.8167,Burma,MM,MMR,Magway,,44289.0,1104898616
+Tamu,Tamu,24.2167,94.3097,Burma,MM,MMR,Sagaing,,42549.0,1104850868
+Myanaung,Myanaung,18.2833,95.3167,Burma,MM,MMR,Ayeyarwady,,42252.0,1104426829
+Myedu,Myedu,23.1833,95.4,Burma,MM,MMR,Sagaing,,42000.0,1104497959
+Kyaukme,Kyaukme,22.5392,97.0283,Burma,MM,MMR,Shan State,,39930.0,1104895857
+Nyaungdon,Nyaungdon,17.0461,95.6374,Burma,MM,MMR,Ayeyarwady,,36172.0,1104318813
+Ye,Ye,15.2467,97.8556,Burma,MM,MMR,Mon State,,34430.0,1104513802
+Namhkam,Namhkam,23.8333,97.6833,Burma,MM,MMR,Shan State,,33382.0,1104658655
+Mohnyin,Mohnyin,24.7833,96.3667,Burma,MM,MMR,Kachin State,,33290.0,1104701882
+Tawsalun,Tawsalun,21.406,94.136,Burma,MM,MMR,Magway,,32865.0,1104589040
+Sami,Sami,21.2933,93.0965,Burma,MM,MMR,Chin State,,32082.0,1104034136
+Aungban,Aungban,20.6667,96.6333,Burma,MM,MMR,Shan State,,30515.0,1104836373
+Lewe,Lewe,19.6333,96.1167,Burma,MM,MMR,Nay Pyi Taw,,30208.0,1104486750
+Du Yar,Du Yar,15.2617,97.7819,Burma,MM,MMR,Mon State,,30000.0,1104089904
+Hakha,Hakha,22.6455,93.605,Burma,MM,MMR,Chin State,admin,29800.0,1104739581
+Taungup,Taungup,18.85,94.2333,Burma,MM,MMR,Rakhine State,,28652.0,1104997473
+Kawlin,Kawlin,23.7903,95.6806,Burma,MM,MMR,Sagaing,,25254.0,1104689863
+Panglong,Panglong,24.1003,98.3139,Burma,MM,MMR,Shan State,,24565.0,1104894804
+Kyonpyaw,Kyonpyaw,17.3,95.2,Burma,MM,MMR,Ayeyarwady,,23966.0,1104964864
+Yesagyo,Yesagyo,21.6333,95.2414,Burma,MM,MMR,Magway,,23603.0,1104030863
+Kyeintali,Kyeintali,18.0061,94.49,Burma,MM,MMR,Rakhine State,,23581.0,1104621866
+Amarapura,Amarapura,21.9,96.05,Burma,MM,MMR,Mandalay,,23200.0,1104567036
+Minbu,Minbu,20.18,94.87,Burma,MM,MMR,Magway,,22962.0,1104239805
+Khaw Zar Chaung Wa,Khaw Zar Chaung Wa,15.0375,97.8293,Burma,MM,MMR,Mon State,,22663.0,1104706858
+Palaw,Palaw,12.9597,98.6545,Burma,MM,MMR,Tanintharyi,,22267.0,1104077900
+Ingabu,Ingabu,17.8167,95.2667,Burma,MM,MMR,Ayeyarwady,,22225.0,1104461128
+Shanywathit,Shanywathit,17.4244,97.8878,Burma,MM,MMR,Kayin State,,21735.0,1104224930
+Kamamaung,Kamamaung,17.3469,97.6528,Burma,MM,MMR,Kayin State,,20895.0,1104892359
+Kyaukpyu,Kyaukpyu,19.4264,93.5458,Burma,MM,MMR,Rakhine State,,20866.0,1104321745
+Pantanaw,Pantanaw,16.985,95.4656,Burma,MM,MMR,Ayeyarwady,,20151.0,1104041074
+Haka,Haka,22.9833,94.0167,Burma,MM,MMR,Sagaing,,20000.0,1104921389
+Pauktaw,Pauktaw,20.2128,93.1308,Burma,MM,MMR,Rakhine State,,19157.0,1104903555
+Ngathainggyaung,Ngathainggyaung,17.4,95.0833,Burma,MM,MMR,Ayeyarwady,,18743.0,1104435662
+Mawkanin,Mawkanin,15.5106,97.8533,Burma,MM,MMR,Mon State,,17552.0,1104866506
+Kawa,Kawa,17.0897,96.4663,Burma,MM,MMR,Bago,,17396.0,1104865586
+Bawgalegyi,Bawgalegyi,18.9144,96.7856,Burma,MM,MMR,Kayin State,,17237.0,1104881493
+Nawnghkio,Nawnghkio,22.3167,96.8,Burma,MM,MMR,Shan State,,16274.0,1104930303
+Khampat,Khampat,23.7823,94.1442,Burma,MM,MMR,Sagaing,,15400.0,1104599399
+Wān Long,Wan Long,22.1667,99.1833,Burma,MM,MMR,Shan State,,15000.0,1104904549
+Kyaukmyaung,Kyaukmyaung,22.5833,95.95,Burma,MM,MMR,Sagaing,,15000.0,1104023096
+Razua,Razua,22.0529,93.4086,Burma,MM,MMR,Chin State,,12265.0,1104486868
+Okpo,Okpo,18.1167,95.6667,Burma,MM,MMR,Bago,,11525.0,1104664446
+Hlaingbwe,Hlaingbwe,17.1333,97.8333,Burma,MM,MMR,Kayin State,,11511.0,1104110875
+Shingbwiyang,Shingbwiyang,26.6667,96.2167,Burma,MM,MMR,Kachin State,,11453.0,1104572327
+Chikha,Chikha,23.8898,93.5335,Burma,MM,MMR,Chin State,,11156.0,1104924225
+Loikaw,Loikaw,19.6742,97.2092,Burma,MM,MMR,Kayah State,admin,11000.0,1104542517
+Ngaputaw,Ngaputaw,16.5378,94.6936,Burma,MM,MMR,Ayeyarwady,,10632.0,1104989522
+Sadon,Sadon,25.3927,97.8996,Burma,MM,MMR,Kachin State,,10496.0,1104149165
+Chaungtha,Chaungtha,16.9667,94.45,Burma,MM,MMR,Ayeyarwady,,10181.0,1104467374
+Putao,Putao,27.3258,97.4225,Burma,MM,MMR,Kachin State,,10000.0,1104007518
+Ramree,Ramree,19.0833,93.8667,Burma,MM,MMR,Rakhine State,,9581.0,1104079121
+Falam,Falam,22.9136,93.6778,Burma,MM,MMR,Chin State,,9529.0,1104756468
+Hsenwi,Hsenwi,23.3,97.9667,Burma,MM,MMR,Shan State,,9392.0,1104609760

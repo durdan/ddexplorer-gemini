@@ -1,0 +1,33 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Malabo,Malabo,3.7456,8.7744,Equatorial Guinea,GQ,GNQ,Bioko Norte,primary,297000.0,1226861333
+Bata,Bata,1.865,9.77,Equatorial Guinea,GQ,GNQ,Litoral,admin,250770.0,1226528087
+Sevilla de Niefang,Sevilla de Niefang,1.85,10.25,Equatorial Guinea,GQ,GNQ,Centro Sur,,41084.0,1226184611
+Ebebiyín,Ebebiyin,2.15,11.3167,Equatorial Guinea,GQ,GNQ,Kié-Ntem,admin,36565.0,1226449195
+Santiago de Baney,Santiago de Baney,3.7,8.9167,Equatorial Guinea,GQ,GNQ,Bioko Norte,,29366.0,1226687832
+Añisoc,Anisoc,1.85,10.7667,Equatorial Guinea,GQ,GNQ,Wele-Nzas,,16626.0,1226309663
+Bengonbeyene,Bengonbeyene,1.6931,11.0342,Equatorial Guinea,GQ,GNQ,Wele-Nzas,,15644.0,1226996248
+Mbini,Mbini,1.5833,9.6167,Equatorial Guinea,GQ,GNQ,Litoral,,14034.0,1226662822
+Aconibe,Aconibe,1.3,10.9333,Equatorial Guinea,GQ,GNQ,Wele-Nzas,,13382.0,1226173790
+Rebola,Rebola,3.7192,8.8531,Equatorial Guinea,GQ,GNQ,Bioko Norte,,10000.0,1226355446
+Luba,Luba,3.45,8.55,Equatorial Guinea,GQ,GNQ,Bioko Sur,admin,7739.0,1226278217
+Mongomo,Mongomo,1.6287,11.3168,Equatorial Guinea,GQ,GNQ,Wele-Nzas,admin,7251.0,1226565454
+Palé,Pale,-1.4069,5.6322,Equatorial Guinea,GQ,GNQ,Annobón,admin,5008.0,1226970205
+Evinayong,Evinayong,1.45,10.5667,Equatorial Guinea,GQ,GNQ,Centro Sur,admin,3170.0,1226336138
+Djibloho,Djibloho,1.5889,10.8225,Equatorial Guinea,GQ,GNQ,Djibloho,admin,2000.0,1226998379
+Calatrava,Calatrava,1.1164,9.4186,Equatorial Guinea,GQ,GNQ,Litoral,,628.0,1226322426
+Malabo,Malabo,3.7456,8.7744,Equatorial Guinea,GQ,GNQ,Bioko Norte,primary,297000.0,1226861333
+Bata,Bata,1.865,9.77,Equatorial Guinea,GQ,GNQ,Litoral,admin,250770.0,1226528087
+Sevilla de Niefang,Sevilla de Niefang,1.85,10.25,Equatorial Guinea,GQ,GNQ,Centro Sur,,41084.0,1226184611
+Ebebiyín,Ebebiyin,2.15,11.3167,Equatorial Guinea,GQ,GNQ,Kié-Ntem,admin,36565.0,1226449195
+Santiago de Baney,Santiago de Baney,3.7,8.9167,Equatorial Guinea,GQ,GNQ,Bioko Norte,,29366.0,1226687832
+Añisoc,Anisoc,1.85,10.7667,Equatorial Guinea,GQ,GNQ,Wele-Nzas,,16626.0,1226309663
+Bengonbeyene,Bengonbeyene,1.6931,11.0342,Equatorial Guinea,GQ,GNQ,Wele-Nzas,,15644.0,1226996248
+Mbini,Mbini,1.5833,9.6167,Equatorial Guinea,GQ,GNQ,Litoral,,14034.0,1226662822
+Aconibe,Aconibe,1.3,10.9333,Equatorial Guinea,GQ,GNQ,Wele-Nzas,,13382.0,1226173790
+Rebola,Rebola,3.7192,8.8531,Equatorial Guinea,GQ,GNQ,Bioko Norte,,10000.0,1226355446
+Luba,Luba,3.45,8.55,Equatorial Guinea,GQ,GNQ,Bioko Sur,admin,7739.0,1226278217
+Mongomo,Mongomo,1.6287,11.3168,Equatorial Guinea,GQ,GNQ,Wele-Nzas,admin,7251.0,1226565454
+Palé,Pale,-1.4069,5.6322,Equatorial Guinea,GQ,GNQ,Annobón,admin,5008.0,1226970205
+Evinayong,Evinayong,1.45,10.5667,Equatorial Guinea,GQ,GNQ,Centro Sur,admin,3170.0,1226336138
+Djibloho,Djibloho,1.5889,10.8225,Equatorial Guinea,GQ,GNQ,Djibloho,admin,2000.0,1226998379
+Calatrava,Calatrava,1.1164,9.4186,Equatorial Guinea,GQ,GNQ,Litoral,,628.0,1226322426

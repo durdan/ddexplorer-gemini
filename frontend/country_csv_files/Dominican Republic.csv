@@ -1,0 +1,293 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Santiago,Santiago,19.4572,-70.6889,Dominican Republic,DO,DOM,Cibao Norte,admin,1343423.0,1214985348
+Santo Domingo,Santo Domingo,18.4667,-69.95,Dominican Republic,DO,DOM,Ozama,primary,1128678.0,1214636202
+Santo Domingo Este,Santo Domingo Este,18.4855,-69.8734,Dominican Republic,DO,DOM,Ozama,admin,948855.0,1214664832
+Puerto Plata,Puerto Plata,19.8,-70.6833,Dominican Republic,DO,DOM,Cibao Norte,minor,318419.0,1214279422
+Los Alcarrizos,Los Alcarrizos,18.5167,-70.0167,Dominican Republic,DO,DOM,Ozama,,272776.0,1214807042
+Higüey,Higuey,18.6167,-68.7,Dominican Republic,DO,DOM,Yuma,minor,251243.0,1214313712
+San Cristóbal,San Cristobal,18.4167,-70.1056,Dominican Republic,DO,DOM,Valdesia,admin,232769.0,1214335207
+La Vega,La Vega,19.22,-70.53,Dominican Republic,DO,DOM,Cibao Sur,admin,220279.0,1214691060
+San Pedro de Macorís,San Pedro de Macoris,18.45,-69.3,Dominican Republic,DO,DOM,Higuamo,admin,195307.0,1214233006
+San Francisco de Macorís,San Francisco de Macoris,19.3,-70.25,Dominican Republic,DO,DOM,Cibao Nordeste,admin,188118.0,1214710545
+Bávaro,Bavaro,18.7167,-68.45,Dominican Republic,DO,DOM,Yuma,,150000.0,1214902144
+Baní,Bani,18.29,-70.33,Dominican Republic,DO,DOM,Valdesia,minor,145595.0,1214720035
+Boca Chica,Boca Chica,18.4539,-69.6064,Dominican Republic,DO,DOM,Ozama,,142019.0,1214362164
+La Romana,La Romana,18.43,-68.97,Dominican Republic,DO,DOM,Yuma,admin,139671.0,1214760518
+Pantanal,Pantanal,18.5333,-68.3667,Dominican Republic,DO,DOM,Yuma,,138919.0,1214144437
+San Juan,San Juan,18.81,-71.23,Dominican Republic,DO,DOM,El Valle,admin,132177.0,1214608846
+Gurabo al Medio,Gurabo al Medio,19.4739,-70.6727,Dominican Republic,DO,DOM,Cibao Norte,,126668.0,1214621911
+Bonao,Bonao,18.95,-70.41,Dominican Republic,DO,DOM,Cibao Sur,minor,125338.0,1214793175
+Bajos de Haina,Bajos de Haina,18.4167,-70.0333,Dominican Republic,DO,DOM,Valdesia,,124193.0,1214790716
+Los Minas,Los Minas,18.5,-69.9833,Dominican Republic,DO,DOM,Ozama,,104846.0,1214457470
+Moca,Moca,19.3833,-70.5167,Dominican Republic,DO,DOM,Cibao Norte,minor,94981.0,1214863528
+Azua,Azua,18.46,-70.74,Dominican Republic,DO,DOM,Valdesia,minor,92585.0,1214004418
+Villa Altagracia,Villa Altagracia,18.6667,-70.1667,Dominican Republic,DO,DOM,Valdesia,,84312.0,1214414901
+Barahona,Barahona,18.2,-71.1,Dominican Republic,DO,DOM,Enriquillo,admin,83619.0,1214900129
+Nagua,Nagua,19.38,-69.85,Dominican Republic,DO,DOM,Cibao Nordeste,minor,76933.0,1214449469
+Mao,Mao,19.5667,-71.0833,Dominican Republic,DO,DOM,Cibao Noroeste,admin,76863.0,1214217168
+Cotuí,Cotui,19.06,-70.15,Dominican Republic,DO,DOM,Cibao Sur,minor,76554.0,1214299029
+Pedro Brand,Pedro Brand,18.5667,-70.0911,Dominican Republic,DO,DOM,Ozama,,74016.0,1214244231
+Esperanza,Esperanza,19.58,-70.99,Dominican Republic,DO,DOM,Cibao Noroeste,,70588.0,1214737056
+Jarabacoa,Jarabacoa,19.1167,-70.6333,Dominican Republic,DO,DOM,Cibao Sur,,68585.0,1214381692
+El Seibo,El Seibo,18.763,-69.042,Dominican Republic,DO,DOM,Yuma,minor,66867.0,1214331828
+Hato Mayor,Hato Mayor,18.7667,-69.25,Dominican Republic,DO,DOM,Higuamo,minor,61576.0,1214232592
+Consuelito,Consuelito,18.56,-69.3,Dominican Republic,DO,DOM,Higuamo,,60000.0,1214750136
+Guerra,Guerra,18.55,-69.7,Dominican Republic,DO,DOM,Ozama,,59631.0,1214475992
+Constanza,Constanza,18.91,-70.75,Dominican Republic,DO,DOM,Cibao Sur,,59052.0,1214705132
+Samaná,Samana,19.2,-69.3167,Dominican Republic,DO,DOM,Cibao Nordeste,minor,58156.0,1214655701
+Monte Plata,Monte Plata,18.81,-69.79,Dominican Republic,DO,DOM,Higuamo,minor,57553.0,1214856228
+San Luis,San Luis,18.55,-69.7,Dominican Republic,DO,DOM,Ozama,,56933.0,1214702688
+Yamasá,Yamasa,18.7667,-70.0167,Dominican Republic,DO,DOM,Higuamo,,55348.0,1214920883
+Tamboril,Tamboril,19.48,-70.6,Dominican Republic,DO,DOM,Cibao Norte,,51695.0,1214621539
+Sosúa,Sosua,19.75,-70.52,Dominican Republic,DO,DOM,Cibao Norte,,49593.0,1214995511
+La Caleta,La Caleta,18.4639,-69.6806,Dominican Republic,DO,DOM,Ozama,,46698.0,1214671781
+Puñal,Punal,19.4,-70.6167,Dominican Republic,DO,DOM,Cibao Norte,,46516.0,1214351229
+Las Matas de Farfán,Las Matas de Farfan,18.87,-71.52,Dominican Republic,DO,DOM,El Valle,,44163.0,1214559824
+Comendador,Comendador,18.8833,-71.7,Dominican Republic,DO,DOM,El Valle,minor,43894.0,1214626724
+La Mata,La Mata,19.1,-70.1681,Dominican Republic,DO,DOM,Cibao Sur,,42785.0,1214121582
+Yaguate,Yaguate,18.33,-70.18,Dominican Republic,DO,DOM,Valdesia,,42325.0,1214644367
+Villa Bisonó,Villa Bisono,19.56,-70.87,Dominican Republic,DO,DOM,Cibao Norte,,42092.0,1214712836
+Padre Las Casas,Padre Las Casas,18.7333,-70.9333,Dominican Republic,DO,DOM,Valdesia,,40545.0,1214352050
+Salcedo,Salcedo,19.378,-70.418,Dominican Republic,DO,DOM,Cibao Nordeste,minor,39557.0,1214901060
+San José de Ocoa,San Jose de Ocoa,18.55,-70.5,Dominican Republic,DO,DOM,Valdesia,minor,39451.0,1214866446
+San José de Las Matas,San Jose de Las Matas,19.33,-70.93,Dominican Republic,DO,DOM,Cibao Norte,,38628.0,1214663551
+Guayacanes,Guayacanes,18.4533,-69.45,Dominican Republic,DO,DOM,Higuamo,,37889.0,1214783973
+Gaspar Hernández,Gaspar Hernandez,19.62,-70.28,Dominican Republic,DO,DOM,Cibao Norte,,37852.0,1214413891
+Villa González,Villa Gonzalez,19.5333,-70.7833,Dominican Republic,DO,DOM,Cibao Norte,,37349.0,1214737930
+Neiba,Neiba,18.49,-71.42,Dominican Republic,DO,DOM,Enriquillo,minor,36511.0,1214562502
+San Lorenzo de Guayubín,San Lorenzo de Guayubin,19.62,-71.33,Dominican Republic,DO,DOM,Cibao Noroeste,,35923.0,1214005862
+Matanzas,Matanzas,18.2428,-70.4192,Dominican Republic,DO,DOM,Valdesia,,35414.0,1214252982
+Sabaneta,Sabaneta,19.4833,-71.35,Dominican Republic,DO,DOM,Cibao Noroeste,minor,34540.0,1214181927
+Río Verde Arriba,Rio Verde Arriba,19.32,-70.57,Dominican Republic,DO,DOM,Cibao Sur,,33809.0,1214786012
+Villa Riva,Villa Riva,19.1667,-69.9,Dominican Republic,DO,DOM,Cibao Nordeste,,33663.0,1214066811
+Bayaguana,Bayaguana,18.75,-69.6333,Dominican Republic,DO,DOM,Higuamo,,31889.0,1214513210
+Sabana Grande de Boyá,Sabana Grande de Boya,18.95,-69.8,Dominican Republic,DO,DOM,Higuamo,,31096.0,1214983415
+Cambita Garabitos,Cambita Garabitos,18.45,-70.2,Dominican Republic,DO,DOM,Valdesia,,31057.0,1214509517
+San Gregorio de Nigua,San Gregorio de Nigua,18.3833,-70.0833,Dominican Republic,DO,DOM,Valdesia,,30268.0,1214954643
+Jima Abajo,Jima Abajo,19.13,-70.38,Dominican Republic,DO,DOM,Cibao Sur,,30261.0,1214366277
+Dajabón,Dajabon,19.5667,-71.71,Dominican Republic,DO,DOM,Cibao Noroeste,minor,28071.0,1214367800
+Tenares,Tenares,19.37,-70.35,Dominican Republic,DO,DOM,Cibao Nordeste,,27765.0,1214033722
+Nizao,Nizao,18.2441,-70.1984,Dominican Republic,DO,DOM,Valdesia,,27028.0,1214110366
+Tamayo,Tamayo,18.4,-71.2,Dominican Republic,DO,DOM,Enriquillo,,26772.0,1214403049
+Licey al Medio,Licey al Medio,19.43,-70.62,Dominican Republic,DO,DOM,Cibao Norte,,25539.0,1214865144
+Quisqueya,Quisqueya,18.5542,-69.4056,Dominican Republic,DO,DOM,Higuamo,,24885.0,1214538768
+Villa Tapia,Villa Tapia,19.3,-70.42,Dominican Republic,DO,DOM,Cibao Nordeste,,24871.0,1214090755
+Monte Cristi,Monte Cristi,19.8667,-71.65,Dominican Republic,DO,DOM,Cibao Noroeste,minor,24674.0,1214970157
+El Factor,El Factor,19.32,-69.88,Dominican Republic,DO,DOM,Cibao Nordeste,,24240.0,1214790750
+Cabrera,Cabrera,19.63,-69.9,Dominican Republic,DO,DOM,Cibao Nordeste,,24218.0,1214117944
+Laguna Salada,Laguna Salada,19.65,-71.0833,Dominican Republic,DO,DOM,Cibao Noroeste,,23962.0,1214529360
+Yásica Arriba,Yasica Arriba,19.6333,-70.6,Dominican Republic,DO,DOM,Cibao Norte,,23114.0,1214961311
+Los Llanos,Los Llanos,18.6167,-69.5,Dominican Republic,DO,DOM,Higuamo,,22573.0,1214827487
+Fantino,Fantino,19.12,-70.3,Dominican Republic,DO,DOM,Cibao Sur,,22117.0,1214690546
+Imbert,Imbert,19.75,-70.83,Dominican Republic,DO,DOM,Cibao Norte,,22058.0,1214841886
+San Rafael del Yuma,San Rafael del Yuma,18.4333,-68.6667,Dominican Republic,DO,DOM,Yuma,,21967.0,1214650912
+Vicente Noble,Vicente Noble,18.3833,-71.1833,Dominican Republic,DO,DOM,Enriquillo,,21605.0,1214778645
+San Víctor Abajo,San Victor Abajo,19.45,-70.53,Dominican Republic,DO,DOM,Cibao Norte,,21009.0,1214414391
+Piedra Blanca,Piedra Blanca,18.8438,-70.3157,Dominican Republic,DO,DOM,Cibao Sur,,20934.0,1214843839
+Esperalvillo,Esperalvillo,18.82,-70.03,Dominican Republic,DO,DOM,Higuamo,,20900.0,1214132473
+Sánchez,Sanchez,19.2282,-69.6128,Dominican Republic,DO,DOM,Cibao Nordeste,,20865.0,1214869405
+Cercado Abajo,Cercado Abajo,18.73,-71.52,Dominican Republic,DO,DOM,El Valle,,20843.0,1214618384
+Miches,Miches,18.98,-69.05,Dominican Republic,DO,DOM,Yuma,,20813.0,1214377408
+Jicomé,Jicome,19.65,-70.95,Dominican Republic,DO,DOM,Cibao Noroeste,,20777.0,1214269436
+Luperón,Luperon,19.9,-70.95,Dominican Republic,DO,DOM,Cibao Norte,,20259.0,1214308542
+Río Grande,Rio Grande,19.73,-70.8,Dominican Republic,DO,DOM,Cibao Norte,,20154.0,1214092035
+Altamira,Altamira,19.6667,-70.8333,Dominican Republic,DO,DOM,Cibao Norte,,18868.0,1214514689
+Las Terrenas,Las Terrenas,19.32,-69.53,Dominican Republic,DO,DOM,Cibao Nordeste,,18829.0,1214125963
+Maimón,Maimon,18.77,-70.33,Dominican Republic,DO,DOM,Cibao Sur,,18655.0,1214149201
+Pimentel,Pimentel,19.1833,-70.1,Dominican Republic,DO,DOM,Cibao Nordeste,,17864.0,1214665602
+Cenoví,Cenovi,19.25,-70.37,Dominican Republic,DO,DOM,Cibao Nordeste,,17857.0,1214125293
+Tábara Arriba,Tabara Arriba,18.5694,-70.8792,Dominican Republic,DO,DOM,Valdesia,,17647.0,1214703827
+Yayas de Viajama,Yayas de Viajama,18.6,-70.92,Dominican Republic,DO,DOM,Valdesia,,17620.0,1214963330
+Villa Isabela,Villa Isabela,19.82,-71.05,Dominican Republic,DO,DOM,Cibao Norte,,17169.0,1214019421
+Santo Tomás de Jánico,Santo Tomas de Janico,19.4,-70.8,Dominican Republic,DO,DOM,Cibao Norte,,16993.0,1214364807
+Guaymate,Guaymate,18.58,-68.98,Dominican Republic,DO,DOM,Yuma,,16558.0,1214081912
+Ramón Santana,Ramon Santana,18.55,-69.1833,Dominican Republic,DO,DOM,Higuamo,,16548.0,1214143135
+Cayetano Germosén,Cayetano Germosen,19.33,-70.48,Dominican Republic,DO,DOM,Cibao Norte,,16439.0,1214204194
+Sabana de La Mar,Sabana de La Mar,19.07,-69.39,Dominican Republic,DO,DOM,Higuamo,,16272.0,1214759253
+Galván,Galvan,18.5039,-71.34,Dominican Republic,DO,DOM,Enriquillo,,15869.0,1214696051
+Castillo,Castillo,19.22,-70.03,Dominican Republic,DO,DOM,Cibao Nordeste,,15709.0,1214863705
+Loma de Cabrera,Loma de Cabrera,19.422,-71.615,Dominican Republic,DO,DOM,Cibao Noroeste,,15624.0,1214366417
+Sabana Grande de Palenque,Sabana Grande de Palenque,18.2667,-70.15,Dominican Republic,DO,DOM,Valdesia,,15466.0,1214912665
+Jamao al Norte,Jamao al Norte,19.65,-70.6167,Dominican Republic,DO,DOM,Cibao Norte,,15390.0,1214314716
+Río San Juan,Rio San Juan,19.64,-70.08,Dominican Republic,DO,DOM,Cibao Nordeste,,15168.0,1214629665
+Castañuelas,Castanuelas,19.7,-71.5,Dominican Republic,DO,DOM,Cibao Noroeste,,14921.0,1214540220
+Cabral,Cabral,18.25,-71.2167,Dominican Republic,DO,DOM,Enriquillo,,14823.0,1214056250
+Las Guáranas,Las Guaranas,19.2,-70.22,Dominican Republic,DO,DOM,Cibao Nordeste,,14661.0,1214326778
+Cabarete,Cabarete,19.7511,-70.4083,Dominican Republic,DO,DOM,Cibao Norte,,14600.0,1214941065
+Paraíso,Paraiso,18.0,-71.1667,Dominican Republic,DO,DOM,Enriquillo,,14472.0,1214707712
+Villa Vásquez,Villa Vasquez,19.74,-71.45,Dominican Republic,DO,DOM,Cibao Noroeste,,14424.0,1214796601
+Arenoso,Arenoso,19.18,-69.85,Dominican Republic,DO,DOM,Cibao Nordeste,,14062.0,1214932555
+Pedernales,Pedernales,18.0333,-71.75,Dominican Republic,DO,DOM,Enriquillo,minor,13805.0,1214415453
+Duvergé,Duverge,18.38,-71.3633,Dominican Republic,DO,DOM,Enriquillo,,13668.0,1214710572
+Sabana Iglesia,Sabana Iglesia,19.33,-70.75,Dominican Republic,DO,DOM,Cibao Norte,,13348.0,1214409279
+Juan de Herrera,Juan de Herrera,18.8667,-71.2333,Dominican Republic,DO,DOM,El Valle,,12963.0,1214992695
+Los Hidalgos,Los Hidalgos,19.73,-71.03,Dominican Republic,DO,DOM,Cibao Norte,,12639.0,1214268175
+Cevicos,Cevicos,19.0,-69.98,Dominican Republic,DO,DOM,Cibao Sur,,12589.0,1214401810
+Los Bellosos,Los Bellosos,19.8333,-71.0167,Dominican Republic,DO,DOM,Cibao Norte,,12414.0,1214104845
+Vallejuelo,Vallejuelo,18.65,-71.33,Dominican Republic,DO,DOM,El Valle,,12403.0,1214441701
+Baitoa,Baitoa,19.32,-70.7,Dominican Republic,DO,DOM,Cibao Sur,,11778.0,1214626953
+Monción,Moncion,19.4167,-71.1667,Dominican Republic,DO,DOM,Cibao Noroeste,,11753.0,1214972514
+Jimaní,Jimani,18.49,-71.85,Dominican Republic,DO,DOM,Enriquillo,minor,11414.0,1214388193
+Sabana Yegua,Sabana Yegua,18.72,-71.02,Dominican Republic,DO,DOM,Valdesia,,11300.0,1214338368
+Las Charcas,Las Charcas,18.45,-70.62,Dominican Republic,DO,DOM,Valdesia,,11243.0,1214615572
+Pueblo Viejo,Pueblo Viejo,18.4,-70.7667,Dominican Republic,DO,DOM,Valdesia,,11235.0,1214567482
+Los Almácigos,Los Almacigos,19.4083,-71.4417,Dominican Republic,DO,DOM,Cibao Noroeste,,11183.0,1214526672
+Villa Jaragua,Villa Jaragua,18.48,-71.5,Dominican Republic,DO,DOM,Enriquillo,,10619.0,1214346241
+Las Matas de Santa Cruz,Las Matas de Santa Cruz,19.67,-71.5,Dominican Republic,DO,DOM,Cibao Noroeste,,10559.0,1214200513
+Sabaneta de Yásica,Sabaneta de Yasica,19.6667,-70.3833,Dominican Republic,DO,DOM,Cibao Norte,,10545.0,1214622077
+Rancho Arriba,Rancho Arriba,18.7147,-70.4618,Dominican Republic,DO,DOM,Valdesia,,10299.0,1214914352
+Enriquillo,Enriquillo,17.9,-71.2333,Dominican Republic,DO,DOM,Enriquillo,,10254.0,1214173250
+Los Ríos,Los Rios,18.5219,-71.59,Dominican Republic,DO,DOM,Enriquillo,,9963.0,1214434775
+Sabana Larga,Sabana Larga,18.585,-70.4982,Dominican Republic,DO,DOM,Valdesia,,9794.0,1214812327
+Bohechío,Bohechio,18.77,-70.98,Dominican Republic,DO,DOM,El Valle,,9685.0,1214699842
+El Cacao,El Cacao,18.5264,-70.2954,Dominican Republic,DO,DOM,Valdesia,,9540.0,1214839567
+Maizal,Maizal,19.65,-71.03,Dominican Republic,DO,DOM,Cibao Noroeste,,9486.0,1214473100
+Pepillo Salcedo,Pepillo Salcedo,19.7,-71.75,Dominican Republic,DO,DOM,Cibao Noroeste,,9136.0,1214570640
+El Valle,El Valle,18.9764,-69.3792,Dominican Republic,DO,DOM,Higuamo,,8855.0,1214732998
+Peralta,Peralta,18.5167,-70.7833,Dominican Republic,DO,DOM,Valdesia,,8596.0,1214056600
+Santiago,Santiago,19.4572,-70.6889,Dominican Republic,DO,DOM,Cibao Norte,admin,1343423.0,1214985348
+Santo Domingo,Santo Domingo,18.4667,-69.95,Dominican Republic,DO,DOM,Ozama,primary,1128678.0,1214636202
+Santo Domingo Este,Santo Domingo Este,18.4855,-69.8734,Dominican Republic,DO,DOM,Ozama,admin,948855.0,1214664832
+Puerto Plata,Puerto Plata,19.8,-70.6833,Dominican Republic,DO,DOM,Cibao Norte,minor,318419.0,1214279422
+Los Alcarrizos,Los Alcarrizos,18.5167,-70.0167,Dominican Republic,DO,DOM,Ozama,,272776.0,1214807042
+Higüey,Higuey,18.6167,-68.7,Dominican Republic,DO,DOM,Yuma,minor,251243.0,1214313712
+San Cristóbal,San Cristobal,18.4167,-70.1056,Dominican Republic,DO,DOM,Valdesia,admin,232769.0,1214335207
+La Vega,La Vega,19.22,-70.53,Dominican Republic,DO,DOM,Cibao Sur,admin,220279.0,1214691060
+San Pedro de Macorís,San Pedro de Macoris,18.45,-69.3,Dominican Republic,DO,DOM,Higuamo,admin,195307.0,1214233006
+San Francisco de Macorís,San Francisco de Macoris,19.3,-70.25,Dominican Republic,DO,DOM,Cibao Nordeste,admin,188118.0,1214710545
+Bávaro,Bavaro,18.7167,-68.45,Dominican Republic,DO,DOM,Yuma,,150000.0,1214902144
+Baní,Bani,18.29,-70.33,Dominican Republic,DO,DOM,Valdesia,minor,145595.0,1214720035
+Boca Chica,Boca Chica,18.4539,-69.6064,Dominican Republic,DO,DOM,Ozama,,142019.0,1214362164
+La Romana,La Romana,18.43,-68.97,Dominican Republic,DO,DOM,Yuma,admin,139671.0,1214760518
+Pantanal,Pantanal,18.5333,-68.3667,Dominican Republic,DO,DOM,Yuma,,138919.0,1214144437
+San Juan,San Juan,18.81,-71.23,Dominican Republic,DO,DOM,El Valle,admin,132177.0,1214608846
+Gurabo al Medio,Gurabo al Medio,19.4739,-70.6727,Dominican Republic,DO,DOM,Cibao Norte,,126668.0,1214621911
+Bonao,Bonao,18.95,-70.41,Dominican Republic,DO,DOM,Cibao Sur,minor,125338.0,1214793175
+Bajos de Haina,Bajos de Haina,18.4167,-70.0333,Dominican Republic,DO,DOM,Valdesia,,124193.0,1214790716
+Los Minas,Los Minas,18.5,-69.9833,Dominican Republic,DO,DOM,Ozama,,104846.0,1214457470
+Moca,Moca,19.3833,-70.5167,Dominican Republic,DO,DOM,Cibao Norte,minor,94981.0,1214863528
+Azua,Azua,18.46,-70.74,Dominican Republic,DO,DOM,Valdesia,minor,92585.0,1214004418
+Villa Altagracia,Villa Altagracia,18.6667,-70.1667,Dominican Republic,DO,DOM,Valdesia,,84312.0,1214414901
+Barahona,Barahona,18.2,-71.1,Dominican Republic,DO,DOM,Enriquillo,admin,83619.0,1214900129
+Nagua,Nagua,19.38,-69.85,Dominican Republic,DO,DOM,Cibao Nordeste,minor,76933.0,1214449469
+Mao,Mao,19.5667,-71.0833,Dominican Republic,DO,DOM,Cibao Noroeste,admin,76863.0,1214217168
+Cotuí,Cotui,19.06,-70.15,Dominican Republic,DO,DOM,Cibao Sur,minor,76554.0,1214299029
+Pedro Brand,Pedro Brand,18.5667,-70.0911,Dominican Republic,DO,DOM,Ozama,,74016.0,1214244231
+Esperanza,Esperanza,19.58,-70.99,Dominican Republic,DO,DOM,Cibao Noroeste,,70588.0,1214737056
+Jarabacoa,Jarabacoa,19.1167,-70.6333,Dominican Republic,DO,DOM,Cibao Sur,,68585.0,1214381692
+El Seibo,El Seibo,18.763,-69.042,Dominican Republic,DO,DOM,Yuma,minor,66867.0,1214331828
+Hato Mayor,Hato Mayor,18.7667,-69.25,Dominican Republic,DO,DOM,Higuamo,minor,61576.0,1214232592
+Consuelito,Consuelito,18.56,-69.3,Dominican Republic,DO,DOM,Higuamo,,60000.0,1214750136
+Guerra,Guerra,18.55,-69.7,Dominican Republic,DO,DOM,Ozama,,59631.0,1214475992
+Constanza,Constanza,18.91,-70.75,Dominican Republic,DO,DOM,Cibao Sur,,59052.0,1214705132
+Samaná,Samana,19.2,-69.3167,Dominican Republic,DO,DOM,Cibao Nordeste,minor,58156.0,1214655701
+Monte Plata,Monte Plata,18.81,-69.79,Dominican Republic,DO,DOM,Higuamo,minor,57553.0,1214856228
+San Luis,San Luis,18.55,-69.7,Dominican Republic,DO,DOM,Ozama,,56933.0,1214702688
+Yamasá,Yamasa,18.7667,-70.0167,Dominican Republic,DO,DOM,Higuamo,,55348.0,1214920883
+Tamboril,Tamboril,19.48,-70.6,Dominican Republic,DO,DOM,Cibao Norte,,51695.0,1214621539
+Sosúa,Sosua,19.75,-70.52,Dominican Republic,DO,DOM,Cibao Norte,,49593.0,1214995511
+La Caleta,La Caleta,18.4639,-69.6806,Dominican Republic,DO,DOM,Ozama,,46698.0,1214671781
+Puñal,Punal,19.4,-70.6167,Dominican Republic,DO,DOM,Cibao Norte,,46516.0,1214351229
+Las Matas de Farfán,Las Matas de Farfan,18.87,-71.52,Dominican Republic,DO,DOM,El Valle,,44163.0,1214559824
+Comendador,Comendador,18.8833,-71.7,Dominican Republic,DO,DOM,El Valle,minor,43894.0,1214626724
+La Mata,La Mata,19.1,-70.1681,Dominican Republic,DO,DOM,Cibao Sur,,42785.0,1214121582
+Yaguate,Yaguate,18.33,-70.18,Dominican Republic,DO,DOM,Valdesia,,42325.0,1214644367
+Villa Bisonó,Villa Bisono,19.56,-70.87,Dominican Republic,DO,DOM,Cibao Norte,,42092.0,1214712836
+Padre Las Casas,Padre Las Casas,18.7333,-70.9333,Dominican Republic,DO,DOM,Valdesia,,40545.0,1214352050
+Salcedo,Salcedo,19.378,-70.418,Dominican Republic,DO,DOM,Cibao Nordeste,minor,39557.0,1214901060
+San José de Ocoa,San Jose de Ocoa,18.55,-70.5,Dominican Republic,DO,DOM,Valdesia,minor,39451.0,1214866446
+San José de Las Matas,San Jose de Las Matas,19.33,-70.93,Dominican Republic,DO,DOM,Cibao Norte,,38628.0,1214663551
+Guayacanes,Guayacanes,18.4533,-69.45,Dominican Republic,DO,DOM,Higuamo,,37889.0,1214783973
+Gaspar Hernández,Gaspar Hernandez,19.62,-70.28,Dominican Republic,DO,DOM,Cibao Norte,,37852.0,1214413891
+Villa González,Villa Gonzalez,19.5333,-70.7833,Dominican Republic,DO,DOM,Cibao Norte,,37349.0,1214737930
+Neiba,Neiba,18.49,-71.42,Dominican Republic,DO,DOM,Enriquillo,minor,36511.0,1214562502
+San Lorenzo de Guayubín,San Lorenzo de Guayubin,19.62,-71.33,Dominican Republic,DO,DOM,Cibao Noroeste,,35923.0,1214005862
+Matanzas,Matanzas,18.2428,-70.4192,Dominican Republic,DO,DOM,Valdesia,,35414.0,1214252982
+Sabaneta,Sabaneta,19.4833,-71.35,Dominican Republic,DO,DOM,Cibao Noroeste,minor,34540.0,1214181927
+Río Verde Arriba,Rio Verde Arriba,19.32,-70.57,Dominican Republic,DO,DOM,Cibao Sur,,33809.0,1214786012
+Villa Riva,Villa Riva,19.1667,-69.9,Dominican Republic,DO,DOM,Cibao Nordeste,,33663.0,1214066811
+Bayaguana,Bayaguana,18.75,-69.6333,Dominican Republic,DO,DOM,Higuamo,,31889.0,1214513210
+Sabana Grande de Boyá,Sabana Grande de Boya,18.95,-69.8,Dominican Republic,DO,DOM,Higuamo,,31096.0,1214983415
+Cambita Garabitos,Cambita Garabitos,18.45,-70.2,Dominican Republic,DO,DOM,Valdesia,,31057.0,1214509517
+San Gregorio de Nigua,San Gregorio de Nigua,18.3833,-70.0833,Dominican Republic,DO,DOM,Valdesia,,30268.0,1214954643
+Jima Abajo,Jima Abajo,19.13,-70.38,Dominican Republic,DO,DOM,Cibao Sur,,30261.0,1214366277
+Dajabón,Dajabon,19.5667,-71.71,Dominican Republic,DO,DOM,Cibao Noroeste,minor,28071.0,1214367800
+Tenares,Tenares,19.37,-70.35,Dominican Republic,DO,DOM,Cibao Nordeste,,27765.0,1214033722
+Nizao,Nizao,18.2441,-70.1984,Dominican Republic,DO,DOM,Valdesia,,27028.0,1214110366
+Tamayo,Tamayo,18.4,-71.2,Dominican Republic,DO,DOM,Enriquillo,,26772.0,1214403049
+Licey al Medio,Licey al Medio,19.43,-70.62,Dominican Republic,DO,DOM,Cibao Norte,,25539.0,1214865144
+Quisqueya,Quisqueya,18.5542,-69.4056,Dominican Republic,DO,DOM,Higuamo,,24885.0,1214538768
+Villa Tapia,Villa Tapia,19.3,-70.42,Dominican Republic,DO,DOM,Cibao Nordeste,,24871.0,1214090755
+Monte Cristi,Monte Cristi,19.8667,-71.65,Dominican Republic,DO,DOM,Cibao Noroeste,minor,24674.0,1214970157
+El Factor,El Factor,19.32,-69.88,Dominican Republic,DO,DOM,Cibao Nordeste,,24240.0,1214790750
+Cabrera,Cabrera,19.63,-69.9,Dominican Republic,DO,DOM,Cibao Nordeste,,24218.0,1214117944
+Laguna Salada,Laguna Salada,19.65,-71.0833,Dominican Republic,DO,DOM,Cibao Noroeste,,23962.0,1214529360
+Yásica Arriba,Yasica Arriba,19.6333,-70.6,Dominican Republic,DO,DOM,Cibao Norte,,23114.0,1214961311
+Los Llanos,Los Llanos,18.6167,-69.5,Dominican Republic,DO,DOM,Higuamo,,22573.0,1214827487
+Fantino,Fantino,19.12,-70.3,Dominican Republic,DO,DOM,Cibao Sur,,22117.0,1214690546
+Imbert,Imbert,19.75,-70.83,Dominican Republic,DO,DOM,Cibao Norte,,22058.0,1214841886
+San Rafael del Yuma,San Rafael del Yuma,18.4333,-68.6667,Dominican Republic,DO,DOM,Yuma,,21967.0,1214650912
+Vicente Noble,Vicente Noble,18.3833,-71.1833,Dominican Republic,DO,DOM,Enriquillo,,21605.0,1214778645
+San Víctor Abajo,San Victor Abajo,19.45,-70.53,Dominican Republic,DO,DOM,Cibao Norte,,21009.0,1214414391
+Piedra Blanca,Piedra Blanca,18.8438,-70.3157,Dominican Republic,DO,DOM,Cibao Sur,,20934.0,1214843839
+Esperalvillo,Esperalvillo,18.82,-70.03,Dominican Republic,DO,DOM,Higuamo,,20900.0,1214132473
+Sánchez,Sanchez,19.2282,-69.6128,Dominican Republic,DO,DOM,Cibao Nordeste,,20865.0,1214869405
+Cercado Abajo,Cercado Abajo,18.73,-71.52,Dominican Republic,DO,DOM,El Valle,,20843.0,1214618384
+Miches,Miches,18.98,-69.05,Dominican Republic,DO,DOM,Yuma,,20813.0,1214377408
+Jicomé,Jicome,19.65,-70.95,Dominican Republic,DO,DOM,Cibao Noroeste,,20777.0,1214269436
+Luperón,Luperon,19.9,-70.95,Dominican Republic,DO,DOM,Cibao Norte,,20259.0,1214308542
+Río Grande,Rio Grande,19.73,-70.8,Dominican Republic,DO,DOM,Cibao Norte,,20154.0,1214092035
+Altamira,Altamira,19.6667,-70.8333,Dominican Republic,DO,DOM,Cibao Norte,,18868.0,1214514689
+Las Terrenas,Las Terrenas,19.32,-69.53,Dominican Republic,DO,DOM,Cibao Nordeste,,18829.0,1214125963
+Maimón,Maimon,18.77,-70.33,Dominican Republic,DO,DOM,Cibao Sur,,18655.0,1214149201
+Pimentel,Pimentel,19.1833,-70.1,Dominican Republic,DO,DOM,Cibao Nordeste,,17864.0,1214665602
+Cenoví,Cenovi,19.25,-70.37,Dominican Republic,DO,DOM,Cibao Nordeste,,17857.0,1214125293
+Tábara Arriba,Tabara Arriba,18.5694,-70.8792,Dominican Republic,DO,DOM,Valdesia,,17647.0,1214703827
+Yayas de Viajama,Yayas de Viajama,18.6,-70.92,Dominican Republic,DO,DOM,Valdesia,,17620.0,1214963330
+Villa Isabela,Villa Isabela,19.82,-71.05,Dominican Republic,DO,DOM,Cibao Norte,,17169.0,1214019421
+Santo Tomás de Jánico,Santo Tomas de Janico,19.4,-70.8,Dominican Republic,DO,DOM,Cibao Norte,,16993.0,1214364807
+Guaymate,Guaymate,18.58,-68.98,Dominican Republic,DO,DOM,Yuma,,16558.0,1214081912
+Ramón Santana,Ramon Santana,18.55,-69.1833,Dominican Republic,DO,DOM,Higuamo,,16548.0,1214143135
+Cayetano Germosén,Cayetano Germosen,19.33,-70.48,Dominican Republic,DO,DOM,Cibao Norte,,16439.0,1214204194
+Sabana de La Mar,Sabana de La Mar,19.07,-69.39,Dominican Republic,DO,DOM,Higuamo,,16272.0,1214759253
+Galván,Galvan,18.5039,-71.34,Dominican Republic,DO,DOM,Enriquillo,,15869.0,1214696051
+Castillo,Castillo,19.22,-70.03,Dominican Republic,DO,DOM,Cibao Nordeste,,15709.0,1214863705
+Loma de Cabrera,Loma de Cabrera,19.422,-71.615,Dominican Republic,DO,DOM,Cibao Noroeste,,15624.0,1214366417
+Sabana Grande de Palenque,Sabana Grande de Palenque,18.2667,-70.15,Dominican Republic,DO,DOM,Valdesia,,15466.0,1214912665
+Jamao al Norte,Jamao al Norte,19.65,-70.6167,Dominican Republic,DO,DOM,Cibao Norte,,15390.0,1214314716
+Río San Juan,Rio San Juan,19.64,-70.08,Dominican Republic,DO,DOM,Cibao Nordeste,,15168.0,1214629665
+Castañuelas,Castanuelas,19.7,-71.5,Dominican Republic,DO,DOM,Cibao Noroeste,,14921.0,1214540220
+Cabral,Cabral,18.25,-71.2167,Dominican Republic,DO,DOM,Enriquillo,,14823.0,1214056250
+Las Guáranas,Las Guaranas,19.2,-70.22,Dominican Republic,DO,DOM,Cibao Nordeste,,14661.0,1214326778
+Cabarete,Cabarete,19.7511,-70.4083,Dominican Republic,DO,DOM,Cibao Norte,,14600.0,1214941065
+Paraíso,Paraiso,18.0,-71.1667,Dominican Republic,DO,DOM,Enriquillo,,14472.0,1214707712
+Villa Vásquez,Villa Vasquez,19.74,-71.45,Dominican Republic,DO,DOM,Cibao Noroeste,,14424.0,1214796601
+Arenoso,Arenoso,19.18,-69.85,Dominican Republic,DO,DOM,Cibao Nordeste,,14062.0,1214932555
+Pedernales,Pedernales,18.0333,-71.75,Dominican Republic,DO,DOM,Enriquillo,minor,13805.0,1214415453
+Duvergé,Duverge,18.38,-71.3633,Dominican Republic,DO,DOM,Enriquillo,,13668.0,1214710572
+Sabana Iglesia,Sabana Iglesia,19.33,-70.75,Dominican Republic,DO,DOM,Cibao Norte,,13348.0,1214409279
+Juan de Herrera,Juan de Herrera,18.8667,-71.2333,Dominican Republic,DO,DOM,El Valle,,12963.0,1214992695
+Los Hidalgos,Los Hidalgos,19.73,-71.03,Dominican Republic,DO,DOM,Cibao Norte,,12639.0,1214268175
+Cevicos,Cevicos,19.0,-69.98,Dominican Republic,DO,DOM,Cibao Sur,,12589.0,1214401810
+Los Bellosos,Los Bellosos,19.8333,-71.0167,Dominican Republic,DO,DOM,Cibao Norte,,12414.0,1214104845
+Vallejuelo,Vallejuelo,18.65,-71.33,Dominican Republic,DO,DOM,El Valle,,12403.0,1214441701
+Baitoa,Baitoa,19.32,-70.7,Dominican Republic,DO,DOM,Cibao Sur,,11778.0,1214626953
+Monción,Moncion,19.4167,-71.1667,Dominican Republic,DO,DOM,Cibao Noroeste,,11753.0,1214972514
+Jimaní,Jimani,18.49,-71.85,Dominican Republic,DO,DOM,Enriquillo,minor,11414.0,1214388193
+Sabana Yegua,Sabana Yegua,18.72,-71.02,Dominican Republic,DO,DOM,Valdesia,,11300.0,1214338368
+Las Charcas,Las Charcas,18.45,-70.62,Dominican Republic,DO,DOM,Valdesia,,11243.0,1214615572
+Pueblo Viejo,Pueblo Viejo,18.4,-70.7667,Dominican Republic,DO,DOM,Valdesia,,11235.0,1214567482
+Los Almácigos,Los Almacigos,19.4083,-71.4417,Dominican Republic,DO,DOM,Cibao Noroeste,,11183.0,1214526672
+Villa Jaragua,Villa Jaragua,18.48,-71.5,Dominican Republic,DO,DOM,Enriquillo,,10619.0,1214346241
+Las Matas de Santa Cruz,Las Matas de Santa Cruz,19.67,-71.5,Dominican Republic,DO,DOM,Cibao Noroeste,,10559.0,1214200513
+Sabaneta de Yásica,Sabaneta de Yasica,19.6667,-70.3833,Dominican Republic,DO,DOM,Cibao Norte,,10545.0,1214622077
+Rancho Arriba,Rancho Arriba,18.7147,-70.4618,Dominican Republic,DO,DOM,Valdesia,,10299.0,1214914352
+Enriquillo,Enriquillo,17.9,-71.2333,Dominican Republic,DO,DOM,Enriquillo,,10254.0,1214173250
+Los Ríos,Los Rios,18.5219,-71.59,Dominican Republic,DO,DOM,Enriquillo,,9963.0,1214434775
+Sabana Larga,Sabana Larga,18.585,-70.4982,Dominican Republic,DO,DOM,Valdesia,,9794.0,1214812327
+Bohechío,Bohechio,18.77,-70.98,Dominican Republic,DO,DOM,El Valle,,9685.0,1214699842
+El Cacao,El Cacao,18.5264,-70.2954,Dominican Republic,DO,DOM,Valdesia,,9540.0,1214839567
+Maizal,Maizal,19.65,-71.03,Dominican Republic,DO,DOM,Cibao Noroeste,,9486.0,1214473100
+Pepillo Salcedo,Pepillo Salcedo,19.7,-71.75,Dominican Republic,DO,DOM,Cibao Noroeste,,9136.0,1214570640
+El Valle,El Valle,18.9764,-69.3792,Dominican Republic,DO,DOM,Higuamo,,8855.0,1214732998
+Peralta,Peralta,18.5167,-70.7833,Dominican Republic,DO,DOM,Valdesia,,8596.0,1214056600

@@ -1,0 +1,25 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Dubai,Dubai,25.2631,55.2972,United Arab Emirates,AE,ARE,Dubayy,admin,3331420.0,1784736618
+Abu Dhabi,Abu Dhabi,24.4667,54.3667,United Arab Emirates,AE,ARE,Abū Z̧aby,primary,1483000.0,1784176710
+Sharjah,Sharjah,25.3575,55.3908,United Arab Emirates,AE,ARE,Ash Shāriqah,admin,1247749.0,1784152993
+Al ‘Ayn,Al `Ayn,24.2075,55.7447,United Arab Emirates,AE,ARE,Abū Z̧aby,,766936.0,1784674685
+‘Ajmān,`Ajman,25.4136,55.4456,United Arab Emirates,AE,ARE,‘Ajmān,admin,490035.0,1784337875
+Ra’s al Khaymah,Ra's al Khaymah,25.7667,55.95,United Arab Emirates,AE,ARE,Ra’s al Khaymah,admin,115949.0,1784053892
+Al Fujayrah,Al Fujayrah,25.1222,56.3344,United Arab Emirates,AE,ARE,Al Fujayrah,admin,93673.0,1784909196
+Umm al Qaywayn,Umm al Qaywayn,25.5533,55.5475,United Arab Emirates,AE,ARE,Umm al Qaywayn,admin,59098.0,1784525230
+Kalbā,Kalba,25.0742,56.3553,United Arab Emirates,AE,ARE,Ash Shāriqah,,51000.0,1784956003
+Khawr Fakkān,Khawr Fakkan,25.3333,56.35,United Arab Emirates,AE,ARE,Ash Shāriqah,,43223.0,1784935461
+Madīnat Zāyid,Madinat Zayid,23.6522,53.6536,United Arab Emirates,AE,ARE,Abū Z̧aby,,29095.0,1784810704
+Al Jazīrah al Ḩamrā’,Al Jazirah al Hamra',25.7089,55.7972,United Arab Emirates,AE,ARE,Ra’s al Khaymah,,10190.0,1784137216
+Dubai,Dubai,25.2631,55.2972,United Arab Emirates,AE,ARE,Dubayy,admin,3331420.0,1784736618
+Abu Dhabi,Abu Dhabi,24.4667,54.3667,United Arab Emirates,AE,ARE,Abū Z̧aby,primary,1483000.0,1784176710
+Sharjah,Sharjah,25.3575,55.3908,United Arab Emirates,AE,ARE,Ash Shāriqah,admin,1247749.0,1784152993
+Al ‘Ayn,Al `Ayn,24.2075,55.7447,United Arab Emirates,AE,ARE,Abū Z̧aby,,766936.0,1784674685
+‘Ajmān,`Ajman,25.4136,55.4456,United Arab Emirates,AE,ARE,‘Ajmān,admin,490035.0,1784337875
+Ra’s al Khaymah,Ra's al Khaymah,25.7667,55.95,United Arab Emirates,AE,ARE,Ra’s al Khaymah,admin,115949.0,1784053892
+Al Fujayrah,Al Fujayrah,25.1222,56.3344,United Arab Emirates,AE,ARE,Al Fujayrah,admin,93673.0,1784909196
+Umm al Qaywayn,Umm al Qaywayn,25.5533,55.5475,United Arab Emirates,AE,ARE,Umm al Qaywayn,admin,59098.0,1784525230
+Kalbā,Kalba,25.0742,56.3553,United Arab Emirates,AE,ARE,Ash Shāriqah,,51000.0,1784956003
+Khawr Fakkān,Khawr Fakkan,25.3333,56.35,United Arab Emirates,AE,ARE,Ash Shāriqah,,43223.0,1784935461
+Madīnat Zāyid,Madinat Zayid,23.6522,53.6536,United Arab Emirates,AE,ARE,Abū Z̧aby,,29095.0,1784810704
+Al Jazīrah al Ḩamrā’,Al Jazirah al Hamra',25.7089,55.7972,United Arab Emirates,AE,ARE,Ra’s al Khaymah,,10190.0,1784137216

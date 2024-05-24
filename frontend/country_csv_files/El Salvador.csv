@@ -1,0 +1,297 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+San Salvador,San Salvador,13.6989,-89.1914,El Salvador,SV,SLV,San Salvador,primary,316090.0,1222647454
+Santa Ana,Santa Ana,13.995,-89.5561,El Salvador,SV,SLV,Santa Ana,admin,280000.0,1222021362
+Soyapango,Soyapango,13.7333,-89.15,El Salvador,SV,SLV,San Salvador,,241403.0,1222702692
+San Miguel,San Miguel,13.4814,-88.1775,El Salvador,SV,SLV,San Miguel,admin,218410.0,1222009747
+Santa Tecla,Santa Tecla,13.6731,-89.2406,El Salvador,SV,SLV,La Libertad,admin,199103.0,1222613306
+Mejicanos,Mejicanos,13.7333,-89.2167,El Salvador,SV,SLV,San Salvador,,140751.0,1222243504
+Apopa,Apopa,13.8,-89.1833,El Salvador,SV,SLV,San Salvador,,131286.0,1222101845
+Delgado,Delgado,13.7167,-89.1667,El Salvador,SV,SLV,San Salvador,,120200.0,1222858341
+Ahuachapán,Ahuachapan,13.9167,-89.85,El Salvador,SV,SLV,Ahuachapán,admin,110511.0,1222480039
+Ilopango,Ilopango,13.7,-89.1167,El Salvador,SV,SLV,San Salvador,,103862.0,1222852644
+Colón,Colon,13.7167,-89.3667,El Salvador,SV,SLV,La Libertad,,96989.0,1222369620
+Tonacatepeque,Tonacatepeque,13.7833,-89.1167,El Salvador,SV,SLV,San Salvador,,90896.0,1222948232
+San Juan Opico,San Juan Opico,13.8833,-89.35,El Salvador,SV,SLV,La Libertad,,74280.0,1222760219
+Chalchuapa,Chalchuapa,13.9833,-89.6833,El Salvador,SV,SLV,Santa Ana,,74038.0,1222559007
+Usulután,Usulutan,13.35,-88.45,El Salvador,SV,SLV,Usulután,admin,73064.0,1222984157
+San Martín,San Martin,13.7333,-89.05,El Salvador,SV,SLV,San Salvador,,72758.0,1222884099
+Sonsonate,Sonsonate,13.7167,-89.7167,El Salvador,SV,SLV,Sonsonate,admin,71541.0,1222380208
+Izalco,Izalco,13.7333,-89.6667,El Salvador,SV,SLV,Sonsonate,,70959.0,1222502574
+Cuscatancingo,Cuscatancingo,13.7333,-89.1833,El Salvador,SV,SLV,San Salvador,,66400.0,1222934169
+Zacatecoluca,Zacatecoluca,13.5,-88.8667,El Salvador,SV,SLV,La Paz,admin,65826.0,1222647953
+San Marcos,San Marcos,13.5833,-89.2167,El Salvador,SV,SLV,San Salvador,,63209.0,1222304332
+Ilobasco,Ilobasco,13.84,-88.85,El Salvador,SV,SLV,Cabañas,,61510.0,1222256705
+Ciudad Arce,Ciudad Arce,13.8333,-89.4333,El Salvador,SV,SLV,La Libertad,,60314.0,1222728065
+Metapán,Metapan,14.3314,-89.4428,El Salvador,SV,SLV,Santa Ana,,59004.0,1222716890
+San Vicente,San Vicente,13.6453,-88.7842,El Salvador,SV,SLV,San Vicente,admin,53213.0,1222913273
+Quezaltepeque,Quezaltepeque,13.8333,-89.2667,El Salvador,SV,SLV,La Libertad,,52643.0,1222731128
+Acajutla,Acajutla,13.59,-89.8336,El Salvador,SV,SLV,Sonsonate,,52359.0,1222402975
+Cojutepeque,Cojutepeque,13.7167,-88.9333,El Salvador,SV,SLV,Cuscatlán,admin,50315.0,1222979186
+Nahuizalco,Nahuizalco,13.7833,-89.7333,El Salvador,SV,SLV,Sonsonate,,49081.0,1222682318
+Jiquilisco,Jiquilisco,13.3167,-88.5833,El Salvador,SV,SLV,Usulután,,47784.0,1222869394
+San Pedro Perulapán,San Pedro Perulapan,13.7667,-89.0333,El Salvador,SV,SLV,Cuscatlán,,44730.0,1222471656
+San Francisco Menéndez,San Francisco Menendez,13.8425,-90.0167,El Salvador,SV,SLV,Ahuachapán,,42607.0,1222612864
+Panchimalco,Panchimalco,13.6167,-89.1833,El Salvador,SV,SLV,San Salvador,,41260.0,1222019251
+Sensuntepeque,Sensuntepeque,13.8667,-88.6333,El Salvador,SV,SLV,Cabañas,admin,40332.0,1222098918
+Santiago Nonualco,Santiago Nonualco,13.5167,-88.95,El Salvador,SV,SLV,La Paz,,39887.0,1222183134
+Conchagua,Conchagua,13.3,-87.8667,El Salvador,SV,SLV,La Unión,,37362.0,1222328489
+Coatepeque,Coatepeque,13.9167,-89.5,El Salvador,SV,SLV,Santa Ana,,36768.0,1222820033
+La Libertad,La Libertad,13.4833,-89.3167,El Salvador,SV,SLV,La Libertad,,35997.0,1222663809
+Armenia,Armenia,13.75,-89.5,El Salvador,SV,SLV,Sonsonate,,34912.0,1222071319
+Ayutuxtepeque,Ayutuxtepeque,13.7353,-89.2001,El Salvador,SV,SLV,San Salvador,,34710.0,1222570043
+La Unión,La Union,13.3369,-87.8439,El Salvador,SV,SLV,La Unión,admin,34045.0,1222307415
+Antiguo Cuscatlán,Antiguo Cuscatlan,13.6731,-89.2406,El Salvador,SV,SLV,La Libertad,,33698.0,1222807849
+Atiquizaya,Atiquizaya,13.9667,-89.75,El Salvador,SV,SLV,Ahuachapán,,33587.0,1222716346
+Tacuba,Tacuba,13.9,-89.9333,El Salvador,SV,SLV,Ahuachapán,,29858.0,1222693059
+Olocuilta,Olocuilta,13.5667,-89.1167,El Salvador,SV,SLV,La Paz,,29529.0,1222567022
+Nejapa,Nejapa,13.8167,-89.2333,El Salvador,SV,SLV,San Salvador,,29458.0,1222106178
+Chalatenango,Chalatenango,14.0333,-88.9333,El Salvador,SV,SLV,Chalatenango,admin,29271.0,1222515741
+Nueva Concepción,Nueva Concepcion,14.1333,-89.3,El Salvador,SV,SLV,Chalatenango,,28625.0,1222433381
+Jujutla,Jujutla,13.7833,-89.85,El Salvador,SV,SLV,Ahuachapán,,28599.0,1222833658
+Santa Rosa de Lima,Santa Rosa de Lima,13.6167,-87.9,El Salvador,SV,SLV,La Unión,,27693.0,1222685662
+San Antonio del Monte,San Antonio del Monte,13.7167,-89.7333,El Salvador,SV,SLV,Sonsonate,,26902.0,1222683305
+San Pedro Masahuat,San Pedro Masahuat,13.55,-89.0333,El Salvador,SV,SLV,La Paz,,25446.0,1222970423
+Santo Tomás,Santo Tomas,13.6333,-89.1333,El Salvador,SV,SLV,San Salvador,,25344.0,1222067749
+Sonzacate,Sonzacate,13.7356,-89.7161,El Salvador,SV,SLV,Sonsonate,,25005.0,1222944408
+Ciudad Barrios,Ciudad Barrios,13.7667,-88.2667,El Salvador,SV,SLV,San Miguel,,24817.0,1222390192
+Suchitoto,Suchitoto,13.9333,-89.0333,El Salvador,SV,SLV,Cuscatlán,,24786.0,1222451223
+Juayúa,Juayua,13.8333,-89.7333,El Salvador,SV,SLV,Sonsonate,,24465.0,1222293042
+El Congo,El Congo,13.9,-89.4833,El Salvador,SV,SLV,Santa Ana,,24219.0,1222555785
+Tecoluca,Tecoluca,13.5333,-88.7833,El Salvador,SV,SLV,San Vicente,,23893.0,1222261273
+Candelaria de La Frontera,Candelaria de La Frontera,14.1167,-89.65,El Salvador,SV,SLV,Santa Ana,,22686.0,1222926680
+Moncagua,Moncagua,13.5333,-88.25,El Salvador,SV,SLV,San Miguel,,22659.0,1222775983
+Zaragoza,Zaragoza,13.5833,-89.2833,El Salvador,SV,SLV,La Libertad,,22525.0,1222511136
+Chinameca,Chinameca,13.5,-88.35,El Salvador,SV,SLV,San Miguel,,22311.0,1222091549
+San Luis Talpa,San Luis Talpa,13.4667,-89.0833,El Salvador,SV,SLV,La Paz,,21675.0,1222408635
+Aguilares,Aguilares,13.95,-89.1833,El Salvador,SV,SLV,San Salvador,,21267.0,1222041807
+San Francisco,San Francisco,13.7,-88.1,El Salvador,SV,SLV,Morazán,admin,21049.0,1222399599
+San Pablo Tacachico,San Pablo Tacachico,13.9833,-89.3333,El Salvador,SV,SLV,La Libertad,,20366.0,1222464650
+Chirilagua,Chirilagua,13.2167,-88.1386,El Salvador,SV,SLV,San Miguel,,19984.0,1222360893
+Santiago Texacuangos,Santiago Texacuangos,13.65,-89.1167,El Salvador,SV,SLV,San Salvador,,19428.0,1222859867
+Guaymango,Guaymango,13.75,-89.8333,El Salvador,SV,SLV,Ahuachapán,,19037.0,1222351635
+San Julián,San Julian,13.6976,-89.5596,El Salvador,SV,SLV,Sonsonate,,18648.0,1222097757
+San Sebastián Salitrillo,San Sebastian Salitrillo,13.95,-89.6333,El Salvador,SV,SLV,Santa Ana,,18566.0,1222442997
+Jucuapa,Jucuapa,13.5167,-88.3833,El Salvador,SV,SLV,Usulután,,18442.0,1222623868
+El Tránsito,El Transito,13.35,-88.35,El Salvador,SV,SLV,San Miguel,,18363.0,1222690970
+Apastepeque,Apastepeque,13.6667,-88.7667,El Salvador,SV,SLV,San Vicente,,18342.0,1222195494
+Santiago de María,Santiago de Maria,13.4833,-88.4667,El Salvador,SV,SLV,Usulután,,18201.0,1222971304
+Texistepeque,Texistepeque,14.1333,-89.5,El Salvador,SV,SLV,Santa Ana,,17923.0,1222835765
+Berlín,Berlin,13.5,-88.5333,El Salvador,SV,SLV,Usulután,,17787.0,1222050508
+San Alejo,San Alejo,13.4333,-87.9667,El Salvador,SV,SLV,La Unión,,17598.0,1222190285
+Santa Elena,Santa Elena,13.3833,-88.4167,El Salvador,SV,SLV,Usulután,,17342.0,1222446102
+San Juan Nonualco,San Juan Nonualco,13.5072,-88.8997,El Salvador,SV,SLV,La Paz,,17256.0,1222379264
+San Rafael Cedros,San Rafael Cedros,13.7333,-88.8833,El Salvador,SV,SLV,Cuscatlán,,17069.0,1222366819
+El Rosario,El Rosario,13.5,-89.0333,El Salvador,SV,SLV,La Paz,,16784.0,1222543838
+Puerto El Triunfo,Puerto El Triunfo,13.2833,-88.55,El Salvador,SV,SLV,Usulután,,16584.0,1222465303
+Pasaquina,Pasaquina,13.5844,-87.8411,El Salvador,SV,SLV,La Unión,,16375.0,1222645421
+Corinto,Corinto,13.8167,-87.9667,El Salvador,SV,SLV,Morazán,,15410.0,1222976576
+Lolotique,Lolotique,13.55,-88.35,El Salvador,SV,SLV,San Miguel,,14916.0,1222136023
+Anamorós,Anamoros,13.7333,-87.8667,El Salvador,SV,SLV,La Unión,,14551.0,1222875440
+El Paisnal,El Paisnal,13.9667,-89.2167,El Salvador,SV,SLV,San Salvador,,14551.0,1222184186
+Huizúcar,Huizucar,13.5833,-89.2333,El Salvador,SV,SLV,La Libertad,,14465.0,1222927503
+San Sebastián,San Sebastian,13.7333,-88.8333,El Salvador,SV,SLV,San Vicente,,14411.0,1222133372
+Tepecoyo,Tepecoyo,13.7003,-89.4678,El Salvador,SV,SLV,La Libertad,,14322.0,1222039134
+Tejutla,Tejutla,14.1667,-89.1,El Salvador,SV,SLV,Chalatenango,,13608.0,1222169556
+San José Villanueva,San Jose Villanueva,13.5833,-89.2667,El Salvador,SV,SLV,La Libertad,,13576.0,1222497651
+Tamanique,Tamanique,13.6,-89.4167,El Salvador,SV,SLV,La Libertad,,13544.0,1222928536
+Jucuarán,Jucuaran,13.2544,-88.2489,El Salvador,SV,SLV,Usulután,,13424.0,1222034395
+Lislique,Lislique,13.8,-87.8833,El Salvador,SV,SLV,La Unión,,13385.0,1222181387
+El Carmen,El Carmen,13.7167,-88.9,El Salvador,SV,SLV,Cuscatlán,,13345.0,1222575606
+San Rafael Oriente,San Rafael Oriente,13.3833,-88.35,El Salvador,SV,SLV,San Miguel,,13290.0,1222301206
+Mercedes Umaña,Mercedes Umana,13.5667,-88.5,El Salvador,SV,SLV,Usulután,,13092.0,1222697666
+Concepción de Ataco,Concepcion de Ataco,13.8667,-89.85,El Salvador,SV,SLV,Ahuachapán,,12786.0,1222271937
+Cuisnahuat,Cuisnahuat,13.6333,-89.6,El Salvador,SV,SLV,Sonsonate,,12676.0,1222033035
+Victoria,Victoria,13.95,-88.6333,El Salvador,SV,SLV,Cabañas,,12626.0,1222943235
+Ozatlán,Ozatlan,13.3833,-88.5,El Salvador,SV,SLV,Usulután,,12443.0,1222834795
+El Carmen,El Carmen,13.35,-88.0,El Salvador,SV,SLV,La Unión,,12324.0,1222743777
+Teotepeque,Teotepeque,13.5853,-89.5183,El Salvador,SV,SLV,La Libertad,,12320.0,1222208271
+Sacacoyo,Sacacoyo,13.7333,-89.4667,El Salvador,SV,SLV,La Libertad,,12299.0,1222848424
+La Palma,La Palma,14.3167,-89.1667,El Salvador,SV,SLV,Chalatenango,,12235.0,1222549274
+Concepción Batres,Concepcion Batres,13.3416,-88.3715,El Salvador,SV,SLV,Usulután,,12197.0,1222538524
+Comasagua,Comasagua,13.6333,-89.3833,El Salvador,SV,SLV,La Libertad,,11870.0,1222625314
+Santa Cruz Michapa,Santa Cruz Michapa,13.7333,-88.9667,El Salvador,SV,SLV,Cuscatlán,,11790.0,1222002507
+Guatajiagua,Guatajiagua,13.6667,-88.2,El Salvador,SV,SLV,Morazán,,11721.0,1222986309
+Alegría,Alegria,13.5,-88.4833,El Salvador,SV,SLV,Usulután,,11712.0,1222469913
+Sociedad,Sociedad,13.7,-88.0167,El Salvador,SV,SLV,Morazán,,11406.0,1222392301
+Rosario de Mora,Rosario de Mora,13.5833,-89.2167,El Salvador,SV,SLV,San Salvador,,11377.0,1222795595
+Jayaque,Jayaque,13.6667,-89.4333,El Salvador,SV,SLV,La Libertad,,11058.0,1222113291
+Cacaopera,Cacaopera,13.7667,-88.0833,El Salvador,SV,SLV,Morazán,,10943.0,1222915809
+Chiltiupán,Chiltiupan,13.5833,-89.4667,El Salvador,SV,SLV,La Libertad,,10897.0,1222311866
+Santa María,Santa Maria,13.35,-88.4333,El Salvador,SV,SLV,Usulután,,10731.0,1222973586
+Chapeltique,Chapeltique,13.6333,-88.2667,El Salvador,SV,SLV,San Miguel,,10728.0,1222915994
+Sesori,Sesori,13.7167,-88.3667,El Salvador,SV,SLV,San Miguel,,10705.0,1222371980
+El Paraíso,El Paraiso,14.0833,-89.0833,El Salvador,SV,SLV,Chalatenango,,10483.0,1222422397
+Nahulingo,Nahulingo,13.7,-89.7167,El Salvador,SV,SLV,Sonsonate,,10417.0,1222747798
+El Refugio,El Refugio,13.975,-89.7072,El Salvador,SV,SLV,Ahuachapán,,10348.0,1222663684
+Candelaria,Candelaria,13.75,-88.95,El Salvador,SV,SLV,Cuscatlán,,10280.0,1222584902
+Santa Isabel Ishuatán,Santa Isabel Ishuatan,13.6167,-89.5833,El Salvador,SV,SLV,Sonsonate,,10241.0,1222753045
+Monte San Juan,Monte San Juan,13.7667,-88.95,El Salvador,SV,SLV,Cuscatlán,,10224.0,1222428135
+San Simón,San Simon,13.8333,-88.2333,El Salvador,SV,SLV,Morazán,,10102.0,1222320015
+Candelaria,Candelaria,13.689,-88.9755,El Salvador,SV,SLV,Cuscatlán,,10090.0,1222433087
+Santa Catarina Masahuat,Santa Catarina Masahuat,13.7833,-89.7667,El Salvador,SV,SLV,Sonsonate,,10076.0,1222501280
+Jocoro,Jocoro,13.6167,-88.0167,El Salvador,SV,SLV,Morazán,,10060.0,1222901966
+San Rafael Obrajuelo,San Rafael Obrajuelo,13.5,-88.9333,El Salvador,SV,SLV,La Paz,,9820.0,1222700653
+Polorós,Poloros,13.5844,-87.8411,El Salvador,SV,SLV,La Unión,,9701.0,1222036180
+Chilanga,Chilanga,13.7167,-88.1167,El Salvador,SV,SLV,Morazán,,9700.0,1222531910
+Nueva Esparta,Nueva Esparta,13.7833,-87.8333,El Salvador,SV,SLV,La Unión,,9637.0,1222916015
+La Reina,La Reina,14.1833,-89.15,El Salvador,SV,SLV,Chalatenango,,9525.0,1222331926
+San José Guayabal,San Jose Guayabal,13.85,-89.1,El Salvador,SV,SLV,Cuscatlán,,9300.0,1222743447
+San Pedro Nonualco,San Pedro Nonualco,13.6,-88.9333,El Salvador,SV,SLV,La Paz,,9252.0,1222378780
+San Lorenzo,San Lorenzo,14.0333,-89.7833,El Salvador,SV,SLV,Ahuachapán,,9194.0,1222167385
+Caluco,Caluco,13.7167,-89.65,El Salvador,SV,SLV,Sonsonate,,9139.0,1222488164
+San Jorge,San Jorge,13.4142,-88.3435,El Salvador,SV,SLV,San Miguel,,9115.0,1222919359
+San Jorge,San Jorge,13.6833,-88.3833,El Salvador,SV,SLV,San Miguel,,9115.0,1222915945
+Estanzuelas,Estanzuelas,13.65,-88.5,El Salvador,SV,SLV,Usulután,,9015.0,1222473531
+Turín,Turin,13.9667,-89.8167,El Salvador,SV,SLV,Ahuachapán,,8997.0,1222996582
+Dulce Nombre de María,Dulce Nombre de Maria,14.15,-89.0167,El Salvador,SV,SLV,Chalatenango,,8987.0,1222936599
+Osicala,Osicala,13.8,-88.15,El Salvador,SV,SLV,Morazán,,8909.0,1222316940
+Nueva Guadalupe,Nueva Guadalupe,13.5333,-88.35,El Salvador,SV,SLV,San Miguel,,8905.0,1222469128
+San Ignacio,San Ignacio,14.3333,-89.1833,El Salvador,SV,SLV,Chalatenango,,8611.0,1222199797
+San Salvador,San Salvador,13.6989,-89.1914,El Salvador,SV,SLV,San Salvador,primary,316090.0,1222647454
+Santa Ana,Santa Ana,13.995,-89.5561,El Salvador,SV,SLV,Santa Ana,admin,280000.0,1222021362
+Soyapango,Soyapango,13.7333,-89.15,El Salvador,SV,SLV,San Salvador,,241403.0,1222702692
+San Miguel,San Miguel,13.4814,-88.1775,El Salvador,SV,SLV,San Miguel,admin,218410.0,1222009747
+Santa Tecla,Santa Tecla,13.6731,-89.2406,El Salvador,SV,SLV,La Libertad,admin,199103.0,1222613306
+Mejicanos,Mejicanos,13.7333,-89.2167,El Salvador,SV,SLV,San Salvador,,140751.0,1222243504
+Apopa,Apopa,13.8,-89.1833,El Salvador,SV,SLV,San Salvador,,131286.0,1222101845
+Delgado,Delgado,13.7167,-89.1667,El Salvador,SV,SLV,San Salvador,,120200.0,1222858341
+Ahuachapán,Ahuachapan,13.9167,-89.85,El Salvador,SV,SLV,Ahuachapán,admin,110511.0,1222480039
+Ilopango,Ilopango,13.7,-89.1167,El Salvador,SV,SLV,San Salvador,,103862.0,1222852644
+Colón,Colon,13.7167,-89.3667,El Salvador,SV,SLV,La Libertad,,96989.0,1222369620
+Tonacatepeque,Tonacatepeque,13.7833,-89.1167,El Salvador,SV,SLV,San Salvador,,90896.0,1222948232
+San Juan Opico,San Juan Opico,13.8833,-89.35,El Salvador,SV,SLV,La Libertad,,74280.0,1222760219
+Chalchuapa,Chalchuapa,13.9833,-89.6833,El Salvador,SV,SLV,Santa Ana,,74038.0,1222559007
+Usulután,Usulutan,13.35,-88.45,El Salvador,SV,SLV,Usulután,admin,73064.0,1222984157
+San Martín,San Martin,13.7333,-89.05,El Salvador,SV,SLV,San Salvador,,72758.0,1222884099
+Sonsonate,Sonsonate,13.7167,-89.7167,El Salvador,SV,SLV,Sonsonate,admin,71541.0,1222380208
+Izalco,Izalco,13.7333,-89.6667,El Salvador,SV,SLV,Sonsonate,,70959.0,1222502574
+Cuscatancingo,Cuscatancingo,13.7333,-89.1833,El Salvador,SV,SLV,San Salvador,,66400.0,1222934169
+Zacatecoluca,Zacatecoluca,13.5,-88.8667,El Salvador,SV,SLV,La Paz,admin,65826.0,1222647953
+San Marcos,San Marcos,13.5833,-89.2167,El Salvador,SV,SLV,San Salvador,,63209.0,1222304332
+Ilobasco,Ilobasco,13.84,-88.85,El Salvador,SV,SLV,Cabañas,,61510.0,1222256705
+Ciudad Arce,Ciudad Arce,13.8333,-89.4333,El Salvador,SV,SLV,La Libertad,,60314.0,1222728065
+Metapán,Metapan,14.3314,-89.4428,El Salvador,SV,SLV,Santa Ana,,59004.0,1222716890
+San Vicente,San Vicente,13.6453,-88.7842,El Salvador,SV,SLV,San Vicente,admin,53213.0,1222913273
+Quezaltepeque,Quezaltepeque,13.8333,-89.2667,El Salvador,SV,SLV,La Libertad,,52643.0,1222731128
+Acajutla,Acajutla,13.59,-89.8336,El Salvador,SV,SLV,Sonsonate,,52359.0,1222402975
+Cojutepeque,Cojutepeque,13.7167,-88.9333,El Salvador,SV,SLV,Cuscatlán,admin,50315.0,1222979186
+Nahuizalco,Nahuizalco,13.7833,-89.7333,El Salvador,SV,SLV,Sonsonate,,49081.0,1222682318
+Jiquilisco,Jiquilisco,13.3167,-88.5833,El Salvador,SV,SLV,Usulután,,47784.0,1222869394
+San Pedro Perulapán,San Pedro Perulapan,13.7667,-89.0333,El Salvador,SV,SLV,Cuscatlán,,44730.0,1222471656
+San Francisco Menéndez,San Francisco Menendez,13.8425,-90.0167,El Salvador,SV,SLV,Ahuachapán,,42607.0,1222612864
+Panchimalco,Panchimalco,13.6167,-89.1833,El Salvador,SV,SLV,San Salvador,,41260.0,1222019251
+Sensuntepeque,Sensuntepeque,13.8667,-88.6333,El Salvador,SV,SLV,Cabañas,admin,40332.0,1222098918
+Santiago Nonualco,Santiago Nonualco,13.5167,-88.95,El Salvador,SV,SLV,La Paz,,39887.0,1222183134
+Conchagua,Conchagua,13.3,-87.8667,El Salvador,SV,SLV,La Unión,,37362.0,1222328489
+Coatepeque,Coatepeque,13.9167,-89.5,El Salvador,SV,SLV,Santa Ana,,36768.0,1222820033
+La Libertad,La Libertad,13.4833,-89.3167,El Salvador,SV,SLV,La Libertad,,35997.0,1222663809
+Armenia,Armenia,13.75,-89.5,El Salvador,SV,SLV,Sonsonate,,34912.0,1222071319
+Ayutuxtepeque,Ayutuxtepeque,13.7353,-89.2001,El Salvador,SV,SLV,San Salvador,,34710.0,1222570043
+La Unión,La Union,13.3369,-87.8439,El Salvador,SV,SLV,La Unión,admin,34045.0,1222307415
+Antiguo Cuscatlán,Antiguo Cuscatlan,13.6731,-89.2406,El Salvador,SV,SLV,La Libertad,,33698.0,1222807849
+Atiquizaya,Atiquizaya,13.9667,-89.75,El Salvador,SV,SLV,Ahuachapán,,33587.0,1222716346
+Tacuba,Tacuba,13.9,-89.9333,El Salvador,SV,SLV,Ahuachapán,,29858.0,1222693059
+Olocuilta,Olocuilta,13.5667,-89.1167,El Salvador,SV,SLV,La Paz,,29529.0,1222567022
+Nejapa,Nejapa,13.8167,-89.2333,El Salvador,SV,SLV,San Salvador,,29458.0,1222106178
+Chalatenango,Chalatenango,14.0333,-88.9333,El Salvador,SV,SLV,Chalatenango,admin,29271.0,1222515741
+Nueva Concepción,Nueva Concepcion,14.1333,-89.3,El Salvador,SV,SLV,Chalatenango,,28625.0,1222433381
+Jujutla,Jujutla,13.7833,-89.85,El Salvador,SV,SLV,Ahuachapán,,28599.0,1222833658
+Santa Rosa de Lima,Santa Rosa de Lima,13.6167,-87.9,El Salvador,SV,SLV,La Unión,,27693.0,1222685662
+San Antonio del Monte,San Antonio del Monte,13.7167,-89.7333,El Salvador,SV,SLV,Sonsonate,,26902.0,1222683305
+San Pedro Masahuat,San Pedro Masahuat,13.55,-89.0333,El Salvador,SV,SLV,La Paz,,25446.0,1222970423
+Santo Tomás,Santo Tomas,13.6333,-89.1333,El Salvador,SV,SLV,San Salvador,,25344.0,1222067749
+Sonzacate,Sonzacate,13.7356,-89.7161,El Salvador,SV,SLV,Sonsonate,,25005.0,1222944408
+Ciudad Barrios,Ciudad Barrios,13.7667,-88.2667,El Salvador,SV,SLV,San Miguel,,24817.0,1222390192
+Suchitoto,Suchitoto,13.9333,-89.0333,El Salvador,SV,SLV,Cuscatlán,,24786.0,1222451223
+Juayúa,Juayua,13.8333,-89.7333,El Salvador,SV,SLV,Sonsonate,,24465.0,1222293042
+El Congo,El Congo,13.9,-89.4833,El Salvador,SV,SLV,Santa Ana,,24219.0,1222555785
+Tecoluca,Tecoluca,13.5333,-88.7833,El Salvador,SV,SLV,San Vicente,,23893.0,1222261273
+Candelaria de La Frontera,Candelaria de La Frontera,14.1167,-89.65,El Salvador,SV,SLV,Santa Ana,,22686.0,1222926680
+Moncagua,Moncagua,13.5333,-88.25,El Salvador,SV,SLV,San Miguel,,22659.0,1222775983
+Zaragoza,Zaragoza,13.5833,-89.2833,El Salvador,SV,SLV,La Libertad,,22525.0,1222511136
+Chinameca,Chinameca,13.5,-88.35,El Salvador,SV,SLV,San Miguel,,22311.0,1222091549
+San Luis Talpa,San Luis Talpa,13.4667,-89.0833,El Salvador,SV,SLV,La Paz,,21675.0,1222408635
+Aguilares,Aguilares,13.95,-89.1833,El Salvador,SV,SLV,San Salvador,,21267.0,1222041807
+San Francisco,San Francisco,13.7,-88.1,El Salvador,SV,SLV,Morazán,admin,21049.0,1222399599
+San Pablo Tacachico,San Pablo Tacachico,13.9833,-89.3333,El Salvador,SV,SLV,La Libertad,,20366.0,1222464650
+Chirilagua,Chirilagua,13.2167,-88.1386,El Salvador,SV,SLV,San Miguel,,19984.0,1222360893
+Santiago Texacuangos,Santiago Texacuangos,13.65,-89.1167,El Salvador,SV,SLV,San Salvador,,19428.0,1222859867
+Guaymango,Guaymango,13.75,-89.8333,El Salvador,SV,SLV,Ahuachapán,,19037.0,1222351635
+San Julián,San Julian,13.6976,-89.5596,El Salvador,SV,SLV,Sonsonate,,18648.0,1222097757
+San Sebastián Salitrillo,San Sebastian Salitrillo,13.95,-89.6333,El Salvador,SV,SLV,Santa Ana,,18566.0,1222442997
+Jucuapa,Jucuapa,13.5167,-88.3833,El Salvador,SV,SLV,Usulután,,18442.0,1222623868
+El Tránsito,El Transito,13.35,-88.35,El Salvador,SV,SLV,San Miguel,,18363.0,1222690970
+Apastepeque,Apastepeque,13.6667,-88.7667,El Salvador,SV,SLV,San Vicente,,18342.0,1222195494
+Santiago de María,Santiago de Maria,13.4833,-88.4667,El Salvador,SV,SLV,Usulután,,18201.0,1222971304
+Texistepeque,Texistepeque,14.1333,-89.5,El Salvador,SV,SLV,Santa Ana,,17923.0,1222835765
+Berlín,Berlin,13.5,-88.5333,El Salvador,SV,SLV,Usulután,,17787.0,1222050508
+San Alejo,San Alejo,13.4333,-87.9667,El Salvador,SV,SLV,La Unión,,17598.0,1222190285
+Santa Elena,Santa Elena,13.3833,-88.4167,El Salvador,SV,SLV,Usulután,,17342.0,1222446102
+San Juan Nonualco,San Juan Nonualco,13.5072,-88.8997,El Salvador,SV,SLV,La Paz,,17256.0,1222379264
+San Rafael Cedros,San Rafael Cedros,13.7333,-88.8833,El Salvador,SV,SLV,Cuscatlán,,17069.0,1222366819
+El Rosario,El Rosario,13.5,-89.0333,El Salvador,SV,SLV,La Paz,,16784.0,1222543838
+Puerto El Triunfo,Puerto El Triunfo,13.2833,-88.55,El Salvador,SV,SLV,Usulután,,16584.0,1222465303
+Pasaquina,Pasaquina,13.5844,-87.8411,El Salvador,SV,SLV,La Unión,,16375.0,1222645421
+Corinto,Corinto,13.8167,-87.9667,El Salvador,SV,SLV,Morazán,,15410.0,1222976576
+Lolotique,Lolotique,13.55,-88.35,El Salvador,SV,SLV,San Miguel,,14916.0,1222136023
+Anamorós,Anamoros,13.7333,-87.8667,El Salvador,SV,SLV,La Unión,,14551.0,1222875440
+El Paisnal,El Paisnal,13.9667,-89.2167,El Salvador,SV,SLV,San Salvador,,14551.0,1222184186
+Huizúcar,Huizucar,13.5833,-89.2333,El Salvador,SV,SLV,La Libertad,,14465.0,1222927503
+San Sebastián,San Sebastian,13.7333,-88.8333,El Salvador,SV,SLV,San Vicente,,14411.0,1222133372
+Tepecoyo,Tepecoyo,13.7003,-89.4678,El Salvador,SV,SLV,La Libertad,,14322.0,1222039134
+Tejutla,Tejutla,14.1667,-89.1,El Salvador,SV,SLV,Chalatenango,,13608.0,1222169556
+San José Villanueva,San Jose Villanueva,13.5833,-89.2667,El Salvador,SV,SLV,La Libertad,,13576.0,1222497651
+Tamanique,Tamanique,13.6,-89.4167,El Salvador,SV,SLV,La Libertad,,13544.0,1222928536
+Jucuarán,Jucuaran,13.2544,-88.2489,El Salvador,SV,SLV,Usulután,,13424.0,1222034395
+Lislique,Lislique,13.8,-87.8833,El Salvador,SV,SLV,La Unión,,13385.0,1222181387
+El Carmen,El Carmen,13.7167,-88.9,El Salvador,SV,SLV,Cuscatlán,,13345.0,1222575606
+San Rafael Oriente,San Rafael Oriente,13.3833,-88.35,El Salvador,SV,SLV,San Miguel,,13290.0,1222301206
+Mercedes Umaña,Mercedes Umana,13.5667,-88.5,El Salvador,SV,SLV,Usulután,,13092.0,1222697666
+Concepción de Ataco,Concepcion de Ataco,13.8667,-89.85,El Salvador,SV,SLV,Ahuachapán,,12786.0,1222271937
+Cuisnahuat,Cuisnahuat,13.6333,-89.6,El Salvador,SV,SLV,Sonsonate,,12676.0,1222033035
+Victoria,Victoria,13.95,-88.6333,El Salvador,SV,SLV,Cabañas,,12626.0,1222943235
+Ozatlán,Ozatlan,13.3833,-88.5,El Salvador,SV,SLV,Usulután,,12443.0,1222834795
+El Carmen,El Carmen,13.35,-88.0,El Salvador,SV,SLV,La Unión,,12324.0,1222743777
+Teotepeque,Teotepeque,13.5853,-89.5183,El Salvador,SV,SLV,La Libertad,,12320.0,1222208271
+Sacacoyo,Sacacoyo,13.7333,-89.4667,El Salvador,SV,SLV,La Libertad,,12299.0,1222848424
+La Palma,La Palma,14.3167,-89.1667,El Salvador,SV,SLV,Chalatenango,,12235.0,1222549274
+Concepción Batres,Concepcion Batres,13.3416,-88.3715,El Salvador,SV,SLV,Usulután,,12197.0,1222538524
+Comasagua,Comasagua,13.6333,-89.3833,El Salvador,SV,SLV,La Libertad,,11870.0,1222625314
+Santa Cruz Michapa,Santa Cruz Michapa,13.7333,-88.9667,El Salvador,SV,SLV,Cuscatlán,,11790.0,1222002507
+Guatajiagua,Guatajiagua,13.6667,-88.2,El Salvador,SV,SLV,Morazán,,11721.0,1222986309
+Alegría,Alegria,13.5,-88.4833,El Salvador,SV,SLV,Usulután,,11712.0,1222469913
+Sociedad,Sociedad,13.7,-88.0167,El Salvador,SV,SLV,Morazán,,11406.0,1222392301
+Rosario de Mora,Rosario de Mora,13.5833,-89.2167,El Salvador,SV,SLV,San Salvador,,11377.0,1222795595
+Jayaque,Jayaque,13.6667,-89.4333,El Salvador,SV,SLV,La Libertad,,11058.0,1222113291
+Cacaopera,Cacaopera,13.7667,-88.0833,El Salvador,SV,SLV,Morazán,,10943.0,1222915809
+Chiltiupán,Chiltiupan,13.5833,-89.4667,El Salvador,SV,SLV,La Libertad,,10897.0,1222311866
+Santa María,Santa Maria,13.35,-88.4333,El Salvador,SV,SLV,Usulután,,10731.0,1222973586
+Chapeltique,Chapeltique,13.6333,-88.2667,El Salvador,SV,SLV,San Miguel,,10728.0,1222915994
+Sesori,Sesori,13.7167,-88.3667,El Salvador,SV,SLV,San Miguel,,10705.0,1222371980
+El Paraíso,El Paraiso,14.0833,-89.0833,El Salvador,SV,SLV,Chalatenango,,10483.0,1222422397
+Nahulingo,Nahulingo,13.7,-89.7167,El Salvador,SV,SLV,Sonsonate,,10417.0,1222747798
+El Refugio,El Refugio,13.975,-89.7072,El Salvador,SV,SLV,Ahuachapán,,10348.0,1222663684
+Candelaria,Candelaria,13.75,-88.95,El Salvador,SV,SLV,Cuscatlán,,10280.0,1222584902
+Santa Isabel Ishuatán,Santa Isabel Ishuatan,13.6167,-89.5833,El Salvador,SV,SLV,Sonsonate,,10241.0,1222753045
+Monte San Juan,Monte San Juan,13.7667,-88.95,El Salvador,SV,SLV,Cuscatlán,,10224.0,1222428135
+San Simón,San Simon,13.8333,-88.2333,El Salvador,SV,SLV,Morazán,,10102.0,1222320015
+Candelaria,Candelaria,13.689,-88.9755,El Salvador,SV,SLV,Cuscatlán,,10090.0,1222433087
+Santa Catarina Masahuat,Santa Catarina Masahuat,13.7833,-89.7667,El Salvador,SV,SLV,Sonsonate,,10076.0,1222501280
+Jocoro,Jocoro,13.6167,-88.0167,El Salvador,SV,SLV,Morazán,,10060.0,1222901966
+San Rafael Obrajuelo,San Rafael Obrajuelo,13.5,-88.9333,El Salvador,SV,SLV,La Paz,,9820.0,1222700653
+Polorós,Poloros,13.5844,-87.8411,El Salvador,SV,SLV,La Unión,,9701.0,1222036180
+Chilanga,Chilanga,13.7167,-88.1167,El Salvador,SV,SLV,Morazán,,9700.0,1222531910
+Nueva Esparta,Nueva Esparta,13.7833,-87.8333,El Salvador,SV,SLV,La Unión,,9637.0,1222916015
+La Reina,La Reina,14.1833,-89.15,El Salvador,SV,SLV,Chalatenango,,9525.0,1222331926
+San José Guayabal,San Jose Guayabal,13.85,-89.1,El Salvador,SV,SLV,Cuscatlán,,9300.0,1222743447
+San Pedro Nonualco,San Pedro Nonualco,13.6,-88.9333,El Salvador,SV,SLV,La Paz,,9252.0,1222378780
+San Lorenzo,San Lorenzo,14.0333,-89.7833,El Salvador,SV,SLV,Ahuachapán,,9194.0,1222167385
+Caluco,Caluco,13.7167,-89.65,El Salvador,SV,SLV,Sonsonate,,9139.0,1222488164
+San Jorge,San Jorge,13.4142,-88.3435,El Salvador,SV,SLV,San Miguel,,9115.0,1222919359
+San Jorge,San Jorge,13.6833,-88.3833,El Salvador,SV,SLV,San Miguel,,9115.0,1222915945
+Estanzuelas,Estanzuelas,13.65,-88.5,El Salvador,SV,SLV,Usulután,,9015.0,1222473531
+Turín,Turin,13.9667,-89.8167,El Salvador,SV,SLV,Ahuachapán,,8997.0,1222996582
+Dulce Nombre de María,Dulce Nombre de Maria,14.15,-89.0167,El Salvador,SV,SLV,Chalatenango,,8987.0,1222936599
+Osicala,Osicala,13.8,-88.15,El Salvador,SV,SLV,Morazán,,8909.0,1222316940
+Nueva Guadalupe,Nueva Guadalupe,13.5333,-88.35,El Salvador,SV,SLV,San Miguel,,8905.0,1222469128
+San Ignacio,San Ignacio,14.3333,-89.1833,El Salvador,SV,SLV,Chalatenango,,8611.0,1222199797

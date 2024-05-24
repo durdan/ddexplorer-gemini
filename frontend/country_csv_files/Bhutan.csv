@@ -1,0 +1,45 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Thimphu,Thimphu,27.4722,89.6361,Bhutan,BT,BTN,Thimphu,primary,114551.0,1064010361
+Phuntsholing,Phuntsholing,26.85,89.3833,Bhutan,BT,BTN,Chhukha,,27658.0,1064177612
+Paro,Paro,27.4333,89.4167,Bhutan,BT,BTN,Paro,admin,11448.0,1064216277
+Geylegphug,Geylegphug,26.8706,90.4856,Bhutan,BT,BTN,Sarpang,,9858.0,1064875901
+Samdrup Jongkhar,Samdrup Jongkhar,26.8,91.505,Bhutan,BT,BTN,Samdrup Jongkhar,admin,9325.0,1064656050
+Wangdue Phodrang,Wangdue Phodrang,27.4833,89.9,Bhutan,BT,BTN,Wangdue Phodrang,admin,8954.0,1064353953
+Punakha,Punakha,27.5833,89.8583,Bhutan,BT,BTN,Punakha,admin,6262.0,1064171188
+Jakar,Jakar,27.55,90.7333,Bhutan,BT,BTN,Bumthang,admin,6243.0,1064194738
+Samtse,Samtse,27.0333,89.0833,Bhutan,BT,BTN,Samtse,admin,4981.0,1064763429
+Mongar,Mongar,27.275,91.24,Bhutan,BT,BTN,Mongar,admin,3502.0,1064208677
+Trashigang,Trashigang,27.3326,91.5528,Bhutan,BT,BTN,Trashigang,admin,3037.0,1064123227
+Trashi Yangtse,Trashi Yangtse,27.5833,91.4667,Bhutan,BT,BTN,Trashi Yangtse,admin,2735.0,1064210713
+Trongsa,Trongsa,27.4994,90.5047,Bhutan,BT,BTN,Trongsa,admin,2695.0,1064630357
+Zhemgang,Zhemgang,27.2134,90.655,Bhutan,BT,BTN,Zhemgang,admin,2332.0,1064512651
+Daga,Daga,27.0667,89.8833,Bhutan,BT,BTN,Dagana,admin,1146.0,1064785735
+Sarpang,Sarpang,26.8639,90.2674,Bhutan,BT,BTN,Sarpang,admin,,1064362339
+Pemagatshel,Pemagatshel,27.0333,91.45,Bhutan,BT,BTN,Pemagatshel,admin,,1064215849
+Tsimasham,Tsimasham,27.0989,89.536,Bhutan,BT,BTN,Chhukha,admin,,1064167489
+Gasa,Gasa,27.9167,89.6833,Bhutan,BT,BTN,Gasa,admin,,1064761583
+Haa,Haa,27.3825,89.285,Bhutan,BT,BTN,Haa,admin,,1064717667
+Lhuentse,Lhuentse,27.65,91.15,Bhutan,BT,BTN,Lhuentse,admin,,1064227529
+Tsirang,Tsirang,27.0219,90.1229,Bhutan,BT,BTN,Tsirang,admin,,1064617460
+Thimphu,Thimphu,27.4722,89.6361,Bhutan,BT,BTN,Thimphu,primary,114551.0,1064010361
+Phuntsholing,Phuntsholing,26.85,89.3833,Bhutan,BT,BTN,Chhukha,,27658.0,1064177612
+Paro,Paro,27.4333,89.4167,Bhutan,BT,BTN,Paro,admin,11448.0,1064216277
+Geylegphug,Geylegphug,26.8706,90.4856,Bhutan,BT,BTN,Sarpang,,9858.0,1064875901
+Samdrup Jongkhar,Samdrup Jongkhar,26.8,91.505,Bhutan,BT,BTN,Samdrup Jongkhar,admin,9325.0,1064656050
+Wangdue Phodrang,Wangdue Phodrang,27.4833,89.9,Bhutan,BT,BTN,Wangdue Phodrang,admin,8954.0,1064353953
+Punakha,Punakha,27.5833,89.8583,Bhutan,BT,BTN,Punakha,admin,6262.0,1064171188
+Jakar,Jakar,27.55,90.7333,Bhutan,BT,BTN,Bumthang,admin,6243.0,1064194738
+Samtse,Samtse,27.0333,89.0833,Bhutan,BT,BTN,Samtse,admin,4981.0,1064763429
+Mongar,Mongar,27.275,91.24,Bhutan,BT,BTN,Mongar,admin,3502.0,1064208677
+Trashigang,Trashigang,27.3326,91.5528,Bhutan,BT,BTN,Trashigang,admin,3037.0,1064123227
+Trashi Yangtse,Trashi Yangtse,27.5833,91.4667,Bhutan,BT,BTN,Trashi Yangtse,admin,2735.0,1064210713
+Trongsa,Trongsa,27.4994,90.5047,Bhutan,BT,BTN,Trongsa,admin,2695.0,1064630357
+Zhemgang,Zhemgang,27.2134,90.655,Bhutan,BT,BTN,Zhemgang,admin,2332.0,1064512651
+Daga,Daga,27.0667,89.8833,Bhutan,BT,BTN,Dagana,admin,1146.0,1064785735
+Sarpang,Sarpang,26.8639,90.2674,Bhutan,BT,BTN,Sarpang,admin,,1064362339
+Pemagatshel,Pemagatshel,27.0333,91.45,Bhutan,BT,BTN,Pemagatshel,admin,,1064215849
+Tsimasham,Tsimasham,27.0989,89.536,Bhutan,BT,BTN,Chhukha,admin,,1064167489
+Gasa,Gasa,27.9167,89.6833,Bhutan,BT,BTN,Gasa,admin,,1064761583
+Haa,Haa,27.3825,89.285,Bhutan,BT,BTN,Haa,admin,,1064717667
+Lhuentse,Lhuentse,27.65,91.15,Bhutan,BT,BTN,Lhuentse,admin,,1064227529
+Tsirang,Tsirang,27.0219,90.1229,Bhutan,BT,BTN,Tsirang,admin,,1064617460

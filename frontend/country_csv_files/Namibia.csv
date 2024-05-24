@@ -1,0 +1,67 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Windhoek,Windhoek,-22.57,17.0836,Namibia,,NAM,Khomas,primary,431000.0,1516802003
+Walvisbaai,Walvisbaai,-22.9561,14.5081,Namibia,,NAM,Erongo,,85000.0,1516267898
+Rundu,Rundu,-17.9167,19.7667,Namibia,,NAM,Kavango East,admin,63431.0,1516885937
+Oshakati,Oshakati,-17.7833,15.6995,Namibia,,NAM,Oshana,admin,39679.0,1516866759
+Swakopmund,Swakopmund,-22.6833,14.5333,Namibia,,NAM,Erongo,admin,34300.0,1516214290
+Rehoboth,Rehoboth,-23.3167,17.0833,Namibia,,NAM,Hardap,,28843.0,1516928100
+Katima Mulilo,Katima Mulilo,-17.5039,24.275,Namibia,,NAM,Zambezi,admin,28699.0,1516068788
+Grootfontein,Grootfontein,-19.5658,18.1036,Namibia,,NAM,Otjozondjupa,,23793.0,1516286878
+Ondangwa,Ondangwa,-17.9167,15.95,Namibia,,NAM,Oshana,,22822.0,1516484668
+Okahandja,Okahandja,-21.9833,16.9167,Namibia,,NAM,Otjozondjupa,,22639.0,1516123978
+Opuwo,Opuwo,-18.0556,13.8406,Namibia,,NAM,Kunene,admin,20000.0,1516958242
+Otjiwarongo,Otjiwarongo,-20.4642,16.6528,Namibia,,NAM,Otjozondjupa,admin,19614.0,1516719545
+Tsumeb,Tsumeb,-19.25,17.7,Namibia,,NAM,Oshikoto,,19275.0,1516619412
+Gobabis,Gobabis,-22.4333,18.9667,Namibia,,NAM,Omaheke,admin,19101.0,1516128715
+Keetmanshoop,Keetmanshoop,-26.5786,18.1333,Namibia,,NAM,ǁKaras,admin,16800.0,1516607376
+Lüderitz,Luderitz,-26.6458,15.1539,Namibia,,NAM,ǁKaras,,12537.0,1516141896
+Mariental,Mariental,-24.6333,17.9667,Namibia,,NAM,Hardap,admin,12478.0,1516582394
+Oshikango,Oshikango,-17.4,15.8833,Namibia,,NAM,Ohangwena,,12423.0,1516819374
+Omatjete,Omatjete,-21.05,15.5,Namibia,,NAM,Erongo,,12000.0,1516880666
+Ongwediva,Ongwediva,-17.7833,15.7667,Namibia,,NAM,Oshana,,10964.0,1516962966
+Outjo,Outjo,-20.1089,16.1547,Namibia,,NAM,Kunene,,10000.0,1516062528
+Omaruru,Omaruru,-21.4333,15.9333,Namibia,,NAM,Erongo,,6300.0,1516735467
+Maltahöhe,Maltahohe,-24.8333,16.9833,Namibia,,NAM,Hardap,,6000.0,1516195038
+Eenhana,Eenhana,-17.4658,16.3369,Namibia,,NAM,Ohangwena,admin,5528.0,1516685856
+Otavi,Otavi,-19.65,17.3333,Namibia,,NAM,Otjozondjupa,,5242.0,1516874756
+Karibib,Karibib,-21.9381,15.8544,Namibia,,NAM,Erongo,,5132.0,1516472073
+Outapi,Outapi,-17.5167,15.0,Namibia,,NAM,Omusati,admin,4606.0,1516820698
+Karasburg,Karasburg,-28.0167,18.75,Namibia,,NAM,ǁKaras,,4401.0,1516005938
+Oranjemund,Oranjemund,-28.5517,16.4264,Namibia,,NAM,ǁKaras,,3900.0,1516991599
+Bethanie,Bethanie,-26.4833,17.15,Namibia,,NAM,ǁKaras,,3900.0,1516358571
+Omuthiya,Omuthiya,-18.3606,16.5812,Namibia,,NAM,Oshikoto,admin,3794.0,1516000004
+Nkurenkuru,Nkurenkuru,-17.6167,18.6,Namibia,,NAM,Kavango West,admin,618.0,1516271813
+Usakos,Usakos,-21.9995,15.58,Namibia,,NAM,Erongo,,,1516999854
+Windhoek,Windhoek,-22.57,17.0836,Namibia,,NAM,Khomas,primary,431000.0,1516802003
+Walvisbaai,Walvisbaai,-22.9561,14.5081,Namibia,,NAM,Erongo,,85000.0,1516267898
+Rundu,Rundu,-17.9167,19.7667,Namibia,,NAM,Kavango East,admin,63431.0,1516885937
+Oshakati,Oshakati,-17.7833,15.6995,Namibia,,NAM,Oshana,admin,39679.0,1516866759
+Swakopmund,Swakopmund,-22.6833,14.5333,Namibia,,NAM,Erongo,admin,34300.0,1516214290
+Rehoboth,Rehoboth,-23.3167,17.0833,Namibia,,NAM,Hardap,,28843.0,1516928100
+Katima Mulilo,Katima Mulilo,-17.5039,24.275,Namibia,,NAM,Zambezi,admin,28699.0,1516068788
+Grootfontein,Grootfontein,-19.5658,18.1036,Namibia,,NAM,Otjozondjupa,,23793.0,1516286878
+Ondangwa,Ondangwa,-17.9167,15.95,Namibia,,NAM,Oshana,,22822.0,1516484668
+Okahandja,Okahandja,-21.9833,16.9167,Namibia,,NAM,Otjozondjupa,,22639.0,1516123978
+Opuwo,Opuwo,-18.0556,13.8406,Namibia,,NAM,Kunene,admin,20000.0,1516958242
+Otjiwarongo,Otjiwarongo,-20.4642,16.6528,Namibia,,NAM,Otjozondjupa,admin,19614.0,1516719545
+Tsumeb,Tsumeb,-19.25,17.7,Namibia,,NAM,Oshikoto,,19275.0,1516619412
+Gobabis,Gobabis,-22.4333,18.9667,Namibia,,NAM,Omaheke,admin,19101.0,1516128715
+Keetmanshoop,Keetmanshoop,-26.5786,18.1333,Namibia,,NAM,ǁKaras,admin,16800.0,1516607376
+Lüderitz,Luderitz,-26.6458,15.1539,Namibia,,NAM,ǁKaras,,12537.0,1516141896
+Mariental,Mariental,-24.6333,17.9667,Namibia,,NAM,Hardap,admin,12478.0,1516582394
+Oshikango,Oshikango,-17.4,15.8833,Namibia,,NAM,Ohangwena,,12423.0,1516819374
+Omatjete,Omatjete,-21.05,15.5,Namibia,,NAM,Erongo,,12000.0,1516880666
+Ongwediva,Ongwediva,-17.7833,15.7667,Namibia,,NAM,Oshana,,10964.0,1516962966
+Outjo,Outjo,-20.1089,16.1547,Namibia,,NAM,Kunene,,10000.0,1516062528
+Omaruru,Omaruru,-21.4333,15.9333,Namibia,,NAM,Erongo,,6300.0,1516735467
+Maltahöhe,Maltahohe,-24.8333,16.9833,Namibia,,NAM,Hardap,,6000.0,1516195038
+Eenhana,Eenhana,-17.4658,16.3369,Namibia,,NAM,Ohangwena,admin,5528.0,1516685856
+Otavi,Otavi,-19.65,17.3333,Namibia,,NAM,Otjozondjupa,,5242.0,1516874756
+Karibib,Karibib,-21.9381,15.8544,Namibia,,NAM,Erongo,,5132.0,1516472073
+Outapi,Outapi,-17.5167,15.0,Namibia,,NAM,Omusati,admin,4606.0,1516820698
+Karasburg,Karasburg,-28.0167,18.75,Namibia,,NAM,ǁKaras,,4401.0,1516005938
+Oranjemund,Oranjemund,-28.5517,16.4264,Namibia,,NAM,ǁKaras,,3900.0,1516991599
+Bethanie,Bethanie,-26.4833,17.15,Namibia,,NAM,ǁKaras,,3900.0,1516358571
+Omuthiya,Omuthiya,-18.3606,16.5812,Namibia,,NAM,Oshikoto,admin,3794.0,1516000004
+Nkurenkuru,Nkurenkuru,-17.6167,18.6,Namibia,,NAM,Kavango West,admin,618.0,1516271813
+Usakos,Usakos,-21.9995,15.58,Namibia,,NAM,Erongo,,,1516999854

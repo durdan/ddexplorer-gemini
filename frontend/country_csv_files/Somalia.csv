@@ -1,0 +1,147 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Mogadishu,Mogadishu,2.0392,45.3419,Somalia,SO,SOM,Banaadir,primary,2610483.0,1706893395
+Kismaayo,Kismaayo,-0.3581,42.5453,Somalia,SO,SOM,Jubbada Hoose,admin,1458000.0,1706091701
+Hargeysa,Hargeysa,9.5631,44.0675,Somalia,SO,SOM,Woqooyi Galbeed,admin,1200000.0,1706832021
+Baidoa,Baidoa,3.1167,43.65,Somalia,SO,SOM,Bay,admin,1200000.0,1706563100
+Baardheere,Baardheere,2.3333,42.2833,Somalia,SO,SOM,Gedo,,755500.0,1706822684
+Gaalkacyo,Gaalkacyo,6.7697,47.4308,Somalia,SO,SOM,Mudug,admin,745000.0,1706067930
+Marka,Marka,1.7133,44.7656,Somalia,SO,SOM,Shabeellaha Hoose,admin,716361.0,1706165964
+Boosaaso,Boosaaso,11.2886,49.1819,Somalia,SO,SOM,Bari,admin,700906.0,1706054548
+Cadaado,Cadaado,6.1403,46.6256,Somalia,SO,SOM,Galguduud,,510654.0,1706406560
+Garoowe,Garoowe,8.4,48.4667,Somalia,SO,SOM,Nugaal,admin,485000.0,1706512367
+Berbera,Berbera,10.4356,45.0164,Somalia,SO,SOM,Woqooyi Galbeed,,478000.0,1706893125
+Burco,Burco,9.5279,45.5345,Somalia,SO,SOM,Togdheer,admin,425000.0,1706322754
+Ceel Baraf,Ceel Baraf,3.2073,45.7587,Somalia,SO,SOM,Shabeellaha Dhexe,,384630.0,1706959191
+Qardho,Qardho,9.5,49.0833,Somalia,SO,SOM,Bari,,365000.0,1706405003
+Buurhakaba,Buurhakaba,2.7833,44.0833,Somalia,SO,SOM,Bay,minor,360795.0,1706176225
+Luuq,Luuq,3.6981,42.5972,Somalia,SO,SOM,Gedo,,134000.0,1706505283
+Jamaame,Jamaame,0.0667,42.75,Somalia,SO,SOM,Jubbada Hoose,,129149.0,1706288768
+Jilib,Jilib,0.4942,42.7744,Somalia,SO,SOM,Jubbada Dhexe,,125000.0,1706018650
+Aw Dheegle,Aw Dheegle,1.9667,44.8333,Somalia,SO,SOM,Shabeellaha Hoose,,119000.0,1706678463
+Bu’aale,Bu'aale,1.0833,42.5833,Somalia,SO,SOM,Jubbada Dhexe,admin,115000.0,1706765820
+Jawhar,Jawhar,2.7833,45.5,Somalia,SO,SOM,Shabeellaha Dhexe,admin,111308.0,1706737655
+Afmadow,Afmadow,0.5156,42.0733,Somalia,SO,SOM,Jubbada Hoose,,90000.0,1706654469
+Barwaaqo,Barwaaqo,3.4833,42.1833,Somalia,SO,SOM,Gedo,,90000.0,1706735840
+Caracase,Caracase,3.7533,42.5442,Somalia,SO,SOM,Gedo,,89345.0,1706846074
+Xuddur,Xuddur,4.12,43.8878,Somalia,SO,SOM,Bakool,admin,85500.0,1706568226
+Ufeyn,Ufeyn,10.65,49.75,Somalia,SO,SOM,Bari,,82850.0,1706398122
+Afgooye,Afgooye,2.1413,45.1169,Somalia,SO,SOM,Shabeellaha Hoose,minor,79400.0,1706930457
+Wisil,Wisil,5.4333,48.1167,Somalia,SO,SOM,Mudug,,75000.0,1706820984
+Badhan,Badhan,10.7139,48.3347,Somalia,SO,SOM,Sanaag,,70000.0,1706819798
+Xarardheere,Xarardheere,4.6544,47.8575,Somalia,SO,SOM,Mudug,,65523.0,1706020308
+Beledweyne,Beledweyne,4.7358,45.2036,Somalia,SO,SOM,Hiiraan,admin,62945.0,1706018197
+Qoryooley,Qoryooley,1.7833,44.5333,Somalia,SO,SOM,Shabeellaha Hoose,minor,62700.0,1706713350
+Qoorlugud,Qoorlugud,8.55,46.2333,Somalia,SO,SOM,Togdheer,,60195.0,1706197639
+Buqda Caqable,Buqda Caqable,4.06,45.2575,Somalia,SO,SOM,Hiiraan,,60000.0,1706953037
+Oodweyne,Oodweyne,9.4,45.0667,Somalia,SO,SOM,Togdheer,,60000.0,1706384679
+Bura,Bura,3.1722,42.1411,Somalia,SO,SOM,Gedo,,57000.0,1706744119
+Bilis Qooqaani,Bilis Qooqaani,0.2822,41.7144,Somalia,SO,SOM,Jubbada Hoose,,55000.0,1706381746
+Bacaadweyn,Bacaadweyn,7.1917,47.5258,Somalia,SO,SOM,Mudug,,53890.0,1706478159
+Godinlabe,Godinlabe,5.8794,46.6308,Somalia,SO,SOM,Galguduud,,50000.0,1706143900
+Ceel Dheere,Ceel Dheere,5.3683,46.1911,Somalia,SO,SOM,Galguduud,,50000.0,1706349687
+Busaar,Busaar,2.6722,41.3225,Somalia,SO,SOM,Gedo,,45533.0,1706248273
+Garbahaarrey,Garbahaarrey,3.35,42.2667,Somalia,SO,SOM,Gedo,admin,43000.0,1706488487
+Baraawe,Baraawe,1.1133,44.0303,Somalia,SO,SOM,Shabeellaha Hoose,,32800.0,1706566007
+Uar Esgudud,Uar Esgudud,1.2667,41.3833,Somalia,SO,SOM,Gedo,,30000.0,1706563157
+Wanlaweyn,Wanlaweyn,2.6167,44.9,Somalia,SO,SOM,Shabeellaha Hoose,,26700.0,1706708274
+Baxdo,Baxdo,5.7889,47.2267,Somalia,SO,SOM,Galguduud,,25000.0,1706255273
+Eyl,Eyl,7.9667,49.85,Somalia,SO,SOM,Nugaal,,21700.0,1706929381
+Dan Gorayo,Dan Gorayo,8.7278,49.3417,Somalia,SO,SOM,Bari,,20331.0,1706372631
+Diinsoor,Diinsoor,2.4106,42.9767,Somalia,SO,SOM,Bay,,19600.0,1706924480
+Qandala,Qandala,11.4711,49.8739,Somalia,SO,SOM,Bari,,19300.0,1706605271
+Saylac,Saylac,11.3539,43.4731,Somalia,SO,SOM,Awdal,,18600.0,1706903180
+Bandar Murcaayo,Bandar Murcaayo,11.6833,50.45,Somalia,SO,SOM,Bari,,16320.0,1706146146
+Yufle,Yufle,10.3758,47.1964,Somalia,SO,SOM,Sanaag,,15000.0,1706706214
+Bandarbeyla,Bandarbeyla,9.4833,50.8167,Somalia,SO,SOM,Bari,,13753.0,1706279652
+Xaafuun,Xaafuun,10.4167,51.2667,Somalia,SO,SOM,Bari,,13200.0,1706739156
+Buqkoosaar,Buqkoosaar,4.5108,44.8164,Somalia,SO,SOM,Hiiraan,,12000.0,1706633414
+Jalalaqsi,Jalalaqsi,3.4,45.5833,Somalia,SO,SOM,Hiiraan,,11800.0,1706085316
+Hobyo,Hobyo,5.3514,48.5256,Somalia,SO,SOM,Mudug,minor,11800.0,1706623995
+Cadale,Cadale,2.75,46.3167,Somalia,SO,SOM,Shabeellaha Dhexe,,11600.0,1706665542
+Buuhoodle,Buuhoodle,8.2311,46.3267,Somalia,SO,SOM,Togdheer,,11373.0,1706850351
+Buraan,Buraan,10.2186,48.7686,Somalia,SO,SOM,Sanaag,,10480.0,1706631033
+Kiridh,Kiridh,8.9803,46.1292,Somalia,SO,SOM,Togdheer,,10345.0,1706686835
+Gadoon,Gadoon,5.6897,46.6847,Somalia,SO,SOM,Galguduud,,10000.0,1706085622
+Widhwidh,Widhwidh,8.4544,46.7064,Somalia,SO,SOM,Togdheer,,9874.0,1706846618
+Ceelbuur,Ceelbuur,4.685,46.6175,Somalia,SO,SOM,Galguduud,,9023.0,1706202255
+Mereeg,Mereeg,3.7667,47.3,Somalia,SO,SOM,Galguduud,,548.0,1706308443
+Caluula,Caluula,11.9667,50.75,Somalia,SO,SOM,Bari,,513.0,1706796061
+Dhuusamarreeb,Dhuusamarreeb,5.535,46.3861,Somalia,SO,SOM,Galguduud,admin,447.0,1706027824
+Buur Gaabo,Buur Gaabo,-1.2175,41.8378,Somalia,SO,SOM,Jubbada Hoose,,300.0,1706122850
+Hurdiyo,Hurdiyo,10.5667,51.1333,Somalia,SO,SOM,Bari,,176.0,1706025904
+Ceerigaabo,Ceerigaabo,10.6162,47.3679,Somalia,SO,SOM,Sanaag,admin,,1706173875
+Laascaanood,Laascaanood,8.4774,47.3597,Somalia,SO,SOM,Sool,admin,,1706106404
+Boorama,Boorama,9.9361,43.1828,Somalia,SO,SOM,Awdal,admin,,1706767209
+Mogadishu,Mogadishu,2.0392,45.3419,Somalia,SO,SOM,Banaadir,primary,2610483.0,1706893395
+Kismaayo,Kismaayo,-0.3581,42.5453,Somalia,SO,SOM,Jubbada Hoose,admin,1458000.0,1706091701
+Hargeysa,Hargeysa,9.5631,44.0675,Somalia,SO,SOM,Woqooyi Galbeed,admin,1200000.0,1706832021
+Baidoa,Baidoa,3.1167,43.65,Somalia,SO,SOM,Bay,admin,1200000.0,1706563100
+Baardheere,Baardheere,2.3333,42.2833,Somalia,SO,SOM,Gedo,,755500.0,1706822684
+Gaalkacyo,Gaalkacyo,6.7697,47.4308,Somalia,SO,SOM,Mudug,admin,745000.0,1706067930
+Marka,Marka,1.7133,44.7656,Somalia,SO,SOM,Shabeellaha Hoose,admin,716361.0,1706165964
+Boosaaso,Boosaaso,11.2886,49.1819,Somalia,SO,SOM,Bari,admin,700906.0,1706054548
+Cadaado,Cadaado,6.1403,46.6256,Somalia,SO,SOM,Galguduud,,510654.0,1706406560
+Garoowe,Garoowe,8.4,48.4667,Somalia,SO,SOM,Nugaal,admin,485000.0,1706512367
+Berbera,Berbera,10.4356,45.0164,Somalia,SO,SOM,Woqooyi Galbeed,,478000.0,1706893125
+Burco,Burco,9.5279,45.5345,Somalia,SO,SOM,Togdheer,admin,425000.0,1706322754
+Ceel Baraf,Ceel Baraf,3.2073,45.7587,Somalia,SO,SOM,Shabeellaha Dhexe,,384630.0,1706959191
+Qardho,Qardho,9.5,49.0833,Somalia,SO,SOM,Bari,,365000.0,1706405003
+Buurhakaba,Buurhakaba,2.7833,44.0833,Somalia,SO,SOM,Bay,minor,360795.0,1706176225
+Luuq,Luuq,3.6981,42.5972,Somalia,SO,SOM,Gedo,,134000.0,1706505283
+Jamaame,Jamaame,0.0667,42.75,Somalia,SO,SOM,Jubbada Hoose,,129149.0,1706288768
+Jilib,Jilib,0.4942,42.7744,Somalia,SO,SOM,Jubbada Dhexe,,125000.0,1706018650
+Aw Dheegle,Aw Dheegle,1.9667,44.8333,Somalia,SO,SOM,Shabeellaha Hoose,,119000.0,1706678463
+Bu’aale,Bu'aale,1.0833,42.5833,Somalia,SO,SOM,Jubbada Dhexe,admin,115000.0,1706765820
+Jawhar,Jawhar,2.7833,45.5,Somalia,SO,SOM,Shabeellaha Dhexe,admin,111308.0,1706737655
+Afmadow,Afmadow,0.5156,42.0733,Somalia,SO,SOM,Jubbada Hoose,,90000.0,1706654469
+Barwaaqo,Barwaaqo,3.4833,42.1833,Somalia,SO,SOM,Gedo,,90000.0,1706735840
+Caracase,Caracase,3.7533,42.5442,Somalia,SO,SOM,Gedo,,89345.0,1706846074
+Xuddur,Xuddur,4.12,43.8878,Somalia,SO,SOM,Bakool,admin,85500.0,1706568226
+Ufeyn,Ufeyn,10.65,49.75,Somalia,SO,SOM,Bari,,82850.0,1706398122
+Afgooye,Afgooye,2.1413,45.1169,Somalia,SO,SOM,Shabeellaha Hoose,minor,79400.0,1706930457
+Wisil,Wisil,5.4333,48.1167,Somalia,SO,SOM,Mudug,,75000.0,1706820984
+Badhan,Badhan,10.7139,48.3347,Somalia,SO,SOM,Sanaag,,70000.0,1706819798
+Xarardheere,Xarardheere,4.6544,47.8575,Somalia,SO,SOM,Mudug,,65523.0,1706020308
+Beledweyne,Beledweyne,4.7358,45.2036,Somalia,SO,SOM,Hiiraan,admin,62945.0,1706018197
+Qoryooley,Qoryooley,1.7833,44.5333,Somalia,SO,SOM,Shabeellaha Hoose,minor,62700.0,1706713350
+Qoorlugud,Qoorlugud,8.55,46.2333,Somalia,SO,SOM,Togdheer,,60195.0,1706197639
+Buqda Caqable,Buqda Caqable,4.06,45.2575,Somalia,SO,SOM,Hiiraan,,60000.0,1706953037
+Oodweyne,Oodweyne,9.4,45.0667,Somalia,SO,SOM,Togdheer,,60000.0,1706384679
+Bura,Bura,3.1722,42.1411,Somalia,SO,SOM,Gedo,,57000.0,1706744119
+Bilis Qooqaani,Bilis Qooqaani,0.2822,41.7144,Somalia,SO,SOM,Jubbada Hoose,,55000.0,1706381746
+Bacaadweyn,Bacaadweyn,7.1917,47.5258,Somalia,SO,SOM,Mudug,,53890.0,1706478159
+Godinlabe,Godinlabe,5.8794,46.6308,Somalia,SO,SOM,Galguduud,,50000.0,1706143900
+Ceel Dheere,Ceel Dheere,5.3683,46.1911,Somalia,SO,SOM,Galguduud,,50000.0,1706349687
+Busaar,Busaar,2.6722,41.3225,Somalia,SO,SOM,Gedo,,45533.0,1706248273
+Garbahaarrey,Garbahaarrey,3.35,42.2667,Somalia,SO,SOM,Gedo,admin,43000.0,1706488487
+Baraawe,Baraawe,1.1133,44.0303,Somalia,SO,SOM,Shabeellaha Hoose,,32800.0,1706566007
+Uar Esgudud,Uar Esgudud,1.2667,41.3833,Somalia,SO,SOM,Gedo,,30000.0,1706563157
+Wanlaweyn,Wanlaweyn,2.6167,44.9,Somalia,SO,SOM,Shabeellaha Hoose,,26700.0,1706708274
+Baxdo,Baxdo,5.7889,47.2267,Somalia,SO,SOM,Galguduud,,25000.0,1706255273
+Eyl,Eyl,7.9667,49.85,Somalia,SO,SOM,Nugaal,,21700.0,1706929381
+Dan Gorayo,Dan Gorayo,8.7278,49.3417,Somalia,SO,SOM,Bari,,20331.0,1706372631
+Diinsoor,Diinsoor,2.4106,42.9767,Somalia,SO,SOM,Bay,,19600.0,1706924480
+Qandala,Qandala,11.4711,49.8739,Somalia,SO,SOM,Bari,,19300.0,1706605271
+Saylac,Saylac,11.3539,43.4731,Somalia,SO,SOM,Awdal,,18600.0,1706903180
+Bandar Murcaayo,Bandar Murcaayo,11.6833,50.45,Somalia,SO,SOM,Bari,,16320.0,1706146146
+Yufle,Yufle,10.3758,47.1964,Somalia,SO,SOM,Sanaag,,15000.0,1706706214
+Bandarbeyla,Bandarbeyla,9.4833,50.8167,Somalia,SO,SOM,Bari,,13753.0,1706279652
+Xaafuun,Xaafuun,10.4167,51.2667,Somalia,SO,SOM,Bari,,13200.0,1706739156
+Buqkoosaar,Buqkoosaar,4.5108,44.8164,Somalia,SO,SOM,Hiiraan,,12000.0,1706633414
+Jalalaqsi,Jalalaqsi,3.4,45.5833,Somalia,SO,SOM,Hiiraan,,11800.0,1706085316
+Hobyo,Hobyo,5.3514,48.5256,Somalia,SO,SOM,Mudug,minor,11800.0,1706623995
+Cadale,Cadale,2.75,46.3167,Somalia,SO,SOM,Shabeellaha Dhexe,,11600.0,1706665542
+Buuhoodle,Buuhoodle,8.2311,46.3267,Somalia,SO,SOM,Togdheer,,11373.0,1706850351
+Buraan,Buraan,10.2186,48.7686,Somalia,SO,SOM,Sanaag,,10480.0,1706631033
+Kiridh,Kiridh,8.9803,46.1292,Somalia,SO,SOM,Togdheer,,10345.0,1706686835
+Gadoon,Gadoon,5.6897,46.6847,Somalia,SO,SOM,Galguduud,,10000.0,1706085622
+Widhwidh,Widhwidh,8.4544,46.7064,Somalia,SO,SOM,Togdheer,,9874.0,1706846618
+Ceelbuur,Ceelbuur,4.685,46.6175,Somalia,SO,SOM,Galguduud,,9023.0,1706202255
+Mereeg,Mereeg,3.7667,47.3,Somalia,SO,SOM,Galguduud,,548.0,1706308443
+Caluula,Caluula,11.9667,50.75,Somalia,SO,SOM,Bari,,513.0,1706796061
+Dhuusamarreeb,Dhuusamarreeb,5.535,46.3861,Somalia,SO,SOM,Galguduud,admin,447.0,1706027824
+Buur Gaabo,Buur Gaabo,-1.2175,41.8378,Somalia,SO,SOM,Jubbada Hoose,,300.0,1706122850
+Hurdiyo,Hurdiyo,10.5667,51.1333,Somalia,SO,SOM,Bari,,176.0,1706025904
+Ceerigaabo,Ceerigaabo,10.6162,47.3679,Somalia,SO,SOM,Sanaag,admin,,1706173875
+Laascaanood,Laascaanood,8.4774,47.3597,Somalia,SO,SOM,Sool,admin,,1706106404
+Boorama,Boorama,9.9361,43.1828,Somalia,SO,SOM,Awdal,admin,,1706767209

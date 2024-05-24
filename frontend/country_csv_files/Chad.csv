@@ -1,0 +1,91 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+N’Djamena,N'Djamena,12.11,15.05,Chad,TD,TCD,N’Djamena,primary,1092066.0,1148708596
+Moundou,Moundou,8.5667,16.0833,Chad,TD,TCD,Logone Occidental,admin,142462.0,1148369114
+Sarh,Sarh,9.15,18.3833,Chad,TD,TCD,Moyen-Chari,admin,108061.0,1148442794
+Yao,Yao,12.8508,17.5608,Chad,TD,TCD,Batha,,91507.0,1148655909
+Léré,Lere,9.6572,14.2283,Chad,TD,TCD,Mayo-Kebbi-Ouest,,89237.0,1148428566
+Abéché,Abeche,13.8331,20.8347,Chad,TD,TCD,Ouaddaï,admin,76492.0,1148461151
+Goz-Beida,Goz-Beida,12.2236,21.4144,Chad,TD,TCD,Sila,admin,66107.0,1148101824
+Chèddra,Cheddra,13.4428,16.0508,Chad,TD,TCD,Barh-El-Gazel,,54072.0,1148029349
+Déressia,Deressia,9.7603,16.2697,Chad,TD,TCD,Tandjilé,,50113.0,1148460531
+Faya,Faya,17.9169,19.1167,Chad,TD,TCD,Borkou,admin,48090.0,1148095016
+Kelo,Kelo,9.31,15.81,Chad,TD,TCD,Tandjilé,,45224.0,1148149571
+Fianga,Fianga,9.9153,15.1375,Chad,TD,TCD,Mayo-Kebbi-Est,,42606.0,1148228151
+Koumra,Koumra,8.91,17.55,Chad,TD,TCD,Mandoul,admin,39852.0,1148599298
+Pala Oua,Pala Oua,9.3625,14.9106,Chad,TD,TCD,Mayo-Kebbi-Ouest,,38975.0,1148631807
+Am-Timan,Am-Timan,11.0333,20.2833,Chad,TD,TCD,Salamat,admin,38261.0,1148823427
+Iriba,Iriba,15.1167,22.25,Chad,TD,TCD,Wadi-Fira,,33572.0,1148106836
+Bongor,Bongor,10.2806,15.3722,Chad,TD,TCD,Mayo-Kebbi-Est,admin,27770.0,1148833900
+Mongo,Mongo,12.1837,18.7,Chad,TD,TCD,Guéra,admin,27763.0,1148891648
+Oum Hadjer,Oum Hadjer,13.2944,19.6914,Chad,TD,TCD,Batha,,26136.0,1148641107
+Doba,Doba,8.66,16.85,Chad,TD,TCD,Logone Oriental,admin,25650.0,1148367091
+Fada,Fada,17.1833,21.5833,Chad,TD,TCD,Ennedi-Ouest,admin,23786.0,1148787282
+Amdjarass,Amdjarass,16.0658,22.8431,Chad,TD,TCD,Ennedi-Est,admin,20850.0,1148268495
+Ati,Ati,13.2133,18.3381,Chad,TD,TCD,Batha,admin,20695.0,1148642108
+Mao,Mao,14.1194,15.3133,Chad,TD,TCD,Kanem,admin,19004.0,1148740154
+Massaguet,Massaguet,12.4742,15.4428,Chad,TD,TCD,Hadjer-Lamis,,18872.0,1148369489
+Bitkine,Bitkine,11.9817,18.2125,Chad,TD,TCD,Guéra,,18495.0,1148547709
+Dourbali,Dourbali,11.805,15.8647,Chad,TD,TCD,Chari-Baguirmi,,17682.0,1148000062
+Moussoro,Moussoro,13.6431,16.4919,Chad,TD,TCD,Barh-El-Gazel,admin,16349.0,1148918270
+Guelendeng,Guelendeng,10.9183,15.5486,Chad,TD,TCD,Mayo-Kebbi-Est,,16320.0,1148777607
+Massakory,Massakory,13.0,15.7333,Chad,TD,TCD,Hadjer-Lamis,admin,16237.0,1148908311
+Kyabé,Kyabe,9.4514,18.9447,Chad,TD,TCD,Moyen-Chari,,15960.0,1148010568
+Bokoro,Bokoro,12.3667,17.05,Chad,TD,TCD,Hadjer-Lamis,,15517.0,1148118704
+Béré,Bere,9.3156,16.1597,Chad,TD,TCD,Tandjilé,,14666.0,1148449680
+Bousso,Bousso,10.4825,16.7161,Chad,TD,TCD,Chari-Baguirmi,,14286.0,1148720066
+Laï,Lai,9.4,16.3,Chad,TD,TCD,Tandjilé,admin,14272.0,1148360693
+Mata,Mata,14.0436,21.1611,Chad,TD,TCD,Ouaddaï,,13739.0,1148342501
+Adré,Adre,13.4667,22.2,Chad,TD,TCD,Ouaddaï,,12571.0,1148372250
+Benoy,Benoy,8.9908,16.3169,Chad,TD,TCD,Logone Occidental,,12097.0,1148969711
+Biltine,Biltine,14.5275,20.9267,Chad,TD,TCD,Wadi-Fira,admin,11840.0,1148086843
+Bol,Bol,13.46,14.74,Chad,TD,TCD,Lac,admin,11700.0,1148232209
+Mangalmé,Mangalme,12.3547,19.6139,Chad,TD,TCD,Guéra,,11155.0,1148616441
+Zouar,Zouar,20.45,16.5167,Chad,TD,TCD,Tibesti,,6432.0,1148690803
+Massenya,Massenya,11.4,16.1667,Chad,TD,TCD,Chari-Baguirmi,admin,3680.0,1148928302
+Pala,Pala,9.3646,14.9073,Chad,TD,TCD,Mayo-Kebbi-Ouest,admin,,1148687410
+Bardaï,Bardai,21.3533,17.0003,Chad,TD,TCD,Tibesti,admin,,1148071351
+N’Djamena,N'Djamena,12.11,15.05,Chad,TD,TCD,N’Djamena,primary,1092066.0,1148708596
+Moundou,Moundou,8.5667,16.0833,Chad,TD,TCD,Logone Occidental,admin,142462.0,1148369114
+Sarh,Sarh,9.15,18.3833,Chad,TD,TCD,Moyen-Chari,admin,108061.0,1148442794
+Yao,Yao,12.8508,17.5608,Chad,TD,TCD,Batha,,91507.0,1148655909
+Léré,Lere,9.6572,14.2283,Chad,TD,TCD,Mayo-Kebbi-Ouest,,89237.0,1148428566
+Abéché,Abeche,13.8331,20.8347,Chad,TD,TCD,Ouaddaï,admin,76492.0,1148461151
+Goz-Beida,Goz-Beida,12.2236,21.4144,Chad,TD,TCD,Sila,admin,66107.0,1148101824
+Chèddra,Cheddra,13.4428,16.0508,Chad,TD,TCD,Barh-El-Gazel,,54072.0,1148029349
+Déressia,Deressia,9.7603,16.2697,Chad,TD,TCD,Tandjilé,,50113.0,1148460531
+Faya,Faya,17.9169,19.1167,Chad,TD,TCD,Borkou,admin,48090.0,1148095016
+Kelo,Kelo,9.31,15.81,Chad,TD,TCD,Tandjilé,,45224.0,1148149571
+Fianga,Fianga,9.9153,15.1375,Chad,TD,TCD,Mayo-Kebbi-Est,,42606.0,1148228151
+Koumra,Koumra,8.91,17.55,Chad,TD,TCD,Mandoul,admin,39852.0,1148599298
+Pala Oua,Pala Oua,9.3625,14.9106,Chad,TD,TCD,Mayo-Kebbi-Ouest,,38975.0,1148631807
+Am-Timan,Am-Timan,11.0333,20.2833,Chad,TD,TCD,Salamat,admin,38261.0,1148823427
+Iriba,Iriba,15.1167,22.25,Chad,TD,TCD,Wadi-Fira,,33572.0,1148106836
+Bongor,Bongor,10.2806,15.3722,Chad,TD,TCD,Mayo-Kebbi-Est,admin,27770.0,1148833900
+Mongo,Mongo,12.1837,18.7,Chad,TD,TCD,Guéra,admin,27763.0,1148891648
+Oum Hadjer,Oum Hadjer,13.2944,19.6914,Chad,TD,TCD,Batha,,26136.0,1148641107
+Doba,Doba,8.66,16.85,Chad,TD,TCD,Logone Oriental,admin,25650.0,1148367091
+Fada,Fada,17.1833,21.5833,Chad,TD,TCD,Ennedi-Ouest,admin,23786.0,1148787282
+Amdjarass,Amdjarass,16.0658,22.8431,Chad,TD,TCD,Ennedi-Est,admin,20850.0,1148268495
+Ati,Ati,13.2133,18.3381,Chad,TD,TCD,Batha,admin,20695.0,1148642108
+Mao,Mao,14.1194,15.3133,Chad,TD,TCD,Kanem,admin,19004.0,1148740154
+Massaguet,Massaguet,12.4742,15.4428,Chad,TD,TCD,Hadjer-Lamis,,18872.0,1148369489
+Bitkine,Bitkine,11.9817,18.2125,Chad,TD,TCD,Guéra,,18495.0,1148547709
+Dourbali,Dourbali,11.805,15.8647,Chad,TD,TCD,Chari-Baguirmi,,17682.0,1148000062
+Moussoro,Moussoro,13.6431,16.4919,Chad,TD,TCD,Barh-El-Gazel,admin,16349.0,1148918270
+Guelendeng,Guelendeng,10.9183,15.5486,Chad,TD,TCD,Mayo-Kebbi-Est,,16320.0,1148777607
+Massakory,Massakory,13.0,15.7333,Chad,TD,TCD,Hadjer-Lamis,admin,16237.0,1148908311
+Kyabé,Kyabe,9.4514,18.9447,Chad,TD,TCD,Moyen-Chari,,15960.0,1148010568
+Bokoro,Bokoro,12.3667,17.05,Chad,TD,TCD,Hadjer-Lamis,,15517.0,1148118704
+Béré,Bere,9.3156,16.1597,Chad,TD,TCD,Tandjilé,,14666.0,1148449680
+Bousso,Bousso,10.4825,16.7161,Chad,TD,TCD,Chari-Baguirmi,,14286.0,1148720066
+Laï,Lai,9.4,16.3,Chad,TD,TCD,Tandjilé,admin,14272.0,1148360693
+Mata,Mata,14.0436,21.1611,Chad,TD,TCD,Ouaddaï,,13739.0,1148342501
+Adré,Adre,13.4667,22.2,Chad,TD,TCD,Ouaddaï,,12571.0,1148372250
+Benoy,Benoy,8.9908,16.3169,Chad,TD,TCD,Logone Occidental,,12097.0,1148969711
+Biltine,Biltine,14.5275,20.9267,Chad,TD,TCD,Wadi-Fira,admin,11840.0,1148086843
+Bol,Bol,13.46,14.74,Chad,TD,TCD,Lac,admin,11700.0,1148232209
+Mangalmé,Mangalme,12.3547,19.6139,Chad,TD,TCD,Guéra,,11155.0,1148616441
+Zouar,Zouar,20.45,16.5167,Chad,TD,TCD,Tibesti,,6432.0,1148690803
+Massenya,Massenya,11.4,16.1667,Chad,TD,TCD,Chari-Baguirmi,admin,3680.0,1148928302
+Pala,Pala,9.3646,14.9073,Chad,TD,TCD,Mayo-Kebbi-Ouest,admin,,1148687410
+Bardaï,Bardai,21.3533,17.0003,Chad,TD,TCD,Tibesti,admin,,1148071351

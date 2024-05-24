@@ -1,0 +1,599 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Guatemala City,Guatemala City,14.6133,-90.5353,Guatemala,GT,GTM,Guatemala,primary,3014000.0,1320197916
+Mixco,Mixco,14.6331,-90.6064,Guatemala,GT,GTM,Guatemala,minor,517505.0,1320420152
+Villa Nueva,Villa Nueva,14.5269,-90.5875,Guatemala,GT,GTM,Guatemala,minor,483897.0,1320353009
+San Juan Sacatepéquez,San Juan Sacatepequez,14.7189,-90.6442,Guatemala,GT,GTM,Guatemala,minor,284798.0,1320451247
+San Pedro Carchá,San Pedro Carcha,15.4667,-90.3,Guatemala,GT,GTM,Alta Verapaz,minor,255006.0,1320220558
+Cobán,Coban,15.4833,-90.3667,Guatemala,GT,GTM,Alta Verapaz,admin,228664.0,1320020813
+Quetzaltenango,Quetzaltenango,14.8333,-91.5167,Guatemala,GT,GTM,Quetzaltenango,admin,204075.0,1320083599
+Jalapa,Jalapa,14.6333,-89.9833,Guatemala,GT,GTM,Jalapa,admin,192676.0,1320108089
+Escuintla,Escuintla,14.2978,-90.7869,Guatemala,GT,GTM,Escuintla,admin,170280.0,1320838903
+Villa Canales,Villa Canales,14.4833,-90.5333,Guatemala,GT,GTM,Guatemala,minor,167779.0,1320213771
+Jutiapa,Jutiapa,14.2828,-89.8925,Guatemala,GT,GTM,Jutiapa,admin,167049.0,1320264119
+Amatitlán,Amatitlan,14.4833,-90.6167,Guatemala,GT,GTM,Guatemala,minor,152296.0,1320637423
+Chichicastenango,Chichicastenango,14.9333,-91.1167,Guatemala,GT,GTM,Quiché,minor,150932.0,1320948769
+Momostenango,Momostenango,15.0444,-91.4083,Guatemala,GT,GTM,Totonicapán,minor,139552.0,1320482609
+Huehuetenango,Huehuetenango,15.3147,-91.4761,Guatemala,GT,GTM,Huehuetenango,admin,136639.0,1320742269
+San Luis,San Luis,16.2,-89.44,Guatemala,GT,GTM,Petén,minor,132470.0,1320642245
+Petapa,Petapa,14.5,-90.5667,Guatemala,GT,GTM,Guatemala,minor,129124.0,1320957558
+Santa Lucía Cotzumalguapa,Santa Lucia Cotzumalguapa,14.35,-91.0167,Guatemala,GT,GTM,Escuintla,minor,127683.0,1320110674
+Chinautla,Chinautla,14.7,-90.5,Guatemala,GT,GTM,Guatemala,minor,124365.0,1320450064
+Coatepeque,Coatepeque,14.7,-91.8667,Guatemala,GT,GTM,Quetzaltenango,minor,120737.0,1320672314
+Totonicapán,Totonicapan,14.9108,-91.3606,Guatemala,GT,GTM,Totonicapán,admin,118960.0,1320223386
+Chimaltenango,Chimaltenango,14.6622,-90.8208,Guatemala,GT,GTM,Chimaltenango,admin,116642.0,1320147012
+Tecpán Guatemala,Tecpan Guatemala,14.7667,-91.0,Guatemala,GT,GTM,Chimaltenango,minor,112864.0,1320835574
+Pochuta,Pochuta,14.545,-91.0889,Guatemala,GT,GTM,Chimaltenango,minor,112139.0,1320115832
+Chiquimula,Chiquimula,14.7833,-89.5333,Guatemala,GT,GTM,Chiquimula,admin,111505.0,1320041079
+Puerto Barrios,Puerto Barrios,15.7133,-88.5899,Guatemala,GT,GTM,Izabal,admin,110846.0,1320517532
+Retalhuleu,Retalhuleu,14.5333,-91.6833,Guatemala,GT,GTM,Retalhuleu,admin,109935.0,1320999503
+Malacatán,Malacatan,14.9,-92.0497,Guatemala,GT,GTM,San Marcos,minor,109318.0,1320759841
+Joyabaj,Joyabaj,14.995,-90.8075,Guatemala,GT,GTM,Quiché,minor,107634.0,1320625420
+Morales,Morales,15.4725,-88.8414,Guatemala,GT,GTM,Izabal,minor,107400.0,1320701049
+Sololá,Solola,14.7667,-91.1833,Guatemala,GT,GTM,Sololá,admin,99934.0,1320747500
+Sayaxché,Sayaxche,16.5167,-90.1833,Guatemala,GT,GTM,Petén,minor,99787.0,1320897653
+Santa Cruz del Quiché,Santa Cruz del Quiche,15.03,-91.15,Guatemala,GT,GTM,Quiché,admin,99479.0,1320642159
+Senahú,Senahu,15.4164,-89.8203,Guatemala,GT,GTM,Alta Verapaz,minor,98703.0,1320727854
+San Martín Jilotepeque,San Martin Jilotepeque,14.7833,-90.8,Guatemala,GT,GTM,Chimaltenango,minor,94901.0,1320611842
+Chiantla,Chiantla,15.35,-91.45,Guatemala,GT,GTM,Huehuetenango,minor,93780.0,1320904799
+San José Pinula,San Jose Pinula,14.55,-90.4167,Guatemala,GT,GTM,Guatemala,minor,89639.0,1320568537
+Santa Catarina Pinula,Santa Catarina Pinula,14.5667,-90.5,Guatemala,GT,GTM,Guatemala,minor,87362.0,1320763146
+Nahualá,Nahuala,14.85,-91.3167,Guatemala,GT,GTM,Sololá,minor,87319.0,1320452965
+San Pedro Sacatepéquez,San Pedro Sacatepequez,14.9667,-91.7667,Guatemala,GT,GTM,San Marcos,minor,85671.0,1320463364
+Concepción Tutuapa,Concepcion Tutuapa,15.2833,-91.7833,Guatemala,GT,GTM,San Marcos,minor,84138.0,1320051048
+Mazatenango,Mazatenango,14.5333,-91.5,Guatemala,GT,GTM,Suchitepéquez,admin,82969.0,1320123250
+El Estor,El Estor,15.5333,-89.35,Guatemala,GT,GTM,Izabal,minor,82491.0,1320745698
+Nueva Concepción,Nueva Concepcion,14.1997,-91.2997,Guatemala,GT,GTM,Escuintla,minor,82216.0,1320214238
+Tacaná,Tacana,15.2414,-92.0683,Guatemala,GT,GTM,San Marcos,minor,82079.0,1320608933
+Panzos,Panzos,15.4,-89.6667,Guatemala,GT,GTM,Alta Verapaz,minor,81063.0,1320362247
+San Cristóbal Verapaz,San Cristobal Verapaz,15.365,-90.4792,Guatemala,GT,GTM,Alta Verapaz,minor,80613.0,1320384406
+Comitancillo,Comitancillo,15.0833,-91.7167,Guatemala,GT,GTM,San Marcos,minor,80612.0,1320980243
+Lívingston,Livingston,15.83,-88.75,Guatemala,GT,GTM,Izabal,minor,80249.0,1320970605
+San Pedro Pinula,San Pedro Pinula,14.6667,-89.85,Guatemala,GT,GTM,Jalapa,minor,78244.0,1320622602
+Fray Bartolomé de Las Casas,Fray Bartolome de Las Casas,15.8456,-89.8658,Guatemala,GT,GTM,Alta Verapaz,minor,77896.0,1320227536
+Jocotán,Jocotan,14.8167,-89.3833,Guatemala,GT,GTM,Chiquimula,minor,75578.0,1320875548
+Palencia,Palencia,14.6667,-90.3667,Guatemala,GT,GTM,Guatemala,minor,74839.0,1320202368
+Uspantán,Uspantan,15.3458,-90.8694,Guatemala,GT,GTM,Quiché,minor,74244.0,1320948711
+Palín,Palin,14.4039,-90.6986,Guatemala,GT,GTM,Escuintla,minor,72203.0,1320669279
+Patzún,Patzun,14.6833,-91.0167,Guatemala,GT,GTM,Chimaltenango,minor,71790.0,1320400081
+Salamá,Salama,15.1,-90.2667,Guatemala,GT,GTM,Baja Verapaz,admin,71478.0,1320223205
+Santa María La Pila,Santa Maria La Pila,15.6056,-89.8125,Guatemala,GT,GTM,Alta Verapaz,,70321.0,1320008740
+Poptún,Poptun,16.322,-89.422,Guatemala,GT,GTM,Petén,minor,69437.0,1320738240
+Chisec,Chisec,15.8125,-90.3217,Guatemala,GT,GTM,Alta Verapaz,minor,69325.0,1320378643
+Puerto San José,Puerto San Jose,13.9333,-90.8167,Guatemala,GT,GTM,Escuintla,,68331.0,1320016478
+San Pedro Ayampuc,San Pedro Ayampuc,14.7833,-90.45,Guatemala,GT,GTM,Guatemala,minor,67946.0,1320976684
+Chicacao,Chicacao,14.5333,-91.3167,Guatemala,GT,GTM,Suchitepéquez,minor,67399.0,1320018206
+Cuilco,Cuilco,15.4,-91.9667,Guatemala,GT,GTM,Huehuetenango,minor,67297.0,1320503377
+Zacapa,Zacapa,14.9667,-89.5333,Guatemala,GT,GTM,Zacapa,admin,66423.0,1320977472
+San Francisco El Alto,San Francisco El Alto,14.95,-91.45,Guatemala,GT,GTM,Totonicapán,minor,65521.0,1320250670
+San Antonio Suchitepéquez,San Antonio Suchitepequez,14.5333,-91.4167,Guatemala,GT,GTM,Suchitepéquez,minor,65501.0,1320180712
+Los Amates,Los Amates,15.2667,-89.1,Guatemala,GT,GTM,Izabal,minor,65475.0,1320690487
+Purulhá,Purulha,15.2667,-90.2,Guatemala,GT,GTM,Baja Verapaz,minor,65340.0,1320914723
+Chiquimulilla,Chiquimulilla,14.0833,-90.3833,Guatemala,GT,GTM,Santa Rosa,minor,64871.0,1320719368
+Soloma,Soloma,15.7167,-91.45,Guatemala,GT,GTM,Huehuetenango,minor,64772.0,1320272967
+Tiquisate,Tiquisate,14.2833,-91.3667,Guatemala,GT,GTM,Escuintla,minor,63971.0,1320708461
+Fraijanes,Fraijanes,14.4667,-90.4333,Guatemala,GT,GTM,Guatemala,minor,63721.0,1320070590
+Tajumulco,Tajumulco,15.0833,-91.8833,Guatemala,GT,GTM,San Marcos,minor,63405.0,1320562305
+Camotán,Camotan,14.8167,-89.3817,Guatemala,GT,GTM,Chiquimula,minor,61958.0,1320004485
+San Juan Chamelco,San Juan Chamelco,15.4257,-90.3263,Guatemala,GT,GTM,Alta Verapaz,minor,61634.0,1320919361
+Ostuncalco,Ostuncalco,14.8667,-91.6167,Guatemala,GT,GTM,Quetzaltenango,minor,61517.0,1320940734
+La Democracia,La Democracia,15.6333,-91.8667,Guatemala,GT,GTM,Huehuetenango,minor,61486.0,1320454944
+Santa Catarina Ixtahuacán,Santa Catarina Ixtahuacan,14.8,-91.3667,Guatemala,GT,GTM,Sololá,minor,61274.0,1320474320
+Barberena,Barberena,14.3167,-90.3667,Guatemala,GT,GTM,Santa Rosa,minor,61079.0,1320951727
+Cubulco,Cubulco,15.1083,-90.6306,Guatemala,GT,GTM,Baja Verapaz,minor,60706.0,1320016070
+San Mateo Ixtatán,San Mateo Ixtatan,15.8333,-91.4833,Guatemala,GT,GTM,Huehuetenango,minor,60203.0,1320506898
+Aguacatán,Aguacatan,15.35,-91.3167,Guatemala,GT,GTM,Huehuetenango,minor,59638.0,1320252531
+Antigua Guatemala,Antigua Guatemala,14.5667,-90.7333,Guatemala,GT,GTM,Sacatepéquez,admin,59091.0,1320020808
+Santa María Chiquimula,Santa Maria Chiquimula,15.0292,-91.3294,Guatemala,GT,GTM,Totonicapán,minor,58918.0,1320879854
+San Pedro Sacatepéquez,San Pedro Sacatepequez,14.6833,-90.6333,Guatemala,GT,GTM,Guatemala,minor,56545.0,1320594851
+Ixtahuacán,Ixtahuacan,15.4167,-91.7667,Guatemala,GT,GTM,Huehuetenango,minor,56511.0,1320074127
+Colomba,Colomba,14.7167,-91.7333,Guatemala,GT,GTM,Quetzaltenango,minor,56487.0,1320816498
+Esquipulas,Esquipulas,14.5667,-89.35,Guatemala,GT,GTM,Chiquimula,minor,56253.0,1320011938
+San Andrés Villa Seca,San Andres Villa Seca,14.5667,-91.5833,Guatemala,GT,GTM,Retalhuleu,minor,56060.0,1320905434
+San Agustín Acasaguastlán,San Agustin Acasaguastlan,14.95,-89.9667,Guatemala,GT,GTM,El Progreso,minor,55508.0,1320288825
+Sacapulas,Sacapulas,15.2892,-91.0892,Guatemala,GT,GTM,Quiché,minor,55398.0,1320486900
+La Gomera,La Gomera,14.0833,-91.05,Guatemala,GT,GTM,Escuintla,minor,53211.0,1320383323
+San Miguel Ixtahuacán,San Miguel Ixtahuacan,15.25,-91.75,Guatemala,GT,GTM,San Marcos,minor,52452.0,1320896592
+San Pablo,San Pablo,14.9333,-92.0,Guatemala,GT,GTM,San Marcos,minor,52217.0,1320088732
+El Tumbador,El Tumbador,14.8667,-91.9333,Guatemala,GT,GTM,San Marcos,minor,52144.0,1320000006
+Chajul,Chajul,15.4872,-91.0347,Guatemala,GT,GTM,Quiché,minor,52019.0,1320789980
+Santa Eulalia,Santa Eulalia,15.7333,-91.4586,Guatemala,GT,GTM,Huehuetenango,minor,51910.0,1320956110
+Nentón,Nenton,15.8,-91.75,Guatemala,GT,GTM,Huehuetenango,minor,51349.0,1320745927
+Tucurú,Tucuru,15.3,-90.0667,Guatemala,GT,GTM,Alta Verapaz,minor,50971.0,1320241241
+Gualán,Gualan,15.1333,-89.3667,Guatemala,GT,GTM,Zacapa,minor,49709.0,1320124337
+San Marcos,San Marcos,14.9653,-91.7958,Guatemala,GT,GTM,San Marcos,admin,49115.0,1320960166
+La Libertad,La Libertad,15.5,-91.8333,Guatemala,GT,GTM,Huehuetenango,minor,49035.0,1320045134
+Santo Domingo Suchitepéquez,Santo Domingo Suchitepequez,14.4667,-91.4833,Guatemala,GT,GTM,Suchitepéquez,minor,48825.0,1320285516
+Masagua,Masagua,14.2,-90.85,Guatemala,GT,GTM,Escuintla,minor,48552.0,1320486083
+Asunción Mita,Asuncion Mita,14.3333,-89.7167,Guatemala,GT,GTM,Jutiapa,minor,48297.0,1320346897
+Mataquescuintla,Mataquescuintla,14.5336,-90.1839,Guatemala,GT,GTM,Jalapa,minor,47280.0,1320459318
+Cunén,Cunen,15.3333,-91.0333,Guatemala,GT,GTM,Quiché,minor,47250.0,1320582365
+Cantel,Cantel,14.8112,-91.4555,Guatemala,GT,GTM,Quetzaltenango,minor,47087.0,1320112635
+Cuilapa,Cuilapa,14.2833,-90.3,Guatemala,GT,GTM,Santa Rosa,admin,46974.0,1320810416
+Sumpango,Sumpango,14.6478,-90.7347,Guatemala,GT,GTM,Sacatepéquez,minor,46082.0,1320583719
+Rabinal,Rabinal,15.068,-90.489,Guatemala,GT,GTM,Baja Verapaz,minor,45000.0,1320817079
+Santiago Atitlán,Santiago Atitlan,14.6333,-91.2333,Guatemala,GT,GTM,Sololá,minor,44854.0,1320947677
+Colotenango,Colotenango,15.4167,-91.7167,Guatemala,GT,GTM,Huehuetenango,minor,44823.0,1320397198
+Santa Bárbara,Santa Barbara,15.3167,-91.6167,Guatemala,GT,GTM,Huehuetenango,minor,44809.0,1320493010
+Flores,Flores,16.9297,-89.8917,Guatemala,GT,GTM,Petén,admin,44706.0,1320651129
+Jacaltenango,Jacaltenango,15.6667,-91.7333,Guatemala,GT,GTM,Huehuetenango,minor,44605.0,1320537447
+El Asintal,El Asintal,14.6,-91.7333,Guatemala,GT,GTM,Retalhuleu,minor,43281.0,1320424397
+San Sebastián Huehuetenango,San Sebastian Huehuetenango,15.3833,-91.5833,Guatemala,GT,GTM,Huehuetenango,minor,43261.0,1320449471
+Chicamán,Chicaman,15.3483,-90.7994,Guatemala,GT,GTM,Quiché,minor,43139.0,1320356049
+Yepocapa,Yepocapa,14.5,-90.95,Guatemala,GT,GTM,Chimaltenango,minor,42996.0,1320657231
+San Cristóbal Totonicapán,San Cristobal Totonicapan,14.9167,-91.4333,Guatemala,GT,GTM,Totonicapán,minor,42937.0,1320524150
+Sanarate,Sanarate,14.795,-90.1922,Guatemala,GT,GTM,El Progreso,minor,42422.0,1320227243
+Nuevo San Carlos,Nuevo San Carlos,14.6,-91.7,Guatemala,GT,GTM,Retalhuleu,minor,41956.0,1320293782
+Tactic,Tactic,15.3167,-90.3511,Guatemala,GT,GTM,Alta Verapaz,minor,41930.0,1320105267
+San Pedro Necta,San Pedro Necta,15.5,-91.7667,Guatemala,GT,GTM,Huehuetenango,minor,41562.0,1320888118
+Patulul,Patulul,14.4167,-91.1667,Guatemala,GT,GTM,Suchitepéquez,minor,41543.0,1320760305
+Ciudad Vieja,Ciudad Vieja,14.5233,-90.7667,Guatemala,GT,GTM,Sacatepéquez,minor,41010.0,1320909841
+Patzicía,Patzicia,14.6317,-90.9269,Guatemala,GT,GTM,Chimaltenango,minor,40848.0,1320491635
+Raxruhá,Raxruha,15.8666,-90.0424,Guatemala,GT,GTM,Alta Verapaz,minor,40094.0,1320014679
+Zacualpa,Zacualpa,15.0272,-90.8778,Guatemala,GT,GTM,Quiché,minor,40003.0,1320530349
+Todos Santos Cuchumatán,Todos Santos Cuchumatan,15.5167,-91.6167,Guatemala,GT,GTM,Huehuetenango,minor,39638.0,1320616032
+Olintepeque,Olintepeque,14.8833,-91.5167,Guatemala,GT,GTM,Quetzaltenango,minor,39383.0,1320868542
+Nueva Santa Rosa,Nueva Santa Rosa,14.3811,-90.2761,Guatemala,GT,GTM,Santa Rosa,minor,39286.0,1320719046
+San Raimundo,San Raimundo,14.7647,-90.5956,Guatemala,GT,GTM,Guatemala,minor,38891.0,1320612138
+Champerico,Champerico,14.293,-91.914,Guatemala,GT,GTM,Retalhuleu,minor,38570.0,1320124316
+La Unión,La Union,14.9667,-89.2833,Guatemala,GT,GTM,Zacapa,minor,38473.0,1320575011
+San Pédro Jocopilas,San Pedro Jocopilas,15.0953,-91.1508,Guatemala,GT,GTM,Quiché,minor,37990.0,1320372881
+Comapa,Comapa,14.1167,-89.9167,Guatemala,GT,GTM,Jutiapa,minor,37218.0,1320504188
+Santiago Sacatepéquez,Santiago Sacatepequez,14.6531,-90.6525,Guatemala,GT,GTM,Sacatepéquez,minor,36982.0,1320070166
+San Miguel Chicaj,San Miguel Chicaj,15.1,-90.4,Guatemala,GT,GTM,Baja Verapaz,minor,36845.0,1320830871
+Taxisco,Taxisco,14.0667,-90.4667,Guatemala,GT,GTM,Santa Rosa,minor,36750.0,1320216194
+San Juan Cotzal,San Juan Cotzal,15.4353,-91.0356,Guatemala,GT,GTM,Quiché,minor,36298.0,1320691334
+San Miguel Acatán,San Miguel Acatan,15.7,-91.6167,Guatemala,GT,GTM,Huehuetenango,minor,36245.0,1320204061
+Cuyotenango,Cuyotenango,14.5333,-91.5667,Guatemala,GT,GTM,Suchitepéquez,minor,36201.0,1320056390
+San Carlos Sija,San Carlos Sija,14.9833,-91.55,Guatemala,GT,GTM,Quetzaltenango,minor,36001.0,1320621922
+Santa Cruz Verapaz,Santa Cruz Verapaz,15.3667,-90.4333,Guatemala,GT,GTM,Alta Verapaz,minor,35878.0,1320163756
+San Andrés Itzapa,San Andres Itzapa,14.6167,-90.85,Guatemala,GT,GTM,Chimaltenango,minor,35579.0,1320220802
+La Blanca,La Blanca,14.5792,-92.1414,Guatemala,GT,GTM,San Marcos,minor,34307.0,1320627277
+San José Poaquil,San Jose Poaquil,14.8167,-90.9,Guatemala,GT,GTM,Chimaltenango,minor,33932.0,1320659437
+San Martín Sacatepéquez,San Martin Sacatepequez,14.8246,-91.6425,Guatemala,GT,GTM,Quetzaltenango,minor,33826.0,1320569817
+Chiché,Chiche,15.0106,-91.065,Guatemala,GT,GTM,Quiché,minor,32271.0,1320628712
+San Carlos Alzatate,San Carlos Alzatate,14.5,-90.0667,Guatemala,GT,GTM,Jalapa,minor,31938.0,1320987618
+San Lucas Tolimán,San Lucas Toliman,14.6333,-91.1333,Guatemala,GT,GTM,Sololá,minor,31805.0,1320193805
+Santa Catarina Mita,Santa Catarina Mita,14.45,-89.75,Guatemala,GT,GTM,Jutiapa,minor,31709.0,1320928551
+El Palmar,El Palmar,14.65,-91.5833,Guatemala,GT,GTM,Quetzaltenango,minor,31706.0,1320401854
+Jalpatagua,Jalpatagua,14.1333,-90.0167,Guatemala,GT,GTM,Jutiapa,minor,31601.0,1320215735
+Jerez,Jerez,14.1,-89.75,Guatemala,GT,GTM,Jutiapa,minor,31601.0,1320129254
+Monjas,Monjas,14.5,-89.8667,Guatemala,GT,GTM,Jalapa,minor,31330.0,1320080716
+Río Bravo,Rio Bravo,14.4011,-91.3195,Guatemala,GT,GTM,Suchitepéquez,minor,31303.0,1320453852
+San Juan Ixcoy,San Juan Ixcoy,15.6,-91.45,Guatemala,GT,GTM,Huehuetenango,minor,31081.0,1320110393
+San Antonio Ilotenango,San Antonio Ilotenango,15.0544,-91.2294,Guatemala,GT,GTM,Quiché,minor,30864.0,1320641141
+San Sebastián,San Sebastian,14.5667,-91.65,Guatemala,GT,GTM,Retalhuleu,minor,30724.0,1320277612
+Ciudad Melchor de Mencos,Ciudad Melchor de Mencos,17.0667,-89.15,Guatemala,GT,GTM,Petén,minor,30682.0,1320635102
+Olopa,Olopa,14.6833,-89.35,Guatemala,GT,GTM,Chiquimula,minor,30534.0,1320980263
+Dolores,Dolores,16.5142,-89.4158,Guatemala,GT,GTM,Petén,minor,30302.0,1320503120
+Quezaltepeque,Quezaltepeque,14.6333,-89.45,Guatemala,GT,GTM,Chiquimula,minor,30136.0,1320647000
+Conguaco,Conguaco,14.05,-90.0333,Guatemala,GT,GTM,Jutiapa,minor,29887.0,1320354333
+San Andrés Xecul,San Andres Xecul,14.9,-91.4833,Guatemala,GT,GTM,Totonicapán,minor,29849.0,1320913861
+Zaragoza,Zaragoza,14.65,-90.8833,Guatemala,GT,GTM,Chimaltenango,minor,29668.0,1320225440
+San Agustín Chahal,San Agustin Chahal,15.75,-89.5667,Guatemala,GT,GTM,Alta Verapaz,,29590.0,1320935505
+Pueblo Nuevo Viñas,Pueblo Nuevo Vinas,14.2333,-90.4667,Guatemala,GT,GTM,Santa Rosa,minor,29418.0,1320114174
+San Lucas Sacatepéquez,San Lucas Sacatepequez,14.6167,-90.65,Guatemala,GT,GTM,Sacatepéquez,minor,28819.0,1320964594
+Acatenango,Acatenango,14.5544,-90.9439,Guatemala,GT,GTM,Chimaltenango,minor,28780.0,1320527035
+Alotenango,Alotenango,14.4878,-90.8058,Guatemala,GT,GTM,Sacatepéquez,minor,28129.0,1320366805
+Cabricán,Cabrican,15.0747,-91.6486,Guatemala,GT,GTM,Quetzaltenango,minor,28124.0,1320549099
+San Andrés Sajcabajá,San Andres Sajcabaja,15.1756,-90.9417,Guatemala,GT,GTM,Quiché,minor,27962.0,1320184261
+Santa Bárbara,Santa Barbara,14.4333,-91.2333,Guatemala,GT,GTM,Suchitepéquez,minor,27708.0,1320803022
+Guastatoya,Guastatoya,14.85,-90.0667,Guatemala,GT,GTM,El Progreso,admin,27407.0,1320849830
+Ciudad Tecún Umán,Ciudad Tecun Uman,14.6667,-92.15,Guatemala,GT,GTM,San Marcos,minor,27365.0,1320502351
+Sipacapa,Sipacapa,15.2122,-91.6347,Guatemala,GT,GTM,San Marcos,minor,27270.0,1320386242
+San Luis Jilotepeque,San Luis Jilotepeque,14.65,-89.7333,Guatemala,GT,GTM,Jalapa,minor,26874.0,1320097405
+Santa María de Jesús,Santa Maria de Jesus,14.4933,-90.7094,Guatemala,GT,GTM,Sacatepéquez,minor,26769.0,1320368552
+Santa María Ixhuatán,Santa Maria Ixhuatan,14.1833,-90.2667,Guatemala,GT,GTM,Santa Rosa,minor,26721.0,1320000004
+Samayac,Samayac,14.5833,-91.4667,Guatemala,GT,GTM,Suchitepéquez,minor,26665.0,1320175624
+San Felipe,San Felipe,14.6206,-91.5961,Guatemala,GT,GTM,Retalhuleu,minor,26640.0,1320120726
+Lanquín,Lanquin,15.5667,-89.9667,Guatemala,GT,GTM,Alta Verapaz,minor,26551.0,1320936016
+Siquinalá,Siquinala,14.3,-90.9667,Guatemala,GT,GTM,Escuintla,minor,26317.0,1320866947
+La Máquina,La Maquina,14.3,-91.5667,Guatemala,GT,GTM,Suchitepéquez,minor,26062.0,1320355896
+Casillas,Casillas,14.4167,-90.25,Guatemala,GT,GTM,Santa Rosa,minor,26059.0,1320372175
+San Juan Atitán,San Juan Atitan,15.4333,-91.6333,Guatemala,GT,GTM,Huehuetenango,minor,26031.0,1320659095
+San Sebastián Coatán,San Sebastian Coatan,15.7333,-91.5667,Guatemala,GT,GTM,Huehuetenango,minor,25935.0,1320533592
+El Quetzal,El Quetzal,14.7667,-91.8167,Guatemala,GT,GTM,San Marcos,minor,25888.0,1320885818
+El Progreso,El Progreso,14.35,-89.85,Guatemala,GT,GTM,Jutiapa,minor,25839.0,1320689547
+Santa Lucia La Reforma,Santa Lucia La Reforma,15.1333,-91.2333,Guatemala,GT,GTM,Totonicapán,minor,25668.0,1320776973
+La Esperanza,La Esperanza,14.8667,-91.5667,Guatemala,GT,GTM,Quetzaltenango,minor,24948.0,1320463184
+Ixchiguán,Ixchiguan,15.1675,-91.9319,Guatemala,GT,GTM,San Marcos,minor,24926.0,1320779608
+Flores Costa Cuca,Flores Costa Cuca,14.65,-91.8167,Guatemala,GT,GTM,Quetzaltenango,minor,24888.0,1320176965
+San Francisco Zapotitlán,San Francisco Zapotitlan,14.5833,-91.5167,Guatemala,GT,GTM,Suchitepéquez,minor,24763.0,1320950165
+Tamahú,Tamahu,15.3333,-90.1667,Guatemala,GT,GTM,Alta Verapaz,minor,24444.0,1320032339
+Santa Ana,Santa Ana,16.8069,-89.8272,Guatemala,GT,GTM,Petén,minor,24380.0,1320569617
+Quesada,Quesada,14.2667,-90.0333,Guatemala,GT,GTM,Jutiapa,minor,23822.0,1320537682
+El Tejar,El Tejar,14.65,-90.8,Guatemala,GT,GTM,Chimaltenango,minor,23780.0,1320344068
+Santa Apolonia,Santa Apolonia,14.7833,-90.9667,Guatemala,GT,GTM,Chimaltenango,minor,23751.0,1320348479
+Jocotenango,Jocotenango,14.5819,-90.7436,Guatemala,GT,GTM,Sacatepéquez,minor,23492.0,1320436479
+Pajapita,Pajapita,14.7167,-92.0333,Guatemala,GT,GTM,San Marcos,minor,23171.0,1320459427
+La Democracia,La Democracia,14.2308,-90.9472,Guatemala,GT,GTM,Escuintla,minor,22884.0,1320578325
+Malacatancito,Malacatancito,15.2167,-91.5167,Guatemala,GT,GTM,Huehuetenango,minor,22859.0,1320075688
+San José Ojetenam,San Jose Ojetenam,15.2167,-91.9667,Guatemala,GT,GTM,San Marcos,minor,22768.0,1320556269
+San Antonio La Paz,San Antonio La Paz,14.75,-90.2833,Guatemala,GT,GTM,El Progreso,minor,22493.0,1320686525
+San Pablo Jocopilas,San Pablo Jocopilas,14.5833,-91.45,Guatemala,GT,GTM,Suchitepéquez,minor,22490.0,1320534769
+Guazacapán,Guazacapan,14.0667,-90.4167,Guatemala,GT,GTM,Santa Rosa,minor,22197.0,1320179300
+Santa Lucía Utatlán,Santa Lucia Utatlan,14.7667,-91.2667,Guatemala,GT,GTM,Sololá,minor,21790.0,1320410768
+Salcajá,Salcaja,14.8833,-91.45,Guatemala,GT,GTM,Quetzaltenango,minor,21577.0,1320564253
+Santa Rosa de Lima,Santa Rosa de Lima,14.3833,-90.3,Guatemala,GT,GTM,Santa Rosa,minor,21415.0,1320410444
+Concepción Huista,Concepcion Huista,15.6167,-91.6833,Guatemala,GT,GTM,Huehuetenango,minor,21208.0,1320586594
+San Antonio Sacatepéquez,San Antonio Sacatepequez,14.9667,-91.7333,Guatemala,GT,GTM,San Marcos,minor,20994.0,1320733193
+Concepción Chiquirichapa,Concepcion Chiquirichapa,14.85,-91.6167,Guatemala,GT,GTM,Quetzaltenango,minor,20920.0,1320512845
+Palestina de los Altos,Palestina de los Altos,14.9333,-91.7,Guatemala,GT,GTM,Quetzaltenango,minor,20719.0,1320342960
+Parramos,Parramos,14.6078,-90.8031,Guatemala,GT,GTM,Chimaltenango,minor,20632.0,1320705427
+Iztapa,Iztapa,13.9331,-90.7075,Guatemala,GT,GTM,Escuintla,minor,20401.0,1320160535
+Teculután,Teculutan,14.9831,-89.5667,Guatemala,GT,GTM,Zacapa,minor,20272.0,1320018661
+Atescatempa,Atescatempa,14.175,-89.7417,Guatemala,GT,GTM,Jutiapa,minor,20033.0,1320044665
+Pastores,Pastores,14.6,-90.75,Guatemala,GT,GTM,Sacatepéquez,minor,19661.0,1320454567
+Cajolá,Cajola,14.9167,-91.6167,Guatemala,GT,GTM,Quetzaltenango,minor,19333.0,1320101495
+San Antonio Huista,San Antonio Huista,15.65,-91.7667,Guatemala,GT,GTM,Huehuetenango,minor,19311.0,1320351687
+San Juan Ermita,San Juan Ermita,14.7667,-89.4333,Guatemala,GT,GTM,Chiquimula,minor,18751.0,1320736877
+San Rafael La Independencia,San Rafael La Independencia,15.7167,-91.5333,Guatemala,GT,GTM,Huehuetenango,minor,18733.0,1320263088
+San Vicente Pacaya,San Vicente Pacaya,14.4161,-90.6392,Guatemala,GT,GTM,Escuintla,minor,18417.0,1320296319
+San Rafael Pie de la Cuesta,San Rafael Pie de la Cuesta,14.9333,-91.9167,Guatemala,GT,GTM,San Marcos,minor,18352.0,1320018274
+Yupiltepeque,Yupiltepeque,14.2,-89.7833,Guatemala,GT,GTM,Jutiapa,minor,18262.0,1320104275
+Sipacate,Sipacate,13.9333,-91.15,Guatemala,GT,GTM,Escuintla,,18212.0,1320395246
+San Cristóbal Cucho,San Cristobal Cucho,14.9,-91.7833,Guatemala,GT,GTM,San Marcos,minor,17987.0,1320539548
+Santa Cruz Naranjo,Santa Cruz Naranjo,14.3833,-90.3667,Guatemala,GT,GTM,Santa Rosa,minor,17875.0,1320978897
+Agua Blanca,Agua Blanca,14.4833,-89.6494,Guatemala,GT,GTM,Jutiapa,minor,17765.0,1320861023
+Guanagazapa,Guanagazapa,14.2333,-90.65,Guatemala,GT,GTM,Escuintla,minor,17458.0,1320760116
+Santa Lucía Milpas Altas,Santa Lucia Milpas Altas,14.5833,-90.6833,Guatemala,GT,GTM,Sacatepéquez,minor,17422.0,1320588328
+Almolonga,Almolonga,14.8122,-91.4944,Guatemala,GT,GTM,Quetzaltenango,minor,17305.0,1320537455
+San Bernardino,San Bernardino,14.5333,-91.45,Guatemala,GT,GTM,Suchitepéquez,minor,17110.0,1320929953
+Sibinal,Sibinal,15.1342,-92.05,Guatemala,GT,GTM,San Marcos,minor,17069.0,1320990586
+Chuarrancho,Chuarrancho,14.8181,-90.5153,Guatemala,GT,GTM,Guatemala,minor,17057.0,1320688968
+San Francisco,San Francisco,16.7833,-89.9361,Guatemala,GT,GTM,Petén,minor,16787.0,1320240607
+Santa Cruz Muluá,Santa Cruz Mulua,14.5833,-91.6167,Guatemala,GT,GTM,Retalhuleu,minor,16138.0,1320315123
+Panajachel,Panajachel,14.7406,-91.1594,Guatemala,GT,GTM,Sololá,minor,16101.0,1320143050
+Zunil,Zunil,14.7833,-91.4833,Guatemala,GT,GTM,Quetzaltenango,minor,15893.0,1320355897
+San Bartolomé Jocotenango,San Bartolome Jocotenango,15.1928,-91.0775,Guatemala,GT,GTM,Quiché,minor,15777.0,1320987645
+San Antonio Palopó,San Antonio Palopo,14.7,-91.1167,Guatemala,GT,GTM,Sololá,minor,15752.0,1320477213
+San Miguel Dueñas,San Miguel Duenas,14.5167,-90.8,Guatemala,GT,GTM,Sacatepéquez,minor,15562.0,1320250757
+El Chal,El Chal,16.64,-89.65,Guatemala,GT,GTM,Petén,minor,15555.0,1320084650
+Huitán,Huitan,15.1,-91.6167,Guatemala,GT,GTM,Quetzaltenango,minor,14839.0,1320474688
+Cabañas,Cabanas,14.9333,-89.8,Guatemala,GT,GTM,Zacapa,minor,14817.0,1320540151
+Santo Domingo Xenacoj,Santo Domingo Xenacoj,14.6822,-90.7067,Guatemala,GT,GTM,Sacatepéquez,minor,14455.0,1320621620
+El Rodeo,El Rodeo,14.3906,-90.8314,Guatemala,GT,GTM,Escuintla,,14125.0,1320523864
+Esquipulas Palo Gordo,Esquipulas Palo Gordo,14.9333,-91.8167,Guatemala,GT,GTM,San Marcos,minor,14018.0,1320136046
+San José Acatempa,San Jose Acatempa,14.2667,-90.1333,Guatemala,GT,GTM,Jutiapa,minor,13938.0,1320370299
+San Rafael Las Flores,San Rafael Las Flores,14.4814,-90.1733,Guatemala,GT,GTM,Santa Rosa,minor,13850.0,1320867057
+San Rafael Petzal,San Rafael Petzal,15.4167,-91.6667,Guatemala,GT,GTM,Huehuetenango,minor,13786.0,1320389398
+Sansare,Sansare,14.75,-90.1167,Guatemala,GT,GTM,El Progreso,minor,13674.0,1320883953
+Chinique,Chinique,15.0411,-91.0269,Guatemala,GT,GTM,Quiché,minor,13547.0,1320877724
+San Jorge,San Jorge,14.9333,-89.6,Guatemala,GT,GTM,Zacapa,minor,13525.0,1320839859
+San Juan La Laguna,San Juan La Laguna,14.7,-91.2833,Guatemala,GT,GTM,Sololá,minor,13400.0,1320529701
+San Jacinto,San Jacinto,14.6667,-89.5,Guatemala,GT,GTM,Chiquimula,,13381.0,1320094957
+Usumatlán,Usumatlan,14.9489,-89.7767,Guatemala,GT,GTM,Zacapa,minor,13245.0,1320983656
+San Martín Zapotitlán,San Martin Zapotitlan,14.6,-91.6,Guatemala,GT,GTM,Retalhuleu,minor,13094.0,1320924510
+San Juan Tecuaco,San Juan Tecuaco,14.0836,-90.2664,Guatemala,GT,GTM,Santa Rosa,minor,12825.0,1320640188
+Santo Tomás La Unión,Santo Tomas La Union,14.6333,-91.3833,Guatemala,GT,GTM,Suchitepéquez,minor,12800.0,1320346394
+Ocós,Ocos,14.5094,-92.1933,Guatemala,GT,GTM,San Marcos,minor,12776.0,1320442186
+Magdalena Milpas Altas,Magdalena Milpas Altas,14.5453,-90.6753,Guatemala,GT,GTM,Sacatepéquez,minor,12766.0,1320138967
+Canillá,Canilla,15.1667,-90.85,Guatemala,GT,GTM,Quiché,minor,12724.0,1320925878
+San Antonio Aguas Calientes,San Antonio Aguas Calientes,14.5333,-90.7667,Guatemala,GT,GTM,Sacatepéquez,minor,12716.0,1320340484
+Playa Grande,Playa Grande,15.9833,-90.7667,Guatemala,GT,GTM,Quiché,minor,12710.0,1320692827
+Morazán,Morazan,14.9328,-90.1431,Guatemala,GT,GTM,El Progreso,minor,12672.0,1320386903
+Concepción Las Minas,Concepcion Las Minas,14.5167,-89.45,Guatemala,GT,GTM,Chiquimula,minor,12615.0,1320071349
+San Miguel Panán,San Miguel Panan,14.5333,-91.3667,Guatemala,GT,GTM,Suchitepéquez,minor,12475.0,1320095749
+San Bartolo,San Bartolo,15.0844,-91.4558,Guatemala,GT,GTM,Totonicapán,minor,12459.0,1320306258
+Huité,Huite,14.9333,-89.7167,Guatemala,GT,GTM,Zacapa,minor,12021.0,1320201309
+San José El Ídolo,San Jose El Idolo,14.45,-91.4167,Guatemala,GT,GTM,Suchitepéquez,minor,12017.0,1320054644
+Tectitán,Tectitan,15.3333,-92.0333,Guatemala,GT,GTM,Huehuetenango,minor,11928.0,1320428411
+San Pedro La Laguna,San Pedro La Laguna,14.694,-91.272,Guatemala,GT,GTM,Sololá,minor,11828.0,1320860856
+Moyuta,Moyuta,14.0333,-90.0833,Guatemala,GT,GTM,Jutiapa,minor,11229.0,1320284268
+Pasaco,Pasaco,13.9833,-90.2,Guatemala,GT,GTM,Jutiapa,minor,11229.0,1320928744
+Santa Cruz Balanyá,Santa Cruz Balanya,14.6833,-90.9167,Guatemala,GT,GTM,Chimaltenango,minor,10981.0,1320621567
+Estanzuela,Estanzuela,15.0,-89.5667,Guatemala,GT,GTM,Zacapa,minor,10872.0,1320854533
+Santa Ana Huista,Santa Ana Huista,15.6833,-91.8167,Guatemala,GT,GTM,Huehuetenango,minor,10687.0,1320972408
+San Gaspar Ixchil,San Gaspar Ixchil,15.3833,-91.7167,Guatemala,GT,GTM,Huehuetenango,minor,10581.0,1320445115
+Zapotitlán,Zapotitlan,14.1333,-89.8333,Guatemala,GT,GTM,Jutiapa,minor,10573.0,1320939109
+Santiago Chimaltenango,Santiago Chimaltenango,15.4814,-91.7261,Guatemala,GT,GTM,Huehuetenango,minor,10507.0,1320827981
+El Chol,El Chol,14.9667,-90.4833,Guatemala,GT,GTM,Baja Verapaz,minor,10445.0,1320103256
+Santa Clara La Laguna,Santa Clara La Laguna,14.7167,-91.3,Guatemala,GT,GTM,Sololá,minor,10390.0,1320225556
+Pachalum,Pachalum,14.9269,-90.665,Guatemala,GT,GTM,Quiché,minor,9897.0,1320074787
+San Miguel Sigüilá,San Miguel Siguila,14.9,-91.6167,Guatemala,GT,GTM,Quetzaltenango,minor,9869.0,1320294122
+San Francisco la Unión,San Francisco la Union,14.9167,-91.5333,Guatemala,GT,GTM,Quetzaltenango,minor,9665.0,1320800465
+San Juan Bautista,San Juan Bautista,14.4167,-91.1833,Guatemala,GT,GTM,Suchitepéquez,minor,9404.0,1320577327
+San José La Arada,San Jose La Arada,14.7167,-89.5833,Guatemala,GT,GTM,Chiquimula,minor,9249.0,1320756927
+San Manuel Chaparrón,San Manuel Chaparron,14.5167,-89.7667,Guatemala,GT,GTM,Jalapa,minor,9126.0,1320449306
+Sibilia,Sibilia,15.0,-91.6167,Guatemala,GT,GTM,Quetzaltenango,minor,9071.0,1320074499
+Zunilito,Zunilito,14.6167,-91.5167,Guatemala,GT,GTM,Suchitepéquez,minor,8888.0,1320537106
+La Libertad,La Libertad,16.7804,-90.12,Guatemala,GT,GTM,Petén,minor,8646.0,1320389989
+San Bartolomé Milpas Altas,San Bartolome Milpas Altas,14.6072,-90.6781,Guatemala,GT,GTM,Sacatepéquez,minor,8642.0,1320802747
+Guatemala City,Guatemala City,14.6133,-90.5353,Guatemala,GT,GTM,Guatemala,primary,3014000.0,1320197916
+Mixco,Mixco,14.6331,-90.6064,Guatemala,GT,GTM,Guatemala,minor,517505.0,1320420152
+Villa Nueva,Villa Nueva,14.5269,-90.5875,Guatemala,GT,GTM,Guatemala,minor,483897.0,1320353009
+San Juan Sacatepéquez,San Juan Sacatepequez,14.7189,-90.6442,Guatemala,GT,GTM,Guatemala,minor,284798.0,1320451247
+San Pedro Carchá,San Pedro Carcha,15.4667,-90.3,Guatemala,GT,GTM,Alta Verapaz,minor,255006.0,1320220558
+Cobán,Coban,15.4833,-90.3667,Guatemala,GT,GTM,Alta Verapaz,admin,228664.0,1320020813
+Quetzaltenango,Quetzaltenango,14.8333,-91.5167,Guatemala,GT,GTM,Quetzaltenango,admin,204075.0,1320083599
+Jalapa,Jalapa,14.6333,-89.9833,Guatemala,GT,GTM,Jalapa,admin,192676.0,1320108089
+Escuintla,Escuintla,14.2978,-90.7869,Guatemala,GT,GTM,Escuintla,admin,170280.0,1320838903
+Villa Canales,Villa Canales,14.4833,-90.5333,Guatemala,GT,GTM,Guatemala,minor,167779.0,1320213771
+Jutiapa,Jutiapa,14.2828,-89.8925,Guatemala,GT,GTM,Jutiapa,admin,167049.0,1320264119
+Amatitlán,Amatitlan,14.4833,-90.6167,Guatemala,GT,GTM,Guatemala,minor,152296.0,1320637423
+Chichicastenango,Chichicastenango,14.9333,-91.1167,Guatemala,GT,GTM,Quiché,minor,150932.0,1320948769
+Momostenango,Momostenango,15.0444,-91.4083,Guatemala,GT,GTM,Totonicapán,minor,139552.0,1320482609
+Huehuetenango,Huehuetenango,15.3147,-91.4761,Guatemala,GT,GTM,Huehuetenango,admin,136639.0,1320742269
+San Luis,San Luis,16.2,-89.44,Guatemala,GT,GTM,Petén,minor,132470.0,1320642245
+Petapa,Petapa,14.5,-90.5667,Guatemala,GT,GTM,Guatemala,minor,129124.0,1320957558
+Santa Lucía Cotzumalguapa,Santa Lucia Cotzumalguapa,14.35,-91.0167,Guatemala,GT,GTM,Escuintla,minor,127683.0,1320110674
+Chinautla,Chinautla,14.7,-90.5,Guatemala,GT,GTM,Guatemala,minor,124365.0,1320450064
+Coatepeque,Coatepeque,14.7,-91.8667,Guatemala,GT,GTM,Quetzaltenango,minor,120737.0,1320672314
+Totonicapán,Totonicapan,14.9108,-91.3606,Guatemala,GT,GTM,Totonicapán,admin,118960.0,1320223386
+Chimaltenango,Chimaltenango,14.6622,-90.8208,Guatemala,GT,GTM,Chimaltenango,admin,116642.0,1320147012
+Tecpán Guatemala,Tecpan Guatemala,14.7667,-91.0,Guatemala,GT,GTM,Chimaltenango,minor,112864.0,1320835574
+Pochuta,Pochuta,14.545,-91.0889,Guatemala,GT,GTM,Chimaltenango,minor,112139.0,1320115832
+Chiquimula,Chiquimula,14.7833,-89.5333,Guatemala,GT,GTM,Chiquimula,admin,111505.0,1320041079
+Puerto Barrios,Puerto Barrios,15.7133,-88.5899,Guatemala,GT,GTM,Izabal,admin,110846.0,1320517532
+Retalhuleu,Retalhuleu,14.5333,-91.6833,Guatemala,GT,GTM,Retalhuleu,admin,109935.0,1320999503
+Malacatán,Malacatan,14.9,-92.0497,Guatemala,GT,GTM,San Marcos,minor,109318.0,1320759841
+Joyabaj,Joyabaj,14.995,-90.8075,Guatemala,GT,GTM,Quiché,minor,107634.0,1320625420
+Morales,Morales,15.4725,-88.8414,Guatemala,GT,GTM,Izabal,minor,107400.0,1320701049
+Sololá,Solola,14.7667,-91.1833,Guatemala,GT,GTM,Sololá,admin,99934.0,1320747500
+Sayaxché,Sayaxche,16.5167,-90.1833,Guatemala,GT,GTM,Petén,minor,99787.0,1320897653
+Santa Cruz del Quiché,Santa Cruz del Quiche,15.03,-91.15,Guatemala,GT,GTM,Quiché,admin,99479.0,1320642159
+Senahú,Senahu,15.4164,-89.8203,Guatemala,GT,GTM,Alta Verapaz,minor,98703.0,1320727854
+San Martín Jilotepeque,San Martin Jilotepeque,14.7833,-90.8,Guatemala,GT,GTM,Chimaltenango,minor,94901.0,1320611842
+Chiantla,Chiantla,15.35,-91.45,Guatemala,GT,GTM,Huehuetenango,minor,93780.0,1320904799
+San José Pinula,San Jose Pinula,14.55,-90.4167,Guatemala,GT,GTM,Guatemala,minor,89639.0,1320568537
+Santa Catarina Pinula,Santa Catarina Pinula,14.5667,-90.5,Guatemala,GT,GTM,Guatemala,minor,87362.0,1320763146
+Nahualá,Nahuala,14.85,-91.3167,Guatemala,GT,GTM,Sololá,minor,87319.0,1320452965
+San Pedro Sacatepéquez,San Pedro Sacatepequez,14.9667,-91.7667,Guatemala,GT,GTM,San Marcos,minor,85671.0,1320463364
+Concepción Tutuapa,Concepcion Tutuapa,15.2833,-91.7833,Guatemala,GT,GTM,San Marcos,minor,84138.0,1320051048
+Mazatenango,Mazatenango,14.5333,-91.5,Guatemala,GT,GTM,Suchitepéquez,admin,82969.0,1320123250
+El Estor,El Estor,15.5333,-89.35,Guatemala,GT,GTM,Izabal,minor,82491.0,1320745698
+Nueva Concepción,Nueva Concepcion,14.1997,-91.2997,Guatemala,GT,GTM,Escuintla,minor,82216.0,1320214238
+Tacaná,Tacana,15.2414,-92.0683,Guatemala,GT,GTM,San Marcos,minor,82079.0,1320608933
+Panzos,Panzos,15.4,-89.6667,Guatemala,GT,GTM,Alta Verapaz,minor,81063.0,1320362247
+San Cristóbal Verapaz,San Cristobal Verapaz,15.365,-90.4792,Guatemala,GT,GTM,Alta Verapaz,minor,80613.0,1320384406
+Comitancillo,Comitancillo,15.0833,-91.7167,Guatemala,GT,GTM,San Marcos,minor,80612.0,1320980243
+Lívingston,Livingston,15.83,-88.75,Guatemala,GT,GTM,Izabal,minor,80249.0,1320970605
+San Pedro Pinula,San Pedro Pinula,14.6667,-89.85,Guatemala,GT,GTM,Jalapa,minor,78244.0,1320622602
+Fray Bartolomé de Las Casas,Fray Bartolome de Las Casas,15.8456,-89.8658,Guatemala,GT,GTM,Alta Verapaz,minor,77896.0,1320227536
+Jocotán,Jocotan,14.8167,-89.3833,Guatemala,GT,GTM,Chiquimula,minor,75578.0,1320875548
+Palencia,Palencia,14.6667,-90.3667,Guatemala,GT,GTM,Guatemala,minor,74839.0,1320202368
+Uspantán,Uspantan,15.3458,-90.8694,Guatemala,GT,GTM,Quiché,minor,74244.0,1320948711
+Palín,Palin,14.4039,-90.6986,Guatemala,GT,GTM,Escuintla,minor,72203.0,1320669279
+Patzún,Patzun,14.6833,-91.0167,Guatemala,GT,GTM,Chimaltenango,minor,71790.0,1320400081
+Salamá,Salama,15.1,-90.2667,Guatemala,GT,GTM,Baja Verapaz,admin,71478.0,1320223205
+Santa María La Pila,Santa Maria La Pila,15.6056,-89.8125,Guatemala,GT,GTM,Alta Verapaz,,70321.0,1320008740
+Poptún,Poptun,16.322,-89.422,Guatemala,GT,GTM,Petén,minor,69437.0,1320738240
+Chisec,Chisec,15.8125,-90.3217,Guatemala,GT,GTM,Alta Verapaz,minor,69325.0,1320378643
+Puerto San José,Puerto San Jose,13.9333,-90.8167,Guatemala,GT,GTM,Escuintla,,68331.0,1320016478
+San Pedro Ayampuc,San Pedro Ayampuc,14.7833,-90.45,Guatemala,GT,GTM,Guatemala,minor,67946.0,1320976684
+Chicacao,Chicacao,14.5333,-91.3167,Guatemala,GT,GTM,Suchitepéquez,minor,67399.0,1320018206
+Cuilco,Cuilco,15.4,-91.9667,Guatemala,GT,GTM,Huehuetenango,minor,67297.0,1320503377
+Zacapa,Zacapa,14.9667,-89.5333,Guatemala,GT,GTM,Zacapa,admin,66423.0,1320977472
+San Francisco El Alto,San Francisco El Alto,14.95,-91.45,Guatemala,GT,GTM,Totonicapán,minor,65521.0,1320250670
+San Antonio Suchitepéquez,San Antonio Suchitepequez,14.5333,-91.4167,Guatemala,GT,GTM,Suchitepéquez,minor,65501.0,1320180712
+Los Amates,Los Amates,15.2667,-89.1,Guatemala,GT,GTM,Izabal,minor,65475.0,1320690487
+Purulhá,Purulha,15.2667,-90.2,Guatemala,GT,GTM,Baja Verapaz,minor,65340.0,1320914723
+Chiquimulilla,Chiquimulilla,14.0833,-90.3833,Guatemala,GT,GTM,Santa Rosa,minor,64871.0,1320719368
+Soloma,Soloma,15.7167,-91.45,Guatemala,GT,GTM,Huehuetenango,minor,64772.0,1320272967
+Tiquisate,Tiquisate,14.2833,-91.3667,Guatemala,GT,GTM,Escuintla,minor,63971.0,1320708461
+Fraijanes,Fraijanes,14.4667,-90.4333,Guatemala,GT,GTM,Guatemala,minor,63721.0,1320070590
+Tajumulco,Tajumulco,15.0833,-91.8833,Guatemala,GT,GTM,San Marcos,minor,63405.0,1320562305
+Camotán,Camotan,14.8167,-89.3817,Guatemala,GT,GTM,Chiquimula,minor,61958.0,1320004485
+San Juan Chamelco,San Juan Chamelco,15.4257,-90.3263,Guatemala,GT,GTM,Alta Verapaz,minor,61634.0,1320919361
+Ostuncalco,Ostuncalco,14.8667,-91.6167,Guatemala,GT,GTM,Quetzaltenango,minor,61517.0,1320940734
+La Democracia,La Democracia,15.6333,-91.8667,Guatemala,GT,GTM,Huehuetenango,minor,61486.0,1320454944
+Santa Catarina Ixtahuacán,Santa Catarina Ixtahuacan,14.8,-91.3667,Guatemala,GT,GTM,Sololá,minor,61274.0,1320474320
+Barberena,Barberena,14.3167,-90.3667,Guatemala,GT,GTM,Santa Rosa,minor,61079.0,1320951727
+Cubulco,Cubulco,15.1083,-90.6306,Guatemala,GT,GTM,Baja Verapaz,minor,60706.0,1320016070
+San Mateo Ixtatán,San Mateo Ixtatan,15.8333,-91.4833,Guatemala,GT,GTM,Huehuetenango,minor,60203.0,1320506898
+Aguacatán,Aguacatan,15.35,-91.3167,Guatemala,GT,GTM,Huehuetenango,minor,59638.0,1320252531
+Antigua Guatemala,Antigua Guatemala,14.5667,-90.7333,Guatemala,GT,GTM,Sacatepéquez,admin,59091.0,1320020808
+Santa María Chiquimula,Santa Maria Chiquimula,15.0292,-91.3294,Guatemala,GT,GTM,Totonicapán,minor,58918.0,1320879854
+San Pedro Sacatepéquez,San Pedro Sacatepequez,14.6833,-90.6333,Guatemala,GT,GTM,Guatemala,minor,56545.0,1320594851
+Ixtahuacán,Ixtahuacan,15.4167,-91.7667,Guatemala,GT,GTM,Huehuetenango,minor,56511.0,1320074127
+Colomba,Colomba,14.7167,-91.7333,Guatemala,GT,GTM,Quetzaltenango,minor,56487.0,1320816498
+Esquipulas,Esquipulas,14.5667,-89.35,Guatemala,GT,GTM,Chiquimula,minor,56253.0,1320011938
+San Andrés Villa Seca,San Andres Villa Seca,14.5667,-91.5833,Guatemala,GT,GTM,Retalhuleu,minor,56060.0,1320905434
+San Agustín Acasaguastlán,San Agustin Acasaguastlan,14.95,-89.9667,Guatemala,GT,GTM,El Progreso,minor,55508.0,1320288825
+Sacapulas,Sacapulas,15.2892,-91.0892,Guatemala,GT,GTM,Quiché,minor,55398.0,1320486900
+La Gomera,La Gomera,14.0833,-91.05,Guatemala,GT,GTM,Escuintla,minor,53211.0,1320383323
+San Miguel Ixtahuacán,San Miguel Ixtahuacan,15.25,-91.75,Guatemala,GT,GTM,San Marcos,minor,52452.0,1320896592
+San Pablo,San Pablo,14.9333,-92.0,Guatemala,GT,GTM,San Marcos,minor,52217.0,1320088732
+El Tumbador,El Tumbador,14.8667,-91.9333,Guatemala,GT,GTM,San Marcos,minor,52144.0,1320000006
+Chajul,Chajul,15.4872,-91.0347,Guatemala,GT,GTM,Quiché,minor,52019.0,1320789980
+Santa Eulalia,Santa Eulalia,15.7333,-91.4586,Guatemala,GT,GTM,Huehuetenango,minor,51910.0,1320956110
+Nentón,Nenton,15.8,-91.75,Guatemala,GT,GTM,Huehuetenango,minor,51349.0,1320745927
+Tucurú,Tucuru,15.3,-90.0667,Guatemala,GT,GTM,Alta Verapaz,minor,50971.0,1320241241
+Gualán,Gualan,15.1333,-89.3667,Guatemala,GT,GTM,Zacapa,minor,49709.0,1320124337
+San Marcos,San Marcos,14.9653,-91.7958,Guatemala,GT,GTM,San Marcos,admin,49115.0,1320960166
+La Libertad,La Libertad,15.5,-91.8333,Guatemala,GT,GTM,Huehuetenango,minor,49035.0,1320045134
+Santo Domingo Suchitepéquez,Santo Domingo Suchitepequez,14.4667,-91.4833,Guatemala,GT,GTM,Suchitepéquez,minor,48825.0,1320285516
+Masagua,Masagua,14.2,-90.85,Guatemala,GT,GTM,Escuintla,minor,48552.0,1320486083
+Asunción Mita,Asuncion Mita,14.3333,-89.7167,Guatemala,GT,GTM,Jutiapa,minor,48297.0,1320346897
+Mataquescuintla,Mataquescuintla,14.5336,-90.1839,Guatemala,GT,GTM,Jalapa,minor,47280.0,1320459318
+Cunén,Cunen,15.3333,-91.0333,Guatemala,GT,GTM,Quiché,minor,47250.0,1320582365
+Cantel,Cantel,14.8112,-91.4555,Guatemala,GT,GTM,Quetzaltenango,minor,47087.0,1320112635
+Cuilapa,Cuilapa,14.2833,-90.3,Guatemala,GT,GTM,Santa Rosa,admin,46974.0,1320810416
+Sumpango,Sumpango,14.6478,-90.7347,Guatemala,GT,GTM,Sacatepéquez,minor,46082.0,1320583719
+Rabinal,Rabinal,15.068,-90.489,Guatemala,GT,GTM,Baja Verapaz,minor,45000.0,1320817079
+Santiago Atitlán,Santiago Atitlan,14.6333,-91.2333,Guatemala,GT,GTM,Sololá,minor,44854.0,1320947677
+Colotenango,Colotenango,15.4167,-91.7167,Guatemala,GT,GTM,Huehuetenango,minor,44823.0,1320397198
+Santa Bárbara,Santa Barbara,15.3167,-91.6167,Guatemala,GT,GTM,Huehuetenango,minor,44809.0,1320493010
+Flores,Flores,16.9297,-89.8917,Guatemala,GT,GTM,Petén,admin,44706.0,1320651129
+Jacaltenango,Jacaltenango,15.6667,-91.7333,Guatemala,GT,GTM,Huehuetenango,minor,44605.0,1320537447
+El Asintal,El Asintal,14.6,-91.7333,Guatemala,GT,GTM,Retalhuleu,minor,43281.0,1320424397
+San Sebastián Huehuetenango,San Sebastian Huehuetenango,15.3833,-91.5833,Guatemala,GT,GTM,Huehuetenango,minor,43261.0,1320449471
+Chicamán,Chicaman,15.3483,-90.7994,Guatemala,GT,GTM,Quiché,minor,43139.0,1320356049
+Yepocapa,Yepocapa,14.5,-90.95,Guatemala,GT,GTM,Chimaltenango,minor,42996.0,1320657231
+San Cristóbal Totonicapán,San Cristobal Totonicapan,14.9167,-91.4333,Guatemala,GT,GTM,Totonicapán,minor,42937.0,1320524150
+Sanarate,Sanarate,14.795,-90.1922,Guatemala,GT,GTM,El Progreso,minor,42422.0,1320227243
+Nuevo San Carlos,Nuevo San Carlos,14.6,-91.7,Guatemala,GT,GTM,Retalhuleu,minor,41956.0,1320293782
+Tactic,Tactic,15.3167,-90.3511,Guatemala,GT,GTM,Alta Verapaz,minor,41930.0,1320105267
+San Pedro Necta,San Pedro Necta,15.5,-91.7667,Guatemala,GT,GTM,Huehuetenango,minor,41562.0,1320888118
+Patulul,Patulul,14.4167,-91.1667,Guatemala,GT,GTM,Suchitepéquez,minor,41543.0,1320760305
+Ciudad Vieja,Ciudad Vieja,14.5233,-90.7667,Guatemala,GT,GTM,Sacatepéquez,minor,41010.0,1320909841
+Patzicía,Patzicia,14.6317,-90.9269,Guatemala,GT,GTM,Chimaltenango,minor,40848.0,1320491635
+Raxruhá,Raxruha,15.8666,-90.0424,Guatemala,GT,GTM,Alta Verapaz,minor,40094.0,1320014679
+Zacualpa,Zacualpa,15.0272,-90.8778,Guatemala,GT,GTM,Quiché,minor,40003.0,1320530349
+Todos Santos Cuchumatán,Todos Santos Cuchumatan,15.5167,-91.6167,Guatemala,GT,GTM,Huehuetenango,minor,39638.0,1320616032
+Olintepeque,Olintepeque,14.8833,-91.5167,Guatemala,GT,GTM,Quetzaltenango,minor,39383.0,1320868542
+Nueva Santa Rosa,Nueva Santa Rosa,14.3811,-90.2761,Guatemala,GT,GTM,Santa Rosa,minor,39286.0,1320719046
+San Raimundo,San Raimundo,14.7647,-90.5956,Guatemala,GT,GTM,Guatemala,minor,38891.0,1320612138
+Champerico,Champerico,14.293,-91.914,Guatemala,GT,GTM,Retalhuleu,minor,38570.0,1320124316
+La Unión,La Union,14.9667,-89.2833,Guatemala,GT,GTM,Zacapa,minor,38473.0,1320575011
+San Pédro Jocopilas,San Pedro Jocopilas,15.0953,-91.1508,Guatemala,GT,GTM,Quiché,minor,37990.0,1320372881
+Comapa,Comapa,14.1167,-89.9167,Guatemala,GT,GTM,Jutiapa,minor,37218.0,1320504188
+Santiago Sacatepéquez,Santiago Sacatepequez,14.6531,-90.6525,Guatemala,GT,GTM,Sacatepéquez,minor,36982.0,1320070166
+San Miguel Chicaj,San Miguel Chicaj,15.1,-90.4,Guatemala,GT,GTM,Baja Verapaz,minor,36845.0,1320830871
+Taxisco,Taxisco,14.0667,-90.4667,Guatemala,GT,GTM,Santa Rosa,minor,36750.0,1320216194
+San Juan Cotzal,San Juan Cotzal,15.4353,-91.0356,Guatemala,GT,GTM,Quiché,minor,36298.0,1320691334
+San Miguel Acatán,San Miguel Acatan,15.7,-91.6167,Guatemala,GT,GTM,Huehuetenango,minor,36245.0,1320204061
+Cuyotenango,Cuyotenango,14.5333,-91.5667,Guatemala,GT,GTM,Suchitepéquez,minor,36201.0,1320056390
+San Carlos Sija,San Carlos Sija,14.9833,-91.55,Guatemala,GT,GTM,Quetzaltenango,minor,36001.0,1320621922
+Santa Cruz Verapaz,Santa Cruz Verapaz,15.3667,-90.4333,Guatemala,GT,GTM,Alta Verapaz,minor,35878.0,1320163756
+San Andrés Itzapa,San Andres Itzapa,14.6167,-90.85,Guatemala,GT,GTM,Chimaltenango,minor,35579.0,1320220802
+La Blanca,La Blanca,14.5792,-92.1414,Guatemala,GT,GTM,San Marcos,minor,34307.0,1320627277
+San José Poaquil,San Jose Poaquil,14.8167,-90.9,Guatemala,GT,GTM,Chimaltenango,minor,33932.0,1320659437
+San Martín Sacatepéquez,San Martin Sacatepequez,14.8246,-91.6425,Guatemala,GT,GTM,Quetzaltenango,minor,33826.0,1320569817
+Chiché,Chiche,15.0106,-91.065,Guatemala,GT,GTM,Quiché,minor,32271.0,1320628712
+San Carlos Alzatate,San Carlos Alzatate,14.5,-90.0667,Guatemala,GT,GTM,Jalapa,minor,31938.0,1320987618
+San Lucas Tolimán,San Lucas Toliman,14.6333,-91.1333,Guatemala,GT,GTM,Sololá,minor,31805.0,1320193805
+Santa Catarina Mita,Santa Catarina Mita,14.45,-89.75,Guatemala,GT,GTM,Jutiapa,minor,31709.0,1320928551
+El Palmar,El Palmar,14.65,-91.5833,Guatemala,GT,GTM,Quetzaltenango,minor,31706.0,1320401854
+Jalpatagua,Jalpatagua,14.1333,-90.0167,Guatemala,GT,GTM,Jutiapa,minor,31601.0,1320215735
+Jerez,Jerez,14.1,-89.75,Guatemala,GT,GTM,Jutiapa,minor,31601.0,1320129254
+Monjas,Monjas,14.5,-89.8667,Guatemala,GT,GTM,Jalapa,minor,31330.0,1320080716
+Río Bravo,Rio Bravo,14.4011,-91.3195,Guatemala,GT,GTM,Suchitepéquez,minor,31303.0,1320453852
+San Juan Ixcoy,San Juan Ixcoy,15.6,-91.45,Guatemala,GT,GTM,Huehuetenango,minor,31081.0,1320110393
+San Antonio Ilotenango,San Antonio Ilotenango,15.0544,-91.2294,Guatemala,GT,GTM,Quiché,minor,30864.0,1320641141
+San Sebastián,San Sebastian,14.5667,-91.65,Guatemala,GT,GTM,Retalhuleu,minor,30724.0,1320277612
+Ciudad Melchor de Mencos,Ciudad Melchor de Mencos,17.0667,-89.15,Guatemala,GT,GTM,Petén,minor,30682.0,1320635102
+Olopa,Olopa,14.6833,-89.35,Guatemala,GT,GTM,Chiquimula,minor,30534.0,1320980263
+Dolores,Dolores,16.5142,-89.4158,Guatemala,GT,GTM,Petén,minor,30302.0,1320503120
+Quezaltepeque,Quezaltepeque,14.6333,-89.45,Guatemala,GT,GTM,Chiquimula,minor,30136.0,1320647000
+Conguaco,Conguaco,14.05,-90.0333,Guatemala,GT,GTM,Jutiapa,minor,29887.0,1320354333
+San Andrés Xecul,San Andres Xecul,14.9,-91.4833,Guatemala,GT,GTM,Totonicapán,minor,29849.0,1320913861
+Zaragoza,Zaragoza,14.65,-90.8833,Guatemala,GT,GTM,Chimaltenango,minor,29668.0,1320225440
+San Agustín Chahal,San Agustin Chahal,15.75,-89.5667,Guatemala,GT,GTM,Alta Verapaz,,29590.0,1320935505
+Pueblo Nuevo Viñas,Pueblo Nuevo Vinas,14.2333,-90.4667,Guatemala,GT,GTM,Santa Rosa,minor,29418.0,1320114174
+San Lucas Sacatepéquez,San Lucas Sacatepequez,14.6167,-90.65,Guatemala,GT,GTM,Sacatepéquez,minor,28819.0,1320964594
+Acatenango,Acatenango,14.5544,-90.9439,Guatemala,GT,GTM,Chimaltenango,minor,28780.0,1320527035
+Alotenango,Alotenango,14.4878,-90.8058,Guatemala,GT,GTM,Sacatepéquez,minor,28129.0,1320366805
+Cabricán,Cabrican,15.0747,-91.6486,Guatemala,GT,GTM,Quetzaltenango,minor,28124.0,1320549099
+San Andrés Sajcabajá,San Andres Sajcabaja,15.1756,-90.9417,Guatemala,GT,GTM,Quiché,minor,27962.0,1320184261
+Santa Bárbara,Santa Barbara,14.4333,-91.2333,Guatemala,GT,GTM,Suchitepéquez,minor,27708.0,1320803022
+Guastatoya,Guastatoya,14.85,-90.0667,Guatemala,GT,GTM,El Progreso,admin,27407.0,1320849830
+Ciudad Tecún Umán,Ciudad Tecun Uman,14.6667,-92.15,Guatemala,GT,GTM,San Marcos,minor,27365.0,1320502351
+Sipacapa,Sipacapa,15.2122,-91.6347,Guatemala,GT,GTM,San Marcos,minor,27270.0,1320386242
+San Luis Jilotepeque,San Luis Jilotepeque,14.65,-89.7333,Guatemala,GT,GTM,Jalapa,minor,26874.0,1320097405
+Santa María de Jesús,Santa Maria de Jesus,14.4933,-90.7094,Guatemala,GT,GTM,Sacatepéquez,minor,26769.0,1320368552
+Santa María Ixhuatán,Santa Maria Ixhuatan,14.1833,-90.2667,Guatemala,GT,GTM,Santa Rosa,minor,26721.0,1320000004
+Samayac,Samayac,14.5833,-91.4667,Guatemala,GT,GTM,Suchitepéquez,minor,26665.0,1320175624
+San Felipe,San Felipe,14.6206,-91.5961,Guatemala,GT,GTM,Retalhuleu,minor,26640.0,1320120726
+Lanquín,Lanquin,15.5667,-89.9667,Guatemala,GT,GTM,Alta Verapaz,minor,26551.0,1320936016
+Siquinalá,Siquinala,14.3,-90.9667,Guatemala,GT,GTM,Escuintla,minor,26317.0,1320866947
+La Máquina,La Maquina,14.3,-91.5667,Guatemala,GT,GTM,Suchitepéquez,minor,26062.0,1320355896
+Casillas,Casillas,14.4167,-90.25,Guatemala,GT,GTM,Santa Rosa,minor,26059.0,1320372175
+San Juan Atitán,San Juan Atitan,15.4333,-91.6333,Guatemala,GT,GTM,Huehuetenango,minor,26031.0,1320659095
+San Sebastián Coatán,San Sebastian Coatan,15.7333,-91.5667,Guatemala,GT,GTM,Huehuetenango,minor,25935.0,1320533592
+El Quetzal,El Quetzal,14.7667,-91.8167,Guatemala,GT,GTM,San Marcos,minor,25888.0,1320885818
+El Progreso,El Progreso,14.35,-89.85,Guatemala,GT,GTM,Jutiapa,minor,25839.0,1320689547
+Santa Lucia La Reforma,Santa Lucia La Reforma,15.1333,-91.2333,Guatemala,GT,GTM,Totonicapán,minor,25668.0,1320776973
+La Esperanza,La Esperanza,14.8667,-91.5667,Guatemala,GT,GTM,Quetzaltenango,minor,24948.0,1320463184
+Ixchiguán,Ixchiguan,15.1675,-91.9319,Guatemala,GT,GTM,San Marcos,minor,24926.0,1320779608
+Flores Costa Cuca,Flores Costa Cuca,14.65,-91.8167,Guatemala,GT,GTM,Quetzaltenango,minor,24888.0,1320176965
+San Francisco Zapotitlán,San Francisco Zapotitlan,14.5833,-91.5167,Guatemala,GT,GTM,Suchitepéquez,minor,24763.0,1320950165
+Tamahú,Tamahu,15.3333,-90.1667,Guatemala,GT,GTM,Alta Verapaz,minor,24444.0,1320032339
+Santa Ana,Santa Ana,16.8069,-89.8272,Guatemala,GT,GTM,Petén,minor,24380.0,1320569617
+Quesada,Quesada,14.2667,-90.0333,Guatemala,GT,GTM,Jutiapa,minor,23822.0,1320537682
+El Tejar,El Tejar,14.65,-90.8,Guatemala,GT,GTM,Chimaltenango,minor,23780.0,1320344068
+Santa Apolonia,Santa Apolonia,14.7833,-90.9667,Guatemala,GT,GTM,Chimaltenango,minor,23751.0,1320348479
+Jocotenango,Jocotenango,14.5819,-90.7436,Guatemala,GT,GTM,Sacatepéquez,minor,23492.0,1320436479
+Pajapita,Pajapita,14.7167,-92.0333,Guatemala,GT,GTM,San Marcos,minor,23171.0,1320459427
+La Democracia,La Democracia,14.2308,-90.9472,Guatemala,GT,GTM,Escuintla,minor,22884.0,1320578325
+Malacatancito,Malacatancito,15.2167,-91.5167,Guatemala,GT,GTM,Huehuetenango,minor,22859.0,1320075688
+San José Ojetenam,San Jose Ojetenam,15.2167,-91.9667,Guatemala,GT,GTM,San Marcos,minor,22768.0,1320556269
+San Antonio La Paz,San Antonio La Paz,14.75,-90.2833,Guatemala,GT,GTM,El Progreso,minor,22493.0,1320686525
+San Pablo Jocopilas,San Pablo Jocopilas,14.5833,-91.45,Guatemala,GT,GTM,Suchitepéquez,minor,22490.0,1320534769
+Guazacapán,Guazacapan,14.0667,-90.4167,Guatemala,GT,GTM,Santa Rosa,minor,22197.0,1320179300
+Santa Lucía Utatlán,Santa Lucia Utatlan,14.7667,-91.2667,Guatemala,GT,GTM,Sololá,minor,21790.0,1320410768
+Salcajá,Salcaja,14.8833,-91.45,Guatemala,GT,GTM,Quetzaltenango,minor,21577.0,1320564253
+Santa Rosa de Lima,Santa Rosa de Lima,14.3833,-90.3,Guatemala,GT,GTM,Santa Rosa,minor,21415.0,1320410444
+Concepción Huista,Concepcion Huista,15.6167,-91.6833,Guatemala,GT,GTM,Huehuetenango,minor,21208.0,1320586594
+San Antonio Sacatepéquez,San Antonio Sacatepequez,14.9667,-91.7333,Guatemala,GT,GTM,San Marcos,minor,20994.0,1320733193
+Concepción Chiquirichapa,Concepcion Chiquirichapa,14.85,-91.6167,Guatemala,GT,GTM,Quetzaltenango,minor,20920.0,1320512845
+Palestina de los Altos,Palestina de los Altos,14.9333,-91.7,Guatemala,GT,GTM,Quetzaltenango,minor,20719.0,1320342960
+Parramos,Parramos,14.6078,-90.8031,Guatemala,GT,GTM,Chimaltenango,minor,20632.0,1320705427
+Iztapa,Iztapa,13.9331,-90.7075,Guatemala,GT,GTM,Escuintla,minor,20401.0,1320160535
+Teculután,Teculutan,14.9831,-89.5667,Guatemala,GT,GTM,Zacapa,minor,20272.0,1320018661
+Atescatempa,Atescatempa,14.175,-89.7417,Guatemala,GT,GTM,Jutiapa,minor,20033.0,1320044665
+Pastores,Pastores,14.6,-90.75,Guatemala,GT,GTM,Sacatepéquez,minor,19661.0,1320454567
+Cajolá,Cajola,14.9167,-91.6167,Guatemala,GT,GTM,Quetzaltenango,minor,19333.0,1320101495
+San Antonio Huista,San Antonio Huista,15.65,-91.7667,Guatemala,GT,GTM,Huehuetenango,minor,19311.0,1320351687
+San Juan Ermita,San Juan Ermita,14.7667,-89.4333,Guatemala,GT,GTM,Chiquimula,minor,18751.0,1320736877
+San Rafael La Independencia,San Rafael La Independencia,15.7167,-91.5333,Guatemala,GT,GTM,Huehuetenango,minor,18733.0,1320263088
+San Vicente Pacaya,San Vicente Pacaya,14.4161,-90.6392,Guatemala,GT,GTM,Escuintla,minor,18417.0,1320296319
+San Rafael Pie de la Cuesta,San Rafael Pie de la Cuesta,14.9333,-91.9167,Guatemala,GT,GTM,San Marcos,minor,18352.0,1320018274
+Yupiltepeque,Yupiltepeque,14.2,-89.7833,Guatemala,GT,GTM,Jutiapa,minor,18262.0,1320104275
+Sipacate,Sipacate,13.9333,-91.15,Guatemala,GT,GTM,Escuintla,,18212.0,1320395246
+San Cristóbal Cucho,San Cristobal Cucho,14.9,-91.7833,Guatemala,GT,GTM,San Marcos,minor,17987.0,1320539548
+Santa Cruz Naranjo,Santa Cruz Naranjo,14.3833,-90.3667,Guatemala,GT,GTM,Santa Rosa,minor,17875.0,1320978897
+Agua Blanca,Agua Blanca,14.4833,-89.6494,Guatemala,GT,GTM,Jutiapa,minor,17765.0,1320861023
+Guanagazapa,Guanagazapa,14.2333,-90.65,Guatemala,GT,GTM,Escuintla,minor,17458.0,1320760116
+Santa Lucía Milpas Altas,Santa Lucia Milpas Altas,14.5833,-90.6833,Guatemala,GT,GTM,Sacatepéquez,minor,17422.0,1320588328
+Almolonga,Almolonga,14.8122,-91.4944,Guatemala,GT,GTM,Quetzaltenango,minor,17305.0,1320537455
+San Bernardino,San Bernardino,14.5333,-91.45,Guatemala,GT,GTM,Suchitepéquez,minor,17110.0,1320929953
+Sibinal,Sibinal,15.1342,-92.05,Guatemala,GT,GTM,San Marcos,minor,17069.0,1320990586
+Chuarrancho,Chuarrancho,14.8181,-90.5153,Guatemala,GT,GTM,Guatemala,minor,17057.0,1320688968
+San Francisco,San Francisco,16.7833,-89.9361,Guatemala,GT,GTM,Petén,minor,16787.0,1320240607
+Santa Cruz Muluá,Santa Cruz Mulua,14.5833,-91.6167,Guatemala,GT,GTM,Retalhuleu,minor,16138.0,1320315123
+Panajachel,Panajachel,14.7406,-91.1594,Guatemala,GT,GTM,Sololá,minor,16101.0,1320143050
+Zunil,Zunil,14.7833,-91.4833,Guatemala,GT,GTM,Quetzaltenango,minor,15893.0,1320355897
+San Bartolomé Jocotenango,San Bartolome Jocotenango,15.1928,-91.0775,Guatemala,GT,GTM,Quiché,minor,15777.0,1320987645
+San Antonio Palopó,San Antonio Palopo,14.7,-91.1167,Guatemala,GT,GTM,Sololá,minor,15752.0,1320477213
+San Miguel Dueñas,San Miguel Duenas,14.5167,-90.8,Guatemala,GT,GTM,Sacatepéquez,minor,15562.0,1320250757
+El Chal,El Chal,16.64,-89.65,Guatemala,GT,GTM,Petén,minor,15555.0,1320084650
+Huitán,Huitan,15.1,-91.6167,Guatemala,GT,GTM,Quetzaltenango,minor,14839.0,1320474688
+Cabañas,Cabanas,14.9333,-89.8,Guatemala,GT,GTM,Zacapa,minor,14817.0,1320540151
+Santo Domingo Xenacoj,Santo Domingo Xenacoj,14.6822,-90.7067,Guatemala,GT,GTM,Sacatepéquez,minor,14455.0,1320621620
+El Rodeo,El Rodeo,14.3906,-90.8314,Guatemala,GT,GTM,Escuintla,,14125.0,1320523864
+Esquipulas Palo Gordo,Esquipulas Palo Gordo,14.9333,-91.8167,Guatemala,GT,GTM,San Marcos,minor,14018.0,1320136046
+San José Acatempa,San Jose Acatempa,14.2667,-90.1333,Guatemala,GT,GTM,Jutiapa,minor,13938.0,1320370299
+San Rafael Las Flores,San Rafael Las Flores,14.4814,-90.1733,Guatemala,GT,GTM,Santa Rosa,minor,13850.0,1320867057
+San Rafael Petzal,San Rafael Petzal,15.4167,-91.6667,Guatemala,GT,GTM,Huehuetenango,minor,13786.0,1320389398
+Sansare,Sansare,14.75,-90.1167,Guatemala,GT,GTM,El Progreso,minor,13674.0,1320883953
+Chinique,Chinique,15.0411,-91.0269,Guatemala,GT,GTM,Quiché,minor,13547.0,1320877724
+San Jorge,San Jorge,14.9333,-89.6,Guatemala,GT,GTM,Zacapa,minor,13525.0,1320839859
+San Juan La Laguna,San Juan La Laguna,14.7,-91.2833,Guatemala,GT,GTM,Sololá,minor,13400.0,1320529701
+San Jacinto,San Jacinto,14.6667,-89.5,Guatemala,GT,GTM,Chiquimula,,13381.0,1320094957
+Usumatlán,Usumatlan,14.9489,-89.7767,Guatemala,GT,GTM,Zacapa,minor,13245.0,1320983656
+San Martín Zapotitlán,San Martin Zapotitlan,14.6,-91.6,Guatemala,GT,GTM,Retalhuleu,minor,13094.0,1320924510
+San Juan Tecuaco,San Juan Tecuaco,14.0836,-90.2664,Guatemala,GT,GTM,Santa Rosa,minor,12825.0,1320640188
+Santo Tomás La Unión,Santo Tomas La Union,14.6333,-91.3833,Guatemala,GT,GTM,Suchitepéquez,minor,12800.0,1320346394
+Ocós,Ocos,14.5094,-92.1933,Guatemala,GT,GTM,San Marcos,minor,12776.0,1320442186
+Magdalena Milpas Altas,Magdalena Milpas Altas,14.5453,-90.6753,Guatemala,GT,GTM,Sacatepéquez,minor,12766.0,1320138967
+Canillá,Canilla,15.1667,-90.85,Guatemala,GT,GTM,Quiché,minor,12724.0,1320925878
+San Antonio Aguas Calientes,San Antonio Aguas Calientes,14.5333,-90.7667,Guatemala,GT,GTM,Sacatepéquez,minor,12716.0,1320340484
+Playa Grande,Playa Grande,15.9833,-90.7667,Guatemala,GT,GTM,Quiché,minor,12710.0,1320692827
+Morazán,Morazan,14.9328,-90.1431,Guatemala,GT,GTM,El Progreso,minor,12672.0,1320386903
+Concepción Las Minas,Concepcion Las Minas,14.5167,-89.45,Guatemala,GT,GTM,Chiquimula,minor,12615.0,1320071349
+San Miguel Panán,San Miguel Panan,14.5333,-91.3667,Guatemala,GT,GTM,Suchitepéquez,minor,12475.0,1320095749
+San Bartolo,San Bartolo,15.0844,-91.4558,Guatemala,GT,GTM,Totonicapán,minor,12459.0,1320306258
+Huité,Huite,14.9333,-89.7167,Guatemala,GT,GTM,Zacapa,minor,12021.0,1320201309
+San José El Ídolo,San Jose El Idolo,14.45,-91.4167,Guatemala,GT,GTM,Suchitepéquez,minor,12017.0,1320054644
+Tectitán,Tectitan,15.3333,-92.0333,Guatemala,GT,GTM,Huehuetenango,minor,11928.0,1320428411
+San Pedro La Laguna,San Pedro La Laguna,14.694,-91.272,Guatemala,GT,GTM,Sololá,minor,11828.0,1320860856
+Moyuta,Moyuta,14.0333,-90.0833,Guatemala,GT,GTM,Jutiapa,minor,11229.0,1320284268
+Pasaco,Pasaco,13.9833,-90.2,Guatemala,GT,GTM,Jutiapa,minor,11229.0,1320928744
+Santa Cruz Balanyá,Santa Cruz Balanya,14.6833,-90.9167,Guatemala,GT,GTM,Chimaltenango,minor,10981.0,1320621567
+Estanzuela,Estanzuela,15.0,-89.5667,Guatemala,GT,GTM,Zacapa,minor,10872.0,1320854533
+Santa Ana Huista,Santa Ana Huista,15.6833,-91.8167,Guatemala,GT,GTM,Huehuetenango,minor,10687.0,1320972408
+San Gaspar Ixchil,San Gaspar Ixchil,15.3833,-91.7167,Guatemala,GT,GTM,Huehuetenango,minor,10581.0,1320445115
+Zapotitlán,Zapotitlan,14.1333,-89.8333,Guatemala,GT,GTM,Jutiapa,minor,10573.0,1320939109
+Santiago Chimaltenango,Santiago Chimaltenango,15.4814,-91.7261,Guatemala,GT,GTM,Huehuetenango,minor,10507.0,1320827981
+El Chol,El Chol,14.9667,-90.4833,Guatemala,GT,GTM,Baja Verapaz,minor,10445.0,1320103256
+Santa Clara La Laguna,Santa Clara La Laguna,14.7167,-91.3,Guatemala,GT,GTM,Sololá,minor,10390.0,1320225556
+Pachalum,Pachalum,14.9269,-90.665,Guatemala,GT,GTM,Quiché,minor,9897.0,1320074787
+San Miguel Sigüilá,San Miguel Siguila,14.9,-91.6167,Guatemala,GT,GTM,Quetzaltenango,minor,9869.0,1320294122
+San Francisco la Unión,San Francisco la Union,14.9167,-91.5333,Guatemala,GT,GTM,Quetzaltenango,minor,9665.0,1320800465
+San Juan Bautista,San Juan Bautista,14.4167,-91.1833,Guatemala,GT,GTM,Suchitepéquez,minor,9404.0,1320577327
+San José La Arada,San Jose La Arada,14.7167,-89.5833,Guatemala,GT,GTM,Chiquimula,minor,9249.0,1320756927
+San Manuel Chaparrón,San Manuel Chaparron,14.5167,-89.7667,Guatemala,GT,GTM,Jalapa,minor,9126.0,1320449306
+Sibilia,Sibilia,15.0,-91.6167,Guatemala,GT,GTM,Quetzaltenango,minor,9071.0,1320074499
+Zunilito,Zunilito,14.6167,-91.5167,Guatemala,GT,GTM,Suchitepéquez,minor,8888.0,1320537106
+La Libertad,La Libertad,16.7804,-90.12,Guatemala,GT,GTM,Petén,minor,8646.0,1320389989
+San Bartolomé Milpas Altas,San Bartolome Milpas Altas,14.6072,-90.6781,Guatemala,GT,GTM,Sacatepéquez,minor,8642.0,1320802747

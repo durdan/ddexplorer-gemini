@@ -1,0 +1,55 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Juba,Juba,4.85,31.6,South Sudan,SS,SSD,Central Equatoria,primary,459342.0,1728444337
+Bor,Bor,6.2125,31.5608,South Sudan,SS,SSD,Jonglei,admin,315351.0,1728186782
+Kajo Kaji,Kajo Kaji,3.8492,31.6578,South Sudan,SS,SSD,Central Equatoria,,196000.0,1728764691
+Yei,Yei,4.0904,30.68,South Sudan,SS,SSD,Central Equatoria,,185000.0,1728607274
+Magwe,Magwe,4.1333,32.3,South Sudan,SS,SSD,Eastern Equatoria,,169826.0,1728085840
+Wau,Wau,7.7,28.0,South Sudan,SS,SSD,Western Bahr el Ghazal,admin,163442.0,1728877501
+Maridi,Maridi,4.91,29.45,South Sudan,SS,SSD,Western Equatoria,,148000.0,1728685965
+Malakal,Malakal,9.55,31.65,South Sudan,SS,SSD,Upper Nile,admin,147450.0,1728299711
+Leer,Leer,8.2979,30.1475,South Sudan,SS,SSD,Unity,,100722.0,1728110399
+Kuacjok,Kuacjok,8.31,27.99,South Sudan,SS,SSD,Warrap,admin,78111.0,1728713745
+Renk,Renk,11.83,32.8,South Sudan,SS,SSD,Upper Nile,,69079.0,1728415189
+Farajok,Farajok,3.8724,32.4792,South Sudan,SS,SSD,Eastern Equatoria,,49000.0,1728346194
+Yambio,Yambio,4.565,28.375,South Sudan,SS,SSD,Western Equatoria,admin,45685.0,1728463035
+Nimule,Nimule,3.5961,32.0636,South Sudan,SS,SSD,Eastern Equatoria,,45000.0,1728476966
+Gogrial,Gogrial,8.53,28.1,South Sudan,SS,SSD,Warrap,,44600.0,1728342889
+Aweil,Aweil,8.78,27.4,South Sudan,SS,SSD,Northern Bahr el Ghazal,admin,33537.0,1728097802
+Rumbek,Rumbek,6.806,29.676,South Sudan,SS,SSD,Lakes,admin,32100.0,1728842249
+Ikoto,Ikoto,4.0783,33.1089,South Sudan,SS,SSD,Eastern Equatoria,,30000.0,1728694229
+Torit,Torit,4.4081,32.575,South Sudan,SS,SSD,Eastern Equatoria,admin,17957.0,1728698486
+Tonj,Tonj,7.28,28.68,South Sudan,SS,SSD,Warrap,,17340.0,1728183836
+Kafia Kingi,Kafia Kingi,9.2731,24.4174,South Sudan,SS,SSD,Western Bahr el Ghazal,,16000.0,1728934320
+Yirol,Yirol,6.56,30.51,South Sudan,SS,SSD,Lakes,,11650.0,1728880750
+Tambura,Tambura,5.59,27.47,South Sudan,SS,SSD,Western Equatoria,,9500.0,1728480135
+Bentiu,Bentiu,9.26,29.8,South Sudan,SS,SSD,Unity,admin,7781.0,1728684421
+Kapoeta,Kapoeta,4.775,33.59,South Sudan,SS,SSD,Eastern Equatoria,,7000.0,1728483282
+Melut,Melut,10.4404,32.2015,South Sudan,SS,SSD,Upper Nile,,6407.0,1728493346
+Nasir,Nasir,8.6,33.0667,South Sudan,SS,SSD,Upper Nile,,1741.0,1728210480
+Juba,Juba,4.85,31.6,South Sudan,SS,SSD,Central Equatoria,primary,459342.0,1728444337
+Bor,Bor,6.2125,31.5608,South Sudan,SS,SSD,Jonglei,admin,315351.0,1728186782
+Kajo Kaji,Kajo Kaji,3.8492,31.6578,South Sudan,SS,SSD,Central Equatoria,,196000.0,1728764691
+Yei,Yei,4.0904,30.68,South Sudan,SS,SSD,Central Equatoria,,185000.0,1728607274
+Magwe,Magwe,4.1333,32.3,South Sudan,SS,SSD,Eastern Equatoria,,169826.0,1728085840
+Wau,Wau,7.7,28.0,South Sudan,SS,SSD,Western Bahr el Ghazal,admin,163442.0,1728877501
+Maridi,Maridi,4.91,29.45,South Sudan,SS,SSD,Western Equatoria,,148000.0,1728685965
+Malakal,Malakal,9.55,31.65,South Sudan,SS,SSD,Upper Nile,admin,147450.0,1728299711
+Leer,Leer,8.2979,30.1475,South Sudan,SS,SSD,Unity,,100722.0,1728110399
+Kuacjok,Kuacjok,8.31,27.99,South Sudan,SS,SSD,Warrap,admin,78111.0,1728713745
+Renk,Renk,11.83,32.8,South Sudan,SS,SSD,Upper Nile,,69079.0,1728415189
+Farajok,Farajok,3.8724,32.4792,South Sudan,SS,SSD,Eastern Equatoria,,49000.0,1728346194
+Yambio,Yambio,4.565,28.375,South Sudan,SS,SSD,Western Equatoria,admin,45685.0,1728463035
+Nimule,Nimule,3.5961,32.0636,South Sudan,SS,SSD,Eastern Equatoria,,45000.0,1728476966
+Gogrial,Gogrial,8.53,28.1,South Sudan,SS,SSD,Warrap,,44600.0,1728342889
+Aweil,Aweil,8.78,27.4,South Sudan,SS,SSD,Northern Bahr el Ghazal,admin,33537.0,1728097802
+Rumbek,Rumbek,6.806,29.676,South Sudan,SS,SSD,Lakes,admin,32100.0,1728842249
+Ikoto,Ikoto,4.0783,33.1089,South Sudan,SS,SSD,Eastern Equatoria,,30000.0,1728694229
+Torit,Torit,4.4081,32.575,South Sudan,SS,SSD,Eastern Equatoria,admin,17957.0,1728698486
+Tonj,Tonj,7.28,28.68,South Sudan,SS,SSD,Warrap,,17340.0,1728183836
+Kafia Kingi,Kafia Kingi,9.2731,24.4174,South Sudan,SS,SSD,Western Bahr el Ghazal,,16000.0,1728934320
+Yirol,Yirol,6.56,30.51,South Sudan,SS,SSD,Lakes,,11650.0,1728880750
+Tambura,Tambura,5.59,27.47,South Sudan,SS,SSD,Western Equatoria,,9500.0,1728480135
+Bentiu,Bentiu,9.26,29.8,South Sudan,SS,SSD,Unity,admin,7781.0,1728684421
+Kapoeta,Kapoeta,4.775,33.59,South Sudan,SS,SSD,Eastern Equatoria,,7000.0,1728483282
+Melut,Melut,10.4404,32.2015,South Sudan,SS,SSD,Upper Nile,,6407.0,1728493346
+Nasir,Nasir,8.6,33.0667,South Sudan,SS,SSD,Upper Nile,,1741.0,1728210480

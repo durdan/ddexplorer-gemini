@@ -1,0 +1,13 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Port-Vila,Port-Vila,-17.7333,168.3167,Vanuatu,VU,VUT,Shefa,primary,49034.0,1548805075
+Luganville,Luganville,-15.5333,167.1667,Vanuatu,VU,VUT,Sanma,admin,18062.0,1548569362
+Isangel,Isangel,-19.53,169.28,Vanuatu,VU,VUT,Tafea,admin,1200.0,1548941443
+Lakatoro,Lakatoro,-16.1069,167.4208,Vanuatu,VU,VUT,Malampa,admin,705.0,1548761183
+Sola,Sola,-13.875,167.55,Vanuatu,VU,VUT,Torba,admin,,1548600754
+Saratamata,Saratamata,-15.2875,167.9903,Vanuatu,VU,VUT,Penama,admin,,1548907051
+Port-Vila,Port-Vila,-17.7333,168.3167,Vanuatu,VU,VUT,Shefa,primary,49034.0,1548805075
+Luganville,Luganville,-15.5333,167.1667,Vanuatu,VU,VUT,Sanma,admin,18062.0,1548569362
+Isangel,Isangel,-19.53,169.28,Vanuatu,VU,VUT,Tafea,admin,1200.0,1548941443
+Lakatoro,Lakatoro,-16.1069,167.4208,Vanuatu,VU,VUT,Malampa,admin,705.0,1548761183
+Sola,Sola,-13.875,167.55,Vanuatu,VU,VUT,Torba,admin,,1548600754
+Saratamata,Saratamata,-15.2875,167.9903,Vanuatu,VU,VUT,Penama,admin,,1548907051

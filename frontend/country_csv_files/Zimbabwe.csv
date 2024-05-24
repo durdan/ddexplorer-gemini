@@ -1,0 +1,79 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Harare,Harare,-17.8292,31.0522,Zimbabwe,ZW,ZWE,Harare,primary,2150000.0,1716196799
+Masvingo,Masvingo,-20.0744,30.8328,Zimbabwe,ZW,ZWE,Masvingo,admin,1638528.0,1716049475
+Bulawayo,Bulawayo,-20.17,28.58,Zimbabwe,ZW,ZWE,Bulawayo,admin,665940.0,1716032632
+Chitungwiza,Chitungwiza,-17.9939,31.0481,Zimbabwe,ZW,ZWE,Harare,,371244.0,1716688236
+Mutare,Mutare,-18.9667,32.6333,Zimbabwe,ZW,ZWE,Manicaland,admin,224802.0,1716060405
+Gweru,Gweru,-19.4614,29.8022,Zimbabwe,ZW,ZWE,Midlands,admin,141260.0,1716621481
+Nkayi,Nkayi,-19.0,28.9,Zimbabwe,ZW,ZWE,Matabeleland North,,112471.0,1716871686
+Kwekwe,Kwekwe,-18.9167,29.8167,Zimbabwe,ZW,ZWE,Midlands,,93072.0,1716327793
+Norton,Norton,-17.8833,30.7,Zimbabwe,ZW,ZWE,Mashonaland West,,87038.0,1716209195
+Kadoma,Kadoma,-18.34,29.9,Zimbabwe,ZW,ZWE,Mashonaland West,,76173.0,1716398005
+Chegutu,Chegutu,-18.14,30.15,Zimbabwe,ZW,ZWE,Mashonaland West,,65800.0,1716242569
+Chinhoyi,Chinhoyi,-17.3497,30.1944,Zimbabwe,ZW,ZWE,Mashonaland West,admin,56794.0,1716523245
+Marondera,Marondera,-18.1897,31.5467,Zimbabwe,ZW,ZWE,Mashonaland East,admin,52283.0,1716375676
+Sakubva,Sakubva,-18.9833,32.65,Zimbabwe,ZW,ZWE,Manicaland,,50000.0,1716474556
+Bindura,Bindura,-17.3,31.3333,Zimbabwe,ZW,ZWE,Mashonaland Central,admin,46275.0,1716331687
+Hwange,Hwange,-18.3647,26.5,Zimbabwe,ZW,ZWE,Matabeleland North,,42581.0,1716416748
+Beitbridge,Beitbridge,-22.2167,30.0,Zimbabwe,ZW,ZWE,Matabeleland South,,41767.0,1716929295
+Chiredzi,Chiredzi,-21.0389,31.6778,Zimbabwe,ZW,ZWE,Masvingo,,40100.0,1716636761
+Rusape,Rusape,-18.5367,32.1247,Zimbabwe,ZW,ZWE,Manicaland,,37906.0,1716672253
+Zvishavane,Zvishavane,-20.3333,30.0333,Zimbabwe,ZW,ZWE,Masvingo,,35229.0,1716895095
+Chipinge,Chipinge,-20.2,32.62,Zimbabwe,ZW,ZWE,Manicaland,,34959.0,1716863573
+Karoi,Karoi,-16.81,29.7,Zimbabwe,ZW,ZWE,Mashonaland West,,34200.0,1716627056
+Victoria Falls,Victoria Falls,-17.9333,25.8333,Zimbabwe,ZW,ZWE,Matabeleland North,,33060.0,1716149447
+Redcliff,Redcliff,-19.0333,29.7833,Zimbabwe,ZW,ZWE,Midlands,,32346.0,1716966753
+Mukumbura,Mukumbura,-16.2,31.6833,Zimbabwe,ZW,ZWE,Mashonaland Central,,30470.0,1716579075
+Kariba,Kariba,-16.5167,28.8,Zimbabwe,ZW,ZWE,Mashonaland West,,24210.0,1716563536
+Shurugwi,Shurugwi,-19.6667,30.0,Zimbabwe,ZW,ZWE,Midlands,,22900.0,1716870364
+Ruwa,Ruwa,-17.8897,31.2447,Zimbabwe,ZW,ZWE,Mashonaland East,,22038.0,1716489136
+Murehwa,Murehwa,-17.65,31.7833,Zimbabwe,ZW,ZWE,Mashonaland East,,16666.0,1716334846
+Mvurwi,Mvurwi,-17.0167,30.85,Zimbabwe,ZW,ZWE,Mashonaland Central,,15645.0,1716745701
+Kezi,Kezi,-20.9167,28.4667,Zimbabwe,ZW,ZWE,Matabeleland South,,15000.0,1716107111
+Plumtree,Plumtree,-20.4781,27.7972,Zimbabwe,ZW,ZWE,Matabeleland South,,14459.0,1716916272
+Gwanda,Gwanda,-20.9389,29.0186,Zimbabwe,ZW,ZWE,Matabeleland South,admin,14450.0,1716612305
+Mutoko,Mutoko,-17.4,32.2167,Zimbabwe,ZW,ZWE,Mashonaland East,,12336.0,1716834609
+Mhangura,Mhangura,-16.9,30.15,Zimbabwe,ZW,ZWE,Mashonaland West,,11175.0,1716361764
+Chivhu,Chivhu,-19.0,30.9,Zimbabwe,ZW,ZWE,Mashonaland East,,10263.0,1716626042
+Mazoe,Mazoe,-17.5167,30.9667,Zimbabwe,ZW,ZWE,Mashonaland Central,,6561.0,1716608716
+Shamva,Shamva,-17.3167,31.55,Zimbabwe,ZW,ZWE,Mashonaland Central,,908.0,1716210091
+Lupane,Lupane,-18.9315,27.807,Zimbabwe,ZW,ZWE,Matabeleland North,admin,,1716206606
+Harare,Harare,-17.8292,31.0522,Zimbabwe,ZW,ZWE,Harare,primary,2150000.0,1716196799
+Masvingo,Masvingo,-20.0744,30.8328,Zimbabwe,ZW,ZWE,Masvingo,admin,1638528.0,1716049475
+Bulawayo,Bulawayo,-20.17,28.58,Zimbabwe,ZW,ZWE,Bulawayo,admin,665940.0,1716032632
+Chitungwiza,Chitungwiza,-17.9939,31.0481,Zimbabwe,ZW,ZWE,Harare,,371244.0,1716688236
+Mutare,Mutare,-18.9667,32.6333,Zimbabwe,ZW,ZWE,Manicaland,admin,224802.0,1716060405
+Gweru,Gweru,-19.4614,29.8022,Zimbabwe,ZW,ZWE,Midlands,admin,141260.0,1716621481
+Nkayi,Nkayi,-19.0,28.9,Zimbabwe,ZW,ZWE,Matabeleland North,,112471.0,1716871686
+Kwekwe,Kwekwe,-18.9167,29.8167,Zimbabwe,ZW,ZWE,Midlands,,93072.0,1716327793
+Norton,Norton,-17.8833,30.7,Zimbabwe,ZW,ZWE,Mashonaland West,,87038.0,1716209195
+Kadoma,Kadoma,-18.34,29.9,Zimbabwe,ZW,ZWE,Mashonaland West,,76173.0,1716398005
+Chegutu,Chegutu,-18.14,30.15,Zimbabwe,ZW,ZWE,Mashonaland West,,65800.0,1716242569
+Chinhoyi,Chinhoyi,-17.3497,30.1944,Zimbabwe,ZW,ZWE,Mashonaland West,admin,56794.0,1716523245
+Marondera,Marondera,-18.1897,31.5467,Zimbabwe,ZW,ZWE,Mashonaland East,admin,52283.0,1716375676
+Sakubva,Sakubva,-18.9833,32.65,Zimbabwe,ZW,ZWE,Manicaland,,50000.0,1716474556
+Bindura,Bindura,-17.3,31.3333,Zimbabwe,ZW,ZWE,Mashonaland Central,admin,46275.0,1716331687
+Hwange,Hwange,-18.3647,26.5,Zimbabwe,ZW,ZWE,Matabeleland North,,42581.0,1716416748
+Beitbridge,Beitbridge,-22.2167,30.0,Zimbabwe,ZW,ZWE,Matabeleland South,,41767.0,1716929295
+Chiredzi,Chiredzi,-21.0389,31.6778,Zimbabwe,ZW,ZWE,Masvingo,,40100.0,1716636761
+Rusape,Rusape,-18.5367,32.1247,Zimbabwe,ZW,ZWE,Manicaland,,37906.0,1716672253
+Zvishavane,Zvishavane,-20.3333,30.0333,Zimbabwe,ZW,ZWE,Masvingo,,35229.0,1716895095
+Chipinge,Chipinge,-20.2,32.62,Zimbabwe,ZW,ZWE,Manicaland,,34959.0,1716863573
+Karoi,Karoi,-16.81,29.7,Zimbabwe,ZW,ZWE,Mashonaland West,,34200.0,1716627056
+Victoria Falls,Victoria Falls,-17.9333,25.8333,Zimbabwe,ZW,ZWE,Matabeleland North,,33060.0,1716149447
+Redcliff,Redcliff,-19.0333,29.7833,Zimbabwe,ZW,ZWE,Midlands,,32346.0,1716966753
+Mukumbura,Mukumbura,-16.2,31.6833,Zimbabwe,ZW,ZWE,Mashonaland Central,,30470.0,1716579075
+Kariba,Kariba,-16.5167,28.8,Zimbabwe,ZW,ZWE,Mashonaland West,,24210.0,1716563536
+Shurugwi,Shurugwi,-19.6667,30.0,Zimbabwe,ZW,ZWE,Midlands,,22900.0,1716870364
+Ruwa,Ruwa,-17.8897,31.2447,Zimbabwe,ZW,ZWE,Mashonaland East,,22038.0,1716489136
+Murehwa,Murehwa,-17.65,31.7833,Zimbabwe,ZW,ZWE,Mashonaland East,,16666.0,1716334846
+Mvurwi,Mvurwi,-17.0167,30.85,Zimbabwe,ZW,ZWE,Mashonaland Central,,15645.0,1716745701
+Kezi,Kezi,-20.9167,28.4667,Zimbabwe,ZW,ZWE,Matabeleland South,,15000.0,1716107111
+Plumtree,Plumtree,-20.4781,27.7972,Zimbabwe,ZW,ZWE,Matabeleland South,,14459.0,1716916272
+Gwanda,Gwanda,-20.9389,29.0186,Zimbabwe,ZW,ZWE,Matabeleland South,admin,14450.0,1716612305
+Mutoko,Mutoko,-17.4,32.2167,Zimbabwe,ZW,ZWE,Mashonaland East,,12336.0,1716834609
+Mhangura,Mhangura,-16.9,30.15,Zimbabwe,ZW,ZWE,Mashonaland West,,11175.0,1716361764
+Chivhu,Chivhu,-19.0,30.9,Zimbabwe,ZW,ZWE,Mashonaland East,,10263.0,1716626042
+Mazoe,Mazoe,-17.5167,30.9667,Zimbabwe,ZW,ZWE,Mashonaland Central,,6561.0,1716608716
+Shamva,Shamva,-17.3167,31.55,Zimbabwe,ZW,ZWE,Mashonaland Central,,908.0,1716210091
+Lupane,Lupane,-18.9315,27.807,Zimbabwe,ZW,ZWE,Matabeleland North,admin,,1716206606

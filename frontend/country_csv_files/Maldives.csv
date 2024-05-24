@@ -1,0 +1,43 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Male,Male,4.1753,73.5089,Maldives,MV,MDV,Maale,primary,133019.0,1462441685
+Kulhudhuffushi,Kulhudhuffushi,6.6225,73.0703,Maldives,MV,MDV,Thiladhunmathee Dhekunuburi,admin,15875.0,1462969197
+Hithadhoo,Hithadhoo,-0.6094,73.0899,Maldives,MV,MDV,Addu,admin,10398.0,1462406280
+Foammulah,Foammulah,-0.2932,73.4236,Maldives,MV,MDV,Fuvammulah,admin,9166.0,1462000002
+Thinadhoo,Thinadhoo,0.5302,72.9965,Maldives,MV,MDV,Huvadhuatholhu Dhekunuburi,admin,5230.0,1462781201
+Naifaru,Naifaru,5.4444,73.3657,Maldives,MV,MDV,Faadhippolhu,admin,4103.0,1462186620
+Kudahuvadhoo,Kudahuvadhoo,2.6711,72.8935,Maldives,MV,MDV,Nilandheatholhu Dhekunuburi,admin,3132.0,1462282241
+Mahibadhoo,Mahibadhoo,3.7575,72.9686,Maldives,MV,MDV,Ariatholhu Dhekunuburi,admin,3000.0,1462235059
+Viligili,Viligili,0.7569,73.4361,Maldives,MV,MDV,Huvadhuatholhu Uthuruburi,admin,2837.0,1462034411
+Eydhafushi,Eydhafushi,5.1038,73.0704,Maldives,MV,MDV,Maalhosmadulu Dhekunuburi,admin,2658.0,1462623341
+Funadhoo,Funadhoo,6.1482,73.29,Maldives,MV,MDV,Miladhunmadulu Uthuruburi,admin,2104.0,1462657112
+Manadhoo,Manadhoo,5.7628,73.4106,Maldives,MV,MDV,Miladhunmadulu Dhekunuburi,admin,2041.0,1462220750
+Ungoofaaru,Ungoofaaru,5.6681,73.0306,Maldives,MV,MDV,Maalhosmadulu Uthuruburi,admin,1531.0,1462941721
+Veymandoo,Veymandoo,2.1881,73.0947,Maldives,MV,MDV,Kolhumadulu,admin,1321.0,1462464790
+Felidhoo,Felidhoo,3.4717,73.5472,Maldives,MV,MDV,Felidheatholhu,admin,506.0,1462456773
+Rasdhoo,Rasdhoo,4.2631,72.9919,Maldives,MV,MDV,Ariatholhu Uthuruburi,admin,,1462000003
+Muli,Muli,2.9217,73.5811,Maldives,MV,MDV,Mulakatholhu,admin,,1462436531
+Dhihdhoo,Dhihdhoo,6.8874,73.114,Maldives,MV,MDV,Thiladhunmathee Uthuruburi,admin,,1462109783
+Fonadhoo,Fonadhoo,1.8342,73.5031,Maldives,MV,MDV,Hahdhunmathi,admin,,1462000001
+Nilandhoo,Nilandhoo,3.0567,72.89,Maldives,MV,MDV,Nilandheatholhu Uthuruburi,admin,,1462000005
+Thulusdhoo,Thulusdhoo,4.3742,73.6517,Maldives,MV,MDV,Maaleatholhu,admin,,1462000004
+Male,Male,4.1753,73.5089,Maldives,MV,MDV,Maale,primary,133019.0,1462441685
+Kulhudhuffushi,Kulhudhuffushi,6.6225,73.0703,Maldives,MV,MDV,Thiladhunmathee Dhekunuburi,admin,15875.0,1462969197
+Hithadhoo,Hithadhoo,-0.6094,73.0899,Maldives,MV,MDV,Addu,admin,10398.0,1462406280
+Foammulah,Foammulah,-0.2932,73.4236,Maldives,MV,MDV,Fuvammulah,admin,9166.0,1462000002
+Thinadhoo,Thinadhoo,0.5302,72.9965,Maldives,MV,MDV,Huvadhuatholhu Dhekunuburi,admin,5230.0,1462781201
+Naifaru,Naifaru,5.4444,73.3657,Maldives,MV,MDV,Faadhippolhu,admin,4103.0,1462186620
+Kudahuvadhoo,Kudahuvadhoo,2.6711,72.8935,Maldives,MV,MDV,Nilandheatholhu Dhekunuburi,admin,3132.0,1462282241
+Mahibadhoo,Mahibadhoo,3.7575,72.9686,Maldives,MV,MDV,Ariatholhu Dhekunuburi,admin,3000.0,1462235059
+Viligili,Viligili,0.7569,73.4361,Maldives,MV,MDV,Huvadhuatholhu Uthuruburi,admin,2837.0,1462034411
+Eydhafushi,Eydhafushi,5.1038,73.0704,Maldives,MV,MDV,Maalhosmadulu Dhekunuburi,admin,2658.0,1462623341
+Funadhoo,Funadhoo,6.1482,73.29,Maldives,MV,MDV,Miladhunmadulu Uthuruburi,admin,2104.0,1462657112
+Manadhoo,Manadhoo,5.7628,73.4106,Maldives,MV,MDV,Miladhunmadulu Dhekunuburi,admin,2041.0,1462220750
+Ungoofaaru,Ungoofaaru,5.6681,73.0306,Maldives,MV,MDV,Maalhosmadulu Uthuruburi,admin,1531.0,1462941721
+Veymandoo,Veymandoo,2.1881,73.0947,Maldives,MV,MDV,Kolhumadulu,admin,1321.0,1462464790
+Felidhoo,Felidhoo,3.4717,73.5472,Maldives,MV,MDV,Felidheatholhu,admin,506.0,1462456773
+Rasdhoo,Rasdhoo,4.2631,72.9919,Maldives,MV,MDV,Ariatholhu Uthuruburi,admin,,1462000003
+Muli,Muli,2.9217,73.5811,Maldives,MV,MDV,Mulakatholhu,admin,,1462436531
+Dhihdhoo,Dhihdhoo,6.8874,73.114,Maldives,MV,MDV,Thiladhunmathee Uthuruburi,admin,,1462109783
+Fonadhoo,Fonadhoo,1.8342,73.5031,Maldives,MV,MDV,Hahdhunmathi,admin,,1462000001
+Nilandhoo,Nilandhoo,3.0567,72.89,Maldives,MV,MDV,Nilandheatholhu Uthuruburi,admin,,1462000005
+Thulusdhoo,Thulusdhoo,4.3742,73.6517,Maldives,MV,MDV,Maaleatholhu,admin,,1462000004

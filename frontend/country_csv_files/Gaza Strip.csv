@@ -1,0 +1,19 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Gaza,Gaza,31.5069,34.456,Gaza Strip,XG,XGZ,,primary,590481.0,1916116052
+Khān Yūnis,Khan Yunis,31.3444,34.3031,Gaza Strip,XG,XGZ,,,205125.0,1916583637
+Jabālyā,Jabalya,31.5281,34.4831,Gaza Strip,XG,XGZ,,,172704.0,1916175096
+Rafaḩ,Rafah,31.2725,34.2586,Gaza Strip,XG,XGZ,,,171899.0,1916824868
+Bayt Lāhyā,Bayt Lahya,31.55,34.5,Gaza Strip,XG,XGZ,,,89838.0,1916827259
+Dayr al Balaḩ,Dayr al Balah,31.4189,34.3517,Gaza Strip,XG,XGZ,,,75132.0,1916770606
+Banī Suhaylā,Bani Suhayla,31.3428,34.3253,Gaza Strip,XG,XGZ,,,41439.0,1916052157
+‘Abasān al Kabīrah,`Abasan al Kabirah,31.3237,34.3476,Gaza Strip,XG,XGZ,,,26767.0,1916769088
+Az Zuwāydah,Az Zuwaydah,31.4306,34.3717,Gaza Strip,XG,XGZ,,,23841.0,1916190557
+Gaza,Gaza,31.5069,34.456,Gaza Strip,XG,XGZ,,primary,590481.0,1916116052
+Khān Yūnis,Khan Yunis,31.3444,34.3031,Gaza Strip,XG,XGZ,,,205125.0,1916583637
+Jabālyā,Jabalya,31.5281,34.4831,Gaza Strip,XG,XGZ,,,172704.0,1916175096
+Rafaḩ,Rafah,31.2725,34.2586,Gaza Strip,XG,XGZ,,,171899.0,1916824868
+Bayt Lāhyā,Bayt Lahya,31.55,34.5,Gaza Strip,XG,XGZ,,,89838.0,1916827259
+Dayr al Balaḩ,Dayr al Balah,31.4189,34.3517,Gaza Strip,XG,XGZ,,,75132.0,1916770606
+Banī Suhaylā,Bani Suhayla,31.3428,34.3253,Gaza Strip,XG,XGZ,,,41439.0,1916052157
+‘Abasān al Kabīrah,`Abasan al Kabirah,31.3237,34.3476,Gaza Strip,XG,XGZ,,,26767.0,1916769088
+Az Zuwāydah,Az Zuwaydah,31.4306,34.3717,Gaza Strip,XG,XGZ,,,23841.0,1916190557

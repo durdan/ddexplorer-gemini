@@ -1,0 +1,15 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Djibouti,Djibouti,11.5883,43.145,Djibouti,DJ,DJI,Djibouti,primary,603900.0,1262028958
+Arta,Arta,11.5236,42.8472,Djibouti,DJ,DJI,Arta,admin,75654.0,1262889858
+Ali Sabieh,Ali Sabieh,11.15,42.7167,Djibouti,DJ,DJI,Ali Sabieh,admin,37939.0,1262104228
+Dikhil,Dikhil,11.1167,42.3667,Djibouti,DJ,DJI,Dikhil,admin,35000.0,1262950337
+Obock,Obock,11.9667,43.2833,Djibouti,DJ,DJI,Obock,admin,21200.0,1262002221
+Yoboki,Yoboki,11.5167,42.1,Djibouti,DJ,DJI,Dikhil,,18000.0,1262096912
+Tadjourah,Tadjourah,11.7833,42.8833,Djibouti,DJ,DJI,Tadjourah,admin,14820.0,1262504958
+Djibouti,Djibouti,11.5883,43.145,Djibouti,DJ,DJI,Djibouti,primary,603900.0,1262028958
+Arta,Arta,11.5236,42.8472,Djibouti,DJ,DJI,Arta,admin,75654.0,1262889858
+Ali Sabieh,Ali Sabieh,11.15,42.7167,Djibouti,DJ,DJI,Ali Sabieh,admin,37939.0,1262104228
+Dikhil,Dikhil,11.1167,42.3667,Djibouti,DJ,DJI,Dikhil,admin,35000.0,1262950337
+Obock,Obock,11.9667,43.2833,Djibouti,DJ,DJI,Obock,admin,21200.0,1262002221
+Yoboki,Yoboki,11.5167,42.1,Djibouti,DJ,DJI,Dikhil,,18000.0,1262096912
+Tadjourah,Tadjourah,11.7833,42.8833,Djibouti,DJ,DJI,Tadjourah,admin,14820.0,1262504958

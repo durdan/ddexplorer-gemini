@@ -1,0 +1,75 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+San Juan,San Juan,18.3985,-66.061,Puerto Rico,PR,PRI,Puerto Rico,primary,1814587.0,1630035577
+Aguadilla,Aguadilla,18.4382,-67.1537,Puerto Rico,PR,PRI,Puerto Rico,,228854.0,1630035605
+Bayamón,Bayamon,18.3794,-66.1635,Puerto Rico,PR,PRI,Puerto Rico,,168698.0,1630035622
+Carolina,Carolina,18.4054,-65.9792,Puerto Rico,PR,PRI,Puerto Rico,,139201.0,1630035637
+Arecibo,Arecibo,18.4491,-66.7387,Puerto Rico,PR,PRI,Puerto Rico,,125727.0,1630023566
+Ponce,Ponce,18.0127,-66.6212,Puerto Rico,PR,PRI,Puerto Rico,,114901.0,1630023669
+San Germán,San German,18.0827,-67.046,Puerto Rico,PR,PRI,Puerto Rico,,93549.0,1630023526
+Mayagüez,Mayaguez,18.2003,-67.1397,Puerto Rico,PR,PRI,Puerto Rico,,93079.0,1630035520
+Caguas,Caguas,18.2319,-66.0388,Puerto Rico,PR,PRI,Puerto Rico,,73713.0,1630023540
+Guaynabo,Guaynabo,18.3832,-66.1134,Puerto Rico,PR,PRI,Puerto Rico,,70167.0,1630023575
+Juana Díaz,Juana Diaz,18.0532,-66.5044,Puerto Rico,PR,PRI,Puerto Rico,,66208.0,1630023583
+Fajardo,Fajardo,18.3331,-65.6589,Puerto Rico,PR,PRI,Puerto Rico,,66022.0,1630035668
+Trujillo Alto,Trujillo Alto,18.3599,-66.0096,Puerto Rico,PR,PRI,Puerto Rico,,43192.0,1630023656
+Vega Baja,Vega Baja,18.4406,-66.3997,Puerto Rico,PR,PRI,Puerto Rico,,23418.0,1630023572
+Cataño,Catano,18.4375,-66.144,Puerto Rico,PR,PRI,Puerto Rico,,23060.0,1630023554
+Guayama,Guayama,17.9743,-66.1104,Puerto Rico,PR,PRI,Puerto Rico,,18153.0,1630035675
+Humacao,Humacao,18.152,-65.8204,Puerto Rico,PR,PRI,Puerto Rico,,16762.0,1630035683
+Yauco,Yauco,18.0344,-66.8615,Puerto Rico,PR,PRI,Puerto Rico,,15165.0,1630035600
+Cayey,Cayey,18.115,-66.163,Puerto Rico,PR,PRI,Puerto Rico,,14423.0,1630035640
+Candelaria,Candelaria,18.4042,-66.2175,Puerto Rico,PR,PRI,Puerto Rico,,14114.0,1630023689
+Dorado,Dorado,18.4657,-66.2726,Puerto Rico,PR,PRI,Puerto Rico,,13208.0,1630023736
+Canóvanas,Canovanas,18.3693,-65.9009,Puerto Rico,PR,PRI,Puerto Rico,,12468.0,1630023717
+Río Grande,Rio Grande,18.3789,-65.8388,Puerto Rico,PR,PRI,Puerto Rico,,12311.0,1630023701
+Caño Martin Peña,Cano Martin Pena,18.4309,-66.0507,Puerto Rico,PR,PRI,Puerto Rico,,11939.0,1630142912
+Hormigueros,Hormigueros,18.1437,-67.1199,Puerto Rico,PR,PRI,Puerto Rico,,11224.0,1630023672
+Manatí,Manati,18.4283,-66.4823,Puerto Rico,PR,PRI,Puerto Rico,,11134.0,1630023562
+Sabana Grande,Sabana Grande,18.0832,-66.9645,Puerto Rico,PR,PRI,Puerto Rico,,10301.0,1630023550
+Cabo Rojo,Cabo Rojo,18.0867,-67.1482,Puerto Rico,PR,PRI,Puerto Rico,,10137.0,1630023608
+Isabela,Isabela,18.4991,-67.022,Puerto Rico,PR,PRI,Puerto Rico,,10110.0,1630023674
+Pájaros,Pajaros,18.361,-66.2184,Puerto Rico,PR,PRI,Puerto Rico,,10043.0,1630035532
+Corozal,Corozal,18.341,-66.3124,Puerto Rico,PR,PRI,Puerto Rico,,10019.0,1630035655
+Coamo,Coamo,18.0765,-66.3638,Puerto Rico,PR,PRI,Puerto Rico,,9806.0,1630035648
+Vega Alta,Vega Alta,18.4151,-66.3211,Puerto Rico,PR,PRI,Puerto Rico,,9179.0,1630023587
+San Sebastián,San Sebastian,18.3356,-66.9948,Puerto Rico,PR,PRI,Puerto Rico,,9041.0,1630023635
+Juncos,Juncos,18.2256,-65.9161,Puerto Rico,PR,PRI,Puerto Rico,,8938.0,1630023721
+Aibonito,Aibonito,18.1398,-66.2659,Puerto Rico,PR,PRI,Puerto Rico,,8596.0,1630035609
+San Lorenzo,San Lorenzo,18.1875,-65.968,Puerto Rico,PR,PRI,Puerto Rico,,8588.0,1630035578
+San Juan,San Juan,18.3985,-66.061,Puerto Rico,PR,PRI,Puerto Rico,primary,1814587.0,1630035577
+Aguadilla,Aguadilla,18.4382,-67.1537,Puerto Rico,PR,PRI,Puerto Rico,,228854.0,1630035605
+Bayamón,Bayamon,18.3794,-66.1635,Puerto Rico,PR,PRI,Puerto Rico,,168698.0,1630035622
+Carolina,Carolina,18.4054,-65.9792,Puerto Rico,PR,PRI,Puerto Rico,,139201.0,1630035637
+Arecibo,Arecibo,18.4491,-66.7387,Puerto Rico,PR,PRI,Puerto Rico,,125727.0,1630023566
+Ponce,Ponce,18.0127,-66.6212,Puerto Rico,PR,PRI,Puerto Rico,,114901.0,1630023669
+San Germán,San German,18.0827,-67.046,Puerto Rico,PR,PRI,Puerto Rico,,93549.0,1630023526
+Mayagüez,Mayaguez,18.2003,-67.1397,Puerto Rico,PR,PRI,Puerto Rico,,93079.0,1630035520
+Caguas,Caguas,18.2319,-66.0388,Puerto Rico,PR,PRI,Puerto Rico,,73713.0,1630023540
+Guaynabo,Guaynabo,18.3832,-66.1134,Puerto Rico,PR,PRI,Puerto Rico,,70167.0,1630023575
+Juana Díaz,Juana Diaz,18.0532,-66.5044,Puerto Rico,PR,PRI,Puerto Rico,,66208.0,1630023583
+Fajardo,Fajardo,18.3331,-65.6589,Puerto Rico,PR,PRI,Puerto Rico,,66022.0,1630035668
+Trujillo Alto,Trujillo Alto,18.3599,-66.0096,Puerto Rico,PR,PRI,Puerto Rico,,43192.0,1630023656
+Vega Baja,Vega Baja,18.4406,-66.3997,Puerto Rico,PR,PRI,Puerto Rico,,23418.0,1630023572
+Cataño,Catano,18.4375,-66.144,Puerto Rico,PR,PRI,Puerto Rico,,23060.0,1630023554
+Guayama,Guayama,17.9743,-66.1104,Puerto Rico,PR,PRI,Puerto Rico,,18153.0,1630035675
+Humacao,Humacao,18.152,-65.8204,Puerto Rico,PR,PRI,Puerto Rico,,16762.0,1630035683
+Yauco,Yauco,18.0344,-66.8615,Puerto Rico,PR,PRI,Puerto Rico,,15165.0,1630035600
+Cayey,Cayey,18.115,-66.163,Puerto Rico,PR,PRI,Puerto Rico,,14423.0,1630035640
+Candelaria,Candelaria,18.4042,-66.2175,Puerto Rico,PR,PRI,Puerto Rico,,14114.0,1630023689
+Dorado,Dorado,18.4657,-66.2726,Puerto Rico,PR,PRI,Puerto Rico,,13208.0,1630023736
+Canóvanas,Canovanas,18.3693,-65.9009,Puerto Rico,PR,PRI,Puerto Rico,,12468.0,1630023717
+Río Grande,Rio Grande,18.3789,-65.8388,Puerto Rico,PR,PRI,Puerto Rico,,12311.0,1630023701
+Caño Martin Peña,Cano Martin Pena,18.4309,-66.0507,Puerto Rico,PR,PRI,Puerto Rico,,11939.0,1630142912
+Hormigueros,Hormigueros,18.1437,-67.1199,Puerto Rico,PR,PRI,Puerto Rico,,11224.0,1630023672
+Manatí,Manati,18.4283,-66.4823,Puerto Rico,PR,PRI,Puerto Rico,,11134.0,1630023562
+Sabana Grande,Sabana Grande,18.0832,-66.9645,Puerto Rico,PR,PRI,Puerto Rico,,10301.0,1630023550
+Cabo Rojo,Cabo Rojo,18.0867,-67.1482,Puerto Rico,PR,PRI,Puerto Rico,,10137.0,1630023608
+Isabela,Isabela,18.4991,-67.022,Puerto Rico,PR,PRI,Puerto Rico,,10110.0,1630023674
+Pájaros,Pajaros,18.361,-66.2184,Puerto Rico,PR,PRI,Puerto Rico,,10043.0,1630035532
+Corozal,Corozal,18.341,-66.3124,Puerto Rico,PR,PRI,Puerto Rico,,10019.0,1630035655
+Coamo,Coamo,18.0765,-66.3638,Puerto Rico,PR,PRI,Puerto Rico,,9806.0,1630035648
+Vega Alta,Vega Alta,18.4151,-66.3211,Puerto Rico,PR,PRI,Puerto Rico,,9179.0,1630023587
+San Sebastián,San Sebastian,18.3356,-66.9948,Puerto Rico,PR,PRI,Puerto Rico,,9041.0,1630023635
+Juncos,Juncos,18.2256,-65.9161,Puerto Rico,PR,PRI,Puerto Rico,,8938.0,1630023721
+Aibonito,Aibonito,18.1398,-66.2659,Puerto Rico,PR,PRI,Puerto Rico,,8596.0,1630035609
+San Lorenzo,San Lorenzo,18.1875,-65.968,Puerto Rico,PR,PRI,Puerto Rico,,8588.0,1630035578

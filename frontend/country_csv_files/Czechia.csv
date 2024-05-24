@@ -1,0 +1,317 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Prague,Prague,50.0875,14.4214,Czechia,CZ,CZE,Praha,primary,1357326.0,1203744823
+Brno,Brno,49.1925,16.6083,Czechia,CZ,CZE,Jihomoravský Kraj,admin,396101.0,1203676514
+Ostrava,Ostrava,49.8356,18.2925,Czechia,CZ,CZE,Moravskoslezský Kraj,admin,283504.0,1203687206
+Plzeň,Plzen,49.7475,13.3775,Czechia,CZ,CZE,Plzeňský Kraj,admin,181240.0,1203402469
+Liberec,Liberec,50.7667,15.0667,Czechia,CZ,CZE,Liberecký Kraj,admin,107389.0,1203577727
+Olomouc,Olomouc,49.5939,17.2508,Czechia,CZ,CZE,Olomoucký Kraj,admin,101825.0,1203328061
+České Budějovice,Ceske Budejovice,48.9747,14.4747,Czechia,CZ,CZE,Jihočeský Kraj,admin,96417.0,1203398046
+Hradec Králové,Hradec Kralove,50.2092,15.8322,Czechia,CZ,CZE,Královéhradecký Kraj,admin,93506.0,1203430618
+Pardubice,Pardubice,50.0386,15.7792,Czechia,CZ,CZE,Pardubický Kraj,admin,92149.0,1203857442
+Ústí nad Labem,Usti nad Labem,50.6583,14.0417,Czechia,CZ,CZE,Ústecký Kraj,admin,91963.0,1203734193
+Zlín,Zlin,49.2331,17.6669,Czechia,CZ,CZE,Zlínský Kraj,admin,74191.0,1203582141
+Havířov,Havirov,49.7831,18.4228,Czechia,CZ,CZE,Moravskoslezský Kraj,,70245.0,1203173875
+Kladno,Kladno,50.1431,14.1053,Czechia,CZ,CZE,Středočeský Kraj,,68436.0,1203557079
+Most,Most,50.5031,13.6367,Czechia,CZ,CZE,Ústecký Kraj,,63856.0,1203813984
+Opava,Opava,49.9381,17.9044,Czechia,CZ,CZE,Moravskoslezský Kraj,,55512.0,1203142483
+Frýdek-Místek,Frydek-Mistek,49.6856,18.3506,Czechia,CZ,CZE,Moravskoslezský Kraj,,54188.0,1203111584
+Jihlava,Jihlava,49.4003,15.5906,Czechia,CZ,CZE,Vysočina,admin,52548.0,1203810604
+Teplice,Teplice,50.6444,13.8319,Czechia,CZ,CZE,Ústecký Kraj,,50843.0,1203801370
+Karviná,Karvina,49.8542,18.5428,Czechia,CZ,CZE,Moravskoslezský Kraj,,50172.0,1203738904
+Karlovy Vary,Karlovy Vary,50.2306,12.8725,Czechia,CZ,CZE,Karlovarský Kraj,admin,49043.0,1203518899
+Děčín,Decin,50.7736,14.1961,Czechia,CZ,CZE,Ústecký Kraj,,47180.0,1203262893
+Chomutov,Chomutov,50.4611,13.4167,Czechia,CZ,CZE,Ústecký Kraj,,46940.0,1203523082
+Jablonec nad Nisou,Jablonec nad Nisou,50.7244,15.1681,Czechia,CZ,CZE,Liberecký Kraj,,45830.0,1203127047
+Mladá Boleslav,Mlada Boleslav,50.4125,14.9044,Czechia,CZ,CZE,Středočeský Kraj,,45000.0,1203616853
+Prostějov,Prostejov,49.4722,17.1106,Czechia,CZ,CZE,Olomoucký Kraj,,43551.0,1203172907
+Přerov,Prerov,49.4556,17.4511,Czechia,CZ,CZE,Olomoucký Kraj,,41634.0,1203137734
+Česká Lípa,Ceska Lipa,50.6886,14.5386,Czechia,CZ,CZE,Liberecký Kraj,,37262.0,1203109242
+Třebíč,Trebic,49.215,15.8817,Czechia,CZ,CZE,Vysočina,,34712.0,1203437113
+Třinec,Trinec,49.6778,18.6728,Czechia,CZ,CZE,Moravskoslezský Kraj,,34306.0,1203430167
+Tábor,Tabor,49.4144,14.6578,Czechia,CZ,CZE,Jihočeský Kraj,,34301.0,1203712399
+Znojmo,Znojmo,48.8556,16.0489,Czechia,CZ,CZE,Jihomoravský Kraj,,34146.0,1203362507
+Kolín,Kolin,50.0281,15.2006,Czechia,CZ,CZE,Středočeský Kraj,,33289.0,1203413479
+Příbram,Pribram,49.6883,14.0092,Czechia,CZ,CZE,Středočeský Kraj,,32743.0,1203262749
+Cheb,Cheb,50.0794,12.3706,Czechia,CZ,CZE,Karlovarský Kraj,,31954.0,1203676556
+Písek,Pisek,49.3089,14.1475,Czechia,CZ,CZE,Jihočeský Kraj,,30742.0,1203813820
+Trutnov,Trutnov,50.5606,15.9131,Czechia,CZ,CZE,Královéhradecký Kraj,,29660.0,1203787150
+Kroměříž,Kromeriz,49.2989,17.3931,Czechia,CZ,CZE,Zlínský Kraj,,28185.0,1203995171
+Orlová,Orlova,49.8453,18.4303,Czechia,CZ,CZE,Moravskoslezský Kraj,,27966.0,1203799110
+Líšeň,Lisen,49.2075,16.6861,Czechia,CZ,CZE,Jihomoravský Kraj,,26781.0,1203926697
+Břevnov,Brevnov,50.0833,14.3579,Czechia,CZ,CZE,Středočeský Kraj,,25756.0,1203462593
+Vsetín,Vsetin,49.3386,17.9961,Czechia,CZ,CZE,Zlínský Kraj,,25393.0,1203549413
+Šumperk,Sumperk,49.9653,16.9706,Czechia,CZ,CZE,Olomoucký Kraj,,25061.0,1203170809
+Uherské Hradiště,Uherske Hradiste,49.0697,17.4597,Czechia,CZ,CZE,Zlínský Kraj,,24812.0,1203165664
+Bystrc,Bystrc,49.2247,16.5239,Czechia,CZ,CZE,Jihomoravský Kraj,,24714.0,1203641060
+Břeclav,Breclav,48.7589,16.8819,Czechia,CZ,CZE,Jihomoravský Kraj,,24544.0,1203778686
+Hodonín,Hodonin,48.8489,17.1325,Czechia,CZ,CZE,Jihomoravský Kraj,,23805.0,1203626632
+Český Těšín,Cesky Tesin,49.7461,18.6261,Czechia,CZ,CZE,Moravskoslezský Kraj,,23487.0,1203518530
+Chrudim,Chrudim,49.9511,15.7956,Czechia,CZ,CZE,Pardubický Kraj,,23443.0,1203309920
+Havlíčkŭv Brod,Havlickuv Brod,49.6078,15.5808,Czechia,CZ,CZE,Vysočina,,23398.0,1203272361
+Litoměřice,Litomerice,50.5342,14.1328,Czechia,CZ,CZE,Ústecký Kraj,,23124.0,1203149283
+Nový Jičín,Novy Jicin,49.5944,18.0103,Czechia,CZ,CZE,Moravskoslezský Kraj,,23015.0,1203475212
+Krnov,Krnov,50.0906,17.6986,Czechia,CZ,CZE,Moravskoslezský Kraj,,22848.0,1203745289
+Litvínov,Litvinov,50.6008,13.6111,Czechia,CZ,CZE,Ústecký Kraj,,22695.0,1203716170
+Valašské Meziříčí,Valasske Mezirici,49.4717,17.9711,Czechia,CZ,CZE,Zlínský Kraj,,22630.0,1203786401
+Strakonice,Strakonice,49.2614,13.9025,Czechia,CZ,CZE,Jihočeský Kraj,,22583.0,1203755418
+Klatovy,Klatovy,49.3953,13.295,Czechia,CZ,CZE,Plzeňský Kraj,,22496.0,1203400126
+Sokolov,Sokolov,50.1814,12.6403,Czechia,CZ,CZE,Karlovarský Kraj,,22227.0,1203662180
+Kopřivnice,Koprivnice,49.5994,18.1447,Czechia,CZ,CZE,Moravskoslezský Kraj,,21669.0,1203847096
+Kutná Hora,Kutna Hora,49.9483,15.2683,Czechia,CZ,CZE,Středočeský Kraj,,21417.0,1203692740
+Jindřichŭv Hradec,Jindrichuv Hradec,49.1442,15.0031,Czechia,CZ,CZE,Jihočeský Kraj,,20828.0,1203413811
+Beroun,Beroun,49.9642,14.0739,Czechia,CZ,CZE,Středočeský Kraj,,20809.0,1203585066
+Bohumín,Bohumin,49.9042,18.3575,Czechia,CZ,CZE,Moravskoslezský Kraj,,20643.0,1203275330
+Žďár nad Sázavou,Zd'ar nad Sazavou,49.5628,15.9392,Czechia,CZ,CZE,Vysočina,,20519.0,1203204559
+Vyškov,Vyskov,49.2775,16.9989,Czechia,CZ,CZE,Jihomoravský Kraj,,20426.0,1203012353
+Mělník,Melnik,50.3519,14.475,Czechia,CZ,CZE,Středočeský Kraj,,20202.0,1203735988
+Blansko,Blansko,49.3631,16.6431,Czechia,CZ,CZE,Jihomoravský Kraj,,20174.0,1203195651
+Náchod,Nachod,50.4169,16.1631,Czechia,CZ,CZE,Královéhradecký Kraj,,19936.0,1203181897
+Brandýs nad Labem-Stará Boleslav,Brandys nad Labem-Stara Boleslav,50.1894,14.6672,Czechia,CZ,CZE,Středočeský Kraj,,19767.0,1203785584
+Jirkov,Jirkov,50.5003,13.4419,Czechia,CZ,CZE,Ústecký Kraj,,19305.0,1203484786
+Žatec,Zatec,50.33,13.5444,Czechia,CZ,CZE,Ústecký Kraj,,19044.0,1203368176
+Kralupy nad Vltavou,Kralupy nad Vltavou,50.2408,14.3067,Czechia,CZ,CZE,Středočeský Kraj,,18770.0,1203317115
+Kadaň,Kadan,50.3761,13.2714,Czechia,CZ,CZE,Ústecký Kraj,,18275.0,1203388944
+Louny,Louny,50.3572,13.7969,Czechia,CZ,CZE,Ústecký Kraj,,18121.0,1203988380
+Hranice,Hranice,49.5525,17.7683,Czechia,CZ,CZE,Olomoucký Kraj,,17978.0,1203110445
+Otrokovice,Otrokovice,49.21,17.5308,Czechia,CZ,CZE,Zlínský Kraj,,17634.0,1203087231
+Benešov,Benesov,49.7828,14.6886,Czechia,CZ,CZE,Středočeský Kraj,,16875.0,1203042729
+Říčany,Ricany,49.9919,14.6556,Czechia,CZ,CZE,Středočeský Kraj,,16775.0,1203639839
+Slaný,Slany,50.2306,14.0869,Czechia,CZ,CZE,Středočeský Kraj,,16557.0,1203367412
+Pelhřimov,Pelhrimov,49.4314,15.2233,Czechia,CZ,CZE,Vysočina,,16423.0,1203256095
+Uherský Brod,Uhersky Brod,49.025,17.6472,Czechia,CZ,CZE,Zlínský Kraj,,16410.0,1203839661
+Neratovice,Neratovice,50.2594,14.5178,Czechia,CZ,CZE,Středočeský Kraj,,16220.0,1203620692
+Jičín,Jicin,50.4367,15.3517,Czechia,CZ,CZE,Královéhradecký Kraj,,16210.0,1203562586
+Rožnov pod Radhoštěm,Roznov pod Radhostem,49.4586,18.1431,Czechia,CZ,CZE,Zlínský Kraj,,16205.0,1203287923
+Svitavy,Svitavy,49.7556,16.4694,Czechia,CZ,CZE,Pardubický Kraj,,16186.0,1203802204
+Ostrov,Ostrov,50.3083,12.9478,Czechia,CZ,CZE,Karlovarský Kraj,,15894.0,1203022506
+Rakovník,Rakovnik,50.1039,13.7333,Czechia,CZ,CZE,Středočeský Kraj,,15574.0,1203062806
+Nymburk,Nymburk,50.1861,15.0417,Czechia,CZ,CZE,Středočeský Kraj,,15424.0,1203273272
+Bruntál,Bruntal,49.9883,17.4647,Czechia,CZ,CZE,Moravskoslezský Kraj,,15415.0,1203666435
+Dvůr Králové nad Labem,Dvur Kralove nad Labem,50.4331,15.8122,Czechia,CZ,CZE,Královéhradecký Kraj,,15348.0,1203492959
+Česká Třebová,Ceska Trebova,49.9019,16.4472,Czechia,CZ,CZE,Pardubický Kraj,,15203.0,1203262802
+Poděbrady,Podebrady,50.1425,15.1189,Czechia,CZ,CZE,Středočeský Kraj,,14902.0,1203251007
+Varnsdorf,Varnsdorf,50.9117,14.6183,Czechia,CZ,CZE,Ústecký Kraj,,14837.0,1203159316
+Bílina,Bilina,50.5481,13.7761,Czechia,CZ,CZE,Ústecký Kraj,,14633.0,1203669701
+Turnov,Turnov,50.5872,15.1569,Czechia,CZ,CZE,Liberecký Kraj,,14472.0,1203116739
+Klášterec nad Ohří,Klasterec nad Ohri,50.3903,13.1719,Czechia,CZ,CZE,Ústecký Kraj,,14324.0,1203315809
+Rokycany,Rokycany,49.7425,13.5956,Czechia,CZ,CZE,Plzeňský Kraj,,14309.0,1203614655
+Ústí nad Orlicí,Usti nad Orlici,49.9739,16.3936,Czechia,CZ,CZE,Pardubický Kraj,,14141.0,1203823971
+Tachov,Tachov,49.7953,12.6331,Czechia,CZ,CZE,Plzeňský Kraj,,13800.0,1203227002
+Mariánské Lázně,Marianske Lazne,49.9647,12.7011,Czechia,CZ,CZE,Karlovarský Kraj,,13766.0,1203682983
+Milovice,Milovice,50.2289,14.8906,Czechia,CZ,CZE,Středočeský Kraj,,13634.0,1203709386
+Hlučín,Hlucin,49.8967,18.1931,Czechia,CZ,CZE,Moravskoslezský Kraj,,13506.0,1203528969
+Zábřeh,Zabreh,49.8825,16.8722,Czechia,CZ,CZE,Olomoucký Kraj,,13434.0,1203721653
+Šternberk,Sternberk,49.7306,17.2989,Czechia,CZ,CZE,Olomoucký Kraj,,13239.0,1203827138
+Český Krumlov,Cesky Krumlov,48.8111,14.3153,Czechia,CZ,CZE,Jihočeský Kraj,,12907.0,1203973467
+Aš,As,50.2239,12.195,Czechia,CZ,CZE,Karlovarský Kraj,,12804.0,1203503000
+Roudnice nad Labem,Roudnice nad Labem,50.4236,14.2539,Czechia,CZ,CZE,Ústecký Kraj,,12747.0,1203268404
+Chodov,Chodov,50.2414,12.7439,Czechia,CZ,CZE,Karlovarský Kraj,,12733.0,1203758078
+Krupka,Krupka,50.6844,13.8583,Czechia,CZ,CZE,Ústecký Kraj,,12710.0,1203244914
+Jaroměř,Jaromer,50.3503,15.9183,Czechia,CZ,CZE,Královéhradecký Kraj,,12628.0,1203124128
+Čelákovice,Celakovice,50.1606,14.75,Czechia,CZ,CZE,Středočeský Kraj,,12444.0,1203396532
+Vysoké Mýto,Vysoke Myto,49.9533,16.1617,Czechia,CZ,CZE,Pardubický Kraj,,12333.0,1203435938
+Vrchlabí,Vrchlabi,50.6278,15.6103,Czechia,CZ,CZE,Královéhradecký Kraj,,12205.0,1203953730
+Boskovice,Boskovice,49.4875,16.66,Czechia,CZ,CZE,Jihomoravský Kraj,,11996.0,1203299524
+Holešov,Holesov,49.3333,17.5783,Czechia,CZ,CZE,Zlínský Kraj,,11538.0,1203380921
+Velké Meziříčí,Velke Mezirici,49.3553,16.0122,Czechia,CZ,CZE,Vysočina,,11517.0,1203943102
+Nový Bor,Novy Bor,50.7553,14.5536,Czechia,CZ,CZE,Liberecký Kraj,,11485.0,1203651923
+Vlašim,Vlasim,49.7064,14.8989,Czechia,CZ,CZE,Středočeský Kraj,,11438.0,1203658512
+Humpolec,Humpolec,49.5417,15.3572,Czechia,CZ,CZE,Vysočina,,11333.0,1203780100
+Kuřim,Kurim,49.2986,16.5314,Czechia,CZ,CZE,Jihomoravský Kraj,,11263.0,1203206546
+Prachatice,Prachatice,49.0131,13.9975,Czechia,CZ,CZE,Jihočeský Kraj,,11211.0,1203326615
+Rychnov nad Kněžnou,Rychnov nad Kneznou,50.1631,16.2744,Czechia,CZ,CZE,Královéhradecký Kraj,,11178.0,1203123765
+Uničov,Unicov,49.7708,17.1214,Czechia,CZ,CZE,Olomoucký Kraj,,11122.0,1203442454
+Domažlice,Domazlice,49.4406,12.9272,Czechia,CZ,CZE,Plzeňský Kraj,,11010.0,1203358449
+Rumburk,Rumburk,50.9517,14.5572,Czechia,CZ,CZE,Ústecký Kraj,,10937.0,1203370008
+Kyjov,Kyjov,49.0103,17.1225,Czechia,CZ,CZE,Jihomoravský Kraj,,10844.0,1203980144
+Sušice,Susice,49.2311,13.5203,Czechia,CZ,CZE,Plzeňský Kraj,,10820.0,1203245330
+Frenštát pod Radhoštěm,Frenstat pod Radhostem,49.5483,18.2108,Czechia,CZ,CZE,Moravskoslezský Kraj,,10709.0,1203465419
+Jeseník,Jesenik,50.2297,17.2047,Czechia,CZ,CZE,Olomoucký Kraj,,10665.0,1203267061
+Veselí nad Moravou,Veseli nad Moravou,48.9536,17.3764,Czechia,CZ,CZE,Jihomoravský Kraj,,10642.0,1203951522
+Čáslav,Caslav,49.9117,15.395,Czechia,CZ,CZE,Středočeský Kraj,,10468.0,1203177244
+Litomyšl,Litomysl,49.8719,16.3106,Czechia,CZ,CZE,Pardubický Kraj,,10441.0,1203430500
+Králŭv Dvŭr,Kraluv Dvur,49.9467,14.035,Czechia,CZ,CZE,Středočeský Kraj,,10428.0,1203703070
+Jesenice,Jesenice,49.9683,14.5136,Czechia,CZ,CZE,Středočeský Kraj,,10169.0,1203216192
+Lysá nad Labem,Lysa nad Labem,50.2014,14.8328,Czechia,CZ,CZE,Středočeský Kraj,,10047.0,1203091035
+Přelouč,Prelouc,50.04,15.5603,Czechia,CZ,CZE,Pardubický Kraj,,9971.0,1203203039
+Nové Město na Moravě,Nove Mesto na Morave,49.5614,16.0742,Czechia,CZ,CZE,Vysočina,,9919.0,1203071196
+Frýdlant nad Ostravicí,Frydlant nad Ostravici,49.5928,18.3597,Czechia,CZ,CZE,Moravskoslezský Kraj,,9890.0,1203314077
+Ivančice,Ivancice,49.1014,16.3775,Czechia,CZ,CZE,Jihomoravský Kraj,,9888.0,1203249406
+Litovel,Litovel,49.7011,17.0761,Czechia,CZ,CZE,Olomoucký Kraj,,9712.0,1203150242
+Lanškroun,Lanskroun,49.9122,16.6122,Czechia,CZ,CZE,Pardubický Kraj,,9709.0,1203727130
+Moravská Třebová,Moravska Trebova,49.7581,16.6642,Czechia,CZ,CZE,Pardubický Kraj,,9685.0,1203455488
+Hlinsko,Hlinsko,49.7622,15.9075,Czechia,CZ,CZE,Pardubický Kraj,,9596.0,1203108794
+Mohelnice,Mohelnice,49.7769,16.9194,Czechia,CZ,CZE,Olomoucký Kraj,,9424.0,1203067373
+Nové Město nad Metují,Nove Mesto nad Metuji,50.3447,16.1517,Czechia,CZ,CZE,Královéhradecký Kraj,,9378.0,1203259477
+Studénka,Studenka,49.7233,18.0786,Czechia,CZ,CZE,Moravskoslezský Kraj,,9326.0,1203000978
+Tišnov,Tisnov,49.3486,16.4244,Czechia,CZ,CZE,Jihomoravský Kraj,,9223.0,1203595572
+Hostivice,Hostivice,50.0814,14.2525,Czechia,CZ,CZE,Středočeský Kraj,,9123.0,1203249506
+Chotěboř,Chotebor,49.7208,15.6703,Czechia,CZ,CZE,Vysočina,,9109.0,1203957935
+Nová Paka,Nova Paka,50.4897,15.5136,Czechia,CZ,CZE,Liberecký Kraj,,9035.0,1203255589
+Roztoky,Roztoky,50.1614,14.3869,Czechia,CZ,CZE,Středočeský Kraj,,8971.0,1203472886
+Mnichovo Hradiště,Mnichovo Hradiste,50.5214,14.9736,Czechia,CZ,CZE,Středočeský Kraj,,8949.0,1203949277
+Polička,Policka,49.715,16.2675,Czechia,CZ,CZE,Pardubický Kraj,,8910.0,1203964642
+Dobříš,Dobris,49.7811,14.1672,Czechia,CZ,CZE,Středočeský Kraj,,8831.0,1203853361
+Lovosice,Lovosice,50.515,14.0511,Czechia,CZ,CZE,Ústecký Kraj,,8803.0,1203138826
+Choceň,Chocen,50.0017,16.2231,Czechia,CZ,CZE,Pardubický Kraj,,8708.0,1203284714
+Duchcov,Duchcov,50.6039,13.7464,Czechia,CZ,CZE,Ústecký Kraj,,8684.0,1203260902
+Štětí,Steti,50.4531,14.3742,Czechia,CZ,CZE,Ústecký Kraj,,8572.0,1203443601
+Hořice,Horice,50.3675,15.6314,Czechia,CZ,CZE,Královéhradecký Kraj,,8562.0,1203829404
+Prague,Prague,50.0875,14.4214,Czechia,CZ,CZE,Praha,primary,1357326.0,1203744823
+Brno,Brno,49.1925,16.6083,Czechia,CZ,CZE,Jihomoravský Kraj,admin,396101.0,1203676514
+Ostrava,Ostrava,49.8356,18.2925,Czechia,CZ,CZE,Moravskoslezský Kraj,admin,283504.0,1203687206
+Plzeň,Plzen,49.7475,13.3775,Czechia,CZ,CZE,Plzeňský Kraj,admin,181240.0,1203402469
+Liberec,Liberec,50.7667,15.0667,Czechia,CZ,CZE,Liberecký Kraj,admin,107389.0,1203577727
+Olomouc,Olomouc,49.5939,17.2508,Czechia,CZ,CZE,Olomoucký Kraj,admin,101825.0,1203328061
+České Budějovice,Ceske Budejovice,48.9747,14.4747,Czechia,CZ,CZE,Jihočeský Kraj,admin,96417.0,1203398046
+Hradec Králové,Hradec Kralove,50.2092,15.8322,Czechia,CZ,CZE,Královéhradecký Kraj,admin,93506.0,1203430618
+Pardubice,Pardubice,50.0386,15.7792,Czechia,CZ,CZE,Pardubický Kraj,admin,92149.0,1203857442
+Ústí nad Labem,Usti nad Labem,50.6583,14.0417,Czechia,CZ,CZE,Ústecký Kraj,admin,91963.0,1203734193
+Zlín,Zlin,49.2331,17.6669,Czechia,CZ,CZE,Zlínský Kraj,admin,74191.0,1203582141
+Havířov,Havirov,49.7831,18.4228,Czechia,CZ,CZE,Moravskoslezský Kraj,,70245.0,1203173875
+Kladno,Kladno,50.1431,14.1053,Czechia,CZ,CZE,Středočeský Kraj,,68436.0,1203557079
+Most,Most,50.5031,13.6367,Czechia,CZ,CZE,Ústecký Kraj,,63856.0,1203813984
+Opava,Opava,49.9381,17.9044,Czechia,CZ,CZE,Moravskoslezský Kraj,,55512.0,1203142483
+Frýdek-Místek,Frydek-Mistek,49.6856,18.3506,Czechia,CZ,CZE,Moravskoslezský Kraj,,54188.0,1203111584
+Jihlava,Jihlava,49.4003,15.5906,Czechia,CZ,CZE,Vysočina,admin,52548.0,1203810604
+Teplice,Teplice,50.6444,13.8319,Czechia,CZ,CZE,Ústecký Kraj,,50843.0,1203801370
+Karviná,Karvina,49.8542,18.5428,Czechia,CZ,CZE,Moravskoslezský Kraj,,50172.0,1203738904
+Karlovy Vary,Karlovy Vary,50.2306,12.8725,Czechia,CZ,CZE,Karlovarský Kraj,admin,49043.0,1203518899
+Děčín,Decin,50.7736,14.1961,Czechia,CZ,CZE,Ústecký Kraj,,47180.0,1203262893
+Chomutov,Chomutov,50.4611,13.4167,Czechia,CZ,CZE,Ústecký Kraj,,46940.0,1203523082
+Jablonec nad Nisou,Jablonec nad Nisou,50.7244,15.1681,Czechia,CZ,CZE,Liberecký Kraj,,45830.0,1203127047
+Mladá Boleslav,Mlada Boleslav,50.4125,14.9044,Czechia,CZ,CZE,Středočeský Kraj,,45000.0,1203616853
+Prostějov,Prostejov,49.4722,17.1106,Czechia,CZ,CZE,Olomoucký Kraj,,43551.0,1203172907
+Přerov,Prerov,49.4556,17.4511,Czechia,CZ,CZE,Olomoucký Kraj,,41634.0,1203137734
+Česká Lípa,Ceska Lipa,50.6886,14.5386,Czechia,CZ,CZE,Liberecký Kraj,,37262.0,1203109242
+Třebíč,Trebic,49.215,15.8817,Czechia,CZ,CZE,Vysočina,,34712.0,1203437113
+Třinec,Trinec,49.6778,18.6728,Czechia,CZ,CZE,Moravskoslezský Kraj,,34306.0,1203430167
+Tábor,Tabor,49.4144,14.6578,Czechia,CZ,CZE,Jihočeský Kraj,,34301.0,1203712399
+Znojmo,Znojmo,48.8556,16.0489,Czechia,CZ,CZE,Jihomoravský Kraj,,34146.0,1203362507
+Kolín,Kolin,50.0281,15.2006,Czechia,CZ,CZE,Středočeský Kraj,,33289.0,1203413479
+Příbram,Pribram,49.6883,14.0092,Czechia,CZ,CZE,Středočeský Kraj,,32743.0,1203262749
+Cheb,Cheb,50.0794,12.3706,Czechia,CZ,CZE,Karlovarský Kraj,,31954.0,1203676556
+Písek,Pisek,49.3089,14.1475,Czechia,CZ,CZE,Jihočeský Kraj,,30742.0,1203813820
+Trutnov,Trutnov,50.5606,15.9131,Czechia,CZ,CZE,Královéhradecký Kraj,,29660.0,1203787150
+Kroměříž,Kromeriz,49.2989,17.3931,Czechia,CZ,CZE,Zlínský Kraj,,28185.0,1203995171
+Orlová,Orlova,49.8453,18.4303,Czechia,CZ,CZE,Moravskoslezský Kraj,,27966.0,1203799110
+Líšeň,Lisen,49.2075,16.6861,Czechia,CZ,CZE,Jihomoravský Kraj,,26781.0,1203926697
+Břevnov,Brevnov,50.0833,14.3579,Czechia,CZ,CZE,Středočeský Kraj,,25756.0,1203462593
+Vsetín,Vsetin,49.3386,17.9961,Czechia,CZ,CZE,Zlínský Kraj,,25393.0,1203549413
+Šumperk,Sumperk,49.9653,16.9706,Czechia,CZ,CZE,Olomoucký Kraj,,25061.0,1203170809
+Uherské Hradiště,Uherske Hradiste,49.0697,17.4597,Czechia,CZ,CZE,Zlínský Kraj,,24812.0,1203165664
+Bystrc,Bystrc,49.2247,16.5239,Czechia,CZ,CZE,Jihomoravský Kraj,,24714.0,1203641060
+Břeclav,Breclav,48.7589,16.8819,Czechia,CZ,CZE,Jihomoravský Kraj,,24544.0,1203778686
+Hodonín,Hodonin,48.8489,17.1325,Czechia,CZ,CZE,Jihomoravský Kraj,,23805.0,1203626632
+Český Těšín,Cesky Tesin,49.7461,18.6261,Czechia,CZ,CZE,Moravskoslezský Kraj,,23487.0,1203518530
+Chrudim,Chrudim,49.9511,15.7956,Czechia,CZ,CZE,Pardubický Kraj,,23443.0,1203309920
+Havlíčkŭv Brod,Havlickuv Brod,49.6078,15.5808,Czechia,CZ,CZE,Vysočina,,23398.0,1203272361
+Litoměřice,Litomerice,50.5342,14.1328,Czechia,CZ,CZE,Ústecký Kraj,,23124.0,1203149283
+Nový Jičín,Novy Jicin,49.5944,18.0103,Czechia,CZ,CZE,Moravskoslezský Kraj,,23015.0,1203475212
+Krnov,Krnov,50.0906,17.6986,Czechia,CZ,CZE,Moravskoslezský Kraj,,22848.0,1203745289
+Litvínov,Litvinov,50.6008,13.6111,Czechia,CZ,CZE,Ústecký Kraj,,22695.0,1203716170
+Valašské Meziříčí,Valasske Mezirici,49.4717,17.9711,Czechia,CZ,CZE,Zlínský Kraj,,22630.0,1203786401
+Strakonice,Strakonice,49.2614,13.9025,Czechia,CZ,CZE,Jihočeský Kraj,,22583.0,1203755418
+Klatovy,Klatovy,49.3953,13.295,Czechia,CZ,CZE,Plzeňský Kraj,,22496.0,1203400126
+Sokolov,Sokolov,50.1814,12.6403,Czechia,CZ,CZE,Karlovarský Kraj,,22227.0,1203662180
+Kopřivnice,Koprivnice,49.5994,18.1447,Czechia,CZ,CZE,Moravskoslezský Kraj,,21669.0,1203847096
+Kutná Hora,Kutna Hora,49.9483,15.2683,Czechia,CZ,CZE,Středočeský Kraj,,21417.0,1203692740
+Jindřichŭv Hradec,Jindrichuv Hradec,49.1442,15.0031,Czechia,CZ,CZE,Jihočeský Kraj,,20828.0,1203413811
+Beroun,Beroun,49.9642,14.0739,Czechia,CZ,CZE,Středočeský Kraj,,20809.0,1203585066
+Bohumín,Bohumin,49.9042,18.3575,Czechia,CZ,CZE,Moravskoslezský Kraj,,20643.0,1203275330
+Žďár nad Sázavou,Zd'ar nad Sazavou,49.5628,15.9392,Czechia,CZ,CZE,Vysočina,,20519.0,1203204559
+Vyškov,Vyskov,49.2775,16.9989,Czechia,CZ,CZE,Jihomoravský Kraj,,20426.0,1203012353
+Mělník,Melnik,50.3519,14.475,Czechia,CZ,CZE,Středočeský Kraj,,20202.0,1203735988
+Blansko,Blansko,49.3631,16.6431,Czechia,CZ,CZE,Jihomoravský Kraj,,20174.0,1203195651
+Náchod,Nachod,50.4169,16.1631,Czechia,CZ,CZE,Královéhradecký Kraj,,19936.0,1203181897
+Brandýs nad Labem-Stará Boleslav,Brandys nad Labem-Stara Boleslav,50.1894,14.6672,Czechia,CZ,CZE,Středočeský Kraj,,19767.0,1203785584
+Jirkov,Jirkov,50.5003,13.4419,Czechia,CZ,CZE,Ústecký Kraj,,19305.0,1203484786
+Žatec,Zatec,50.33,13.5444,Czechia,CZ,CZE,Ústecký Kraj,,19044.0,1203368176
+Kralupy nad Vltavou,Kralupy nad Vltavou,50.2408,14.3067,Czechia,CZ,CZE,Středočeský Kraj,,18770.0,1203317115
+Kadaň,Kadan,50.3761,13.2714,Czechia,CZ,CZE,Ústecký Kraj,,18275.0,1203388944
+Louny,Louny,50.3572,13.7969,Czechia,CZ,CZE,Ústecký Kraj,,18121.0,1203988380
+Hranice,Hranice,49.5525,17.7683,Czechia,CZ,CZE,Olomoucký Kraj,,17978.0,1203110445
+Otrokovice,Otrokovice,49.21,17.5308,Czechia,CZ,CZE,Zlínský Kraj,,17634.0,1203087231
+Benešov,Benesov,49.7828,14.6886,Czechia,CZ,CZE,Středočeský Kraj,,16875.0,1203042729
+Říčany,Ricany,49.9919,14.6556,Czechia,CZ,CZE,Středočeský Kraj,,16775.0,1203639839
+Slaný,Slany,50.2306,14.0869,Czechia,CZ,CZE,Středočeský Kraj,,16557.0,1203367412
+Pelhřimov,Pelhrimov,49.4314,15.2233,Czechia,CZ,CZE,Vysočina,,16423.0,1203256095
+Uherský Brod,Uhersky Brod,49.025,17.6472,Czechia,CZ,CZE,Zlínský Kraj,,16410.0,1203839661
+Neratovice,Neratovice,50.2594,14.5178,Czechia,CZ,CZE,Středočeský Kraj,,16220.0,1203620692
+Jičín,Jicin,50.4367,15.3517,Czechia,CZ,CZE,Královéhradecký Kraj,,16210.0,1203562586
+Rožnov pod Radhoštěm,Roznov pod Radhostem,49.4586,18.1431,Czechia,CZ,CZE,Zlínský Kraj,,16205.0,1203287923
+Svitavy,Svitavy,49.7556,16.4694,Czechia,CZ,CZE,Pardubický Kraj,,16186.0,1203802204
+Ostrov,Ostrov,50.3083,12.9478,Czechia,CZ,CZE,Karlovarský Kraj,,15894.0,1203022506
+Rakovník,Rakovnik,50.1039,13.7333,Czechia,CZ,CZE,Středočeský Kraj,,15574.0,1203062806
+Nymburk,Nymburk,50.1861,15.0417,Czechia,CZ,CZE,Středočeský Kraj,,15424.0,1203273272
+Bruntál,Bruntal,49.9883,17.4647,Czechia,CZ,CZE,Moravskoslezský Kraj,,15415.0,1203666435
+Dvůr Králové nad Labem,Dvur Kralove nad Labem,50.4331,15.8122,Czechia,CZ,CZE,Královéhradecký Kraj,,15348.0,1203492959
+Česká Třebová,Ceska Trebova,49.9019,16.4472,Czechia,CZ,CZE,Pardubický Kraj,,15203.0,1203262802
+Poděbrady,Podebrady,50.1425,15.1189,Czechia,CZ,CZE,Středočeský Kraj,,14902.0,1203251007
+Varnsdorf,Varnsdorf,50.9117,14.6183,Czechia,CZ,CZE,Ústecký Kraj,,14837.0,1203159316
+Bílina,Bilina,50.5481,13.7761,Czechia,CZ,CZE,Ústecký Kraj,,14633.0,1203669701
+Turnov,Turnov,50.5872,15.1569,Czechia,CZ,CZE,Liberecký Kraj,,14472.0,1203116739
+Klášterec nad Ohří,Klasterec nad Ohri,50.3903,13.1719,Czechia,CZ,CZE,Ústecký Kraj,,14324.0,1203315809
+Rokycany,Rokycany,49.7425,13.5956,Czechia,CZ,CZE,Plzeňský Kraj,,14309.0,1203614655
+Ústí nad Orlicí,Usti nad Orlici,49.9739,16.3936,Czechia,CZ,CZE,Pardubický Kraj,,14141.0,1203823971
+Tachov,Tachov,49.7953,12.6331,Czechia,CZ,CZE,Plzeňský Kraj,,13800.0,1203227002
+Mariánské Lázně,Marianske Lazne,49.9647,12.7011,Czechia,CZ,CZE,Karlovarský Kraj,,13766.0,1203682983
+Milovice,Milovice,50.2289,14.8906,Czechia,CZ,CZE,Středočeský Kraj,,13634.0,1203709386
+Hlučín,Hlucin,49.8967,18.1931,Czechia,CZ,CZE,Moravskoslezský Kraj,,13506.0,1203528969
+Zábřeh,Zabreh,49.8825,16.8722,Czechia,CZ,CZE,Olomoucký Kraj,,13434.0,1203721653
+Šternberk,Sternberk,49.7306,17.2989,Czechia,CZ,CZE,Olomoucký Kraj,,13239.0,1203827138
+Český Krumlov,Cesky Krumlov,48.8111,14.3153,Czechia,CZ,CZE,Jihočeský Kraj,,12907.0,1203973467
+Aš,As,50.2239,12.195,Czechia,CZ,CZE,Karlovarský Kraj,,12804.0,1203503000
+Roudnice nad Labem,Roudnice nad Labem,50.4236,14.2539,Czechia,CZ,CZE,Ústecký Kraj,,12747.0,1203268404
+Chodov,Chodov,50.2414,12.7439,Czechia,CZ,CZE,Karlovarský Kraj,,12733.0,1203758078
+Krupka,Krupka,50.6844,13.8583,Czechia,CZ,CZE,Ústecký Kraj,,12710.0,1203244914
+Jaroměř,Jaromer,50.3503,15.9183,Czechia,CZ,CZE,Královéhradecký Kraj,,12628.0,1203124128
+Čelákovice,Celakovice,50.1606,14.75,Czechia,CZ,CZE,Středočeský Kraj,,12444.0,1203396532
+Vysoké Mýto,Vysoke Myto,49.9533,16.1617,Czechia,CZ,CZE,Pardubický Kraj,,12333.0,1203435938
+Vrchlabí,Vrchlabi,50.6278,15.6103,Czechia,CZ,CZE,Královéhradecký Kraj,,12205.0,1203953730
+Boskovice,Boskovice,49.4875,16.66,Czechia,CZ,CZE,Jihomoravský Kraj,,11996.0,1203299524
+Holešov,Holesov,49.3333,17.5783,Czechia,CZ,CZE,Zlínský Kraj,,11538.0,1203380921
+Velké Meziříčí,Velke Mezirici,49.3553,16.0122,Czechia,CZ,CZE,Vysočina,,11517.0,1203943102
+Nový Bor,Novy Bor,50.7553,14.5536,Czechia,CZ,CZE,Liberecký Kraj,,11485.0,1203651923
+Vlašim,Vlasim,49.7064,14.8989,Czechia,CZ,CZE,Středočeský Kraj,,11438.0,1203658512
+Humpolec,Humpolec,49.5417,15.3572,Czechia,CZ,CZE,Vysočina,,11333.0,1203780100
+Kuřim,Kurim,49.2986,16.5314,Czechia,CZ,CZE,Jihomoravský Kraj,,11263.0,1203206546
+Prachatice,Prachatice,49.0131,13.9975,Czechia,CZ,CZE,Jihočeský Kraj,,11211.0,1203326615
+Rychnov nad Kněžnou,Rychnov nad Kneznou,50.1631,16.2744,Czechia,CZ,CZE,Královéhradecký Kraj,,11178.0,1203123765
+Uničov,Unicov,49.7708,17.1214,Czechia,CZ,CZE,Olomoucký Kraj,,11122.0,1203442454
+Domažlice,Domazlice,49.4406,12.9272,Czechia,CZ,CZE,Plzeňský Kraj,,11010.0,1203358449
+Rumburk,Rumburk,50.9517,14.5572,Czechia,CZ,CZE,Ústecký Kraj,,10937.0,1203370008
+Kyjov,Kyjov,49.0103,17.1225,Czechia,CZ,CZE,Jihomoravský Kraj,,10844.0,1203980144
+Sušice,Susice,49.2311,13.5203,Czechia,CZ,CZE,Plzeňský Kraj,,10820.0,1203245330
+Frenštát pod Radhoštěm,Frenstat pod Radhostem,49.5483,18.2108,Czechia,CZ,CZE,Moravskoslezský Kraj,,10709.0,1203465419
+Jeseník,Jesenik,50.2297,17.2047,Czechia,CZ,CZE,Olomoucký Kraj,,10665.0,1203267061
+Veselí nad Moravou,Veseli nad Moravou,48.9536,17.3764,Czechia,CZ,CZE,Jihomoravský Kraj,,10642.0,1203951522
+Čáslav,Caslav,49.9117,15.395,Czechia,CZ,CZE,Středočeský Kraj,,10468.0,1203177244
+Litomyšl,Litomysl,49.8719,16.3106,Czechia,CZ,CZE,Pardubický Kraj,,10441.0,1203430500
+Králŭv Dvŭr,Kraluv Dvur,49.9467,14.035,Czechia,CZ,CZE,Středočeský Kraj,,10428.0,1203703070
+Jesenice,Jesenice,49.9683,14.5136,Czechia,CZ,CZE,Středočeský Kraj,,10169.0,1203216192
+Lysá nad Labem,Lysa nad Labem,50.2014,14.8328,Czechia,CZ,CZE,Středočeský Kraj,,10047.0,1203091035
+Přelouč,Prelouc,50.04,15.5603,Czechia,CZ,CZE,Pardubický Kraj,,9971.0,1203203039
+Nové Město na Moravě,Nove Mesto na Morave,49.5614,16.0742,Czechia,CZ,CZE,Vysočina,,9919.0,1203071196
+Frýdlant nad Ostravicí,Frydlant nad Ostravici,49.5928,18.3597,Czechia,CZ,CZE,Moravskoslezský Kraj,,9890.0,1203314077
+Ivančice,Ivancice,49.1014,16.3775,Czechia,CZ,CZE,Jihomoravský Kraj,,9888.0,1203249406
+Litovel,Litovel,49.7011,17.0761,Czechia,CZ,CZE,Olomoucký Kraj,,9712.0,1203150242
+Lanškroun,Lanskroun,49.9122,16.6122,Czechia,CZ,CZE,Pardubický Kraj,,9709.0,1203727130
+Moravská Třebová,Moravska Trebova,49.7581,16.6642,Czechia,CZ,CZE,Pardubický Kraj,,9685.0,1203455488
+Hlinsko,Hlinsko,49.7622,15.9075,Czechia,CZ,CZE,Pardubický Kraj,,9596.0,1203108794
+Mohelnice,Mohelnice,49.7769,16.9194,Czechia,CZ,CZE,Olomoucký Kraj,,9424.0,1203067373
+Nové Město nad Metují,Nove Mesto nad Metuji,50.3447,16.1517,Czechia,CZ,CZE,Královéhradecký Kraj,,9378.0,1203259477
+Studénka,Studenka,49.7233,18.0786,Czechia,CZ,CZE,Moravskoslezský Kraj,,9326.0,1203000978
+Tišnov,Tisnov,49.3486,16.4244,Czechia,CZ,CZE,Jihomoravský Kraj,,9223.0,1203595572
+Hostivice,Hostivice,50.0814,14.2525,Czechia,CZ,CZE,Středočeský Kraj,,9123.0,1203249506
+Chotěboř,Chotebor,49.7208,15.6703,Czechia,CZ,CZE,Vysočina,,9109.0,1203957935
+Nová Paka,Nova Paka,50.4897,15.5136,Czechia,CZ,CZE,Liberecký Kraj,,9035.0,1203255589
+Roztoky,Roztoky,50.1614,14.3869,Czechia,CZ,CZE,Středočeský Kraj,,8971.0,1203472886
+Mnichovo Hradiště,Mnichovo Hradiste,50.5214,14.9736,Czechia,CZ,CZE,Středočeský Kraj,,8949.0,1203949277
+Polička,Policka,49.715,16.2675,Czechia,CZ,CZE,Pardubický Kraj,,8910.0,1203964642
+Dobříš,Dobris,49.7811,14.1672,Czechia,CZ,CZE,Středočeský Kraj,,8831.0,1203853361
+Lovosice,Lovosice,50.515,14.0511,Czechia,CZ,CZE,Ústecký Kraj,,8803.0,1203138826
+Choceň,Chocen,50.0017,16.2231,Czechia,CZ,CZE,Pardubický Kraj,,8708.0,1203284714
+Duchcov,Duchcov,50.6039,13.7464,Czechia,CZ,CZE,Ústecký Kraj,,8684.0,1203260902
+Štětí,Steti,50.4531,14.3742,Czechia,CZ,CZE,Ústecký Kraj,,8572.0,1203443601
+Hořice,Horice,50.3675,15.6314,Czechia,CZ,CZE,Královéhradecký Kraj,,8562.0,1203829404

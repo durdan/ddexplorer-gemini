@@ -1,0 +1,41 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Bujumbura,Bujumbura,-3.3833,29.3667,Burundi,BI,BDI,Bujumbura Mairie,primary,1143202.0,1108101689
+Gitega,Gitega,-3.4283,29.925,Burundi,BI,BDI,Gitega,primary,135467.0,1108778000
+Ngozi,Ngozi,-2.9083,29.8269,Burundi,BI,BDI,Ngozi,admin,39884.0,1108753930
+Rumonge,Rumonge,-3.9667,29.4333,Burundi,BI,BDI,Rumonge,admin,35931.0,1108641885
+Zanandore,Zanandore,-3.25,30.1167,Burundi,BI,BDI,Karuzi,,27867.0,1108745202
+Cibitoke,Cibitoke,-2.8886,29.12,Burundi,BI,BDI,Cibitoke,admin,23885.0,1108176356
+Gitega,Gitega,-3.426,29.8436,Burundi,BI,BDI,Mwaro,,23167.0,1108962433
+Kayanza,Kayanza,-2.9167,29.6167,Burundi,BI,BDI,Kayanza,admin,21767.0,1108413426
+Bubanza,Bubanza,-3.0833,29.4,Burundi,BI,BDI,Bubanza,admin,20031.0,1108018348
+Gatumba,Gatumba,-3.3333,29.25,Burundi,BI,BDI,Bujumbura Rural,,11700.0,1108258446
+Karuzi,Karuzi,-3.1,30.1667,Burundi,BI,BDI,Karuzi,admin,10317.0,1108619045
+Kirundo,Kirundo,-2.59,30.09,Burundi,BI,BDI,Kirundo,admin,10024.0,1108527579
+Muyinga,Muyinga,-2.85,30.3333,Burundi,BI,BDI,Muyinga,admin,9609.0,1108466781
+Makamba,Makamba,-4.1333,29.8,Burundi,BI,BDI,Makamba,admin,9396.0,1108520771
+Ruyigi,Ruyigi,-3.4833,30.25,Burundi,BI,BDI,Ruyigi,admin,7139.0,1108406902
+Rutana,Rutana,-3.9167,30.0,Burundi,BI,BDI,Rutana,admin,5865.0,1108441253
+Muramvya,Muramvya,-3.25,29.6,Burundi,BI,BDI,Muramvya,admin,5458.0,1108007544
+Bururi,Bururi,-3.95,29.6167,Burundi,BI,BDI,Bururi,admin,4478.0,1108963889
+Cankuzo,Cankuzo,-3.2194,30.5528,Burundi,BI,BDI,Cankuzo,admin,3624.0,1108631099
+Isale,Isale,-3.3444,29.4833,Burundi,BI,BDI,Bujumbura Rural,admin,,1108407022
+Bujumbura,Bujumbura,-3.3833,29.3667,Burundi,BI,BDI,Bujumbura Mairie,primary,1143202.0,1108101689
+Gitega,Gitega,-3.4283,29.925,Burundi,BI,BDI,Gitega,primary,135467.0,1108778000
+Ngozi,Ngozi,-2.9083,29.8269,Burundi,BI,BDI,Ngozi,admin,39884.0,1108753930
+Rumonge,Rumonge,-3.9667,29.4333,Burundi,BI,BDI,Rumonge,admin,35931.0,1108641885
+Zanandore,Zanandore,-3.25,30.1167,Burundi,BI,BDI,Karuzi,,27867.0,1108745202
+Cibitoke,Cibitoke,-2.8886,29.12,Burundi,BI,BDI,Cibitoke,admin,23885.0,1108176356
+Gitega,Gitega,-3.426,29.8436,Burundi,BI,BDI,Mwaro,,23167.0,1108962433
+Kayanza,Kayanza,-2.9167,29.6167,Burundi,BI,BDI,Kayanza,admin,21767.0,1108413426
+Bubanza,Bubanza,-3.0833,29.4,Burundi,BI,BDI,Bubanza,admin,20031.0,1108018348
+Gatumba,Gatumba,-3.3333,29.25,Burundi,BI,BDI,Bujumbura Rural,,11700.0,1108258446
+Karuzi,Karuzi,-3.1,30.1667,Burundi,BI,BDI,Karuzi,admin,10317.0,1108619045
+Kirundo,Kirundo,-2.59,30.09,Burundi,BI,BDI,Kirundo,admin,10024.0,1108527579
+Muyinga,Muyinga,-2.85,30.3333,Burundi,BI,BDI,Muyinga,admin,9609.0,1108466781
+Makamba,Makamba,-4.1333,29.8,Burundi,BI,BDI,Makamba,admin,9396.0,1108520771
+Ruyigi,Ruyigi,-3.4833,30.25,Burundi,BI,BDI,Ruyigi,admin,7139.0,1108406902
+Rutana,Rutana,-3.9167,30.0,Burundi,BI,BDI,Rutana,admin,5865.0,1108441253
+Muramvya,Muramvya,-3.25,29.6,Burundi,BI,BDI,Muramvya,admin,5458.0,1108007544
+Bururi,Bururi,-3.95,29.6167,Burundi,BI,BDI,Bururi,admin,4478.0,1108963889
+Cankuzo,Cankuzo,-3.2194,30.5528,Burundi,BI,BDI,Cankuzo,admin,3624.0,1108631099
+Isale,Isale,-3.3444,29.4833,Burundi,BI,BDI,Bujumbura Rural,admin,,1108407022

@@ -1,0 +1,51 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Podgorica,Podgorica,42.4414,19.2628,Montenegro,ME,MNE,Podgorica,primary,173024.0,1499454516
+Nikšić,Niksic,42.7778,18.95,Montenegro,ME,MNE,Nikšić,admin,32846.0,1499844133
+Ulcinj,Ulcinj,41.92,19.2,Montenegro,ME,MNE,Ulcinj,admin,19921.0,1499867182
+Herceg Novi,Herceg Novi,42.453,18.5312,Montenegro,ME,MNE,Herceg Novi,admin,19536.0,1499673791
+Pljevlja,Pljevlja,43.3567,19.3583,Montenegro,ME,MNE,Pljevlja,admin,19136.0,1499255431
+Budva,Budva,42.2881,18.8425,Montenegro,ME,MNE,Budva,admin,17479.0,1499564238
+Bar,Bar,42.1,19.1,Montenegro,ME,MNE,Bar,admin,15868.0,1499197266
+Plav,Plav,42.6,19.94,Montenegro,ME,MNE,Plav,admin,13805.0,1499247875
+Rožaje,Rozaje,42.84,20.16,Montenegro,ME,MNE,Rožaje,admin,13608.0,1499854307
+Kotor,Kotor,42.43,18.77,Montenegro,ME,MNE,Kotor,admin,13347.0,1499573612
+Bijelo Polje,Bijelo Polje,43.04,19.75,Montenegro,ME,MNE,Bijelo Polje,admin,12900.0,1499452756
+Cetinje,Cetinje,42.38,18.92,Montenegro,ME,MNE,Cetinje,admin,12460.0,1499733751
+Berane,Berane,42.84,19.86,Montenegro,ME,MNE,Berane,admin,11073.0,1499204492
+Tivat,Tivat,42.43,18.7,Montenegro,ME,MNE,Tivat,admin,9367.0,1499952005
+Petnjica,Petnjica,42.9089,19.9644,Montenegro,ME,MNE,Petnjica,admin,5482.0,1499532482
+Danilovgrad,Danilovgrad,42.61,19.05,Montenegro,ME,MNE,Danilovgrad,admin,5156.0,1499538261
+Tuzi,Tuzi,42.3656,19.3314,Montenegro,ME,MNE,Tuzi,admin,4748.0,1499325970
+Mojkovac,Mojkovac,42.96,19.58,Montenegro,ME,MNE,Mojkovac,admin,3590.0,1499103009
+Golubovci,Golubovci,42.3344,19.2253,Montenegro,ME,MNE,Zeta,admin,3110.0,1499735056
+Kolašin,Kolasin,42.8236,19.5225,Montenegro,ME,MNE,Kolašin,admin,2725.0,1499083772
+Žabljak,Zabljak,43.155,19.1208,Montenegro,ME,MNE,Žabljak,admin,1937.0,1499125825
+Gusinje,Gusinje,42.5619,19.8339,Montenegro,ME,MNE,Gusinje,admin,1673.0,1499342041
+Plužine,Pluzine,43.15,18.83,Montenegro,ME,MNE,Plužine,admin,1102.0,1499719205
+Andrijevica,Andrijevica,42.73,19.79,Montenegro,ME,MNE,Andrijevica,admin,1048.0,1499379378
+Šavnik,Savnik,42.95,19.1,Montenegro,ME,MNE,Šavnik,admin,364.0,1499140506
+Podgorica,Podgorica,42.4414,19.2628,Montenegro,ME,MNE,Podgorica,primary,173024.0,1499454516
+Nikšić,Niksic,42.7778,18.95,Montenegro,ME,MNE,Nikšić,admin,32846.0,1499844133
+Ulcinj,Ulcinj,41.92,19.2,Montenegro,ME,MNE,Ulcinj,admin,19921.0,1499867182
+Herceg Novi,Herceg Novi,42.453,18.5312,Montenegro,ME,MNE,Herceg Novi,admin,19536.0,1499673791
+Pljevlja,Pljevlja,43.3567,19.3583,Montenegro,ME,MNE,Pljevlja,admin,19136.0,1499255431
+Budva,Budva,42.2881,18.8425,Montenegro,ME,MNE,Budva,admin,17479.0,1499564238
+Bar,Bar,42.1,19.1,Montenegro,ME,MNE,Bar,admin,15868.0,1499197266
+Plav,Plav,42.6,19.94,Montenegro,ME,MNE,Plav,admin,13805.0,1499247875
+Rožaje,Rozaje,42.84,20.16,Montenegro,ME,MNE,Rožaje,admin,13608.0,1499854307
+Kotor,Kotor,42.43,18.77,Montenegro,ME,MNE,Kotor,admin,13347.0,1499573612
+Bijelo Polje,Bijelo Polje,43.04,19.75,Montenegro,ME,MNE,Bijelo Polje,admin,12900.0,1499452756
+Cetinje,Cetinje,42.38,18.92,Montenegro,ME,MNE,Cetinje,admin,12460.0,1499733751
+Berane,Berane,42.84,19.86,Montenegro,ME,MNE,Berane,admin,11073.0,1499204492
+Tivat,Tivat,42.43,18.7,Montenegro,ME,MNE,Tivat,admin,9367.0,1499952005
+Petnjica,Petnjica,42.9089,19.9644,Montenegro,ME,MNE,Petnjica,admin,5482.0,1499532482
+Danilovgrad,Danilovgrad,42.61,19.05,Montenegro,ME,MNE,Danilovgrad,admin,5156.0,1499538261
+Tuzi,Tuzi,42.3656,19.3314,Montenegro,ME,MNE,Tuzi,admin,4748.0,1499325970
+Mojkovac,Mojkovac,42.96,19.58,Montenegro,ME,MNE,Mojkovac,admin,3590.0,1499103009
+Golubovci,Golubovci,42.3344,19.2253,Montenegro,ME,MNE,Zeta,admin,3110.0,1499735056
+Kolašin,Kolasin,42.8236,19.5225,Montenegro,ME,MNE,Kolašin,admin,2725.0,1499083772
+Žabljak,Zabljak,43.155,19.1208,Montenegro,ME,MNE,Žabljak,admin,1937.0,1499125825
+Gusinje,Gusinje,42.5619,19.8339,Montenegro,ME,MNE,Gusinje,admin,1673.0,1499342041
+Plužine,Pluzine,43.15,18.83,Montenegro,ME,MNE,Plužine,admin,1102.0,1499719205
+Andrijevica,Andrijevica,42.73,19.79,Montenegro,ME,MNE,Andrijevica,admin,1048.0,1499379378
+Šavnik,Savnik,42.95,19.1,Montenegro,ME,MNE,Šavnik,admin,364.0,1499140506

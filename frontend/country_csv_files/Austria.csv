@@ -1,0 +1,207 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Vienna,Vienna,48.2083,16.3725,Austria,AT,AUT,Wien,primary,2223236.0,1040261752
+Graz,Graz,47.0708,15.4386,Austria,AT,AUT,Steiermark,admin,292630.0,1040184559
+Linz,Linz,48.3058,14.2864,Austria,AT,AUT,Oberösterreich,admin,210165.0,1040261171
+Lochau,Lochau,47.5167,9.75,Austria,AT,AUT,Vorarlberg,,200000.0,1040573398
+Salzburg,Salzburg,47.8,13.045,Austria,AT,AUT,Salzburg,admin,155021.0,1040312147
+Innsbruck,Innsbruck,47.2683,11.3933,Austria,AT,AUT,Tirol,admin,130585.0,1040038924
+Klagenfurt,Klagenfurt,46.6167,14.3,Austria,AT,AUT,Kärnten,admin,101403.0,1040149651
+Villach,Villach,46.6167,13.85,Austria,AT,AUT,Kärnten,minor,65127.0,1040202364
+Wels,Wels,48.15,14.0167,Austria,AT,AUT,Oberösterreich,minor,61233.0,1040833210
+Sankt Pölten,Sankt Polten,48.2,15.6167,Austria,AT,AUT,Niederösterreich,admin,55514.0,1040313109
+Krems an der Donau,Krems an der Donau,48.4167,15.6167,Austria,AT,AUT,Niederösterreich,minor,50000.0,1040577668
+Dornbirn,Dornbirn,47.4139,9.7444,Austria,AT,AUT,Vorarlberg,minor,48067.0,1040508998
+Wiener Neustadt,Wiener Neustadt,47.8167,16.25,Austria,AT,AUT,Niederösterreich,minor,44461.0,1040389518
+Steyr,Steyr,48.0333,14.4167,Austria,AT,AUT,Oberösterreich,minor,38331.0,1040132113
+Bregenz,Bregenz,47.505,9.7492,Austria,AT,AUT,Vorarlberg,admin,29620.0,1040174258
+Leonding,Leonding,48.2667,14.25,Austria,AT,AUT,Oberösterreich,,28698.0,1040991026
+Klosterneuburg,Klosterneuburg,48.3042,16.3167,Austria,AT,AUT,Niederösterreich,minor,27058.0,1040735965
+Baden,Baden,48.0075,16.2344,Austria,AT,AUT,Niederösterreich,minor,26286.0,1040765350
+Wolfsberg,Wolfsberg,46.85,14.8333,Austria,AT,AUT,Kärnten,minor,25035.0,1040360550
+Leoben,Leoben,47.3817,15.0972,Austria,AT,AUT,Steiermark,minor,24645.0,1040591429
+Traun,Traun,48.2217,14.2397,Austria,AT,AUT,Oberösterreich,,24477.0,1040684469
+Lustenau,Lustenau,47.4297,9.6597,Austria,AT,AUT,Vorarlberg,,23579.0,1040745157
+Amstetten,Amstetten,48.1167,14.8667,Austria,AT,AUT,Niederösterreich,minor,23569.0,1040466200
+Kapfenberg,Kapfenberg,47.4333,15.2833,Austria,AT,AUT,Steiermark,,22798.0,1040864298
+Hallein,Hallein,47.6831,13.0969,Austria,AT,AUT,Salzburg,minor,21150.0,1040821146
+Mödling,Modling,48.0833,16.2667,Austria,AT,AUT,Niederösterreich,minor,20555.0,1040024396
+Kufstein,Kufstein,47.5833,12.1667,Austria,AT,AUT,Tirol,minor,19126.0,1040156374
+Traiskirchen,Traiskirchen,48.0167,16.3,Austria,AT,AUT,Niederösterreich,,18858.0,1040581289
+Schwechat,Schwechat,48.1411,16.4786,Austria,AT,AUT,Niederösterreich,,18026.0,1040189871
+Braunau am Inn,Braunau am Inn,48.2583,13.035,Austria,AT,AUT,Oberösterreich,minor,17095.0,1040852989
+Hohenems,Hohenems,47.3667,9.6667,Austria,AT,AUT,Vorarlberg,,16946.0,1040845678
+Stockerau,Stockerau,48.3833,16.2167,Austria,AT,AUT,Niederösterreich,,16916.0,1040718812
+Saalfelden am Steinernen Meer,Saalfelden am Steinernen Meer,47.4269,12.8483,Austria,AT,AUT,Salzburg,,16700.0,1040716716
+Ansfelden,Ansfelden,48.2083,14.2889,Austria,AT,AUT,Oberösterreich,,16194.0,1040496902
+Telfs,Telfs,47.2833,11.0667,Austria,AT,AUT,Tirol,,16046.0,1040393855
+Bruck an der Mur,Bruck an der Mur,47.4167,15.2667,Austria,AT,AUT,Steiermark,minor,15837.0,1040863751
+Spittal an der Drau,Spittal an der Drau,46.7833,13.4833,Austria,AT,AUT,Kärnten,minor,15413.0,1040131621
+Perchtoldsdorf,Perchtoldsdorf,48.1167,16.2667,Austria,AT,AUT,Niederösterreich,,15047.0,1040055191
+Bludenz,Bludenz,47.1333,9.8167,Austria,AT,AUT,Vorarlberg,minor,14956.0,1040404083
+Ternitz,Ternitz,47.7167,16.0333,Austria,AT,AUT,Niederösterreich,,14632.0,1040196639
+Eisenstadt,Eisenstadt,47.85,16.5167,Austria,AT,AUT,Burgenland,admin,14476.0,1040751740
+Feldkirchen,Feldkirchen,46.7167,14.1,Austria,AT,AUT,Kärnten,minor,14198.0,1040318480
+Bad Ischl,Bad Ischl,47.7203,13.6333,Austria,AT,AUT,Oberösterreich,,14133.0,1040620508
+Hall in Tirol,Hall in Tirol,47.2833,11.5,Austria,AT,AUT,Tirol,,13897.0,1040200365
+Wörgl,Worgl,47.4833,12.0667,Austria,AT,AUT,Tirol,,13811.0,1040228921
+Schwaz,Schwaz,47.35,11.7,Austria,AT,AUT,Tirol,minor,13810.0,1040919527
+Marchtrenk,Marchtrenk,48.1917,14.1106,Austria,AT,AUT,Oberösterreich,,13603.0,1040791234
+Hard,Hard,47.4667,9.6667,Austria,AT,AUT,Vorarlberg,,13495.0,1040681347
+Feldbach,Feldbach,46.95,15.8833,Austria,AT,AUT,Steiermark,minor,13369.0,1040342228
+Gmunden,Gmunden,47.9181,13.7994,Austria,AT,AUT,Oberösterreich,minor,13191.0,1040670341
+Leibnitz,Leibnitz,46.7831,15.545,Austria,AT,AUT,Steiermark,minor,13014.0,1040580132
+Korneuburg,Korneuburg,48.3453,16.3331,Austria,AT,AUT,Niederösterreich,minor,12986.0,1040595988
+Neunkirchen,Neunkirchen,47.7333,16.0833,Austria,AT,AUT,Niederösterreich,minor,12879.0,1040203057
+Knittelfeld,Knittelfeld,47.215,14.8294,Austria,AT,AUT,Steiermark,,12626.0,1040186382
+Sankt Veit an der Glan,Sankt Veit an der Glan,46.7667,14.3667,Austria,AT,AUT,Kärnten,minor,12547.0,1040281881
+Vöcklabruck,Vocklabruck,48.0086,13.6558,Austria,AT,AUT,Oberösterreich,minor,12299.0,1040721177
+Enns,Enns,48.2167,14.475,Austria,AT,AUT,Oberösterreich,,11937.0,1040630607
+Lienz,Lienz,46.8297,12.7697,Austria,AT,AUT,Tirol,minor,11935.0,1040923905
+Ried im Innkreis,Ried im Innkreis,48.21,13.4894,Austria,AT,AUT,Oberösterreich,minor,11903.0,1040700214
+Brunn am Gebirge,Brunn am Gebirge,48.1,16.2833,Austria,AT,AUT,Niederösterreich,,11864.0,1040836072
+Rankweil,Rankweil,47.2667,9.65,Austria,AT,AUT,Vorarlberg,,11855.0,1040449499
+Bad Vöslau,Bad Voslau,47.9667,16.2167,Austria,AT,AUT,Niederösterreich,,11844.0,1040153986
+Groß-Enzersdorf,Gross-Enzersdorf,48.2,16.55,Austria,AT,AUT,Niederösterreich,,11817.0,1040341836
+Deutschlandsberg,Deutschlandsberg,46.8161,15.215,Austria,AT,AUT,Steiermark,minor,11721.0,1040677286
+Hollabrunn,Hollabrunn,48.5667,16.1,Austria,AT,AUT,Niederösterreich,minor,11681.0,1040573324
+Weiz,Weiz,47.2169,15.6331,Austria,AT,AUT,Steiermark,minor,11627.0,1040504116
+Mistelbach,Mistelbach,48.5667,16.5667,Austria,AT,AUT,Niederösterreich,minor,11559.0,1040942506
+Götzis,Gotzis,47.3331,9.6333,Austria,AT,AUT,Vorarlberg,,11473.0,1040768534
+Gänserndorf,Ganserndorf,48.3406,16.7175,Austria,AT,AUT,Niederösterreich,minor,11404.0,1040375279
+Waidhofen an der Ybbs,Waidhofen an der Ybbs,47.9667,14.7667,Austria,AT,AUT,Niederösterreich,,11333.0,1040615361
+Sankt Johann im Pongau,Sankt Johann im Pongau,47.35,13.2,Austria,AT,AUT,Salzburg,minor,11235.0,1040330095
+Gerasdorf bei Wien,Gerasdorf bei Wien,48.295,16.4675,Austria,AT,AUT,Niederösterreich,,11155.0,1040814671
+Trofaiach,Trofaiach,47.426,15.0067,Austria,AT,AUT,Steiermark,,11125.0,1040300354
+Völkermarkt,Volkermarkt,46.6667,14.6333,Austria,AT,AUT,Kärnten,minor,10946.0,1040264683
+Ebreichsdorf,Ebreichsdorf,47.9667,16.4,Austria,AT,AUT,Niederösterreich,,10942.0,1040140481
+Gleisdorf,Gleisdorf,47.1039,15.7083,Austria,AT,AUT,Steiermark,,10763.0,1040059456
+Zwettl,Zwettl,48.6033,15.1689,Austria,AT,AUT,Niederösterreich,minor,10722.0,1040676174
+Bischofshofen,Bischofshofen,47.4172,13.2194,Austria,AT,AUT,Salzburg,,10540.0,1040799035
+Imst,Imst,47.2394,10.7381,Austria,AT,AUT,Tirol,minor,10504.0,1040504243
+Lauterach,Lauterach,47.4772,9.7314,Austria,AT,AUT,Vorarlberg,,10028.0,1040609359
+Strasshof an der Nordbahn,Strasshof an der Nordbahn,48.3194,16.6475,Austria,AT,AUT,Niederösterreich,,10009.0,1040365922
+Judenburg,Judenburg,47.1725,14.6603,Austria,AT,AUT,Steiermark,minor,9960.0,1040723538
+Sankt Andrä,Sankt Andra,46.7667,14.8167,Austria,AT,AUT,Kärnten,,9957.0,1040740376
+Köflach,Koflach,47.0667,15.0833,Austria,AT,AUT,Steiermark,,9888.0,1040578038
+Laakirchen,Laakirchen,47.9828,13.8242,Austria,AT,AUT,Oberösterreich,,9861.0,1040055619
+Altmünster,Altmunster,47.9014,13.7514,Austria,AT,AUT,Oberösterreich,,9793.0,1040325018
+Zell am See,Zell am See,47.3167,12.8,Austria,AT,AUT,Salzburg,minor,9762.0,1040352901
+Sankt Johann in Tirol,Sankt Johann in Tirol,47.5225,12.4256,Austria,AT,AUT,Tirol,,9750.0,1040232004
+Purkersdorf,Purkersdorf,48.2092,16.1792,Austria,AT,AUT,Niederösterreich,,9701.0,1040636796
+Wiener Neudorf,Wiener Neudorf,48.0833,16.3167,Austria,AT,AUT,Niederösterreich,,9433.0,1040799859
+Voitsberg,Voitsberg,47.0333,15.15,Austria,AT,AUT,Steiermark,minor,9403.0,1040639919
+Sierning,Sierning,48.0447,14.31,Austria,AT,AUT,Oberösterreich,,9371.0,1040285076
+Sankt Valentin,Sankt Valentin,48.1667,14.5333,Austria,AT,AUT,Niederösterreich,,9340.0,1040852174
+Rum,Rum,47.2872,11.4581,Austria,AT,AUT,Tirol,,9337.0,1040726454
+Guntramsdorf,Guntramsdorf,48.05,16.3167,Austria,AT,AUT,Niederösterreich,,9179.0,1040104912
+Berndorf,Berndorf,47.9428,16.1036,Austria,AT,AUT,Niederösterreich,,9064.0,1040660595
+Velden am Wörthersee,Velden am Worthersee,46.6,14.0333,Austria,AT,AUT,Kärnten,,8952.0,1040535411
+Attnang-Puchheim,Attnang-Puchheim,48.0167,13.7197,Austria,AT,AUT,Oberösterreich,,8944.0,1040023749
+Maria Enzersdorf,Maria Enzersdorf,48.1,16.2833,Austria,AT,AUT,Niederösterreich,,8829.0,1040889264
+Engerwitzdorf,Engerwitzdorf,48.3397,14.4256,Austria,AT,AUT,Oberösterreich,,8790.0,1040013380
+Stainz,Stainz,46.8833,15.2667,Austria,AT,AUT,Steiermark,,8686.0,1040766288
+Deutsch-Wagram,Deutsch-Wagram,48.3,16.5667,Austria,AT,AUT,Niederösterreich,,8651.0,1040363748
+Fürstenfeld,Furstenfeld,47.05,16.0833,Austria,AT,AUT,Steiermark,,8549.0,1040284464
+Vienna,Vienna,48.2083,16.3725,Austria,AT,AUT,Wien,primary,2223236.0,1040261752
+Graz,Graz,47.0708,15.4386,Austria,AT,AUT,Steiermark,admin,292630.0,1040184559
+Linz,Linz,48.3058,14.2864,Austria,AT,AUT,Oberösterreich,admin,210165.0,1040261171
+Lochau,Lochau,47.5167,9.75,Austria,AT,AUT,Vorarlberg,,200000.0,1040573398
+Salzburg,Salzburg,47.8,13.045,Austria,AT,AUT,Salzburg,admin,155021.0,1040312147
+Innsbruck,Innsbruck,47.2683,11.3933,Austria,AT,AUT,Tirol,admin,130585.0,1040038924
+Klagenfurt,Klagenfurt,46.6167,14.3,Austria,AT,AUT,Kärnten,admin,101403.0,1040149651
+Villach,Villach,46.6167,13.85,Austria,AT,AUT,Kärnten,minor,65127.0,1040202364
+Wels,Wels,48.15,14.0167,Austria,AT,AUT,Oberösterreich,minor,61233.0,1040833210
+Sankt Pölten,Sankt Polten,48.2,15.6167,Austria,AT,AUT,Niederösterreich,admin,55514.0,1040313109
+Krems an der Donau,Krems an der Donau,48.4167,15.6167,Austria,AT,AUT,Niederösterreich,minor,50000.0,1040577668
+Dornbirn,Dornbirn,47.4139,9.7444,Austria,AT,AUT,Vorarlberg,minor,48067.0,1040508998
+Wiener Neustadt,Wiener Neustadt,47.8167,16.25,Austria,AT,AUT,Niederösterreich,minor,44461.0,1040389518
+Steyr,Steyr,48.0333,14.4167,Austria,AT,AUT,Oberösterreich,minor,38331.0,1040132113
+Bregenz,Bregenz,47.505,9.7492,Austria,AT,AUT,Vorarlberg,admin,29620.0,1040174258
+Leonding,Leonding,48.2667,14.25,Austria,AT,AUT,Oberösterreich,,28698.0,1040991026
+Klosterneuburg,Klosterneuburg,48.3042,16.3167,Austria,AT,AUT,Niederösterreich,minor,27058.0,1040735965
+Baden,Baden,48.0075,16.2344,Austria,AT,AUT,Niederösterreich,minor,26286.0,1040765350
+Wolfsberg,Wolfsberg,46.85,14.8333,Austria,AT,AUT,Kärnten,minor,25035.0,1040360550
+Leoben,Leoben,47.3817,15.0972,Austria,AT,AUT,Steiermark,minor,24645.0,1040591429
+Traun,Traun,48.2217,14.2397,Austria,AT,AUT,Oberösterreich,,24477.0,1040684469
+Lustenau,Lustenau,47.4297,9.6597,Austria,AT,AUT,Vorarlberg,,23579.0,1040745157
+Amstetten,Amstetten,48.1167,14.8667,Austria,AT,AUT,Niederösterreich,minor,23569.0,1040466200
+Kapfenberg,Kapfenberg,47.4333,15.2833,Austria,AT,AUT,Steiermark,,22798.0,1040864298
+Hallein,Hallein,47.6831,13.0969,Austria,AT,AUT,Salzburg,minor,21150.0,1040821146
+Mödling,Modling,48.0833,16.2667,Austria,AT,AUT,Niederösterreich,minor,20555.0,1040024396
+Kufstein,Kufstein,47.5833,12.1667,Austria,AT,AUT,Tirol,minor,19126.0,1040156374
+Traiskirchen,Traiskirchen,48.0167,16.3,Austria,AT,AUT,Niederösterreich,,18858.0,1040581289
+Schwechat,Schwechat,48.1411,16.4786,Austria,AT,AUT,Niederösterreich,,18026.0,1040189871
+Braunau am Inn,Braunau am Inn,48.2583,13.035,Austria,AT,AUT,Oberösterreich,minor,17095.0,1040852989
+Hohenems,Hohenems,47.3667,9.6667,Austria,AT,AUT,Vorarlberg,,16946.0,1040845678
+Stockerau,Stockerau,48.3833,16.2167,Austria,AT,AUT,Niederösterreich,,16916.0,1040718812
+Saalfelden am Steinernen Meer,Saalfelden am Steinernen Meer,47.4269,12.8483,Austria,AT,AUT,Salzburg,,16700.0,1040716716
+Ansfelden,Ansfelden,48.2083,14.2889,Austria,AT,AUT,Oberösterreich,,16194.0,1040496902
+Telfs,Telfs,47.2833,11.0667,Austria,AT,AUT,Tirol,,16046.0,1040393855
+Bruck an der Mur,Bruck an der Mur,47.4167,15.2667,Austria,AT,AUT,Steiermark,minor,15837.0,1040863751
+Spittal an der Drau,Spittal an der Drau,46.7833,13.4833,Austria,AT,AUT,Kärnten,minor,15413.0,1040131621
+Perchtoldsdorf,Perchtoldsdorf,48.1167,16.2667,Austria,AT,AUT,Niederösterreich,,15047.0,1040055191
+Bludenz,Bludenz,47.1333,9.8167,Austria,AT,AUT,Vorarlberg,minor,14956.0,1040404083
+Ternitz,Ternitz,47.7167,16.0333,Austria,AT,AUT,Niederösterreich,,14632.0,1040196639
+Eisenstadt,Eisenstadt,47.85,16.5167,Austria,AT,AUT,Burgenland,admin,14476.0,1040751740
+Feldkirchen,Feldkirchen,46.7167,14.1,Austria,AT,AUT,Kärnten,minor,14198.0,1040318480
+Bad Ischl,Bad Ischl,47.7203,13.6333,Austria,AT,AUT,Oberösterreich,,14133.0,1040620508
+Hall in Tirol,Hall in Tirol,47.2833,11.5,Austria,AT,AUT,Tirol,,13897.0,1040200365
+Wörgl,Worgl,47.4833,12.0667,Austria,AT,AUT,Tirol,,13811.0,1040228921
+Schwaz,Schwaz,47.35,11.7,Austria,AT,AUT,Tirol,minor,13810.0,1040919527
+Marchtrenk,Marchtrenk,48.1917,14.1106,Austria,AT,AUT,Oberösterreich,,13603.0,1040791234
+Hard,Hard,47.4667,9.6667,Austria,AT,AUT,Vorarlberg,,13495.0,1040681347
+Feldbach,Feldbach,46.95,15.8833,Austria,AT,AUT,Steiermark,minor,13369.0,1040342228
+Gmunden,Gmunden,47.9181,13.7994,Austria,AT,AUT,Oberösterreich,minor,13191.0,1040670341
+Leibnitz,Leibnitz,46.7831,15.545,Austria,AT,AUT,Steiermark,minor,13014.0,1040580132
+Korneuburg,Korneuburg,48.3453,16.3331,Austria,AT,AUT,Niederösterreich,minor,12986.0,1040595988
+Neunkirchen,Neunkirchen,47.7333,16.0833,Austria,AT,AUT,Niederösterreich,minor,12879.0,1040203057
+Knittelfeld,Knittelfeld,47.215,14.8294,Austria,AT,AUT,Steiermark,,12626.0,1040186382
+Sankt Veit an der Glan,Sankt Veit an der Glan,46.7667,14.3667,Austria,AT,AUT,Kärnten,minor,12547.0,1040281881
+Vöcklabruck,Vocklabruck,48.0086,13.6558,Austria,AT,AUT,Oberösterreich,minor,12299.0,1040721177
+Enns,Enns,48.2167,14.475,Austria,AT,AUT,Oberösterreich,,11937.0,1040630607
+Lienz,Lienz,46.8297,12.7697,Austria,AT,AUT,Tirol,minor,11935.0,1040923905
+Ried im Innkreis,Ried im Innkreis,48.21,13.4894,Austria,AT,AUT,Oberösterreich,minor,11903.0,1040700214
+Brunn am Gebirge,Brunn am Gebirge,48.1,16.2833,Austria,AT,AUT,Niederösterreich,,11864.0,1040836072
+Rankweil,Rankweil,47.2667,9.65,Austria,AT,AUT,Vorarlberg,,11855.0,1040449499
+Bad Vöslau,Bad Voslau,47.9667,16.2167,Austria,AT,AUT,Niederösterreich,,11844.0,1040153986
+Groß-Enzersdorf,Gross-Enzersdorf,48.2,16.55,Austria,AT,AUT,Niederösterreich,,11817.0,1040341836
+Deutschlandsberg,Deutschlandsberg,46.8161,15.215,Austria,AT,AUT,Steiermark,minor,11721.0,1040677286
+Hollabrunn,Hollabrunn,48.5667,16.1,Austria,AT,AUT,Niederösterreich,minor,11681.0,1040573324
+Weiz,Weiz,47.2169,15.6331,Austria,AT,AUT,Steiermark,minor,11627.0,1040504116
+Mistelbach,Mistelbach,48.5667,16.5667,Austria,AT,AUT,Niederösterreich,minor,11559.0,1040942506
+Götzis,Gotzis,47.3331,9.6333,Austria,AT,AUT,Vorarlberg,,11473.0,1040768534
+Gänserndorf,Ganserndorf,48.3406,16.7175,Austria,AT,AUT,Niederösterreich,minor,11404.0,1040375279
+Waidhofen an der Ybbs,Waidhofen an der Ybbs,47.9667,14.7667,Austria,AT,AUT,Niederösterreich,,11333.0,1040615361
+Sankt Johann im Pongau,Sankt Johann im Pongau,47.35,13.2,Austria,AT,AUT,Salzburg,minor,11235.0,1040330095
+Gerasdorf bei Wien,Gerasdorf bei Wien,48.295,16.4675,Austria,AT,AUT,Niederösterreich,,11155.0,1040814671
+Trofaiach,Trofaiach,47.426,15.0067,Austria,AT,AUT,Steiermark,,11125.0,1040300354
+Völkermarkt,Volkermarkt,46.6667,14.6333,Austria,AT,AUT,Kärnten,minor,10946.0,1040264683
+Ebreichsdorf,Ebreichsdorf,47.9667,16.4,Austria,AT,AUT,Niederösterreich,,10942.0,1040140481
+Gleisdorf,Gleisdorf,47.1039,15.7083,Austria,AT,AUT,Steiermark,,10763.0,1040059456
+Zwettl,Zwettl,48.6033,15.1689,Austria,AT,AUT,Niederösterreich,minor,10722.0,1040676174
+Bischofshofen,Bischofshofen,47.4172,13.2194,Austria,AT,AUT,Salzburg,,10540.0,1040799035
+Imst,Imst,47.2394,10.7381,Austria,AT,AUT,Tirol,minor,10504.0,1040504243
+Lauterach,Lauterach,47.4772,9.7314,Austria,AT,AUT,Vorarlberg,,10028.0,1040609359
+Strasshof an der Nordbahn,Strasshof an der Nordbahn,48.3194,16.6475,Austria,AT,AUT,Niederösterreich,,10009.0,1040365922
+Judenburg,Judenburg,47.1725,14.6603,Austria,AT,AUT,Steiermark,minor,9960.0,1040723538
+Sankt Andrä,Sankt Andra,46.7667,14.8167,Austria,AT,AUT,Kärnten,,9957.0,1040740376
+Köflach,Koflach,47.0667,15.0833,Austria,AT,AUT,Steiermark,,9888.0,1040578038
+Laakirchen,Laakirchen,47.9828,13.8242,Austria,AT,AUT,Oberösterreich,,9861.0,1040055619
+Altmünster,Altmunster,47.9014,13.7514,Austria,AT,AUT,Oberösterreich,,9793.0,1040325018
+Zell am See,Zell am See,47.3167,12.8,Austria,AT,AUT,Salzburg,minor,9762.0,1040352901
+Sankt Johann in Tirol,Sankt Johann in Tirol,47.5225,12.4256,Austria,AT,AUT,Tirol,,9750.0,1040232004
+Purkersdorf,Purkersdorf,48.2092,16.1792,Austria,AT,AUT,Niederösterreich,,9701.0,1040636796
+Wiener Neudorf,Wiener Neudorf,48.0833,16.3167,Austria,AT,AUT,Niederösterreich,,9433.0,1040799859
+Voitsberg,Voitsberg,47.0333,15.15,Austria,AT,AUT,Steiermark,minor,9403.0,1040639919
+Sierning,Sierning,48.0447,14.31,Austria,AT,AUT,Oberösterreich,,9371.0,1040285076
+Sankt Valentin,Sankt Valentin,48.1667,14.5333,Austria,AT,AUT,Niederösterreich,,9340.0,1040852174
+Rum,Rum,47.2872,11.4581,Austria,AT,AUT,Tirol,,9337.0,1040726454
+Guntramsdorf,Guntramsdorf,48.05,16.3167,Austria,AT,AUT,Niederösterreich,,9179.0,1040104912
+Berndorf,Berndorf,47.9428,16.1036,Austria,AT,AUT,Niederösterreich,,9064.0,1040660595
+Velden am Wörthersee,Velden am Worthersee,46.6,14.0333,Austria,AT,AUT,Kärnten,,8952.0,1040535411
+Attnang-Puchheim,Attnang-Puchheim,48.0167,13.7197,Austria,AT,AUT,Oberösterreich,,8944.0,1040023749
+Maria Enzersdorf,Maria Enzersdorf,48.1,16.2833,Austria,AT,AUT,Niederösterreich,,8829.0,1040889264
+Engerwitzdorf,Engerwitzdorf,48.3397,14.4256,Austria,AT,AUT,Oberösterreich,,8790.0,1040013380
+Stainz,Stainz,46.8833,15.2667,Austria,AT,AUT,Steiermark,,8686.0,1040766288
+Deutsch-Wagram,Deutsch-Wagram,48.3,16.5667,Austria,AT,AUT,Niederösterreich,,8651.0,1040363748
+Fürstenfeld,Furstenfeld,47.05,16.0833,Austria,AT,AUT,Steiermark,,8549.0,1040284464

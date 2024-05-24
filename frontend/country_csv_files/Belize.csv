@@ -1,0 +1,17 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Belize City,Belize City,17.4986,-88.1886,Belize,BZ,BLZ,Belize,admin,57169.0,1084150679
+San Ignacio,San Ignacio,17.1588,-89.0696,Belize,BZ,BLZ,Cayo,admin,26151.0,1084924884
+Belmopan,Belmopan,17.2514,-88.7669,Belize,BZ,BLZ,Cayo,primary,17222.0,1084586375
+Orange Walk,Orange Walk,18.075,-88.5583,Belize,BZ,BLZ,Orange Walk,admin,13750.0,1084547220
+Corozal,Corozal,18.4,-88.4,Belize,BZ,BLZ,Corozal,admin,13502.0,1084938400
+San Pedro,San Pedro,17.9214,-87.9611,Belize,BZ,BLZ,Belize,,11767.0,1084929106
+Dangriga,Dangriga,16.9667,-88.2167,Belize,BZ,BLZ,Stann Creek,admin,10217.0,1084718311
+Punta Gorda,Punta Gorda,16.1005,-88.8074,Belize,BZ,BLZ,Toledo,admin,5026.0,1084536442
+Belize City,Belize City,17.4986,-88.1886,Belize,BZ,BLZ,Belize,admin,57169.0,1084150679
+San Ignacio,San Ignacio,17.1588,-89.0696,Belize,BZ,BLZ,Cayo,admin,26151.0,1084924884
+Belmopan,Belmopan,17.2514,-88.7669,Belize,BZ,BLZ,Cayo,primary,17222.0,1084586375
+Orange Walk,Orange Walk,18.075,-88.5583,Belize,BZ,BLZ,Orange Walk,admin,13750.0,1084547220
+Corozal,Corozal,18.4,-88.4,Belize,BZ,BLZ,Corozal,admin,13502.0,1084938400
+San Pedro,San Pedro,17.9214,-87.9611,Belize,BZ,BLZ,Belize,,11767.0,1084929106
+Dangriga,Dangriga,16.9667,-88.2167,Belize,BZ,BLZ,Stann Creek,admin,10217.0,1084718311
+Punta Gorda,Punta Gorda,16.1005,-88.8074,Belize,BZ,BLZ,Toledo,admin,5026.0,1084536442

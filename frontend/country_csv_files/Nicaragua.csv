@@ -1,0 +1,239 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Managua,Managua,12.1364,-86.2514,Nicaragua,NI,NIC,Managua,primary,1051236.0,1558296252
+León,Leon,12.4333,-86.8867,Nicaragua,NI,NIC,León,admin,176171.0,1558654236
+Tipitapa,Tipitapa,12.2,-86.1,Nicaragua,NI,NIC,Managua,minor,147379.0,1558753915
+Masaya,Masaya,11.9667,-86.1,Nicaragua,NI,NIC,Masaya,admin,139582.0,1558765329
+Matagalpa,Matagalpa,12.9167,-85.9167,Nicaragua,NI,NIC,Matagalpa,admin,133416.0,1558728443
+Ciudad Sandino,Ciudad Sandino,12.1655,-86.3579,Nicaragua,NI,NIC,Managua,minor,127517.0,1558641363
+Chinandega,Chinandega,12.6167,-87.15,Nicaragua,NI,NIC,Chinandega,admin,121793.0,1558172276
+Estelí,Esteli,13.0833,-86.35,Nicaragua,NI,NIC,Estelí,admin,112084.0,1558801854
+Granada,Granada,11.9333,-85.95,Nicaragua,NI,NIC,Granada,admin,105862.0,1558101678
+Jinotega,Jinotega,13.0884,-85.9994,Nicaragua,NI,NIC,Jinotega,admin,99382.0,1558697688
+Bilwi,Bilwi,14.0281,-83.3808,Nicaragua,NI,NIC,Costa Caribe Norte,admin,84189.0,1558656214
+El Viejo,El Viejo,12.6667,-87.1667,Nicaragua,NI,NIC,Chinandega,minor,76775.0,1558770292
+Nueva Guinea,Nueva Guinea,11.6833,-84.45,Nicaragua,NI,NIC,Costa Caribe Sur,minor,66936.0,1558868719
+Siuna,Siuna,13.7333,-84.7667,Nicaragua,NI,NIC,Costa Caribe Norte,minor,64092.0,1558482501
+Mateare,Mateare,12.2333,-86.4333,Nicaragua,NI,NIC,Managua,minor,61234.0,1558569665
+Diriamba,Diriamba,11.85,-86.2333,Nicaragua,NI,NIC,Carazo,minor,57542.0,1558411169
+Wiwilí,Wiwili,13.6167,-85.8333,Nicaragua,NI,NIC,Nueva Segovia,minor,57485.0,1558766877
+Bluefields,Bluefields,12.0,-83.75,Nicaragua,NI,NIC,Costa Caribe Sur,admin,56005.0,1558301368
+Jalapa,Jalapa,13.9167,-86.1333,Nicaragua,NI,NIC,Nueva Segovia,minor,54491.0,1558183579
+Juigalpa,Juigalpa,12.1,-85.3667,Nicaragua,NI,NIC,Chontales,admin,53798.0,1558986603
+El Rama,El Rama,12.1615,-84.2203,Nicaragua,NI,NIC,Costa Caribe Sur,minor,52482.0,1558512996
+Boaco,Boaco,12.4667,-85.6667,Nicaragua,NI,NIC,Boaco,admin,49839.0,1558023610
+Mulukukú,Mulukuku,13.1503,-84.97,Nicaragua,NI,NIC,Costa Caribe Norte,minor,49339.0,1558000015
+Ocotal,Ocotal,13.6333,-86.4833,Nicaragua,NI,NIC,Nueva Segovia,admin,48765.0,1558006000
+Waspán,Waspan,14.7333,-83.9667,Nicaragua,NI,NIC,Costa Caribe Norte,minor,47231.0,1558840115
+Chichigalpa,Chichigalpa,12.5667,-87.0333,Nicaragua,NI,NIC,Chinandega,minor,44769.0,1558921284
+El Cuá,El Cua,13.3675,-85.6733,Nicaragua,NI,NIC,Jinotega,minor,43305.0,1558463653
+San Rafael del Sur,San Rafael del Sur,11.85,-86.45,Nicaragua,NI,NIC,Managua,minor,42417.0,1558570848
+Jinotepe,Jinotepe,11.85,-86.2,Nicaragua,NI,NIC,Carazo,admin,42109.0,1558246417
+San José de Bocay,San Jose de Bocay,13.5333,-85.5333,Nicaragua,NI,NIC,Jinotega,minor,42029.0,1558566609
+Matiguás,Matiguas,12.8333,-85.4667,Nicaragua,NI,NIC,Matagalpa,minor,41127.0,1558837403
+Rivas,Rivas,11.4393,-85.827,Nicaragua,NI,NIC,Rivas,admin,41080.0,1558146594
+Ciudad Darío,Ciudad Dario,12.7167,-86.1167,Nicaragua,NI,NIC,Matagalpa,minor,41014.0,1558651455
+Nindirí,Nindiri,12.0047,-86.1194,Nicaragua,NI,NIC,Masaya,minor,38355.0,1558216045
+San Carlos,San Carlos,11.1333,-84.7833,Nicaragua,NI,NIC,Río San Juan,admin,37461.0,1558170572
+Camoapa,Camoapa,12.3833,-85.5167,Nicaragua,NI,NIC,Boaco,minor,34962.0,1558644621
+Nandaime,Nandaime,11.75,-86.05,Nicaragua,NI,NIC,Granada,minor,34288.0,1558998589
+Somoto,Somoto,13.4833,-86.5833,Nicaragua,NI,NIC,Madriz,admin,33788.0,1558605178
+Nagarote,Nagarote,12.2667,-86.5667,Nicaragua,NI,NIC,León,minor,32303.0,1558005234
+Sébaco,Sebaco,12.85,-86.1,Nicaragua,NI,NIC,Matagalpa,minor,32221.0,1558662201
+La Concepción,La Concepcion,11.9333,-86.1833,Nicaragua,NI,NIC,Masaya,minor,31950.0,1558215738
+Bocana de Paiwas,Bocana de Paiwas,12.7861,-85.1231,Nicaragua,NI,NIC,Costa Caribe Sur,minor,31762.0,1558901000
+Masatepe,Masatepe,11.9167,-86.15,Nicaragua,NI,NIC,Masaya,minor,31583.0,1558293076
+Río Blanco,Rio Blanco,12.9333,-85.2167,Nicaragua,NI,NIC,Matagalpa,minor,30785.0,1558593583
+San Ramón,San Ramon,12.9167,-85.8333,Nicaragua,NI,NIC,Matagalpa,minor,30682.0,1558617224
+Waslala,Waslala,13.2333,-85.3833,Nicaragua,NI,NIC,Costa Caribe Norte,,29838.0,1558730387
+Somotillo,Somotillo,13.0333,-86.9167,Nicaragua,NI,NIC,Chinandega,minor,29030.0,1558936840
+San Marcos,San Marcos,11.9167,-86.2,Nicaragua,NI,NIC,Carazo,minor,29019.0,1558544498
+Condega,Condega,13.35,-86.4,Nicaragua,NI,NIC,Estelí,minor,28481.0,1558543389
+La Paz Centro,La Paz Centro,12.34,-86.6753,Nicaragua,NI,NIC,León,minor,28118.0,1558538095
+El Sauce,El Sauce,12.8833,-86.5333,Nicaragua,NI,NIC,León,minor,27900.0,1558542535
+Larreynaga,Larreynaga,12.6744,-86.5708,Nicaragua,NI,NIC,León,,27898.0,1558602365
+Villa El Carmen,Villa El Carmen,11.9833,-86.5167,Nicaragua,NI,NIC,Managua,minor,27449.0,1558217117
+Ticuantepe,Ticuantepe,12.0167,-86.2,Nicaragua,NI,NIC,Managua,minor,27008.0,1558748108
+San Sebastián de Yalí,San Sebastian de Yali,13.3,-86.1833,Nicaragua,NI,NIC,Jinotega,minor,26979.0,1558797659
+Quilalí,Quilali,13.5667,-86.0333,Nicaragua,NI,NIC,Nueva Segovia,minor,26461.0,1558890150
+Teustepe,Teustepe,12.4167,-85.8,Nicaragua,NI,NIC,Boaco,minor,26265.0,1558471999
+Rancho Grande,Rancho Grande,13.2536,-85.5528,Nicaragua,NI,NIC,Matagalpa,minor,26223.0,1558000014
+El Jícaro,El Jicaro,13.7167,-86.1333,Nicaragua,NI,NIC,Nueva Segovia,minor,25901.0,1558370447
+Villanueva,Villanueva,12.9636,-86.8147,Nicaragua,NI,NIC,Chinandega,minor,25660.0,1558614186
+San Lorenzo,San Lorenzo,12.3667,-85.6667,Nicaragua,NI,NIC,Boaco,minor,23666.0,1558007382
+La Cruz de Río Grande,La Cruz de Rio Grande,13.1167,-84.1833,Nicaragua,NI,NIC,Costa Caribe Sur,minor,23284.0,1558703104
+Telica,Telica,12.5167,-86.8667,Nicaragua,NI,NIC,León,minor,23266.0,1558515596
+Rosita,Rosita,13.8833,-84.4,Nicaragua,NI,NIC,Costa Caribe Norte,minor,22723.0,1558197649
+La Trinidad,La Trinidad,12.5578,-86.1835,Nicaragua,NI,NIC,Managua,,22645.0,1558209065
+Diriomo,Diriomo,11.8667,-86.05,Nicaragua,NI,NIC,Granada,minor,22352.0,1558287966
+El Tortuguero,El Tortuguero,12.8167,-84.2,Nicaragua,NI,NIC,Costa Caribe Sur,minor,22324.0,1558390224
+Muelle de los Bueyes,Muelle de los Bueyes,12.0667,-84.5333,Nicaragua,NI,NIC,Costa Caribe Sur,minor,22082.0,1558837878
+Tola,Tola,11.4333,-85.9333,Nicaragua,NI,NIC,Rivas,minor,22012.0,1558491249
+San Juan de Río Coco,San Juan de Rio Coco,13.55,-86.1667,Nicaragua,NI,NIC,Madriz,minor,21114.0,1558017262
+Pueblo Nuevo,Pueblo Nuevo,13.3833,-86.4833,Nicaragua,NI,NIC,Estelí,minor,20620.0,1558373095
+La Trinidad,La Trinidad,12.9677,-86.2346,Nicaragua,NI,NIC,Estelí,minor,20140.0,1558560145
+Altagracia,Altagracia,11.5667,-85.5833,Nicaragua,NI,NIC,Rivas,minor,19955.0,1558219497
+El Castillo de La Concepción,El Castillo de La Concepcion,11.0333,-84.4667,Nicaragua,NI,NIC,Río San Juan,,19864.0,1558240788
+Telpaneca,Telpaneca,13.5333,-86.2833,Nicaragua,NI,NIC,Madriz,minor,19025.0,1558890724
+Bonanza,Bonanza,14.0167,-84.5833,Nicaragua,NI,NIC,Costa Caribe Norte,minor,18633.0,1558074379
+Corinto,Corinto,12.4833,-87.1833,Nicaragua,NI,NIC,Chinandega,minor,18602.0,1558830378
+San Rafael del Norte,San Rafael del Norte,13.2167,-86.1167,Nicaragua,NI,NIC,Jinotega,minor,17789.0,1558286153
+San Isidro,San Isidro,12.9319,-86.1953,Nicaragua,NI,NIC,Matagalpa,minor,17412.0,1558059313
+San Miguelito,San Miguelito,11.4,-84.9,Nicaragua,NI,NIC,Río San Juan,minor,17031.0,1558918781
+Acoyapa,Acoyapa,11.9667,-85.1667,Nicaragua,NI,NIC,Chontales,minor,16946.0,1558571997
+Santa Teresa,Santa Teresa,11.7333,-86.2167,Nicaragua,NI,NIC,Carazo,,16891.0,1558632681
+Posoltega,Posoltega,12.55,-86.9833,Nicaragua,NI,NIC,Chinandega,minor,16771.0,1558561951
+Belén,Belen,11.5,-85.8833,Nicaragua,NI,NIC,Rivas,minor,16428.0,1558470755
+San Dionisio,San Dionisio,12.75,-85.85,Nicaragua,NI,NIC,Matagalpa,minor,16273.0,1558895835
+Prinzapolka,Prinzapolka,13.4,-83.5667,Nicaragua,NI,NIC,Costa Caribe Norte,minor,16105.0,1558643619
+Esquipulas,Esquipulas,12.6667,-85.7833,Nicaragua,NI,NIC,Matagalpa,minor,15877.0,1558602400
+Niquinohomo,Niquinohomo,11.9,-86.1,Nicaragua,NI,NIC,Masaya,minor,14847.0,1558281722
+San Juan del Sur,San Juan del Sur,11.25,-85.8667,Nicaragua,NI,NIC,Rivas,minor,14741.0,1558967577
+Muy Muy,Muy Muy,12.7667,-85.6333,Nicaragua,NI,NIC,Matagalpa,minor,14721.0,1558387669
+Murra,Murra,13.7667,-86.0167,Nicaragua,NI,NIC,Nueva Segovia,minor,14487.0,1558838779
+Achuapa,Achuapa,13.05,-86.5833,Nicaragua,NI,NIC,León,minor,13797.0,1558765003
+El Crucero,El Crucero,11.9833,-86.3167,Nicaragua,NI,NIC,Managua,minor,13656.0,1558750409
+San Juan de Limay,San Juan de Limay,13.1667,-86.6167,Nicaragua,NI,NIC,Estelí,minor,13455.0,1558155206
+El Almendro,El Almendro,11.6833,-84.7,Nicaragua,NI,NIC,Río San Juan,minor,13363.0,1558104640
+Puerto Morazán,Puerto Morazan,12.85,-87.1833,Nicaragua,NI,NIC,Chinandega,,13328.0,1558742913
+Villa Sandino,Villa Sandino,12.05,-84.9833,Nicaragua,NI,NIC,Chontales,minor,13152.0,1558762382
+San Lucas,San Lucas,13.4167,-86.6,Nicaragua,NI,NIC,Madriz,minor,12975.0,1558795437
+Palacagüina,Palacaguina,13.45,-86.4,Nicaragua,NI,NIC,Madriz,minor,12825.0,1558692932
+Terrabona,Terrabona,12.7333,-85.9667,Nicaragua,NI,NIC,Matagalpa,minor,12740.0,1558844965
+El Ayote,El Ayote,12.1905,-85.2874,Nicaragua,NI,NIC,Chontales,,12417.0,1558565622
+El Ayote,El Ayote,12.5,-84.8167,Nicaragua,NI,NIC,Costa Caribe Sur,minor,12417.0,1558000010
+Santo Domingo,Santo Domingo,12.25,-85.0667,Nicaragua,NI,NIC,Chontales,minor,12182.0,1558352804
+Totogalpa,Totogalpa,13.5667,-86.5,Nicaragua,NI,NIC,Madriz,minor,11927.0,1558378832
+Comalapa,Comalapa,12.2833,-85.5,Nicaragua,NI,NIC,Chontales,minor,11785.0,1558074780
+La Libertad,La Libertad,12.2167,-85.1667,Nicaragua,NI,NIC,Chontales,minor,11429.0,1558065930
+Potosí,Potosi,11.5,-85.8833,Nicaragua,NI,NIC,Rivas,minor,11094.0,1558256706
+Nandasmo,Nandasmo,11.9333,-86.1167,Nicaragua,NI,NIC,Masaya,minor,10732.0,1558448256
+Tisma,Tisma,12.0833,-86.0167,Nicaragua,NI,NIC,Masaya,minor,10681.0,1558010790
+El Jicaral,El Jicaral,12.7333,-86.3833,Nicaragua,NI,NIC,León,minor,10326.0,1558715100
+Moyogalpa,Moyogalpa,11.5333,-85.7,Nicaragua,NI,NIC,Rivas,minor,9729.0,1558198586
+Yalagüina,Yalaguina,13.4833,-86.4833,Nicaragua,NI,NIC,Madriz,minor,9597.0,1558031609
+Santa Rosa del Peñón,Santa Rosa del Penon,12.8,-86.3667,Nicaragua,NI,NIC,León,minor,9529.0,1558392157
+San Francisco Libre,San Francisco Libre,12.5,-86.3,Nicaragua,NI,NIC,Managua,minor,9416.0,1558719164
+El Realejo,El Realejo,12.5333,-87.1667,Nicaragua,NI,NIC,Chinandega,minor,8834.0,1558231692
+Kukrahill,Kukrahill,12.25,-83.75,Nicaragua,NI,NIC,Costa Caribe Sur,minor,8789.0,1558733102
+Quezalguaque,Quezalguaque,12.5061,-86.9033,Nicaragua,NI,NIC,León,minor,8591.0,1558204970
+San Fernando,San Fernando,13.6833,-86.3167,Nicaragua,NI,NIC,Nueva Segovia,minor,8549.0,1558217254
+Greytown,Greytown,10.9167,-83.7,Nicaragua,NI,NIC,Río San Juan,minor,1307.0,1558125707
+Managua,Managua,12.1364,-86.2514,Nicaragua,NI,NIC,Managua,primary,1051236.0,1558296252
+León,Leon,12.4333,-86.8867,Nicaragua,NI,NIC,León,admin,176171.0,1558654236
+Tipitapa,Tipitapa,12.2,-86.1,Nicaragua,NI,NIC,Managua,minor,147379.0,1558753915
+Masaya,Masaya,11.9667,-86.1,Nicaragua,NI,NIC,Masaya,admin,139582.0,1558765329
+Matagalpa,Matagalpa,12.9167,-85.9167,Nicaragua,NI,NIC,Matagalpa,admin,133416.0,1558728443
+Ciudad Sandino,Ciudad Sandino,12.1655,-86.3579,Nicaragua,NI,NIC,Managua,minor,127517.0,1558641363
+Chinandega,Chinandega,12.6167,-87.15,Nicaragua,NI,NIC,Chinandega,admin,121793.0,1558172276
+Estelí,Esteli,13.0833,-86.35,Nicaragua,NI,NIC,Estelí,admin,112084.0,1558801854
+Granada,Granada,11.9333,-85.95,Nicaragua,NI,NIC,Granada,admin,105862.0,1558101678
+Jinotega,Jinotega,13.0884,-85.9994,Nicaragua,NI,NIC,Jinotega,admin,99382.0,1558697688
+Bilwi,Bilwi,14.0281,-83.3808,Nicaragua,NI,NIC,Costa Caribe Norte,admin,84189.0,1558656214
+El Viejo,El Viejo,12.6667,-87.1667,Nicaragua,NI,NIC,Chinandega,minor,76775.0,1558770292
+Nueva Guinea,Nueva Guinea,11.6833,-84.45,Nicaragua,NI,NIC,Costa Caribe Sur,minor,66936.0,1558868719
+Siuna,Siuna,13.7333,-84.7667,Nicaragua,NI,NIC,Costa Caribe Norte,minor,64092.0,1558482501
+Mateare,Mateare,12.2333,-86.4333,Nicaragua,NI,NIC,Managua,minor,61234.0,1558569665
+Diriamba,Diriamba,11.85,-86.2333,Nicaragua,NI,NIC,Carazo,minor,57542.0,1558411169
+Wiwilí,Wiwili,13.6167,-85.8333,Nicaragua,NI,NIC,Nueva Segovia,minor,57485.0,1558766877
+Bluefields,Bluefields,12.0,-83.75,Nicaragua,NI,NIC,Costa Caribe Sur,admin,56005.0,1558301368
+Jalapa,Jalapa,13.9167,-86.1333,Nicaragua,NI,NIC,Nueva Segovia,minor,54491.0,1558183579
+Juigalpa,Juigalpa,12.1,-85.3667,Nicaragua,NI,NIC,Chontales,admin,53798.0,1558986603
+El Rama,El Rama,12.1615,-84.2203,Nicaragua,NI,NIC,Costa Caribe Sur,minor,52482.0,1558512996
+Boaco,Boaco,12.4667,-85.6667,Nicaragua,NI,NIC,Boaco,admin,49839.0,1558023610
+Mulukukú,Mulukuku,13.1503,-84.97,Nicaragua,NI,NIC,Costa Caribe Norte,minor,49339.0,1558000015
+Ocotal,Ocotal,13.6333,-86.4833,Nicaragua,NI,NIC,Nueva Segovia,admin,48765.0,1558006000
+Waspán,Waspan,14.7333,-83.9667,Nicaragua,NI,NIC,Costa Caribe Norte,minor,47231.0,1558840115
+Chichigalpa,Chichigalpa,12.5667,-87.0333,Nicaragua,NI,NIC,Chinandega,minor,44769.0,1558921284
+El Cuá,El Cua,13.3675,-85.6733,Nicaragua,NI,NIC,Jinotega,minor,43305.0,1558463653
+San Rafael del Sur,San Rafael del Sur,11.85,-86.45,Nicaragua,NI,NIC,Managua,minor,42417.0,1558570848
+Jinotepe,Jinotepe,11.85,-86.2,Nicaragua,NI,NIC,Carazo,admin,42109.0,1558246417
+San José de Bocay,San Jose de Bocay,13.5333,-85.5333,Nicaragua,NI,NIC,Jinotega,minor,42029.0,1558566609
+Matiguás,Matiguas,12.8333,-85.4667,Nicaragua,NI,NIC,Matagalpa,minor,41127.0,1558837403
+Rivas,Rivas,11.4393,-85.827,Nicaragua,NI,NIC,Rivas,admin,41080.0,1558146594
+Ciudad Darío,Ciudad Dario,12.7167,-86.1167,Nicaragua,NI,NIC,Matagalpa,minor,41014.0,1558651455
+Nindirí,Nindiri,12.0047,-86.1194,Nicaragua,NI,NIC,Masaya,minor,38355.0,1558216045
+San Carlos,San Carlos,11.1333,-84.7833,Nicaragua,NI,NIC,Río San Juan,admin,37461.0,1558170572
+Camoapa,Camoapa,12.3833,-85.5167,Nicaragua,NI,NIC,Boaco,minor,34962.0,1558644621
+Nandaime,Nandaime,11.75,-86.05,Nicaragua,NI,NIC,Granada,minor,34288.0,1558998589
+Somoto,Somoto,13.4833,-86.5833,Nicaragua,NI,NIC,Madriz,admin,33788.0,1558605178
+Nagarote,Nagarote,12.2667,-86.5667,Nicaragua,NI,NIC,León,minor,32303.0,1558005234
+Sébaco,Sebaco,12.85,-86.1,Nicaragua,NI,NIC,Matagalpa,minor,32221.0,1558662201
+La Concepción,La Concepcion,11.9333,-86.1833,Nicaragua,NI,NIC,Masaya,minor,31950.0,1558215738
+Bocana de Paiwas,Bocana de Paiwas,12.7861,-85.1231,Nicaragua,NI,NIC,Costa Caribe Sur,minor,31762.0,1558901000
+Masatepe,Masatepe,11.9167,-86.15,Nicaragua,NI,NIC,Masaya,minor,31583.0,1558293076
+Río Blanco,Rio Blanco,12.9333,-85.2167,Nicaragua,NI,NIC,Matagalpa,minor,30785.0,1558593583
+San Ramón,San Ramon,12.9167,-85.8333,Nicaragua,NI,NIC,Matagalpa,minor,30682.0,1558617224
+Waslala,Waslala,13.2333,-85.3833,Nicaragua,NI,NIC,Costa Caribe Norte,,29838.0,1558730387
+Somotillo,Somotillo,13.0333,-86.9167,Nicaragua,NI,NIC,Chinandega,minor,29030.0,1558936840
+San Marcos,San Marcos,11.9167,-86.2,Nicaragua,NI,NIC,Carazo,minor,29019.0,1558544498
+Condega,Condega,13.35,-86.4,Nicaragua,NI,NIC,Estelí,minor,28481.0,1558543389
+La Paz Centro,La Paz Centro,12.34,-86.6753,Nicaragua,NI,NIC,León,minor,28118.0,1558538095
+El Sauce,El Sauce,12.8833,-86.5333,Nicaragua,NI,NIC,León,minor,27900.0,1558542535
+Larreynaga,Larreynaga,12.6744,-86.5708,Nicaragua,NI,NIC,León,,27898.0,1558602365
+Villa El Carmen,Villa El Carmen,11.9833,-86.5167,Nicaragua,NI,NIC,Managua,minor,27449.0,1558217117
+Ticuantepe,Ticuantepe,12.0167,-86.2,Nicaragua,NI,NIC,Managua,minor,27008.0,1558748108
+San Sebastián de Yalí,San Sebastian de Yali,13.3,-86.1833,Nicaragua,NI,NIC,Jinotega,minor,26979.0,1558797659
+Quilalí,Quilali,13.5667,-86.0333,Nicaragua,NI,NIC,Nueva Segovia,minor,26461.0,1558890150
+Teustepe,Teustepe,12.4167,-85.8,Nicaragua,NI,NIC,Boaco,minor,26265.0,1558471999
+Rancho Grande,Rancho Grande,13.2536,-85.5528,Nicaragua,NI,NIC,Matagalpa,minor,26223.0,1558000014
+El Jícaro,El Jicaro,13.7167,-86.1333,Nicaragua,NI,NIC,Nueva Segovia,minor,25901.0,1558370447
+Villanueva,Villanueva,12.9636,-86.8147,Nicaragua,NI,NIC,Chinandega,minor,25660.0,1558614186
+San Lorenzo,San Lorenzo,12.3667,-85.6667,Nicaragua,NI,NIC,Boaco,minor,23666.0,1558007382
+La Cruz de Río Grande,La Cruz de Rio Grande,13.1167,-84.1833,Nicaragua,NI,NIC,Costa Caribe Sur,minor,23284.0,1558703104
+Telica,Telica,12.5167,-86.8667,Nicaragua,NI,NIC,León,minor,23266.0,1558515596
+Rosita,Rosita,13.8833,-84.4,Nicaragua,NI,NIC,Costa Caribe Norte,minor,22723.0,1558197649
+La Trinidad,La Trinidad,12.5578,-86.1835,Nicaragua,NI,NIC,Managua,,22645.0,1558209065
+Diriomo,Diriomo,11.8667,-86.05,Nicaragua,NI,NIC,Granada,minor,22352.0,1558287966
+El Tortuguero,El Tortuguero,12.8167,-84.2,Nicaragua,NI,NIC,Costa Caribe Sur,minor,22324.0,1558390224
+Muelle de los Bueyes,Muelle de los Bueyes,12.0667,-84.5333,Nicaragua,NI,NIC,Costa Caribe Sur,minor,22082.0,1558837878
+Tola,Tola,11.4333,-85.9333,Nicaragua,NI,NIC,Rivas,minor,22012.0,1558491249
+San Juan de Río Coco,San Juan de Rio Coco,13.55,-86.1667,Nicaragua,NI,NIC,Madriz,minor,21114.0,1558017262
+Pueblo Nuevo,Pueblo Nuevo,13.3833,-86.4833,Nicaragua,NI,NIC,Estelí,minor,20620.0,1558373095
+La Trinidad,La Trinidad,12.9677,-86.2346,Nicaragua,NI,NIC,Estelí,minor,20140.0,1558560145
+Altagracia,Altagracia,11.5667,-85.5833,Nicaragua,NI,NIC,Rivas,minor,19955.0,1558219497
+El Castillo de La Concepción,El Castillo de La Concepcion,11.0333,-84.4667,Nicaragua,NI,NIC,Río San Juan,,19864.0,1558240788
+Telpaneca,Telpaneca,13.5333,-86.2833,Nicaragua,NI,NIC,Madriz,minor,19025.0,1558890724
+Bonanza,Bonanza,14.0167,-84.5833,Nicaragua,NI,NIC,Costa Caribe Norte,minor,18633.0,1558074379
+Corinto,Corinto,12.4833,-87.1833,Nicaragua,NI,NIC,Chinandega,minor,18602.0,1558830378
+San Rafael del Norte,San Rafael del Norte,13.2167,-86.1167,Nicaragua,NI,NIC,Jinotega,minor,17789.0,1558286153
+San Isidro,San Isidro,12.9319,-86.1953,Nicaragua,NI,NIC,Matagalpa,minor,17412.0,1558059313
+San Miguelito,San Miguelito,11.4,-84.9,Nicaragua,NI,NIC,Río San Juan,minor,17031.0,1558918781
+Acoyapa,Acoyapa,11.9667,-85.1667,Nicaragua,NI,NIC,Chontales,minor,16946.0,1558571997
+Santa Teresa,Santa Teresa,11.7333,-86.2167,Nicaragua,NI,NIC,Carazo,,16891.0,1558632681
+Posoltega,Posoltega,12.55,-86.9833,Nicaragua,NI,NIC,Chinandega,minor,16771.0,1558561951
+Belén,Belen,11.5,-85.8833,Nicaragua,NI,NIC,Rivas,minor,16428.0,1558470755
+San Dionisio,San Dionisio,12.75,-85.85,Nicaragua,NI,NIC,Matagalpa,minor,16273.0,1558895835
+Prinzapolka,Prinzapolka,13.4,-83.5667,Nicaragua,NI,NIC,Costa Caribe Norte,minor,16105.0,1558643619
+Esquipulas,Esquipulas,12.6667,-85.7833,Nicaragua,NI,NIC,Matagalpa,minor,15877.0,1558602400
+Niquinohomo,Niquinohomo,11.9,-86.1,Nicaragua,NI,NIC,Masaya,minor,14847.0,1558281722
+San Juan del Sur,San Juan del Sur,11.25,-85.8667,Nicaragua,NI,NIC,Rivas,minor,14741.0,1558967577
+Muy Muy,Muy Muy,12.7667,-85.6333,Nicaragua,NI,NIC,Matagalpa,minor,14721.0,1558387669
+Murra,Murra,13.7667,-86.0167,Nicaragua,NI,NIC,Nueva Segovia,minor,14487.0,1558838779
+Achuapa,Achuapa,13.05,-86.5833,Nicaragua,NI,NIC,León,minor,13797.0,1558765003
+El Crucero,El Crucero,11.9833,-86.3167,Nicaragua,NI,NIC,Managua,minor,13656.0,1558750409
+San Juan de Limay,San Juan de Limay,13.1667,-86.6167,Nicaragua,NI,NIC,Estelí,minor,13455.0,1558155206
+El Almendro,El Almendro,11.6833,-84.7,Nicaragua,NI,NIC,Río San Juan,minor,13363.0,1558104640
+Puerto Morazán,Puerto Morazan,12.85,-87.1833,Nicaragua,NI,NIC,Chinandega,,13328.0,1558742913
+Villa Sandino,Villa Sandino,12.05,-84.9833,Nicaragua,NI,NIC,Chontales,minor,13152.0,1558762382
+San Lucas,San Lucas,13.4167,-86.6,Nicaragua,NI,NIC,Madriz,minor,12975.0,1558795437
+Palacagüina,Palacaguina,13.45,-86.4,Nicaragua,NI,NIC,Madriz,minor,12825.0,1558692932
+Terrabona,Terrabona,12.7333,-85.9667,Nicaragua,NI,NIC,Matagalpa,minor,12740.0,1558844965
+El Ayote,El Ayote,12.1905,-85.2874,Nicaragua,NI,NIC,Chontales,,12417.0,1558565622
+El Ayote,El Ayote,12.5,-84.8167,Nicaragua,NI,NIC,Costa Caribe Sur,minor,12417.0,1558000010
+Santo Domingo,Santo Domingo,12.25,-85.0667,Nicaragua,NI,NIC,Chontales,minor,12182.0,1558352804
+Totogalpa,Totogalpa,13.5667,-86.5,Nicaragua,NI,NIC,Madriz,minor,11927.0,1558378832
+Comalapa,Comalapa,12.2833,-85.5,Nicaragua,NI,NIC,Chontales,minor,11785.0,1558074780
+La Libertad,La Libertad,12.2167,-85.1667,Nicaragua,NI,NIC,Chontales,minor,11429.0,1558065930
+Potosí,Potosi,11.5,-85.8833,Nicaragua,NI,NIC,Rivas,minor,11094.0,1558256706
+Nandasmo,Nandasmo,11.9333,-86.1167,Nicaragua,NI,NIC,Masaya,minor,10732.0,1558448256
+Tisma,Tisma,12.0833,-86.0167,Nicaragua,NI,NIC,Masaya,minor,10681.0,1558010790
+El Jicaral,El Jicaral,12.7333,-86.3833,Nicaragua,NI,NIC,León,minor,10326.0,1558715100
+Moyogalpa,Moyogalpa,11.5333,-85.7,Nicaragua,NI,NIC,Rivas,minor,9729.0,1558198586
+Yalagüina,Yalaguina,13.4833,-86.4833,Nicaragua,NI,NIC,Madriz,minor,9597.0,1558031609
+Santa Rosa del Peñón,Santa Rosa del Penon,12.8,-86.3667,Nicaragua,NI,NIC,León,minor,9529.0,1558392157
+San Francisco Libre,San Francisco Libre,12.5,-86.3,Nicaragua,NI,NIC,Managua,minor,9416.0,1558719164
+El Realejo,El Realejo,12.5333,-87.1667,Nicaragua,NI,NIC,Chinandega,minor,8834.0,1558231692
+Kukrahill,Kukrahill,12.25,-83.75,Nicaragua,NI,NIC,Costa Caribe Sur,minor,8789.0,1558733102
+Quezalguaque,Quezalguaque,12.5061,-86.9033,Nicaragua,NI,NIC,León,minor,8591.0,1558204970
+San Fernando,San Fernando,13.6833,-86.3167,Nicaragua,NI,NIC,Nueva Segovia,minor,8549.0,1558217254
+Greytown,Greytown,10.9167,-83.7,Nicaragua,NI,NIC,Río San Juan,minor,1307.0,1558125707

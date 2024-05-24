@@ -1,0 +1,151 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Zagreb,Zagreb,45.8131,15.9775,Croatia,HR,HRV,"Zagreb, Grad",primary,767131.0,1191233290
+Split,Split,43.51,16.44,Croatia,HR,HRV,Splitsko-Dalmatinska Županija,admin,160577.0,1191440208
+Rijeka,Rijeka,45.3272,14.4411,Croatia,HR,HRV,Primorsko-Goranska Županija,admin,107964.0,1191949063
+Osijek,Osijek,45.5556,18.6944,Croatia,HR,HRV,Osječko-Baranjska Županija,admin,96313.0,1191917921
+Sesvete,Sesvete,45.8269,16.1111,Croatia,HR,HRV,"Zagreb, Grad",,70800.0,1191537414
+Zadar,Zadar,44.1194,15.2319,Croatia,HR,HRV,Zadarska Županija,admin,70779.0,1191160875
+Velika Gorica,Velika Gorica,45.7,16.0667,Croatia,HR,HRV,Zagrebačka Županija,minor,61075.0,1191113594
+Pula,Pula,44.8703,13.8456,Croatia,HR,HRV,Istarska Županija,minor,52220.0,1191143009
+Karlovac,Karlovac,45.4833,15.55,Croatia,HR,HRV,Karlovačka Županija,,49377.0,1191000040
+Slavonski Brod,Slavonski Brod,45.1667,18.0167,Croatia,HR,HRV,Brodsko-Posavska Županija,admin,45005.0,1191097030
+Varaždin,Varazdin,46.3081,16.3378,Croatia,HR,HRV,Varaždinska Županija,admin,43782.0,1191291148
+Šibenik,Sibenik,43.735,15.8906,Croatia,HR,HRV,Šibensko-Kninska Županija,admin,42599.0,1191444936
+Dubrovnik,Dubrovnik,42.6403,18.1083,Croatia,HR,HRV,Dubrovačko-Neretvanska Županija,admin,41562.0,1191004286
+Sisak,Sisak,45.4872,16.3761,Croatia,HR,HRV,Sisačko-Moslavačka Županija,admin,40121.0,1191526652
+Kaštel Stari,Kastel Stari,43.55,16.35,Croatia,HR,HRV,Splitsko-Dalmatinska Županija,,37794.0,1191355987
+Samobor,Samobor,45.8,15.7167,Croatia,HR,HRV,Zagrebačka Županija,minor,37435.0,1191807327
+Bjelovar,Bjelovar,45.9,16.8333,Croatia,HR,HRV,Bjelovarsko-Bilogorska Županija,admin,36316.0,1191340640
+Vinkovci,Vinkovci,45.2911,18.8011,Croatia,HR,HRV,Vukovarsko-Srijemska Županija,minor,30842.0,1191241036
+Koprivnica,Koprivnica,46.15,16.8167,Croatia,HR,HRV,Koprivničko-Križevačka Županija,admin,28580.0,1191924250
+Čakovec,Cakovec,46.3858,16.4333,Croatia,HR,HRV,Međimurska Županija,admin,27122.0,1191424625
+Zaprešić,Zapresic,45.8572,15.805,Croatia,HR,HRV,Zagrebačka Županija,minor,24133.0,1191023090
+Solin,Solin,43.5394,16.4831,Croatia,HR,HRV,Splitsko-Dalmatinska Županija,minor,23926.0,1191452143
+Ðakovo,Dakovo,45.31,18.41,Croatia,HR,HRV,Osječko-Baranjska Županija,minor,23577.0,1191845338
+Sinj,Sinj,43.7,16.6333,Croatia,HR,HRV,Splitsko-Dalmatinska Županija,minor,23452.0,1191337250
+Vukovar,Vukovar,45.3444,19.0025,Croatia,HR,HRV,Vukovarsko-Srijemska Županija,admin,23175.0,1191345427
+Požega,Pozega,45.3331,17.6736,Croatia,HR,HRV,Požeško-Slavonska Županija,admin,22294.0,1191353181
+Petrinja,Petrinja,45.4406,16.2783,Croatia,HR,HRV,Sisačko-Moslavačka Županija,minor,19950.0,1191586902
+Kutina,Kutina,45.4667,16.7833,Croatia,HR,HRV,Sisačko-Moslavačka Županija,minor,19601.0,1191337296
+Virovitica,Virovitica,45.8333,17.3833,Croatia,HR,HRV,Virovitičko-Podravska Županija,admin,19302.0,1191128636
+Križevci,Krizevci,46.0258,16.5425,Croatia,HR,HRV,Koprivničko-Križevačka Županija,minor,18949.0,1191282973
+Dugo Selo,Dugo Selo,45.8058,16.2331,Croatia,HR,HRV,Zagrebačka Županija,minor,17676.0,1191082189
+Poreč,Porec,45.2272,13.5958,Croatia,HR,HRV,Istarska Županija,minor,16607.0,1191152483
+Viškovo,Viskovo,45.3778,14.3861,Croatia,HR,HRV,Primorsko-Goranska Županija,minor,16084.0,1191502082
+Metković,Metkovic,43.05,17.65,Croatia,HR,HRV,Dubrovačko-Neretvanska Županija,minor,15235.0,1191697358
+Sveti Ivan Zelina,Sveti Ivan Zelina,45.9596,16.2431,Croatia,HR,HRV,Zagrebačka Županija,minor,14602.0,1191628730
+Jastrebarsko,Jastrebarsko,45.6719,15.6511,Croatia,HR,HRV,Zagrebačka Županija,minor,14562.0,1191489216
+Našice,Nasice,45.4833,18.1,Croatia,HR,HRV,Osječko-Baranjska Županija,minor,14291.0,1191359646
+Omiš,Omis,43.4333,16.6833,Croatia,HR,HRV,Splitsko-Dalmatinska Županija,minor,14139.0,1191146852
+Makarska,Makarska,43.3,17.0333,Croatia,HR,HRV,Splitsko-Dalmatinska Županija,minor,13301.0,1191012753
+Ivanić-Grad,Ivanic-Grad,45.7081,16.3947,Croatia,HR,HRV,Zagrebačka Županija,minor,12982.0,1191909415
+Vrbovec,Vrbovec,45.8833,16.4333,Croatia,HR,HRV,Zagrebačka Županija,minor,12981.0,1191484288
+Rovinj,Rovinj,45.0833,13.6333,Croatia,HR,HRV,Istarska Županija,minor,12968.0,1191599469
+Ivanec,Ivanec,46.2264,16.1253,Croatia,HR,HRV,Varaždinska Županija,minor,12723.0,1191135840
+Umag,Umag,45.4333,13.5167,Croatia,HR,HRV,Istarska Županija,minor,12699.0,1191619826
+Trogir,Trogir,43.5169,16.2514,Croatia,HR,HRV,Splitsko-Dalmatinska Županija,minor,12393.0,1191315860
+Ogulin,Ogulin,45.2669,15.2248,Croatia,HR,HRV,Karlovačka Županija,minor,12246.0,1191210263
+Novi Marof,Novi Marof,46.1667,16.3333,Croatia,HR,HRV,Varaždinska Županija,minor,11795.0,1191054242
+Nova Gradiška,Nova Gradiska,45.25,17.3833,Croatia,HR,HRV,Brodsko-Posavska Županija,minor,11690.0,1191025176
+Knin,Knin,44.0414,16.1986,Croatia,HR,HRV,Šibensko-Kninska Županija,minor,11633.0,1191313799
+Krapina,Krapina,46.16,15.87,Croatia,HR,HRV,Krapinsko-Zagorska Županija,admin,11530.0,1191389404
+Slatina,Slatina,45.7022,17.7011,Croatia,HR,HRV,Virovitičko-Podravska Županija,minor,11503.0,1191732993
+Gospić,Gospic,44.546,15.375,Croatia,HR,HRV,Ličko-Senjska Županija,admin,11502.0,1191887616
+Novska,Novska,45.3333,16.9833,Croatia,HR,HRV,Sisačko-Moslavačka Županija,minor,11137.0,1191890693
+Nedelišće,Nedelisce,46.3833,16.3833,Croatia,HR,HRV,Međimurska Županija,minor,11017.0,1191055882
+Matulji,Matulji,45.3667,14.3167,Croatia,HR,HRV,Primorsko-Goranska Županija,minor,10773.0,1191059723
+Brdovec,Brdovec,45.8667,15.7667,Croatia,HR,HRV,Zagrebačka Županija,minor,10737.0,1191376654
+Opatija,Opatija,45.3333,14.3,Croatia,HR,HRV,Primorsko-Goranska Županija,minor,10619.0,1191982660
+Labin,Labin,45.0833,14.1167,Croatia,HR,HRV,Istarska Županija,minor,10424.0,1191000718
+Podstrana,Podstrana,43.48,16.58,Croatia,HR,HRV,Splitsko-Dalmatinska Županija,minor,10403.0,1191181245
+Popovača,Popovaca,45.5697,16.625,Croatia,HR,HRV,Sisačko-Moslavačka Županija,minor,10255.0,1191042353
+Duga Resa,Duga Resa,45.4472,15.4958,Croatia,HR,HRV,Karlovačka Županija,minor,10212.0,1191462805
+Kastav,Kastav,45.375,14.349,Croatia,HR,HRV,Primorsko-Goranska Županija,minor,10202.0,1191243923
+Daruvar,Daruvar,45.5929,17.2237,Croatia,HR,HRV,Bjelovarsko-Bilogorska Županija,minor,10105.0,1191459511
+Crikvenica,Crikvenica,45.1833,14.7,Croatia,HR,HRV,Primorsko-Goranska Županija,minor,9980.0,1191344167
+Valpovo,Valpovo,45.6667,18.4167,Croatia,HR,HRV,Osječko-Baranjska Županija,minor,9784.0,1191247784
+Benkovac,Benkovac,44.0344,15.6128,Croatia,HR,HRV,Zadarska Županija,minor,9680.0,1191830836
+Čepin,Cepin,45.5167,18.5667,Croatia,HR,HRV,Osječko-Baranjska Županija,minor,9665.0,1191719855
+Županja,Zupanja,45.07,18.7,Croatia,HR,HRV,Vukovarsko-Srijemska Županija,minor,9153.0,1191054836
+Imotski,Imotski,43.45,17.2167,Croatia,HR,HRV,Splitsko-Dalmatinska Županija,minor,9153.0,1191634308
+Pleternica,Pleternica,45.2833,17.8,Croatia,HR,HRV,Požeško-Slavonska Županija,minor,9138.0,1191772677
+Belišće,Belisce,45.6833,18.4,Croatia,HR,HRV,Osječko-Baranjska Županija,minor,8884.0,1191824256
+Zabok,Zabok,46.0333,15.9167,Croatia,HR,HRV,Krapinsko-Zagorska Županija,minor,8656.0,1191500303
+Vodice,Vodice,43.75,15.7667,Croatia,HR,HRV,Šibensko-Kninska Županija,minor,8649.0,1191637879
+Garešnica,Garesnica,45.5667,16.9333,Croatia,HR,HRV,Bjelovarsko-Bilogorska Županija,minor,8624.0,1191726833
+Pazin,Pazin,45.2403,13.9367,Croatia,HR,HRV,Istarska Županija,admin,8279.0,1191654566
+Zagreb,Zagreb,45.8131,15.9775,Croatia,HR,HRV,"Zagreb, Grad",primary,767131.0,1191233290
+Split,Split,43.51,16.44,Croatia,HR,HRV,Splitsko-Dalmatinska Županija,admin,160577.0,1191440208
+Rijeka,Rijeka,45.3272,14.4411,Croatia,HR,HRV,Primorsko-Goranska Županija,admin,107964.0,1191949063
+Osijek,Osijek,45.5556,18.6944,Croatia,HR,HRV,Osječko-Baranjska Županija,admin,96313.0,1191917921
+Sesvete,Sesvete,45.8269,16.1111,Croatia,HR,HRV,"Zagreb, Grad",,70800.0,1191537414
+Zadar,Zadar,44.1194,15.2319,Croatia,HR,HRV,Zadarska Županija,admin,70779.0,1191160875
+Velika Gorica,Velika Gorica,45.7,16.0667,Croatia,HR,HRV,Zagrebačka Županija,minor,61075.0,1191113594
+Pula,Pula,44.8703,13.8456,Croatia,HR,HRV,Istarska Županija,minor,52220.0,1191143009
+Karlovac,Karlovac,45.4833,15.55,Croatia,HR,HRV,Karlovačka Županija,,49377.0,1191000040
+Slavonski Brod,Slavonski Brod,45.1667,18.0167,Croatia,HR,HRV,Brodsko-Posavska Županija,admin,45005.0,1191097030
+Varaždin,Varazdin,46.3081,16.3378,Croatia,HR,HRV,Varaždinska Županija,admin,43782.0,1191291148
+Šibenik,Sibenik,43.735,15.8906,Croatia,HR,HRV,Šibensko-Kninska Županija,admin,42599.0,1191444936
+Dubrovnik,Dubrovnik,42.6403,18.1083,Croatia,HR,HRV,Dubrovačko-Neretvanska Županija,admin,41562.0,1191004286
+Sisak,Sisak,45.4872,16.3761,Croatia,HR,HRV,Sisačko-Moslavačka Županija,admin,40121.0,1191526652
+Kaštel Stari,Kastel Stari,43.55,16.35,Croatia,HR,HRV,Splitsko-Dalmatinska Županija,,37794.0,1191355987
+Samobor,Samobor,45.8,15.7167,Croatia,HR,HRV,Zagrebačka Županija,minor,37435.0,1191807327
+Bjelovar,Bjelovar,45.9,16.8333,Croatia,HR,HRV,Bjelovarsko-Bilogorska Županija,admin,36316.0,1191340640
+Vinkovci,Vinkovci,45.2911,18.8011,Croatia,HR,HRV,Vukovarsko-Srijemska Županija,minor,30842.0,1191241036
+Koprivnica,Koprivnica,46.15,16.8167,Croatia,HR,HRV,Koprivničko-Križevačka Županija,admin,28580.0,1191924250
+Čakovec,Cakovec,46.3858,16.4333,Croatia,HR,HRV,Međimurska Županija,admin,27122.0,1191424625
+Zaprešić,Zapresic,45.8572,15.805,Croatia,HR,HRV,Zagrebačka Županija,minor,24133.0,1191023090
+Solin,Solin,43.5394,16.4831,Croatia,HR,HRV,Splitsko-Dalmatinska Županija,minor,23926.0,1191452143
+Ðakovo,Dakovo,45.31,18.41,Croatia,HR,HRV,Osječko-Baranjska Županija,minor,23577.0,1191845338
+Sinj,Sinj,43.7,16.6333,Croatia,HR,HRV,Splitsko-Dalmatinska Županija,minor,23452.0,1191337250
+Vukovar,Vukovar,45.3444,19.0025,Croatia,HR,HRV,Vukovarsko-Srijemska Županija,admin,23175.0,1191345427
+Požega,Pozega,45.3331,17.6736,Croatia,HR,HRV,Požeško-Slavonska Županija,admin,22294.0,1191353181
+Petrinja,Petrinja,45.4406,16.2783,Croatia,HR,HRV,Sisačko-Moslavačka Županija,minor,19950.0,1191586902
+Kutina,Kutina,45.4667,16.7833,Croatia,HR,HRV,Sisačko-Moslavačka Županija,minor,19601.0,1191337296
+Virovitica,Virovitica,45.8333,17.3833,Croatia,HR,HRV,Virovitičko-Podravska Županija,admin,19302.0,1191128636
+Križevci,Krizevci,46.0258,16.5425,Croatia,HR,HRV,Koprivničko-Križevačka Županija,minor,18949.0,1191282973
+Dugo Selo,Dugo Selo,45.8058,16.2331,Croatia,HR,HRV,Zagrebačka Županija,minor,17676.0,1191082189
+Poreč,Porec,45.2272,13.5958,Croatia,HR,HRV,Istarska Županija,minor,16607.0,1191152483
+Viškovo,Viskovo,45.3778,14.3861,Croatia,HR,HRV,Primorsko-Goranska Županija,minor,16084.0,1191502082
+Metković,Metkovic,43.05,17.65,Croatia,HR,HRV,Dubrovačko-Neretvanska Županija,minor,15235.0,1191697358
+Sveti Ivan Zelina,Sveti Ivan Zelina,45.9596,16.2431,Croatia,HR,HRV,Zagrebačka Županija,minor,14602.0,1191628730
+Jastrebarsko,Jastrebarsko,45.6719,15.6511,Croatia,HR,HRV,Zagrebačka Županija,minor,14562.0,1191489216
+Našice,Nasice,45.4833,18.1,Croatia,HR,HRV,Osječko-Baranjska Županija,minor,14291.0,1191359646
+Omiš,Omis,43.4333,16.6833,Croatia,HR,HRV,Splitsko-Dalmatinska Županija,minor,14139.0,1191146852
+Makarska,Makarska,43.3,17.0333,Croatia,HR,HRV,Splitsko-Dalmatinska Županija,minor,13301.0,1191012753
+Ivanić-Grad,Ivanic-Grad,45.7081,16.3947,Croatia,HR,HRV,Zagrebačka Županija,minor,12982.0,1191909415
+Vrbovec,Vrbovec,45.8833,16.4333,Croatia,HR,HRV,Zagrebačka Županija,minor,12981.0,1191484288
+Rovinj,Rovinj,45.0833,13.6333,Croatia,HR,HRV,Istarska Županija,minor,12968.0,1191599469
+Ivanec,Ivanec,46.2264,16.1253,Croatia,HR,HRV,Varaždinska Županija,minor,12723.0,1191135840
+Umag,Umag,45.4333,13.5167,Croatia,HR,HRV,Istarska Županija,minor,12699.0,1191619826
+Trogir,Trogir,43.5169,16.2514,Croatia,HR,HRV,Splitsko-Dalmatinska Županija,minor,12393.0,1191315860
+Ogulin,Ogulin,45.2669,15.2248,Croatia,HR,HRV,Karlovačka Županija,minor,12246.0,1191210263
+Novi Marof,Novi Marof,46.1667,16.3333,Croatia,HR,HRV,Varaždinska Županija,minor,11795.0,1191054242
+Nova Gradiška,Nova Gradiska,45.25,17.3833,Croatia,HR,HRV,Brodsko-Posavska Županija,minor,11690.0,1191025176
+Knin,Knin,44.0414,16.1986,Croatia,HR,HRV,Šibensko-Kninska Županija,minor,11633.0,1191313799
+Krapina,Krapina,46.16,15.87,Croatia,HR,HRV,Krapinsko-Zagorska Županija,admin,11530.0,1191389404
+Slatina,Slatina,45.7022,17.7011,Croatia,HR,HRV,Virovitičko-Podravska Županija,minor,11503.0,1191732993
+Gospić,Gospic,44.546,15.375,Croatia,HR,HRV,Ličko-Senjska Županija,admin,11502.0,1191887616
+Novska,Novska,45.3333,16.9833,Croatia,HR,HRV,Sisačko-Moslavačka Županija,minor,11137.0,1191890693
+Nedelišće,Nedelisce,46.3833,16.3833,Croatia,HR,HRV,Međimurska Županija,minor,11017.0,1191055882
+Matulji,Matulji,45.3667,14.3167,Croatia,HR,HRV,Primorsko-Goranska Županija,minor,10773.0,1191059723
+Brdovec,Brdovec,45.8667,15.7667,Croatia,HR,HRV,Zagrebačka Županija,minor,10737.0,1191376654
+Opatija,Opatija,45.3333,14.3,Croatia,HR,HRV,Primorsko-Goranska Županija,minor,10619.0,1191982660
+Labin,Labin,45.0833,14.1167,Croatia,HR,HRV,Istarska Županija,minor,10424.0,1191000718
+Podstrana,Podstrana,43.48,16.58,Croatia,HR,HRV,Splitsko-Dalmatinska Županija,minor,10403.0,1191181245
+Popovača,Popovaca,45.5697,16.625,Croatia,HR,HRV,Sisačko-Moslavačka Županija,minor,10255.0,1191042353
+Duga Resa,Duga Resa,45.4472,15.4958,Croatia,HR,HRV,Karlovačka Županija,minor,10212.0,1191462805
+Kastav,Kastav,45.375,14.349,Croatia,HR,HRV,Primorsko-Goranska Županija,minor,10202.0,1191243923
+Daruvar,Daruvar,45.5929,17.2237,Croatia,HR,HRV,Bjelovarsko-Bilogorska Županija,minor,10105.0,1191459511
+Crikvenica,Crikvenica,45.1833,14.7,Croatia,HR,HRV,Primorsko-Goranska Županija,minor,9980.0,1191344167
+Valpovo,Valpovo,45.6667,18.4167,Croatia,HR,HRV,Osječko-Baranjska Županija,minor,9784.0,1191247784
+Benkovac,Benkovac,44.0344,15.6128,Croatia,HR,HRV,Zadarska Županija,minor,9680.0,1191830836
+Čepin,Cepin,45.5167,18.5667,Croatia,HR,HRV,Osječko-Baranjska Županija,minor,9665.0,1191719855
+Županja,Zupanja,45.07,18.7,Croatia,HR,HRV,Vukovarsko-Srijemska Županija,minor,9153.0,1191054836
+Imotski,Imotski,43.45,17.2167,Croatia,HR,HRV,Splitsko-Dalmatinska Županija,minor,9153.0,1191634308
+Pleternica,Pleternica,45.2833,17.8,Croatia,HR,HRV,Požeško-Slavonska Županija,minor,9138.0,1191772677
+Belišće,Belisce,45.6833,18.4,Croatia,HR,HRV,Osječko-Baranjska Županija,minor,8884.0,1191824256
+Zabok,Zabok,46.0333,15.9167,Croatia,HR,HRV,Krapinsko-Zagorska Županija,minor,8656.0,1191500303
+Vodice,Vodice,43.75,15.7667,Croatia,HR,HRV,Šibensko-Kninska Županija,minor,8649.0,1191637879
+Garešnica,Garesnica,45.5667,16.9333,Croatia,HR,HRV,Bjelovarsko-Bilogorska Županija,minor,8624.0,1191726833
+Pazin,Pazin,45.2403,13.9367,Croatia,HR,HRV,Istarska Županija,admin,8279.0,1191654566

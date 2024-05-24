@@ -1,0 +1,1451 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Bogotá,Bogota,4.7111,-74.0722,Colombia,CO,COL,Bogotá,primary,7968095.0,1170483426
+Medellín,Medellin,6.2308,-75.5906,Colombia,CO,COL,Antioquia,admin,2529403.0,1170680389
+Cali,Cali,3.4206,-76.5222,Colombia,CO,COL,Valle del Cauca,admin,2471474.0,1170417589
+Barranquilla,Barranquilla,10.9833,-74.8019,Colombia,CO,COL,Atlántico,admin,1326588.0,1170179113
+Cartagena,Cartagena,10.4,-75.5,Colombia,CO,COL,Bolívar,admin,914552.0,1170886102
+Bucaramanga,Bucaramanga,7.1333,-73.0,Colombia,CO,COL,Santander,admin,893040.0,1170940590
+Cúcuta,Cucuta,7.8942,-72.5039,Colombia,CO,COL,Norte de Santander,admin,806378.0,1170743755
+Palermo,Palermo,2.8917,-75.4375,Colombia,CO,COL,Huila,minor,800000.0,1170614290
+Soledad,Soledad,10.9167,-74.75,Colombia,CO,COL,Atlántico,minor,676014.0,1170765625
+Villavicencio,Villavicencio,4.15,-73.6333,Colombia,CO,COL,Meta,admin,664148.0,1170426927
+Pereira,Pereira,4.8143,-75.6946,Colombia,CO,COL,Risaralda,admin,590554.0,1170386718
+Bello,Bello,6.3333,-75.5667,Colombia,CO,COL,Antioquia,minor,561955.0,1170423489
+Valledupar,Valledupar,10.4833,-73.25,Colombia,CO,COL,Cesar,admin,544134.0,1170481949
+Ibagué,Ibague,4.4333,-75.2333,Colombia,CO,COL,Tolima,admin,541101.0,1170245063
+Montería,Monteria,8.75,-75.8833,Colombia,CO,COL,Córdoba,admin,523150.0,1170855299
+Soacha,Soacha,4.5872,-74.2214,Colombia,CO,COL,Cundinamarca,minor,522442.0,1170512000
+Santa Marta,Santa Marta,11.2419,-74.2053,Colombia,CO,COL,Magdalena,admin,515556.0,1170715594
+Manizales,Manizales,5.1,-75.55,Colombia,CO,COL,Caldas,admin,454494.0,1170930654
+Buenaventura,Buenaventura,3.8772,-77.0267,Colombia,CO,COL,Valle del Cauca,minor,423927.0,1170287988
+Pasto,Pasto,1.2078,-77.2772,Colombia,CO,COL,Nariño,admin,410835.0,1170320545
+Neiva,Neiva,2.9345,-75.2809,Colombia,CO,COL,Huila,admin,380019.0,1170159963
+Palmira,Palmira,3.5833,-76.25,Colombia,CO,COL,Valle del Cauca,minor,358895.0,1170969619
+Fontibón,Fontibon,4.6786,-74.1411,Colombia,CO,COL,Bogotá,,317179.0,1170780941
+Usme,Usme,4.4464,-74.1522,Colombia,CO,COL,Bogotá,,314431.0,1170556074
+Armenia,Armenia,4.53,-75.68,Colombia,CO,COL,Quindío,admin,301226.0,1170398459
+Popayán,Popayan,2.4542,-76.6092,Colombia,CO,COL,Cauca,admin,300837.0,1170764265
+Floridablanca,Floridablanca,7.2167,-73.0667,Colombia,CO,COL,Santander,minor,295724.0,1170331200
+Sincelejo,Sincelejo,9.295,-75.3961,Colombia,CO,COL,Sucre,admin,286716.0,1170364198
+Itagüí,Itagui,6.1667,-75.6167,Colombia,CO,COL,Antioquia,minor,276744.0,1170708072
+Envigado,Envigado,6.1667,-75.5667,Colombia,CO,COL,Antioquia,minor,228848.0,1170785909
+Tuluá,Tulua,4.0833,-76.2,Colombia,CO,COL,Valle del Cauca,minor,219138.0,1170721938
+Tumaco,Tumaco,1.8067,-78.7647,Colombia,CO,COL,Nariño,minor,212692.0,1170504978
+Barrancabermeja,Barrancabermeja,7.0667,-73.85,Colombia,CO,COL,Santander,minor,203537.0,1170362340
+Uripa,Uripa,11.9167,-72.0,Colombia,CO,COL,La Guajira,,198890.0,1170417561
+Zipaquirá,Zipaquira,5.0333,-74.0,Colombia,CO,COL,Cundinamarca,minor,196409.0,1170798590
+Florencia,Florencia,1.6139,-75.6128,Colombia,CO,COL,Caquetá,admin,191867.0,1170606634
+Turbo,Turbo,8.1,-76.7333,Colombia,CO,COL,Antioquia,minor,181000.0,1170426476
+Santander de Quilichao,Santander de Quilichao,3.0167,-76.4833,Colombia,CO,COL,Cauca,minor,180000.0,1170277699
+Dosquebradas,Dosquebradas,4.8333,-75.6833,Colombia,CO,COL,Risaralda,minor,179301.0,1170184135
+Fusagasugá,Fusagasuga,4.3452,-74.3618,Colombia,CO,COL,Cundinamarca,minor,170241.0,1170322047
+Ríohacha,Riohacha,11.5442,-72.9069,Colombia,CO,COL,La Guajira,admin,167865.0,1170903069
+Ipiales,Ipiales,0.8303,-77.6444,Colombia,CO,COL,Nariño,minor,166079.0,1170309931
+Tunja,Tunja,5.5333,-73.3667,Colombia,CO,COL,Boyacá,admin,163894.0,1170843027
+Girón,Giron,7.0708,-73.1731,Colombia,CO,COL,Santander,minor,160403.0,1170575968
+Piedecuesta,Piedecuesta,7.0833,-73.0,Colombia,CO,COL,Santander,minor,150483.0,1170759043
+Facatativá,Facatativa,4.8167,-74.3667,Colombia,CO,COL,Cundinamarca,minor,145080.0,1170830205
+Cartago,Cartago,4.7,-75.9167,Colombia,CO,COL,Valle del Cauca,minor,142902.0,1170225267
+Malambo,Malambo,10.85,-74.75,Colombia,CO,COL,Atlántico,minor,139566.0,1170794204
+Rionegro,Rionegro,6.1535,-75.3743,Colombia,CO,COL,Antioquia,minor,135465.0,1170000361
+Pitalito,Pitalito,1.8989,-76.0419,Colombia,CO,COL,Huila,minor,133205.0,1170820158
+Quibdó,Quibdo,5.6922,-76.6581,Colombia,CO,COL,Chocó,admin,130825.0,1170186734
+Jamundí,Jamundi,3.2667,-76.55,Colombia,CO,COL,Valle del Cauca,minor,130114.0,1170503987
+Girardot,Girardot,4.305,-74.8017,Colombia,CO,COL,Cundinamarca,minor,129834.0,1170838212
+Ciénaga,Cienaga,11.0069,-74.25,Colombia,CO,COL,Magdalena,minor,129414.0,1170825751
+Guadalajara de Buga,Guadalajara de Buga,3.9,-76.3019,Colombia,CO,COL,Valle del Cauca,minor,128945.0,1170472765
+Mosquera,Mosquera,4.7078,-74.2328,Colombia,CO,COL,Cundinamarca,minor,128012.0,1170751552
+Duitama,Duitama,5.8333,-73.0167,Colombia,CO,COL,Boyacá,minor,126670.0,1170695532
+Chía,Chia,4.85,-74.05,Colombia,CO,COL,Cundinamarca,minor,124309.0,1170046785
+Magangué,Magangue,9.25,-74.7667,Colombia,CO,COL,Bolívar,minor,123906.0,1170903510
+Maicao,Maicao,11.3778,-72.2389,Colombia,CO,COL,La Guajira,minor,123757.0,1170370871
+Apartadó,Apartado,7.8833,-76.6333,Colombia,CO,COL,Antioquia,minor,121003.0,1170483593
+Uribia,Uribia,11.9167,-72.0,Colombia,CO,COL,La Guajira,minor,117674.0,1170046204
+Ocaña,Ocana,8.2333,-73.35,Colombia,CO,COL,Norte de Santander,minor,116232.0,1170754105
+Sogamoso,Sogamoso,5.7167,-72.9208,Colombia,CO,COL,Boyacá,minor,116031.0,1170000109
+Turbaco,Turbaco,10.35,-75.3333,Colombia,CO,COL,Bolívar,minor,115000.0,1170194197
+Madrid,Madrid,4.7344,-74.2683,Colombia,CO,COL,Cundinamarca,minor,112254.0,1170693388
+Aguachica,Aguachica,8.3167,-73.6333,Colombia,CO,COL,Cesar,minor,109621.0,1170152591
+Yopal,Yopal,5.35,-72.41,Colombia,CO,COL,Casanare,admin,106822.0,1170295059
+Sabanalarga,Sabanalarga,6.85,-75.8167,Colombia,CO,COL,Antioquia,minor,100049.0,1170819531
+Arauca,Arauca,7.0903,-70.7617,Colombia,CO,COL,Arauca,admin,96814.0,1170322340
+Candelaria,Candelaria,3.4,-76.3833,Colombia,CO,COL,Valle del Cauca,minor,95413.0,1170406010
+Yumbo,Yumbo,3.585,-76.4958,Colombia,CO,COL,Valle del Cauca,minor,95072.0,1170917722
+Cereté,Cerete,8.8833,-75.8,Colombia,CO,COL,Córdoba,minor,94935.0,1170926689
+Los Patios,Los Patios,7.8333,-72.5167,Colombia,CO,COL,Norte de Santander,minor,94847.0,1170225535
+Funza,Funza,4.7167,-74.2167,Colombia,CO,COL,Cundinamarca,minor,90671.0,1170562658
+Fundación,Fundacion,10.5214,-74.1867,Colombia,CO,COL,Magdalena,minor,90514.0,1170906059
+Sahagún,Sahagun,8.95,-75.45,Colombia,CO,COL,Córdoba,minor,90487.0,1170230630
+Caucasia,Caucasia,7.9833,-75.2,Colombia,CO,COL,Antioquia,minor,90213.0,1170351945
+Montelíbano,Montelibano,7.975,-75.4208,Colombia,CO,COL,Córdoba,minor,88674.0,1170283887
+Caldas,Caldas,6.09,-75.638,Colombia,CO,COL,Antioquia,minor,85385.0,1170279867
+Chiquinquirá,Chiquinquira,5.6333,-73.75,Colombia,CO,COL,Boyacá,minor,85274.0,1170668478
+Sabanalarga,Sabanalarga,10.63,-74.9236,Colombia,CO,COL,Atlántico,minor,84410.0,1170724527
+Chigorodó,Chigorodo,7.6675,-76.6808,Colombia,CO,COL,Antioquia,minor,84183.0,1170787746
+Sabaneta,Sabaneta,6.15,-75.6,Colombia,CO,COL,Antioquia,minor,82375.0,1170000611
+Tierralta,Tierralta,7.9167,-76.1667,Colombia,CO,COL,Córdoba,minor,78770.0,1170909785
+Espinal,Espinal,4.2,-74.8333,Colombia,CO,COL,Tolima,minor,75828.0,1170084447
+Arjona,Arjona,10.2586,-75.3461,Colombia,CO,COL,Bolívar,minor,75615.0,1170602407
+Acacías,Acacias,3.9878,-73.7597,Colombia,CO,COL,Meta,minor,75252.0,1170420071
+Copacabana,Copacabana,6.3333,-75.5,Colombia,CO,COL,Antioquia,minor,73574.0,1170002661
+Santa Rosa de Cabal,Santa Rosa de Cabal,4.8667,-75.6167,Colombia,CO,COL,Risaralda,minor,73028.0,1170419801
+San Vicente del Caguán,San Vicente del Caguan,2.1167,-74.7667,Colombia,CO,COL,Caquetá,minor,72949.0,1170922792
+La Dorada,La Dorada,5.4538,-74.6647,Colombia,CO,COL,Caldas,minor,72925.0,1170734727
+Turbaná,Turbana,10.2833,-75.45,Colombia,CO,COL,Bolívar,minor,72168.0,1170487782
+El Banco,El Banco,8.9983,-73.9747,Colombia,CO,COL,Magdalena,minor,72131.0,1170111607
+San Andrés,San Andres,12.5847,-81.7006,Colombia,CO,COL,San Andrés y Providencia,admin,71946.0,1170563968
+Calarcá,Calarca,4.5333,-75.65,Colombia,CO,COL,Quindío,minor,71605.0,1170442353
+La Estrella,La Estrella,6.1667,-75.6667,Colombia,CO,COL,Antioquia,minor,71545.0,1170386533
+Corozal,Corozal,9.3333,-75.25,Colombia,CO,COL,Sucre,minor,70853.0,1170958484
+Villa del Rosario,Villa del Rosario,7.8353,-72.4736,Colombia,CO,COL,Norte de Santander,minor,69833.0,1170700232
+Garzón,Garzon,2.1819,-75.6578,Colombia,CO,COL,Huila,minor,69823.0,1170149755
+Planeta Rica,Planeta Rica,8.4089,-75.5819,Colombia,CO,COL,Córdoba,minor,69285.0,1170924519
+Necoclí,Necocli,8.4167,-76.7833,Colombia,CO,COL,Antioquia,minor,69090.0,1170745269
+San José del Guaviare,San Jose del Guaviare,2.5667,-72.6333,Colombia,CO,COL,Guaviare,admin,68878.0,1170839384
+Manaure,Manaure,11.7792,-72.4494,Colombia,CO,COL,La Guajira,minor,67584.0,1170534927
+El Carmen de Bolívar,El Carmen de Bolivar,9.7167,-75.1333,Colombia,CO,COL,Bolívar,minor,66001.0,1170394868
+La Ceja,La Ceja,6.0306,-75.4317,Colombia,CO,COL,Antioquia,minor,64889.0,1170869906
+Marinilla,Marinilla,6.1738,-75.3347,Colombia,CO,COL,Antioquia,minor,64645.0,1170499821
+Ciénaga de Oro,Cienaga de Oro,8.8833,-75.6167,Colombia,CO,COL,Córdoba,minor,64226.0,1170711004
+Puerto Asís,Puerto Asis,0.5167,-76.5,Colombia,CO,COL,Putumayo,minor,63067.0,1170627964
+Carmen de Viboral,Carmen de Viboral,6.0833,-75.3333,Colombia,CO,COL,Antioquia,minor,62581.0,1170768757
+Riosucio,Riosucio,5.4208,-75.7025,Colombia,CO,COL,Caldas,minor,62296.0,1170642933
+Plato,Plato,9.7919,-74.7872,Colombia,CO,COL,Magdalena,minor,61856.0,1170202938
+La Plata,La Plata,2.39,-75.9075,Colombia,CO,COL,Huila,minor,61026.0,1170531527
+Villamaría,Villamaria,5.0,-75.5,Colombia,CO,COL,Caldas,minor,60729.0,1170294681
+Galapa,Galapa,10.9167,-74.8333,Colombia,CO,COL,Atlántico,minor,60708.0,1170611900
+San Marcos,San Marcos,8.6611,-75.1347,Colombia,CO,COL,Sucre,minor,59976.0,1170680965
+Florida,Florida,3.3275,-76.2386,Colombia,CO,COL,Valle del Cauca,minor,58988.0,1170190923
+Pradera,Pradera,3.4167,-76.1667,Colombia,CO,COL,Valle del Cauca,minor,57990.0,1170774780
+Orito,Orito,0.6661,-76.8708,Colombia,CO,COL,Putumayo,minor,57774.0,1170380074
+Riosucio,Riosucio,7.4406,-77.1189,Colombia,CO,COL,Chocó,minor,57220.0,1170229854
+Puerto Boyacá,Puerto Boyaca,6.0,-74.4167,Colombia,CO,COL,Boyacá,minor,56930.0,1170291040
+El Cerrito,El Cerrito,3.6667,-76.1667,Colombia,CO,COL,Valle del Cauca,minor,56470.0,1170510590
+Mocoa,Mocoa,1.15,-76.6475,Colombia,CO,COL,Putumayo,admin,56398.0,1170970726
+Saravena,Saravena,6.9556,-71.8722,Colombia,CO,COL,Arauca,minor,55554.0,1170587428
+Valle del Guamuez,Valle del Guamuez,0.4253,-76.9053,Colombia,CO,COL,Putumayo,,54237.0,1170672638
+Cajicá,Cajica,4.9167,-74.0333,Colombia,CO,COL,Cundinamarca,minor,54111.0,1170852541
+Puerto Libertador,Puerto Libertador,7.9067,-75.6733,Colombia,CO,COL,Córdoba,minor,53990.0,1170000625
+Tame,Tame,6.4667,-71.7333,Colombia,CO,COL,Arauca,minor,53266.0,1170459811
+Barbosa,Barbosa,6.439,-75.333,Colombia,CO,COL,Antioquia,minor,53167.0,1170859178
+Lorica,Lorica,9.2419,-75.816,Colombia,CO,COL,Córdoba,minor,52771.0,1170094504
+San Onofre,San Onofre,9.7333,-75.5333,Colombia,CO,COL,Sucre,minor,51991.0,1170481491
+San Gil,San Gil,6.5592,-73.135,Colombia,CO,COL,Santander,minor,51874.0,1170310004
+El Bagre,El Bagre,7.5942,-74.8119,Colombia,CO,COL,Antioquia,minor,51862.0,1170419984
+Baranoa,Baranoa,10.8,-74.9167,Colombia,CO,COL,Atlántico,minor,51730.0,1170983977
+Girardota,Girardota,6.3764,-75.4473,Colombia,CO,COL,Antioquia,minor,51662.0,1170812272
+Guarne,Guarne,6.28,-75.4427,Colombia,CO,COL,Antioquia,minor,51265.0,1170977229
+Chinchiná,Chinchina,4.9825,-75.6036,Colombia,CO,COL,Caldas,minor,50673.0,1170836479
+Chinú,Chinu,9.0833,-75.3333,Colombia,CO,COL,Córdoba,minor,50313.0,1170780523
+Pamplona,Pamplona,7.3781,-72.6525,Colombia,CO,COL,Norte de Santander,minor,50025.0,1170275020
+Cimitarra,Cimitarra,6.3167,-73.95,Colombia,CO,COL,Santander,minor,49593.0,1170205431
+San Juan del Cesar,San Juan del Cesar,10.7667,-73.0,Colombia,CO,COL,La Guajira,minor,49584.0,1170398526
+María la Baja,Maria la Baja,10.0,-75.3333,Colombia,CO,COL,Bolívar,minor,49462.0,1170699582
+Agustín Codazzi,Agustin Codazzi,10.0367,-73.2369,Colombia,CO,COL,Cesar,minor,49233.0,1170077466
+Samaniego,Samaniego,1.35,-77.6,Colombia,CO,COL,Nariño,minor,49178.0,1170018906
+Carepa,Carepa,7.7578,-76.6553,Colombia,CO,COL,Antioquia,minor,47932.0,1170091679
+La Vega,La Vega,2.0008,-76.7778,Colombia,CO,COL,Cauca,minor,47417.0,1170000228
+Chaparral,Chaparral,3.7236,-75.4847,Colombia,CO,COL,Tolima,minor,47397.0,1170193964
+San Andrés de Sotavento,San Andres de Sotavento,9.15,-75.5,Colombia,CO,COL,Córdoba,minor,47282.0,1170392574
+Ayapel,Ayapel,8.3167,-75.15,Colombia,CO,COL,Córdoba,minor,47247.0,1170146577
+Urrao,Urrao,6.3156,-76.1342,Colombia,CO,COL,Antioquia,minor,47128.0,1170571210
+Zarzal,Zarzal,4.3983,-76.0772,Colombia,CO,COL,Valle del Cauca,minor,47062.0,1170495189
+Valencia,Valencia,8.2592,-76.1469,Colombia,CO,COL,Córdoba,minor,46897.0,1170188761
+La Jagua de Ibirico,La Jagua de Ibirico,9.5667,-73.3333,Colombia,CO,COL,Cesar,minor,46722.0,1170526836
+Puerto Tejada,Puerto Tejada,3.25,-76.4167,Colombia,CO,COL,Cauca,minor,46166.0,1170475909
+Ortega,Ortega,3.9167,-75.25,Colombia,CO,COL,Tolima,minor,45524.0,1170797038
+San Pelayo,San Pelayo,8.9667,-75.85,Colombia,CO,COL,Córdoba,minor,45396.0,1170248105
+Bolívar,Bolivar,1.9708,-76.9694,Colombia,CO,COL,Cauca,minor,44864.0,1170620269
+Arboletes,Arboletes,8.8517,-76.4283,Colombia,CO,COL,Antioquia,minor,44560.0,1170052299
+Piendamó,Piendamo,2.6408,-76.5284,Colombia,CO,COL,Cauca,minor,44535.0,1170889555
+Villeta,Villeta,5.0083,-74.4738,Colombia,CO,COL,Cundinamarca,minor,43574.0,1170441862
+Andes,Andes,5.5833,-75.9167,Colombia,CO,COL,Antioquia,minor,43269.0,1170727383
+Aguazul,Aguazul,5.1731,-72.5547,Colombia,CO,COL,Casanare,minor,43183.0,1170359050
+Cumaribo,Cumaribo,4.4333,-69.8,Colombia,CO,COL,Vichada,minor,43138.0,1170966663
+Puerto Colombia,Puerto Colombia,11.0167,-74.8833,Colombia,CO,COL,Atlántico,minor,42803.0,1170869718
+Miranda,Miranda,3.25,-76.25,Colombia,CO,COL,Cauca,minor,42639.0,1170512860
+El Charco,El Charco,2.4775,-78.1111,Colombia,CO,COL,Nariño,minor,42525.0,1170354433
+Cáceres,Caceres,7.6667,-75.3333,Colombia,CO,COL,Antioquia,minor,42112.0,1170859204
+Santa Rosa del Sur,Santa Rosa del Sur,7.9667,-74.05,Colombia,CO,COL,Bolívar,minor,42003.0,1170579856
+Montenegro,Montenegro,4.5671,-75.7504,Colombia,CO,COL,Quindío,minor,41857.0,1170267706
+Pueblo Nuevo,Pueblo Nuevo,8.5008,-75.5072,Colombia,CO,COL,Córdoba,minor,41684.0,1170000348
+Yarumal,Yarumal,7.0,-75.5,Colombia,CO,COL,Antioquia,minor,41542.0,1170371045
+Puerto Gaitán,Puerto Gaitan,4.3142,-72.0825,Colombia,CO,COL,Meta,minor,41513.0,1170781522
+Tuchín,Tuchin,9.1833,-75.55,Colombia,CO,COL,Córdoba,minor,41345.0,1170331155
+Arauquita,Arauquita,7.0303,-71.4356,Colombia,CO,COL,Arauca,minor,41309.0,1170159021
+Túquerres,Tuquerres,1.0833,-77.6167,Colombia,CO,COL,Nariño,minor,41205.0,1170724789
+Sevilla,Sevilla,4.2689,-75.9361,Colombia,CO,COL,Valle del Cauca,minor,41153.0,1170453618
+Guaduas,Guaduas,5.0694,-74.5981,Colombia,CO,COL,Cundinamarca,minor,41142.0,1170513211
+Segovia,Segovia,7.0781,-74.7017,Colombia,CO,COL,Antioquia,minor,41000.0,1170027654
+Pie de Pató,Pie de Pato,5.5333,-77.0,Colombia,CO,COL,Chocó,minor,40733.0,1170030072
+Bosconia,Bosconia,9.9761,-73.8903,Colombia,CO,COL,Cesar,minor,40562.0,1170142290
+Cumbal,Cumbal,0.9078,-77.7908,Colombia,CO,COL,Nariño,minor,40492.0,1170478415
+Aracataca,Aracataca,10.5937,-74.1928,Colombia,CO,COL,Magdalena,minor,40400.0,1170335661
+La Unión,La Union,3.6539,-76.5722,Colombia,CO,COL,Valle del Cauca,minor,40339.0,1170145484
+Acevedo,Acevedo,1.8192,-75.8964,Colombia,CO,COL,Huila,minor,39877.0,1170946838
+Líbano,Libano,4.9167,-75.1667,Colombia,CO,COL,Tolima,minor,39665.0,1170994564
+Fonseca,Fonseca,10.8333,-72.8333,Colombia,CO,COL,La Guajira,minor,39662.0,1170493430
+Villa de San Diego de Ubaté,Villa de San Diego de Ubate,5.3072,-73.8144,Colombia,CO,COL,Cundinamarca,minor,39568.0,1170489797
+La Tebaida,La Tebaida,4.45,-75.8,Colombia,CO,COL,Quindío,minor,39498.0,1170920731
+Puerto Berrío,Puerto Berrio,6.49,-74.4025,Colombia,CO,COL,Antioquia,minor,39314.0,1170372171
+Tarazá,Taraza,7.5881,-75.4028,Colombia,CO,COL,Antioquia,minor,39257.0,1170830485
+Barbacoas,Barbacoas,1.6717,-78.1397,Colombia,CO,COL,Nariño,minor,38708.0,1170561863
+Cajibío,Cajibio,2.6333,-76.6333,Colombia,CO,COL,Cauca,minor,38703.0,1170570874
+Ábrego,Abrego,8.0,-73.2,Colombia,CO,COL,Norte de Santander,minor,38627.0,1170272362
+Sibaté,Sibate,4.4908,-74.2594,Colombia,CO,COL,Cundinamarca,minor,38412.0,1170223176
+Barrancas,Barrancas,11.0,-72.75,Colombia,CO,COL,La Guajira,minor,38232.0,1170612474
+Sampués,Sampues,9.1833,-75.3833,Colombia,CO,COL,Sucre,minor,37925.0,1170198440
+Dibulla,Dibulla,11.2667,-73.3,Colombia,CO,COL,La Guajira,minor,37854.0,1170252076
+Patía,Patia,2.1667,-77.0833,Colombia,CO,COL,Cauca,,37781.0,1170437187
+San Sebastián de Mariquita,San Sebastian de Mariquita,5.25,-74.9167,Colombia,CO,COL,Tolima,minor,37770.0,1170963203
+El Bordo,El Bordo,2.1667,-77.0833,Colombia,CO,COL,Cauca,minor,37504.0,1170827287
+Santa Rosa de Osos,Santa Rosa de Osos,6.65,-75.4667,Colombia,CO,COL,Antioquia,minor,37435.0,1170188464
+Tibú,Tibu,8.65,-72.7333,Colombia,CO,COL,Norte de Santander,minor,37286.0,1170518089
+Melgar,Melgar,4.2039,-74.6428,Colombia,CO,COL,Tolima,minor,37224.0,1170387585
+Dagua,Dagua,3.6667,-76.7,Colombia,CO,COL,Valle del Cauca,minor,36891.0,1170326563
+La Macarena,La Macarena,2.1828,-73.7847,Colombia,CO,COL,Meta,minor,36781.0,1170049072
+Anserma,Anserma,5.2381,-75.784,Colombia,CO,COL,Caldas,minor,36691.0,1170000614
+Belalcázar,Belalcazar,2.6469,-75.9717,Colombia,CO,COL,Cauca,minor,36628.0,1170676223
+Sonsón,Sonson,5.7097,-75.3108,Colombia,CO,COL,Antioquia,minor,36445.0,1170000118
+Tocancipá,Tocancipa,4.9657,-73.9136,Colombia,CO,COL,Cundinamarca,minor,36439.0,1170000496
+San Pablo,San Pablo,7.4825,-73.925,Colombia,CO,COL,Bolívar,minor,36341.0,1170480324
+San Bernardo del Viento,San Bernardo del Viento,9.35,-75.95,Colombia,CO,COL,Córdoba,minor,36200.0,1170684147
+Santiago de Tolú,Santiago de Tolu,9.5333,-75.5833,Colombia,CO,COL,Sucre,minor,35670.0,1170666994
+Guacarí,Guacari,3.7667,-76.3333,Colombia,CO,COL,Valle del Cauca,minor,35662.0,1170383272
+Gigante,Gigante,2.3867,-75.5461,Colombia,CO,COL,Huila,minor,35498.0,1170264129
+Cartagena del Chairá,Cartagena del Chaira,1.35,-74.8333,Colombia,CO,COL,Caquetá,minor,35473.0,1170248005
+Santuario,Santuario,6.1375,-75.2639,Colombia,CO,COL,Antioquia,minor,35422.0,1170679272
+Yarumal,Yarumal,7.0306,-75.5905,Colombia,CO,COL,Antioquia,,35315.0,1170196021
+Quimbaya,Quimbaya,4.6333,-75.75,Colombia,CO,COL,Quindío,minor,35276.0,1170735319
+Buenos Aires,Buenos Aires,2.9167,-76.6667,Colombia,CO,COL,Cauca,minor,35197.0,1170770289
+Puerto López,Puerto Lopez,4.0872,-72.9606,Colombia,CO,COL,Meta,minor,35097.0,1170290556
+San Luis de Sincé,San Luis de Since,9.25,-75.15,Colombia,CO,COL,Sucre,minor,35022.0,1170323001
+Campoalegre,Campoalegre,2.6867,-75.3256,Colombia,CO,COL,Huila,minor,34923.0,1170655224
+Caldono,Caldono,2.8,-76.5333,Colombia,CO,COL,Cauca,minor,34132.0,1170589443
+San Agustín,San Agustin,1.9,-76.2833,Colombia,CO,COL,Huila,minor,34120.0,1170663571
+San Juan Nepomuceno,San Juan Nepomuceno,9.95,-75.0833,Colombia,CO,COL,Bolívar,minor,34012.0,1170645816
+Majagual,Majagual,8.5,-74.6667,Colombia,CO,COL,Sucre,minor,34010.0,1170046110
+Quinchía,Quinchia,5.3379,-75.7296,Colombia,CO,COL,Risaralda,minor,34005.0,1170201227
+Timbío,Timbio,2.3445,-76.6839,Colombia,CO,COL,Cauca,minor,33883.0,1170815311
+Puerto Rico,Puerto Rico,1.9142,-75.145,Colombia,CO,COL,Caquetá,minor,33765.0,1170209030
+Roldanillo,Roldanillo,4.4167,-76.15,Colombia,CO,COL,Valle del Cauca,minor,33697.0,1170267836
+San Antero,San Antero,9.3833,-75.75,Colombia,CO,COL,Córdoba,minor,33662.0,1170032632
+Leticia,Leticia,-4.2167,-69.9333,Colombia,CO,COL,Amazonas,admin,33503.0,1170548641
+Corinto,Corinto,3.1739,-76.2594,Colombia,CO,COL,Cauca,minor,33489.0,1170948905
+Sabanagrande,Sabanagrande,10.8,-74.75,Colombia,CO,COL,Atlántico,minor,33437.0,1170578455
+Pivijay,Pivijay,10.4667,-74.6167,Colombia,CO,COL,Magdalena,minor,33225.0,1170978231
+Puebloviejo,Puebloviejo,10.9972,-74.2875,Colombia,CO,COL,Magdalena,minor,33030.0,1170245441
+Bocas de Satinga,Bocas de Satinga,2.3469,-78.3256,Colombia,CO,COL,Nariño,minor,32759.0,1170318285
+Puerto Escondido,Puerto Escondido,8.95,-76.25,Colombia,CO,COL,Córdoba,minor,32745.0,1170484515
+La Mesa,La Mesa,4.6303,-74.4625,Colombia,CO,COL,Cundinamarca,minor,32694.0,1170000629
+Silvia,Silvia,2.6167,-76.3833,Colombia,CO,COL,Cauca,minor,32692.0,1170405315
+Cota,Cota,4.8167,-74.1,Colombia,CO,COL,Cundinamarca,minor,32691.0,1170708586
+El Difícil,El Dificil,9.85,-74.2386,Colombia,CO,COL,Magdalena,minor,32637.0,1170207587
+Inzá,Inza,2.5503,-76.0636,Colombia,CO,COL,Cauca,minor,32582.0,1170048803
+La Virginia,La Virginia,4.9167,-75.8333,Colombia,CO,COL,Risaralda,minor,32330.0,1170879762
+San Pedro de Urabá,San Pedro de Uraba,8.2833,-76.3833,Colombia,CO,COL,Antioquia,minor,32328.0,1170185600
+Remedios,Remedios,7.0275,-74.6939,Colombia,CO,COL,Antioquia,minor,32057.0,1170639594
+Santo Tomás,Santo Tomas,10.7667,-74.9167,Colombia,CO,COL,Atlántico,minor,32000.0,1170972056
+Paipa,Paipa,5.8333,-73.15,Colombia,CO,COL,Boyacá,minor,31868.0,1170592144
+Guachavés,Guachaves,1.2219,-77.6772,Colombia,CO,COL,Nariño,minor,31856.0,1170755614
+Sitionuevo,Sitionuevo,10.7833,-74.7167,Colombia,CO,COL,Magdalena,minor,31706.0,1170226891
+Puerto Wilches,Puerto Wilches,7.35,-73.9,Colombia,CO,COL,Santander,minor,31509.0,1170389077
+Neira,Neira,5.1664,-75.5189,Colombia,CO,COL,Caldas,minor,31399.0,1170186315
+Guamo,Guamo,4.0833,-74.9167,Colombia,CO,COL,Tolima,minor,31350.0,1170113847
+Socorro,Socorro,6.5333,-73.2,Colombia,CO,COL,Santander,minor,31115.0,1170793746
+Toribío,Toribio,2.9581,-76.2714,Colombia,CO,COL,Cauca,minor,30654.0,1170262354
+Amagá,Amaga,6.05,-75.7,Colombia,CO,COL,Antioquia,minor,30376.0,1170092259
+Chimichagua,Chimichagua,9.25,-73.8167,Colombia,CO,COL,Cesar,minor,30303.0,1170174620
+Planadas,Planadas,3.1964,-75.6444,Colombia,CO,COL,Tolima,minor,30117.0,1170444880
+Fresno,Fresno,5.1556,-75.0403,Colombia,CO,COL,Tolima,minor,29794.0,1170216002
+Tabio,Tabio,4.9158,-74.0983,Colombia,CO,COL,Cundinamarca,minor,29731.0,1170060372
+Barbosa,Barbosa,5.933,-73.621,Colombia,CO,COL,Santander,minor,29581.0,1170376059
+Purificación,Purificacion,3.8667,-74.9333,Colombia,CO,COL,Tolima,minor,29539.0,1170787107
+Flandes,Flandes,4.2833,-74.8,Colombia,CO,COL,Tolima,minor,29478.0,1170495426
+Aipe,Aipe,3.2167,-75.2333,Colombia,CO,COL,Huila,minor,29177.0,1170334427
+Sopó,Sopo,4.9167,-73.9333,Colombia,CO,COL,Cundinamarca,minor,29120.0,1170179207
+Moñitos,Monitos,9.2503,-76.1325,Colombia,CO,COL,Córdoba,minor,29117.0,1170797471
+La Dorada,La Dorada,0.3436,-76.9108,Colombia,CO,COL,Putumayo,minor,28982.0,1170206428
+La Calera,La Calera,4.7531,-73.92,Colombia,CO,COL,Cundinamarca,minor,28908.0,1170042987
+Caicedonia,Caicedonia,4.3333,-75.8333,Colombia,CO,COL,Valle del Cauca,minor,28825.0,1170729476
+San Carlos,San Carlos,8.8006,-75.7022,Colombia,CO,COL,Córdoba,minor,28597.0,1170505254
+El Copey,El Copey,10.15,-73.9667,Colombia,CO,COL,Cesar,minor,28550.0,1170203188
+Isnos,Isnos,1.9333,-76.2333,Colombia,CO,COL,Huila,minor,28530.0,1170081298
+Puerto Leguízamo,Puerto Leguizamo,-0.1939,-74.7806,Colombia,CO,COL,Putumayo,minor,28468.0,1170882938
+Coyaima,Coyaima,3.8333,-75.0833,Colombia,CO,COL,Tolima,minor,28443.0,1170700858
+Mitú,Mitu,1.1983,-70.1733,Colombia,CO,COL,Vaupés,admin,28382.0,1170846096
+Villanueva,Villanueva,10.6,-72.9833,Colombia,CO,COL,La Guajira,minor,28346.0,1170525155
+Guamal,Guamal,9.1472,-74.23,Colombia,CO,COL,Magdalena,minor,28277.0,1170423757
+San Vicente de Chucurí,San Vicente de Chucuri,6.8833,-73.4167,Colombia,CO,COL,Santander,minor,28084.0,1170349085
+Pacho,Pacho,5.1306,-74.1583,Colombia,CO,COL,Cundinamarca,minor,27977.0,1170161563
+Palmar de Varela,Palmar de Varela,10.75,-74.75,Colombia,CO,COL,Atlántico,minor,27728.0,1170543827
+Argelia,Argelia,2.2431,-77.2786,Colombia,CO,COL,Cauca,minor,27670.0,1170028016
+Supía,Supia,5.4667,-75.65,Colombia,CO,COL,Caldas,minor,27489.0,1170656633
+Ciudad Bolívar,Ciudad Bolivar,5.85,-76.0333,Colombia,CO,COL,Antioquia,minor,27458.0,1170990931
+Tauramena,Tauramena,5.0167,-72.75,Colombia,CO,COL,Casanare,minor,27178.0,1170457009
+San Juan de Urabá,San Juan de Uraba,8.7667,-76.5333,Colombia,CO,COL,Antioquia,minor,27149.0,1170070547
+Pueblo Bello,Pueblo Bello,10.4167,-73.5833,Colombia,CO,COL,Cesar,minor,27007.0,1170551166
+Chiriguaná,Chiriguana,9.3667,-73.6,Colombia,CO,COL,Cesar,minor,27006.0,1170624254
+Albania,Albania,11.1597,-72.5856,Colombia,CO,COL,La Guajira,minor,26940.0,1170788671
+Fortul,Fortul,6.7922,-71.7756,Colombia,CO,COL,Arauca,minor,26798.0,1170737836
+Morales,Morales,2.7603,-76.6339,Colombia,CO,COL,Cauca,minor,26707.0,1170455752
+Los Córdobas,Los Cordobas,8.9,-76.3667,Colombia,CO,COL,Córdoba,minor,26705.0,1170780435
+Circasia,Circasia,4.6167,-75.6333,Colombia,CO,COL,Quindío,minor,26705.0,1170367133
+San Benito Abad,San Benito Abad,8.9333,-75.0333,Colombia,CO,COL,Sucre,minor,26595.0,1170661666
+San Alberto,San Alberto,7.7525,-73.3892,Colombia,CO,COL,Cesar,minor,26551.0,1170270470
+Balboa,Balboa,2.0436,-77.2197,Colombia,CO,COL,Cauca,minor,26384.0,1170412260
+Pensilvania,Pensilvania,5.5,-75.0833,Colombia,CO,COL,Caldas,minor,26342.0,1170749751
+Paz de Ariporo,Paz de Ariporo,5.8833,-71.9,Colombia,CO,COL,Casanare,minor,26237.0,1170610185
+Buesaco,Buesaco,1.3833,-77.1667,Colombia,CO,COL,Nariño,minor,26229.0,1170721996
+Mahates,Mahates,10.2333,-75.1833,Colombia,CO,COL,Bolívar,minor,26075.0,1170291893
+Istmina,Istmina,5.1667,-76.6833,Colombia,CO,COL,Chocó,minor,25981.0,1170211056
+Santa Ana,Santa Ana,9.319,-74.57,Colombia,CO,COL,Magdalena,minor,25938.0,1170325175
+San Martín,San Martin,3.6969,-73.6986,Colombia,CO,COL,Meta,minor,25902.0,1170677493
+Nechí,Nechi,8.1,-74.7833,Colombia,CO,COL,Antioquia,minor,25790.0,1170181619
+Yolombó,Yolombo,6.5978,-75.0122,Colombia,CO,COL,Antioquia,minor,25647.0,1170796377
+Solano,Solano,0.6983,-75.2539,Colombia,CO,COL,Caquetá,minor,25546.0,1170616766
+Vistahermosa,Vistahermosa,3.1239,-73.7514,Colombia,CO,COL,Meta,minor,25461.0,1170088623
+San José,San Jose,1.6967,-78.2453,Colombia,CO,COL,Nariño,minor,25433.0,1170557399
+Caloto,Caloto,3.0333,-76.4167,Colombia,CO,COL,Cauca,minor,25416.0,1170219131
+Belén de Umbría,Belen de Umbria,5.2,-75.8667,Colombia,CO,COL,Risaralda,minor,25276.0,1170015614
+La Unión,La Union,1.6019,-77.1317,Colombia,CO,COL,Nariño,minor,25270.0,1170740769
+Chocontá,Choconta,5.1467,-73.6825,Colombia,CO,COL,Cundinamarca,minor,25257.0,1170690374
+Sandoná,Sandona,1.2833,-77.4667,Colombia,CO,COL,Nariño,minor,25220.0,1170586561
+Pinillos,Pinillos,8.9167,-74.4667,Colombia,CO,COL,Bolívar,minor,24923.0,1170148335
+Villanueva,Villanueva,4.6087,-72.9288,Colombia,CO,COL,Casanare,minor,24740.0,1170495463
+Algeciras,Algeciras,2.5333,-75.3167,Colombia,CO,COL,Huila,minor,24708.0,1170438880
+Santa Rosa,Santa Rosa,10.4456,-75.3686,Colombia,CO,COL,Bolívar,minor,24694.0,1170627978
+Calamar,Calamar,10.25,-74.9158,Colombia,CO,COL,Bolívar,minor,24573.0,1170252193
+El Retorno,El Retorno,2.3306,-72.6278,Colombia,CO,COL,Guaviare,minor,24562.0,1170783770
+Valdivia,Valdivia,7.289,-75.398,Colombia,CO,COL,Antioquia,minor,24538.0,1170000617
+Puerto Guzmán,Puerto Guzman,0.9667,-76.5833,Colombia,CO,COL,Putumayo,minor,24355.0,1170853414
+Donmatías,Donmatias,6.4833,-75.4333,Colombia,CO,COL,Antioquia,minor,24201.0,1170287770
+Rioblanco,Rioblanco,3.5,-75.8333,Colombia,CO,COL,Tolima,minor,24139.0,1170893363
+Marsella,Marsella,4.9167,-75.75,Colombia,CO,COL,Risaralda,minor,24131.0,1170787775
+Cogua,Cogua,5.0667,-73.9833,Colombia,CO,COL,Cundinamarca,minor,24092.0,1170991139
+Zaragoza,Zaragoza,7.494,-74.871,Colombia,CO,COL,Antioquia,minor,24067.0,1170606958
+Guapí,Guapi,2.5703,-77.8856,Colombia,CO,COL,Cauca,minor,24037.0,1170811574
+El Zulia,El Zulia,7.9333,-72.6,Colombia,CO,COL,Norte de Santander,minor,23921.0,1170321590
+Hatonuevo,Hatonuevo,11.0694,-72.7669,Colombia,CO,COL,La Guajira,minor,23911.0,1170166285
+Honda,Honda,5.2042,-74.7417,Colombia,CO,COL,Tolima,minor,23830.0,1170848069
+Ituango,Ituango,7.1667,-75.75,Colombia,CO,COL,Antioquia,minor,23784.0,1170490299
+Villanueva,Villanueva,10.4456,-75.2761,Colombia,CO,COL,Bolívar,minor,23777.0,1170676204
+El Paso,El Paso,9.6622,-73.7519,Colombia,CO,COL,Cesar,minor,23534.0,1170404892
+Canalete,Canalete,8.79,-76.2411,Colombia,CO,COL,Córdoba,minor,23520.0,1170068172
+Teorama,Teorama,8.4353,-73.2864,Colombia,CO,COL,Norte de Santander,minor,23381.0,1170297865
+San José,San Jose,1.4744,-77.0836,Colombia,CO,COL,Nariño,minor,23279.0,1170922261
+Puerto Concordia,Puerto Concordia,2.6833,-72.7667,Colombia,CO,COL,Meta,minor,23131.0,1170046908
+Achí,Achi,8.5667,-74.55,Colombia,CO,COL,Bolívar,minor,23051.0,1170684229
+Curumaní,Curumani,9.2,-73.55,Colombia,CO,COL,Cesar,minor,23018.0,1170847203
+Dabeiba,Dabeiba,7.0,-76.25,Colombia,CO,COL,Antioquia,minor,22954.0,1170194523
+Luruaco,Luruaco,10.6083,-75.1417,Colombia,CO,COL,Atlántico,minor,22878.0,1170268775
+Rivera,Rivera,2.7853,-75.2589,Colombia,CO,COL,Huila,minor,22877.0,1170362771
+Guadalupe,Guadalupe,2.025,-75.7572,Colombia,CO,COL,Huila,minor,22867.0,1170375870
+Ataco,Ataco,3.6,-75.3833,Colombia,CO,COL,Tolima,minor,22818.0,1170693038
+Amalfi,Amalfi,6.9167,-75.0833,Colombia,CO,COL,Antioquia,minor,22714.0,1170542286
+Buenavista,Buenavista,8.6833,-75.25,Colombia,CO,COL,Córdoba,minor,22711.0,1170230620
+Manzanares,Manzanares,5.2519,-75.1569,Colombia,CO,COL,Caldas,minor,22623.0,1170983089
+Santa Fe de Antioquia,Santa Fe de Antioquia,6.55,-75.8167,Colombia,CO,COL,Antioquia,minor,22613.0,1170034183
+Sardinata,Sardinata,8.0833,-72.8,Colombia,CO,COL,Norte de Santander,minor,22583.0,1170154538
+Sabana de Torres,Sabana de Torres,7.4,-73.5,Colombia,CO,COL,Santander,minor,22512.0,1170400571
+Mutatá,Mutata,7.2442,-76.4358,Colombia,CO,COL,Antioquia,minor,22505.0,1170918759
+Sucre,Sucre,8.8139,-74.7253,Colombia,CO,COL,Sucre,minor,22480.0,1170782443
+Natagaima,Natagaima,3.5833,-75.0833,Colombia,CO,COL,Tolima,minor,22320.0,1170715642
+El Doncello,El Doncello,1.6833,-75.2833,Colombia,CO,COL,Caquetá,minor,22306.0,1170237364
+El Colegio,El Colegio,4.5808,-74.4425,Colombia,CO,COL,Cundinamarca,minor,22247.0,1170000628
+Repelón,Repelon,10.55,-75.1333,Colombia,CO,COL,Atlántico,minor,22196.0,1170326698
+Pailitas,Pailitas,8.9667,-73.6333,Colombia,CO,COL,Cesar,minor,22083.0,1170355661
+Timbiquí,Timbiqui,2.7667,-77.6333,Colombia,CO,COL,Cauca,minor,22077.0,1170187722
+Tiquisio,Tiquisio,8.5667,-74.2667,Colombia,CO,COL,Bolívar,minor,22041.0,1170823883
+Silvania,Silvania,4.4033,-74.3881,Colombia,CO,COL,Cundinamarca,minor,22020.0,1170709496
+Taminango,Taminango,1.5667,-77.2833,Colombia,CO,COL,Nariño,minor,21985.0,1170223532
+Villa de Leyva,Villa de Leyva,5.6333,-73.5333,Colombia,CO,COL,Boyacá,minor,21953.0,1170607364
+Los Palmitos,Los Palmitos,9.3811,-75.2714,Colombia,CO,COL,Sucre,minor,21831.0,1170000253
+Ginebra,Ginebra,3.7244,-76.2672,Colombia,CO,COL,Valle del Cauca,minor,21815.0,1170109956
+Puerto Triunfo,Puerto Triunfo,5.8667,-74.65,Colombia,CO,COL,Antioquia,minor,21745.0,1170980494
+San Jacinto,San Jacinto,9.8311,-75.1219,Colombia,CO,COL,Bolívar,minor,21644.0,1170354916
+Nueva Granada,Nueva Granada,9.8031,-74.3903,Colombia,CO,COL,Magdalena,minor,21612.0,1170955196
+Galeras,Galeras,9.1667,-75.05,Colombia,CO,COL,Sucre,minor,21548.0,1170148348
+Villagarzón,Villagarzon,1.0294,-76.6164,Colombia,CO,COL,Putumayo,minor,21507.0,1170786448
+San Bernardo,San Bernardo,1.5108,-77.0467,Colombia,CO,COL,Nariño,minor,21492.0,1170882959
+El Paujíl,El Paujil,1.5644,-75.3319,Colombia,CO,COL,Caquetá,minor,21462.0,1170891728
+Santa Bárbara,Santa Barbara,5.8747,-75.5661,Colombia,CO,COL,Antioquia,minor,21413.0,1170129538
+Cumaral,Cumaral,4.2694,-73.4864,Colombia,CO,COL,Meta,minor,21397.0,1170080308
+Almaguer,Almaguer,1.9167,-76.8667,Colombia,CO,COL,Cauca,minor,21374.0,1170307475
+Aguadas,Aguadas,5.6167,-75.4667,Colombia,CO,COL,Caldas,minor,21237.0,1170536116
+Montecristo,Montecristo,8.2994,-74.4756,Colombia,CO,COL,Bolívar,minor,21229.0,1170653032
+Suaza,Suaza,1.9833,-75.8167,Colombia,CO,COL,Huila,minor,21119.0,1170853182
+Villapinzón,Villapinzon,5.2167,-73.6,Colombia,CO,COL,Cundinamarca,minor,21049.0,1170598594
+Fredonia,Fredonia,5.9167,-75.6667,Colombia,CO,COL,Antioquia,minor,20997.0,1170731658
+El Retén,El Reten,10.6167,-74.2667,Colombia,CO,COL,Magdalena,minor,20981.0,1170874464
+Bugalagrande,Bugalagrande,4.2167,-76.1667,Colombia,CO,COL,Valle del Cauca,minor,20970.0,1170646923
+Sotomayor,Sotomayor,1.4933,-77.5214,Colombia,CO,COL,Nariño,minor,20865.0,1170028050
+Moniquirá,Moniquira,5.9167,-73.5,Colombia,CO,COL,Boyacá,minor,20848.0,1170206857
+Ovejas,Ovejas,9.5,-75.1667,Colombia,CO,COL,Sucre,minor,20846.0,1170231895
+Samacá,Samaca,5.5,-73.4833,Colombia,CO,COL,Boyacá,minor,20767.0,1170064917
+Becerril,Becerril,9.7,-73.2833,Colombia,CO,COL,Cesar,minor,20477.0,1170989688
+Timaná,Timana,1.9833,-75.95,Colombia,CO,COL,Huila,minor,20463.0,1170667913
+San Martín,San Martin,8.0472,-73.5153,Colombia,CO,COL,Cesar,minor,20452.0,1170564282
+San Lorenzo,San Lorenzo,1.5039,-77.2178,Colombia,CO,COL,Nariño,minor,20403.0,1170168710
+Inírida,Inirida,3.8653,-67.9239,Colombia,CO,COL,Guainía,admin,20279.0,1170563591
+Simití,Simiti,7.9667,-73.95,Colombia,CO,COL,Bolívar,minor,20271.0,1170040846
+Concordia,Concordia,6.049,-75.909,Colombia,CO,COL,Antioquia,minor,20271.0,1170368496
+Tenjo,Tenjo,4.9167,-74.1667,Colombia,CO,COL,Cundinamarca,minor,20269.0,1170657903
+Rovira,Rovira,4.25,-75.3333,Colombia,CO,COL,Tolima,minor,20255.0,1170046008
+Frontino,Frontino,6.7833,-76.1333,Colombia,CO,COL,Antioquia,minor,20156.0,1170729668
+Tolú Viejo,Tolu Viejo,9.45,-75.45,Colombia,CO,COL,Sucre,minor,20033.0,1170864829
+Málaga,Malaga,6.7833,-72.6667,Colombia,CO,COL,Santander,minor,19884.0,1170443368
+Suárez,Suarez,2.9589,-76.6953,Colombia,CO,COL,Cauca,minor,19690.0,1170553127
+Urumita,Urumita,10.5667,-73.0167,Colombia,CO,COL,La Guajira,minor,19629.0,1170312888
+Venadillo,Venadillo,4.75,-74.9167,Colombia,CO,COL,Tolima,minor,19586.0,1170931543
+Ansermanuevo,Ansermanuevo,4.8,-76.0,Colombia,CO,COL,Valle del Cauca,minor,19557.0,1170498489
+Polonuevo,Polonuevo,10.7833,-74.8667,Colombia,CO,COL,Atlántico,minor,19454.0,1170997382
+La Unión,La Union,5.9736,-75.3614,Colombia,CO,COL,Antioquia,minor,19119.0,1170723102
+El Rosal,El Rosal,4.8519,-74.2628,Colombia,CO,COL,Cundinamarca,minor,18958.0,1170518827
+Tadó,Tado,5.2667,-76.5667,Colombia,CO,COL,Chocó,minor,18906.0,1170279230
+San Sebastián de Buenavista,San Sebastian de Buenavista,9.2403,-74.3556,Colombia,CO,COL,Magdalena,minor,18865.0,1170564424
+Anzoátegui,Anzoategui,4.6339,-75.0972,Colombia,CO,COL,Tolima,minor,18849.0,1170133861
+Guachucal,Guachucal,0.9667,-77.7333,Colombia,CO,COL,Nariño,minor,18845.0,1170078700
+Vélez,Velez,6.0103,-73.6763,Colombia,CO,COL,Santander,minor,18808.0,1170298824
+Tocaima,Tocaima,4.5,-74.6667,Colombia,CO,COL,Cundinamarca,minor,18790.0,1170682674
+Villa Rica,Villa Rica,2.5167,-76.85,Colombia,CO,COL,Cauca,,18761.0,1170377938
+Salamina,Salamina,5.4083,-75.49,Colombia,CO,COL,Caldas,minor,18704.0,1170954127
+Morales,Morales,8.3133,-73.8719,Colombia,CO,COL,Bolívar,minor,18678.0,1170533443
+Pizarro,Pizarro,4.95,-77.3667,Colombia,CO,COL,Chocó,minor,18561.0,1170809490
+San Diego,San Diego,10.3375,-73.1825,Colombia,CO,COL,Cesar,minor,18531.0,1170032847
+Astrea,Astrea,9.5,-73.9833,Colombia,CO,COL,Cesar,minor,18434.0,1170944258
+Ponedera,Ponedera,10.65,-74.75,Colombia,CO,COL,Atlántico,minor,18430.0,1170527788
+Campo de la Cruz,Campo de la Cruz,10.3778,-74.8814,Colombia,CO,COL,Atlántico,minor,18354.0,1170737801
+Buenavista,Buenavista,8.6805,-75.2554,Colombia,CO,COL,Córdoba,,18344.0,1170418186
+Trujillo,Trujillo,4.25,-76.3333,Colombia,CO,COL,Valle del Cauca,minor,18142.0,1170602348
+Andalucía,Andalucia,4.1667,-76.1667,Colombia,CO,COL,Valle del Cauca,minor,18132.0,1170644836
+San Pedro,San Pedro,4.0,-76.2292,Colombia,CO,COL,Valle del Cauca,minor,18128.0,1170576529
+Convención,Convencion,8.8333,-73.2,Colombia,CO,COL,Norte de Santander,minor,18112.0,1170793866
+Ricaurte,Ricaurte,1.2108,-77.9933,Colombia,CO,COL,Nariño,minor,18067.0,1170607902
+San Vicente,San Vicente,6.2819,-75.3322,Colombia,CO,COL,Antioquia,minor,18051.0,1170160969
+San Pedro,San Pedro,8.7333,-74.7167,Colombia,CO,COL,Sucre,,18029.0,1170847061
+Pelaya,Pelaya,8.6833,-73.6667,Colombia,CO,COL,Cesar,minor,17910.0,1170015000
+Salgar,Salgar,5.9617,-75.9753,Colombia,CO,COL,Antioquia,minor,17804.0,1170000086
+El Carmen de Chucurí,El Carmen de Chucuri,6.6981,-73.5111,Colombia,CO,COL,Santander,minor,17638.0,1170751882
+La Primavera,La Primavera,5.4906,-70.4092,Colombia,CO,COL,Vichada,minor,17626.0,1170159193
+Totoró,Totoro,2.5117,-76.4003,Colombia,CO,COL,Cauca,minor,17611.0,1170684203
+Restrepo,Restrepo,4.25,-73.5667,Colombia,CO,COL,Meta,minor,17610.0,1170439018
+Abejorral,Abejorral,5.7894,-75.4281,Colombia,CO,COL,Antioquia,minor,17599.0,1170508965
+Yondó,Yondo,7.0,-73.9167,Colombia,CO,COL,Antioquia,minor,17597.0,1170716454
+Mistrató,Mistrato,5.3,-75.8833,Colombia,CO,COL,Risaralda,minor,17527.0,1170662238
+Puerto Guzmán,Puerto Guzman,0.9703,-76.5858,Colombia,CO,COL,Putumayo,,17495.0,1170540013
+Samaná,Samana,5.5833,-74.9167,Colombia,CO,COL,Caldas,minor,17466.0,1170332815
+Guaranda,Guaranda,8.4672,-74.5367,Colombia,CO,COL,Sucre,minor,17422.0,1170473707
+Suesca,Suesca,5.1,-73.8,Colombia,CO,COL,Cundinamarca,minor,17318.0,1170580731
+Betulia,Betulia,6.1122,-75.9839,Colombia,CO,COL,Antioquia,minor,17317.0,1170946542
+Cajamarca,Cajamarca,4.4167,-75.5,Colombia,CO,COL,Tolima,minor,17309.0,1170462346
+Tíogollo,Tiogollo,10.3408,-74.7333,Colombia,CO,COL,Magdalena,,17308.0,1170688181
+Toledo,Toledo,7.3131,-72.4875,Colombia,CO,COL,Norte de Santander,minor,17283.0,1170149745
+Lérida,Lerida,4.9,-74.9167,Colombia,CO,COL,Tolima,minor,17197.0,1170865929
+Cáqueza,Caqueza,4.4053,-73.9478,Colombia,CO,COL,Cundinamarca,minor,17048.0,1170175410
+Gachancipá,Gachancipa,4.9908,-73.8731,Colombia,CO,COL,Cundinamarca,minor,17026.0,1170853649
+Retiro,Retiro,6.0572,-75.5025,Colombia,CO,COL,Antioquia,minor,16974.0,1170702192
+Garagoa,Garagoa,5.0825,-73.3642,Colombia,CO,COL,Boyacá,minor,16944.0,1170105749
+San Roque,San Roque,6.4853,-75.0197,Colombia,CO,COL,Antioquia,minor,16789.0,1170674966
+Puerto Carreño,Puerto Carreno,6.1903,-67.4836,Colombia,CO,COL,Vichada,admin,16763.0,1170291142
+El Piñón,El Pinon,10.3333,-74.6667,Colombia,CO,COL,Magdalena,minor,16752.0,1170478027
+La Cruz,La Cruz,1.6047,-76.9742,Colombia,CO,COL,Nariño,minor,16674.0,1170176423
+San Estanislao,San Estanislao,10.4,-75.15,Colombia,CO,COL,Bolívar,minor,16518.0,1170812235
+Anorí,Anori,7.0736,-75.1458,Colombia,CO,COL,Antioquia,minor,16447.0,1170571922
+Pupiales,Pupiales,0.8667,-77.65,Colombia,CO,COL,Nariño,minor,16431.0,1170678513
+Toro,Toro,4.6117,-76.0814,Colombia,CO,COL,Valle del Cauca,minor,16394.0,1170854707
+Jambaló,Jambalo,2.85,-76.3167,Colombia,CO,COL,Cauca,minor,16353.0,1170689229
+Chinácota,Chinacota,7.6167,-72.6,Colombia,CO,COL,Norte de Santander,minor,16348.0,1170848933
+Nobsa,Nobsa,5.7667,-72.95,Colombia,CO,COL,Boyacá,minor,16271.0,1170848106
+Momil,Momil,9.2333,-75.6833,Colombia,CO,COL,Córdoba,minor,16264.0,1170726403
+Yotoco,Yotoco,3.8667,-76.3833,Colombia,CO,COL,Valle del Cauca,minor,16263.0,1170305801
+Restrepo,Restrepo,3.825,-76.525,Colombia,CO,COL,Valle del Cauca,minor,16227.0,1170000422
+El Peñol,El Penol,6.2186,-75.2433,Colombia,CO,COL,Nariño,,16223.0,1170074292
+Cotorra,Cotorra,9.05,-75.8,Colombia,CO,COL,Córdoba,minor,16215.0,1170561401
+Subachoque,Subachoque,4.9281,-74.1736,Colombia,CO,COL,Cundinamarca,minor,16117.0,1170356384
+Tarqui,Tarqui,2.1106,-75.8231,Colombia,CO,COL,Huila,minor,16108.0,1170724338
+Aquitania,Aquitania,5.5833,-72.8333,Colombia,CO,COL,Boyacá,minor,16087.0,1170697722
+Darién,Darien,3.9167,-76.6667,Colombia,CO,COL,Valle del Cauca,minor,16054.0,1170479782
+Chivolo,Chivolo,10.0261,-74.6211,Colombia,CO,COL,Magdalena,minor,15960.0,1170052767
+Pijiño del Carmen,Pijino del Carmen,9.3333,-74.45,Colombia,CO,COL,Magdalena,minor,15759.0,1170562025
+Guasca,Guasca,4.8658,-73.8772,Colombia,CO,COL,Cundinamarca,minor,15727.0,1170022740
+La Montañita,La Montanita,1.5833,-75.25,Colombia,CO,COL,Caquetá,minor,15725.0,1170812971
+Ventaquemada,Ventaquemada,5.4167,-73.5,Colombia,CO,COL,Boyacá,minor,15442.0,1170473736
+Landázuri,Landazuri,6.2181,-73.8114,Colombia,CO,COL,Santander,minor,15395.0,1170306835
+Támesis,Tamesis,5.6667,-75.7167,Colombia,CO,COL,Antioquia,minor,15218.0,1170438434
+La Apartada,La Apartada,8.1006,-75.3825,Colombia,CO,COL,Córdoba,minor,15204.0,1170000626
+Puerto Salgar,Puerto Salgar,5.5,-74.5833,Colombia,CO,COL,Cundinamarca,minor,15019.0,1170945460
+La Gloria,La Gloria,8.5833,-73.5833,Colombia,CO,COL,Cesar,minor,14989.0,1170957032
+Obando,Obando,4.5833,-75.9167,Colombia,CO,COL,Valle del Cauca,minor,14980.0,1170669388
+Coconuco,Coconuco,2.25,-76.4167,Colombia,CO,COL,Cauca,minor,14952.0,1170332695
+Monterrey,Monterrey,4.8783,-72.8972,Colombia,CO,COL,Casanare,minor,14828.0,1170450558
+Mercaderes,Mercaderes,1.8,-77.1667,Colombia,CO,COL,Cauca,minor,14824.0,1170092647
+Cocorná,Cocorna,6.0569,-75.1853,Colombia,CO,COL,Antioquia,minor,14743.0,1170897315
+Riofrío,Riofrio,4.1561,-76.2878,Colombia,CO,COL,Valle del Cauca,minor,14716.0,1170785545
+Purísima de la Concepción,Purisima de la Concepcion,9.2333,-75.7333,Colombia,CO,COL,Córdoba,minor,14705.0,1170780807
+Condoto,Condoto,5.1,-76.65,Colombia,CO,COL,Chocó,minor,14660.0,1170624933
+Cómbita,Combita,5.75,-73.25,Colombia,CO,COL,Boyacá,minor,14632.0,1170000033
+Anapoima,Anapoima,4.5503,-74.5361,Colombia,CO,COL,Cundinamarca,minor,14519.0,1170450555
+San Martín de Loba,San Martin de Loba,8.8333,-73.9167,Colombia,CO,COL,Bolívar,minor,14504.0,1170000618
+San Carlos,San Carlos,6.1897,-74.9969,Colombia,CO,COL,Antioquia,minor,14480.0,1170540736
+Sopetrán,Sopetran,6.5017,-75.7433,Colombia,CO,COL,Antioquia,minor,14453.0,1170000615
+Barranco de Loba,Barranco de Loba,8.95,-74.1167,Colombia,CO,COL,Bolívar,minor,14435.0,1170730052
+Morroa,Morroa,9.3333,-75.3167,Colombia,CO,COL,Sucre,minor,14429.0,1170532353
+San Antonio,San Antonio,3.9167,-75.5,Colombia,CO,COL,Tolima,minor,14400.0,1170845571
+Villa Rica,Villa Rica,3.1736,-76.4631,Colombia,CO,COL,Cauca,minor,14378.0,1170820910
+Saldaña,Saldana,3.9347,-75.0203,Colombia,CO,COL,Tolima,minor,14329.0,1170588181
+Tenerife,Tenerife,9.8989,-74.8589,Colombia,CO,COL,Magdalena,minor,14320.0,1170763439
+Algarrobo,Algarrobo,10.1,-74.2667,Colombia,CO,COL,Magdalena,minor,14294.0,1170405852
+Algarrobo,Algarrobo,10.1,-74.2667,Colombia,CO,COL,Magdalena,,14294.0,1170512460
+Juan de Acosta,Juan de Acosta,10.8333,-75.0333,Colombia,CO,COL,Atlántico,minor,14184.0,1170261449
+Sibundoy,Sibundoy,1.2033,-76.9192,Colombia,CO,COL,Putumayo,minor,14104.0,1170369776
+Titiribí,Titiribi,6.0667,-75.8,Colombia,CO,COL,Antioquia,minor,14092.0,1170013003
+Tibasosa,Tibasosa,5.8333,-72.9667,Colombia,CO,COL,Boyacá,minor,14063.0,1170340482
+El Carmen de Atrato,El Carmen de Atrato,5.8983,-76.1431,Colombia,CO,COL,Chocó,minor,14049.0,1170000623
+Río de Oro,Rio de Oro,8.0,-73.5,Colombia,CO,COL,Cesar,minor,14041.0,1170000449
+Santa Catalina,Santa Catalina,10.6039,-75.2878,Colombia,CO,COL,Bolívar,minor,14039.0,1170893444
+Córdoba,Cordoba,0.855,-77.5211,Colombia,CO,COL,Nariño,minor,14006.0,1170192500
+Bolívar,Bolivar,4.3386,-76.1847,Colombia,CO,COL,Valle del Cauca,minor,13954.0,1170438450
+Sesquilé,Sesquile,5.0453,-73.7972,Colombia,CO,COL,Cundinamarca,minor,13936.0,1170884868
+Tamalameque,Tamalameque,8.8333,-73.5833,Colombia,CO,COL,Cesar,minor,13862.0,1170626838
+Guamal,Guamal,3.88,-73.7656,Colombia,CO,COL,Meta,minor,13857.0,1170121080
+Clemencia,Clemencia,10.5833,-75.3333,Colombia,CO,COL,Bolívar,minor,13821.0,1170519066
+Jardín,Jardin,5.5986,-75.8194,Colombia,CO,COL,Antioquia,minor,13748.0,1170860427
+Palmito,Palmito,9.3333,-75.55,Colombia,CO,COL,Sucre,minor,13682.0,1170554434
+Altos del Rosario,Altos del Rosario,8.8,-74.1667,Colombia,CO,COL,Bolívar,minor,13669.0,1170079040
+Castilla La Nueva,Castilla La Nueva,3.8333,-73.6833,Colombia,CO,COL,Meta,minor,13611.0,1170337623
+Cañasgordas,Canasgordas,6.7497,-76.0258,Colombia,CO,COL,Antioquia,minor,13595.0,1170135054
+Ráquira,Raquira,5.5333,-73.6333,Colombia,CO,COL,Boyacá,minor,13588.0,1170663878
+Palestina,Palestina,5.0833,-75.6667,Colombia,CO,COL,Caldas,minor,13560.0,1170065725
+Chimá,Chima,9.15,-75.6333,Colombia,CO,COL,Córdoba,minor,13492.0,1170217235
+Nemocón,Nemocon,5.05,-73.8833,Colombia,CO,COL,Cundinamarca,minor,13488.0,1170453041
+Manatí,Manati,10.445,-74.9597,Colombia,CO,COL,Atlántico,minor,13456.0,1170827497
+San Juan de Betulia,San Juan de Betulia,9.2756,-75.2456,Colombia,CO,COL,Sucre,minor,13437.0,1170286513
+San Jacinto del Cauca,San Jacinto del Cauca,8.25,-74.7167,Colombia,CO,COL,Bolívar,minor,13426.0,1170204575
+Rosas,Rosas,2.2667,-76.75,Colombia,CO,COL,Cauca,minor,13302.0,1170048993
+Maní,Mani,4.8167,-72.2833,Colombia,CO,COL,Casanare,minor,13291.0,1170495978
+El Tablón,El Tablon,1.4269,-77.0969,Colombia,CO,COL,Nariño,minor,13255.0,1170509980
+La Victoria,La Victoria,4.5214,-76.0364,Colombia,CO,COL,Valle del Cauca,minor,13247.0,1170932962
+Pácora,Pacora,5.5258,-75.4589,Colombia,CO,COL,Caldas,minor,13214.0,1170478424
+Bagadó,Bagado,5.4167,-76.4167,Colombia,CO,COL,Chocó,minor,13174.0,1170462492
+San Jerónimo,San Jeronimo,6.4417,-75.7278,Colombia,CO,COL,Antioquia,minor,13158.0,1170182912
+Cicuco,Cicuco,9.2667,-74.65,Colombia,CO,COL,Bolívar,minor,13120.0,1170569018
+La Vega,La Vega,4.9992,-74.3411,Colombia,CO,COL,Cundinamarca,minor,13085.0,1170671820
+San Antonio del Tequendama,San Antonio del Tequendama,4.6328,-74.3522,Colombia,CO,COL,Cundinamarca,minor,13084.0,1170251762
+Simijaca,Simijaca,5.5019,-73.8519,Colombia,CO,COL,Cundinamarca,minor,13077.0,1170095690
+San Pablo,San Pablo,1.6725,-77.0139,Colombia,CO,COL,Nariño,minor,12929.0,1170794698
+Anolaima,Anolaima,4.7617,-74.464,Colombia,CO,COL,Cundinamarca,minor,12911.0,1170457629
+Ricaurte,Ricaurte,4.2792,-74.7728,Colombia,CO,COL,Cundinamarca,minor,12881.0,1170544866
+Santuario,Santuario,5.0725,-75.9623,Colombia,CO,COL,Risaralda,minor,12826.0,1170439701
+Alcalá,Alcala,4.6667,-75.75,Colombia,CO,COL,Valle del Cauca,minor,12716.0,1170054347
+Apía,Apia,5.1,-75.95,Colombia,CO,COL,Risaralda,minor,12613.0,1170159513
+Santa Bárbara de Pinto,Santa Barbara de Pinto,9.4333,-74.7,Colombia,CO,COL,Magdalena,minor,12610.0,1170483777
+Viotá,Viota,4.4381,-74.5239,Colombia,CO,COL,Cundinamarca,minor,12589.0,1170693383
+San Rafael,San Rafael,6.2975,-75.0314,Colombia,CO,COL,Antioquia,minor,12578.0,1170732033
+La Argentina,La Argentina,2.1961,-75.98,Colombia,CO,COL,Huila,minor,12475.0,1170000037
+El Tambo,El Tambo,1.4131,-77.3981,Colombia,CO,COL,Nariño,minor,12457.0,1170998419
+Gamarra,Gamarra,8.3333,-73.6667,Colombia,CO,COL,Cesar,minor,12444.0,1170567440
+Los Santos,Los Santos,6.9167,-73.0833,Colombia,CO,COL,Santander,minor,12433.0,1170390233
+Viterbo,Viterbo,5.0667,-75.8833,Colombia,CO,COL,Caldas,minor,12432.0,1170417091
+Guática,Guatica,5.3167,-75.8,Colombia,CO,COL,Risaralda,minor,12423.0,1170331290
+Pueblo Rico,Pueblo Rico,5.25,-76.1667,Colombia,CO,COL,Risaralda,minor,12423.0,1170315840
+Chachagüí,Chachagui,1.3605,-77.2835,Colombia,CO,COL,Nariño,minor,12419.0,1170508673
+Saboyá,Saboya,5.7,-73.7667,Colombia,CO,COL,Boyacá,minor,12372.0,1170473369
+San Antonio,San Antonio,10.0,-74.6667,Colombia,CO,COL,Magdalena,,12364.0,1170443543
+Susa,Susa,5.4528,-73.814,Colombia,CO,COL,Cundinamarca,minor,12302.0,1170534475
+Arbeláez,Arbelaez,4.2725,-74.4151,Colombia,CO,COL,Cundinamarca,minor,12292.0,1170472184
+Hatillo de Loba,Hatillo de Loba,8.9586,-74.0808,Colombia,CO,COL,Bolívar,minor,12270.0,1170880028
+Córdoba,Cordoba,9.5867,-74.8272,Colombia,CO,COL,Bolívar,minor,12266.0,1170365164
+Pital,Pital,2.987,-75.826,Colombia,CO,COL,Huila,minor,12246.0,1170707654
+Fómeque,Fomeque,4.4847,-73.8936,Colombia,CO,COL,Cundinamarca,minor,12214.0,1170945629
+Unguía,Unguia,8.05,-77.1,Colombia,CO,COL,Chocó,minor,12192.0,1170526283
+Pasca,Pasca,4.3075,-74.3008,Colombia,CO,COL,Cundinamarca,minor,12175.0,1170537329
+Puerto Nare,Puerto Nare,6.1917,-74.5867,Colombia,CO,COL,Antioquia,minor,12161.0,1170388042
+Ebéjico,Ebejico,6.3333,-75.7667,Colombia,CO,COL,Antioquia,minor,12158.0,1170232093
+Marquetalia,Marquetalia,5.3333,-75.0,Colombia,CO,COL,Caldas,minor,12146.0,1170955036
+Jericó,Jerico,5.7833,-75.7833,Colombia,CO,COL,Antioquia,minor,12103.0,1170373171
+Acandí,Acandi,8.5333,-77.2333,Colombia,CO,COL,Chocó,minor,12095.0,1170188476
+Caimito,Caimito,8.8333,-75.1667,Colombia,CO,COL,Sucre,minor,12077.0,1170914117
+Filandia,Filandia,4.6667,-75.6333,Colombia,CO,COL,Quindío,minor,12066.0,1170471225
+Curití,Curiti,6.6667,-73.0,Colombia,CO,COL,Santander,minor,12065.0,1170526729
+Oiba,Oiba,6.2667,-73.3,Colombia,CO,COL,Santander,minor,12063.0,1170706539
+El Carmen,El Carmen,8.5128,-73.4508,Colombia,CO,COL,Norte de Santander,minor,12001.0,1170574816
+Paispamba,Paispamba,2.25,-76.5833,Colombia,CO,COL,Cauca,minor,11958.0,1170817361
+Distracción,Distraccion,10.9,-72.8833,Colombia,CO,COL,La Guajira,minor,11934.0,1170180285
+Trinidad,Trinidad,5.4089,-71.6622,Colombia,CO,COL,Casanare,minor,11734.0,1170027404
+Puente Nacional,Puente Nacional,5.8833,-73.6833,Colombia,CO,COL,Santander,minor,11718.0,1170000515
+Candelaria,Candelaria,10.4592,-74.8806,Colombia,CO,COL,Atlántico,minor,11635.0,1170881306
+Fuente de Oro,Fuente de Oro,3.4667,-73.6167,Colombia,CO,COL,Meta,minor,11599.0,1170263395
+Santa Lucía,Santa Lucia,10.3167,-74.95,Colombia,CO,COL,Atlántico,minor,11584.0,1170763002
+Santa Genoveva de Docordó,Santa Genoveva de Docordo,4.2586,-77.3675,Colombia,CO,COL,Chocó,minor,11579.0,1170336944
+La Unión,La Union,8.8606,-75.2806,Colombia,CO,COL,Sucre,minor,11566.0,1170400912
+Cisneros,Cisneros,6.5383,-75.0886,Colombia,CO,COL,Antioquia,minor,11555.0,1170710325
+San Carlos de Guaroa,San Carlos de Guaroa,3.7111,-73.2425,Colombia,CO,COL,Meta,minor,11512.0,1170978795
+Valdivia,Valdivia,7.2938,-75.3919,Colombia,CO,COL,Antioquia,,11511.0,1170877215
+Guayabal,Guayabal,4.9633,-74.9056,Colombia,CO,COL,Tolima,minor,11490.0,1170472298
+Puerto Rico,Puerto Rico,2.9383,-73.2083,Colombia,CO,COL,Meta,minor,11433.0,1170252143
+Hato Corozal,Hato Corozal,3.1833,-73.75,Colombia,CO,COL,Meta,,11431.0,1170673872
+Guachetá,Guacheta,5.3856,-73.6856,Colombia,CO,COL,Cundinamarca,minor,11385.0,1170660676
+Zambrano,Zambrano,9.75,-74.8333,Colombia,CO,COL,Bolívar,minor,11367.0,1170000087
+San José del Fragua,San Jose del Fragua,1.3286,-75.9728,Colombia,CO,COL,Caquetá,minor,11364.0,1170931653
+Talaigua Nuevo,Talaigua Nuevo,9.3069,-74.5686,Colombia,CO,COL,Bolívar,minor,11350.0,1170791252
+Santa Rosa de Viterbo,Santa Rosa de Viterbo,5.8833,-72.9833,Colombia,CO,COL,Boyacá,minor,11329.0,1170798661
+Coveñas,Covenas,9.4167,-75.7,Colombia,CO,COL,Sucre,minor,11270.0,1170707919
+El Playón,El Playon,7.4767,-73.2081,Colombia,CO,COL,Santander,minor,11252.0,1170615390
+Lloró,Lloro,5.5,-76.5333,Colombia,CO,COL,Chocó,minor,11197.0,1170030184
+Puerto Caicedo,Puerto Caicedo,0.685,-76.6044,Colombia,CO,COL,Putumayo,minor,11122.0,1170335113
+Oporapa,Oporapa,2.05,-75.9667,Colombia,CO,COL,Huila,minor,11111.0,1170571598
+Gachetá,Gacheta,4.8176,-73.636,Colombia,CO,COL,Cundinamarca,minor,11086.0,1170649939
+Belén de los Andaquíes,Belen de los Andaquies,1.4161,-75.8725,Colombia,CO,COL,Caquetá,minor,11081.0,1170848387
+El Águila,El Aguila,4.9167,-76.0833,Colombia,CO,COL,Valle del Cauca,minor,11069.0,1170584025
+La Esperanza,La Esperanza,7.6392,-73.3358,Colombia,CO,COL,Norte de Santander,minor,11040.0,1170817366
+La Palma,La Palma,5.3606,-74.3897,Colombia,CO,COL,Cundinamarca,minor,11012.0,1170347214
+Vijes,Vijes,3.7,-76.45,Colombia,CO,COL,Valle del Cauca,minor,11010.0,1170640729
+Agua de Dios,Agua de Dios,4.3781,-74.6739,Colombia,CO,COL,Cundinamarca,minor,10995.0,1170261758
+Cáchira,Cachira,7.75,-73.1667,Colombia,CO,COL,Norte de Santander,minor,10970.0,1170614751
+Tarrá,Tarra,8.0475,-73.0836,Colombia,CO,COL,Norte de Santander,,10957.0,1170074509
+El Tarra,El Tarra,8.5756,-73.0944,Colombia,CO,COL,Norte de Santander,minor,10957.0,1170113123
+Yacopí,Yacopi,5.4667,-74.3333,Colombia,CO,COL,Cundinamarca,minor,10887.0,1170241710
+Mogotes,Mogotes,6.4833,-72.9667,Colombia,CO,COL,Santander,minor,10860.0,1170943912
+Buenavista,Buenavista,9.3222,-74.9772,Colombia,CO,COL,Sucre,minor,10829.0,1170935421
+Icononzo,Icononzo,4.1833,-74.5333,Colombia,CO,COL,Tolima,minor,10801.0,1170002188
+Guaitarilla,Guaitarilla,1.1333,-77.5564,Colombia,CO,COL,Nariño,minor,10774.0,1170237698
+Santo Domingo,Santo Domingo,6.4708,-75.1658,Colombia,CO,COL,Antioquia,minor,10759.0,1170000493
+Choachí,Choachi,4.5297,-73.9236,Colombia,CO,COL,Cundinamarca,minor,10729.0,1170262604
+Ubalá,Ubala,4.7439,-73.5347,Colombia,CO,COL,Cundinamarca,minor,10718.0,1170000627
+Villahermosa,Villahermosa,5.0,-75.1667,Colombia,CO,COL,Tolima,minor,10696.0,1170425263
+Tubará,Tubara,10.8667,-74.9833,Colombia,CO,COL,Atlántico,minor,10602.0,1170951499
+Yacuanquer,Yacuanquer,1.1167,-77.4,Colombia,CO,COL,Nariño,minor,10579.0,1170229796
+Lejanías,Lejanias,3.5268,-74.0232,Colombia,CO,COL,Meta,minor,10576.0,1170478276
+Chitagá,Chitaga,7.1333,-72.6667,Colombia,CO,COL,Norte de Santander,minor,10554.0,1170356842
+Angostura,Angostura,6.8667,-75.3333,Colombia,CO,COL,Antioquia,minor,10500.0,1170569077
+Regidor,Regidor,8.6667,-73.8333,Colombia,CO,COL,Bolívar,minor,10489.0,1170335895
+Palestina,Palestina,1.75,-76.0667,Colombia,CO,COL,Huila,minor,10454.0,1170209006
+Úmbita,Umbita,5.2167,-73.4667,Colombia,CO,COL,Boyacá,minor,10314.0,1170372127
+Caparrapí,Caparrapi,5.3442,-74.4917,Colombia,CO,COL,Cundinamarca,minor,10301.0,1170076731
+Venecia,Venecia,5.9167,-75.75,Colombia,CO,COL,Antioquia,minor,10280.0,1170112749
+Tello,Tello,3.0667,-75.1333,Colombia,CO,COL,Huila,minor,10273.0,1170282620
+Lenguazaque,Lenguazaque,5.3069,-73.7061,Colombia,CO,COL,Cundinamarca,minor,10268.0,1170060796
+Puerto Santander,Puerto Santander,8.3636,-72.4075,Colombia,CO,COL,Norte de Santander,minor,10249.0,1170636572
+Santa María,Santa Maria,2.95,-75.65,Colombia,CO,COL,Huila,,10215.0,1170000610
+Charalá,Charala,6.25,-73.0833,Colombia,CO,COL,Santander,minor,10211.0,1170539322
+Medina,Medina,4.5092,-73.3494,Colombia,CO,COL,Cundinamarca,minor,10205.0,1170855873
+Mosquera,Mosquera,2.4903,-78.4953,Colombia,CO,COL,Nariño,minor,10203.0,1170583379
+Potosí,Potosi,0.8081,-77.5728,Colombia,CO,COL,Nariño,minor,10186.0,1170814336
+Toca,Toca,5.5667,-73.2,Colombia,CO,COL,Boyacá,minor,10157.0,1170029150
+Génova,Genova,1.6442,-77.0194,Colombia,CO,COL,Nariño,minor,10127.0,1170687201
+Granada,Granada,6.147,-75.188,Colombia,CO,COL,Antioquia,minor,10117.0,1170246805
+Saladoblanco,Saladoblanco,2.0167,-76.05,Colombia,CO,COL,Huila,minor,10076.0,1170865938
+Ramiriquí,Ramiriqui,5.4,-73.3333,Colombia,CO,COL,Boyacá,minor,10015.0,1170346541
+Suaita,Suaita,6.1019,-73.4406,Colombia,CO,COL,Santander,minor,10006.0,1170125417
+El Cairo,El Cairo,4.75,-76.25,Colombia,CO,COL,Valle del Cauca,minor,9976.0,1170273914
+Vegachí,Vegachi,6.7731,-74.7994,Colombia,CO,COL,Antioquia,minor,9966.0,1170785667
+San Calixto,San Calixto,8.4,-73.2167,Colombia,CO,COL,Norte de Santander,minor,9961.0,1170279369
+Bellavista,Bellavista,6.5236,-76.9744,Colombia,CO,COL,Chocó,minor,9941.0,1170717666
+Padilla,Padilla,3.2333,-76.3167,Colombia,CO,COL,Cauca,minor,9937.0,1170965732
+La Sierra,La Sierra,2.25,-76.8333,Colombia,CO,COL,Cauca,minor,9935.0,1170193592
+Arroyohondo,Arroyohondo,10.1333,-75.5667,Colombia,CO,COL,Bolívar,minor,9907.0,1170311154
+Coello,Coello,4.3333,-74.9167,Colombia,CO,COL,Tolima,minor,9887.0,1170249234
+Margarita,Margarita,9.0833,-74.2,Colombia,CO,COL,Bolívar,minor,9876.0,1170553154
+Aranzazu,Aranzazu,5.3,-75.45,Colombia,CO,COL,Caldas,minor,9854.0,1170469075
+Norosí,Norosi,8.5261,-74.0378,Colombia,CO,COL,Bolívar,minor,9850.0,1170174177
+Cachipay,Cachipay,4.7308,-74.4375,Colombia,CO,COL,Cundinamarca,minor,9833.0,1170432909
+Socotá,Socota,6.05,-72.6333,Colombia,CO,COL,Boyacá,minor,9812.0,1170884046
+Sasaima,Sasaima,4.965,-74.4347,Colombia,CO,COL,Cundinamarca,minor,9807.0,1170341139
+San Sebastián,San Sebastian,1.8439,-76.7717,Colombia,CO,COL,Cauca,minor,9806.0,1170001774
+El Roble,El Roble,9.1,-75.2,Colombia,CO,COL,Sucre,minor,9786.0,1170150718
+San Fernando,San Fernando,9.2797,-74.5339,Colombia,CO,COL,Bolívar,minor,9776.0,1170000616
+San Fernando,San Fernando,9.2683,-74.5302,Colombia,CO,COL,Bolívar,,9776.0,1170368411
+Tesalia,Tesalia,2.4833,-75.7333,Colombia,CO,COL,Huila,minor,9767.0,1170389636
+Mesetas,Mesetas,3.3781,-74.0447,Colombia,CO,COL,Meta,minor,9751.0,1170008691
+Hacarí,Hacari,8.3167,-73.15,Colombia,CO,COL,Norte de Santander,minor,9745.0,1170058977
+Puerto Nariño,Puerto Narino,-3.7733,-70.3819,Colombia,CO,COL,Amazonas,minor,9744.0,1170109460
+Belalcázar,Belalcazar,5.0,-75.8167,Colombia,CO,COL,Caldas,minor,9690.0,1170179028
+Concordia,Concordia,10.2667,-74.8333,Colombia,CO,COL,Magdalena,minor,9681.0,1170555051
+Tuta,Tuta,5.7,-73.2333,Colombia,CO,COL,Boyacá,minor,9673.0,1170818814
+Filadelfia,Filadelfia,5.3,-75.6,Colombia,CO,COL,Caldas,minor,9630.0,1170090455
+Guateque,Guateque,5.0056,-73.4722,Colombia,CO,COL,Boyacá,minor,9603.0,1170912824
+Bolívar,Bolivar,5.9911,-73.7739,Colombia,CO,COL,Santander,minor,9567.0,1170731054
+Cunday,Cunday,4.0833,-74.6667,Colombia,CO,COL,Tolima,minor,9544.0,1170276420
+Chita,Chita,6.1667,-72.4167,Colombia,CO,COL,Boyacá,minor,9542.0,1170485101
+Mutis,Mutis,6.2167,-77.4,Colombia,CO,COL,Chocó,minor,9400.0,1170271802
+Suan,Suan,10.3333,-74.8833,Colombia,CO,COL,Atlántico,minor,9344.0,1170318336
+Pesca,Pesca,5.5833,-73.05,Colombia,CO,COL,Boyacá,minor,9322.0,1170369834
+Betania,Betania,5.75,-75.9667,Colombia,CO,COL,Antioquia,minor,9286.0,1170782709
+Piamonte,Piamonte,1.1194,-76.3269,Colombia,CO,COL,Cauca,minor,9259.0,1170393388
+Sucre,Sucre,5.923,-73.795,Colombia,CO,COL,Santander,minor,9256.0,1170154930
+Bojacá,Bojaca,4.7336,-74.3422,Colombia,CO,COL,Cundinamarca,minor,9256.0,1170070721
+Risaralda,Risaralda,5.1667,-75.75,Colombia,CO,COL,Caldas,minor,9254.0,1170718416
+Granada,Granada,4.5186,-74.3514,Colombia,CO,COL,Cundinamarca,minor,9253.0,1170616970
+Falan,Falan,5.1333,-74.95,Colombia,CO,COL,Tolima,minor,9204.0,1170115815
+Une,Une,4.4019,-74.025,Colombia,CO,COL,Cundinamarca,minor,9196.0,1170857775
+Tibaná,Tibana,5.3167,-73.4,Colombia,CO,COL,Boyacá,minor,9186.0,1170436338
+Solita,Solita,0.8667,-75.65,Colombia,CO,COL,Caquetá,minor,9139.0,1170851278
+Guatapé,Guatape,6.2333,-75.1667,Colombia,CO,COL,Antioquia,minor,9121.0,1170993383
+Palocabildo,Palocabildo,5.1333,-75.0333,Colombia,CO,COL,Tolima,minor,9120.0,1170027378
+Carmen de Carupa,Carmen de Carupa,5.3503,-73.9053,Colombia,CO,COL,Cundinamarca,minor,9109.0,1170408211
+San Zenón,San Zenon,9.245,-74.4992,Colombia,CO,COL,Magdalena,minor,9107.0,1170977298
+Consacá,Consaca,1.2,-77.4667,Colombia,CO,COL,Nariño,minor,9099.0,1170808724
+Campamento,Campamento,6.9789,-75.2964,Colombia,CO,COL,Antioquia,minor,9091.0,1170487323
+Calamar,Calamar,1.9206,-72.5542,Colombia,CO,COL,Guaviare,minor,9091.0,1170732993
+Íquira,Iquira,2.65,-75.65,Colombia,CO,COL,Huila,minor,9064.0,1170529442
+La Florida,La Florida,1.3017,-77.4106,Colombia,CO,COL,Nariño,minor,9047.0,1170744583
+Iscuandé,Iscuande,2.4444,-77.9717,Colombia,CO,COL,Nariño,minor,8989.0,1170165783
+Arboledas,Arboledas,7.6667,-72.75,Colombia,CO,COL,Norte de Santander,minor,8984.0,1170201750
+Puerto Lleras,Puerto Lleras,3.2694,-73.375,Colombia,CO,COL,Meta,minor,8982.0,1170566483
+Linares,Linares,1.35,-77.5333,Colombia,CO,COL,Nariño,minor,8974.0,1170176780
+Siachoque,Siachoque,5.5,-73.2333,Colombia,CO,COL,Boyacá,minor,8964.0,1170608833
+Nuquí,Nuqui,5.7167,-77.2667,Colombia,CO,COL,Chocó,minor,8958.0,1170020146
+Yaguará,Yaguara,2.6661,-75.5186,Colombia,CO,COL,Huila,minor,8952.0,1170717025
+Angelópolis,Angelopolis,6.1333,-75.7,Colombia,CO,COL,Antioquia,minor,8946.0,1170231958
+Tena,Tena,4.6547,-74.39,Colombia,CO,COL,Cundinamarca,minor,8941.0,1170594078
+Nunchía,Nunchia,5.6333,-72.2,Colombia,CO,COL,Casanare,minor,8928.0,1170389960
+Argelia,Argelia,5.7425,-75.1464,Colombia,CO,COL,Antioquia,minor,8911.0,1170927955
+Carmen de Apicalá,Carmen de Apicala,4.15,-74.7333,Colombia,CO,COL,Tolima,minor,8880.0,1170771576
+Sucre,Sucre,2.0383,-76.9253,Colombia,CO,COL,Cauca,minor,8880.0,1170700284
+Teruel,Teruel,2.75,-75.5667,Colombia,CO,COL,Huila,minor,8876.0,1170243677
+Alvarado,Alvarado,4.5667,-74.95,Colombia,CO,COL,Tolima,minor,8873.0,1170398878
+González,Gonzalez,8.4,-73.3333,Colombia,CO,COL,Cesar,minor,8859.0,1170832293
+Ospina,Ospina,1.0581,-77.5664,Colombia,CO,COL,Nariño,minor,8834.0,1170871794
+Entrerríos,Entrerrios,6.5667,-75.5167,Colombia,CO,COL,Antioquia,minor,8820.0,1170412234
+Tausa,Tausa,5.1964,-73.8875,Colombia,CO,COL,Cundinamarca,minor,8801.0,1170046469
+Zapatoca,Zapatoca,6.8167,-73.2667,Colombia,CO,COL,Santander,minor,8762.0,1170912223
+Buenavista,Buenavista,9.3333,-74.3,Colombia,CO,COL,Magdalena,,8749.0,1170070362
+San Juan de Arama,San Juan de Arama,3.3736,-73.8767,Colombia,CO,COL,Meta,minor,8728.0,1170213121
+Carlosama,Carlosama,0.8658,-77.7294,Colombia,CO,COL,Nariño,minor,8727.0,1170333785
+Junín,Junin,4.7903,-73.8136,Colombia,CO,COL,Cundinamarca,minor,8720.0,1170184431
+Iles,Iles,0.9667,-77.5167,Colombia,CO,COL,Nariño,minor,8701.0,1170251090
+Briceño,Briceno,7.1111,-75.55,Colombia,CO,COL,Antioquia,minor,8673.0,1170830473
+Nariño,Narino,5.6092,-75.1764,Colombia,CO,COL,Antioquia,minor,8603.0,1170449720
+La Belleza,La Belleza,5.8614,-73.9683,Colombia,CO,COL,Santander,minor,8596.0,1170636722
+Yalí,Yali,6.6767,-74.8411,Colombia,CO,COL,Antioquia,minor,8577.0,1170977762
+Usiacurí,Usiacuri,10.75,-74.9833,Colombia,CO,COL,Atlántico,minor,8561.0,1170893496
+Muzo,Muzo,5.5313,-74.1073,Colombia,CO,COL,Boyacá,minor,8548.0,1170433861
+El Dovio,El Dovio,4.5167,-76.2333,Colombia,CO,COL,Valle del Cauca,minor,8508.0,1170108297
+Orocué,Orocue,4.7942,-71.34,Colombia,CO,COL,Casanare,minor,8460.0,1170535682
+Juradó,Jurado,7.1114,-77.7714,Colombia,CO,COL,Chocó,minor,3239.0,1170520604
+Bogotá,Bogota,4.7111,-74.0722,Colombia,CO,COL,Bogotá,primary,7968095.0,1170483426
+Medellín,Medellin,6.2308,-75.5906,Colombia,CO,COL,Antioquia,admin,2529403.0,1170680389
+Cali,Cali,3.4206,-76.5222,Colombia,CO,COL,Valle del Cauca,admin,2471474.0,1170417589
+Barranquilla,Barranquilla,10.9833,-74.8019,Colombia,CO,COL,Atlántico,admin,1326588.0,1170179113
+Cartagena,Cartagena,10.4,-75.5,Colombia,CO,COL,Bolívar,admin,914552.0,1170886102
+Bucaramanga,Bucaramanga,7.1333,-73.0,Colombia,CO,COL,Santander,admin,893040.0,1170940590
+Cúcuta,Cucuta,7.8942,-72.5039,Colombia,CO,COL,Norte de Santander,admin,806378.0,1170743755
+Palermo,Palermo,2.8917,-75.4375,Colombia,CO,COL,Huila,minor,800000.0,1170614290
+Soledad,Soledad,10.9167,-74.75,Colombia,CO,COL,Atlántico,minor,676014.0,1170765625
+Villavicencio,Villavicencio,4.15,-73.6333,Colombia,CO,COL,Meta,admin,664148.0,1170426927
+Pereira,Pereira,4.8143,-75.6946,Colombia,CO,COL,Risaralda,admin,590554.0,1170386718
+Bello,Bello,6.3333,-75.5667,Colombia,CO,COL,Antioquia,minor,561955.0,1170423489
+Valledupar,Valledupar,10.4833,-73.25,Colombia,CO,COL,Cesar,admin,544134.0,1170481949
+Ibagué,Ibague,4.4333,-75.2333,Colombia,CO,COL,Tolima,admin,541101.0,1170245063
+Montería,Monteria,8.75,-75.8833,Colombia,CO,COL,Córdoba,admin,523150.0,1170855299
+Soacha,Soacha,4.5872,-74.2214,Colombia,CO,COL,Cundinamarca,minor,522442.0,1170512000
+Santa Marta,Santa Marta,11.2419,-74.2053,Colombia,CO,COL,Magdalena,admin,515556.0,1170715594
+Manizales,Manizales,5.1,-75.55,Colombia,CO,COL,Caldas,admin,454494.0,1170930654
+Buenaventura,Buenaventura,3.8772,-77.0267,Colombia,CO,COL,Valle del Cauca,minor,423927.0,1170287988
+Pasto,Pasto,1.2078,-77.2772,Colombia,CO,COL,Nariño,admin,410835.0,1170320545
+Neiva,Neiva,2.9345,-75.2809,Colombia,CO,COL,Huila,admin,380019.0,1170159963
+Palmira,Palmira,3.5833,-76.25,Colombia,CO,COL,Valle del Cauca,minor,358895.0,1170969619
+Fontibón,Fontibon,4.6786,-74.1411,Colombia,CO,COL,Bogotá,,317179.0,1170780941
+Usme,Usme,4.4464,-74.1522,Colombia,CO,COL,Bogotá,,314431.0,1170556074
+Armenia,Armenia,4.53,-75.68,Colombia,CO,COL,Quindío,admin,301226.0,1170398459
+Popayán,Popayan,2.4542,-76.6092,Colombia,CO,COL,Cauca,admin,300837.0,1170764265
+Floridablanca,Floridablanca,7.2167,-73.0667,Colombia,CO,COL,Santander,minor,295724.0,1170331200
+Sincelejo,Sincelejo,9.295,-75.3961,Colombia,CO,COL,Sucre,admin,286716.0,1170364198
+Itagüí,Itagui,6.1667,-75.6167,Colombia,CO,COL,Antioquia,minor,276744.0,1170708072
+Envigado,Envigado,6.1667,-75.5667,Colombia,CO,COL,Antioquia,minor,228848.0,1170785909
+Tuluá,Tulua,4.0833,-76.2,Colombia,CO,COL,Valle del Cauca,minor,219138.0,1170721938
+Tumaco,Tumaco,1.8067,-78.7647,Colombia,CO,COL,Nariño,minor,212692.0,1170504978
+Barrancabermeja,Barrancabermeja,7.0667,-73.85,Colombia,CO,COL,Santander,minor,203537.0,1170362340
+Uripa,Uripa,11.9167,-72.0,Colombia,CO,COL,La Guajira,,198890.0,1170417561
+Zipaquirá,Zipaquira,5.0333,-74.0,Colombia,CO,COL,Cundinamarca,minor,196409.0,1170798590
+Florencia,Florencia,1.6139,-75.6128,Colombia,CO,COL,Caquetá,admin,191867.0,1170606634
+Turbo,Turbo,8.1,-76.7333,Colombia,CO,COL,Antioquia,minor,181000.0,1170426476
+Santander de Quilichao,Santander de Quilichao,3.0167,-76.4833,Colombia,CO,COL,Cauca,minor,180000.0,1170277699
+Dosquebradas,Dosquebradas,4.8333,-75.6833,Colombia,CO,COL,Risaralda,minor,179301.0,1170184135
+Fusagasugá,Fusagasuga,4.3452,-74.3618,Colombia,CO,COL,Cundinamarca,minor,170241.0,1170322047
+Ríohacha,Riohacha,11.5442,-72.9069,Colombia,CO,COL,La Guajira,admin,167865.0,1170903069
+Ipiales,Ipiales,0.8303,-77.6444,Colombia,CO,COL,Nariño,minor,166079.0,1170309931
+Tunja,Tunja,5.5333,-73.3667,Colombia,CO,COL,Boyacá,admin,163894.0,1170843027
+Girón,Giron,7.0708,-73.1731,Colombia,CO,COL,Santander,minor,160403.0,1170575968
+Piedecuesta,Piedecuesta,7.0833,-73.0,Colombia,CO,COL,Santander,minor,150483.0,1170759043
+Facatativá,Facatativa,4.8167,-74.3667,Colombia,CO,COL,Cundinamarca,minor,145080.0,1170830205
+Cartago,Cartago,4.7,-75.9167,Colombia,CO,COL,Valle del Cauca,minor,142902.0,1170225267
+Malambo,Malambo,10.85,-74.75,Colombia,CO,COL,Atlántico,minor,139566.0,1170794204
+Rionegro,Rionegro,6.1535,-75.3743,Colombia,CO,COL,Antioquia,minor,135465.0,1170000361
+Pitalito,Pitalito,1.8989,-76.0419,Colombia,CO,COL,Huila,minor,133205.0,1170820158
+Quibdó,Quibdo,5.6922,-76.6581,Colombia,CO,COL,Chocó,admin,130825.0,1170186734
+Jamundí,Jamundi,3.2667,-76.55,Colombia,CO,COL,Valle del Cauca,minor,130114.0,1170503987
+Girardot,Girardot,4.305,-74.8017,Colombia,CO,COL,Cundinamarca,minor,129834.0,1170838212
+Ciénaga,Cienaga,11.0069,-74.25,Colombia,CO,COL,Magdalena,minor,129414.0,1170825751
+Guadalajara de Buga,Guadalajara de Buga,3.9,-76.3019,Colombia,CO,COL,Valle del Cauca,minor,128945.0,1170472765
+Mosquera,Mosquera,4.7078,-74.2328,Colombia,CO,COL,Cundinamarca,minor,128012.0,1170751552
+Duitama,Duitama,5.8333,-73.0167,Colombia,CO,COL,Boyacá,minor,126670.0,1170695532
+Chía,Chia,4.85,-74.05,Colombia,CO,COL,Cundinamarca,minor,124309.0,1170046785
+Magangué,Magangue,9.25,-74.7667,Colombia,CO,COL,Bolívar,minor,123906.0,1170903510
+Maicao,Maicao,11.3778,-72.2389,Colombia,CO,COL,La Guajira,minor,123757.0,1170370871
+Apartadó,Apartado,7.8833,-76.6333,Colombia,CO,COL,Antioquia,minor,121003.0,1170483593
+Uribia,Uribia,11.9167,-72.0,Colombia,CO,COL,La Guajira,minor,117674.0,1170046204
+Ocaña,Ocana,8.2333,-73.35,Colombia,CO,COL,Norte de Santander,minor,116232.0,1170754105
+Sogamoso,Sogamoso,5.7167,-72.9208,Colombia,CO,COL,Boyacá,minor,116031.0,1170000109
+Turbaco,Turbaco,10.35,-75.3333,Colombia,CO,COL,Bolívar,minor,115000.0,1170194197
+Madrid,Madrid,4.7344,-74.2683,Colombia,CO,COL,Cundinamarca,minor,112254.0,1170693388
+Aguachica,Aguachica,8.3167,-73.6333,Colombia,CO,COL,Cesar,minor,109621.0,1170152591
+Yopal,Yopal,5.35,-72.41,Colombia,CO,COL,Casanare,admin,106822.0,1170295059
+Sabanalarga,Sabanalarga,6.85,-75.8167,Colombia,CO,COL,Antioquia,minor,100049.0,1170819531
+Arauca,Arauca,7.0903,-70.7617,Colombia,CO,COL,Arauca,admin,96814.0,1170322340
+Candelaria,Candelaria,3.4,-76.3833,Colombia,CO,COL,Valle del Cauca,minor,95413.0,1170406010
+Yumbo,Yumbo,3.585,-76.4958,Colombia,CO,COL,Valle del Cauca,minor,95072.0,1170917722
+Cereté,Cerete,8.8833,-75.8,Colombia,CO,COL,Córdoba,minor,94935.0,1170926689
+Los Patios,Los Patios,7.8333,-72.5167,Colombia,CO,COL,Norte de Santander,minor,94847.0,1170225535
+Funza,Funza,4.7167,-74.2167,Colombia,CO,COL,Cundinamarca,minor,90671.0,1170562658
+Fundación,Fundacion,10.5214,-74.1867,Colombia,CO,COL,Magdalena,minor,90514.0,1170906059
+Sahagún,Sahagun,8.95,-75.45,Colombia,CO,COL,Córdoba,minor,90487.0,1170230630
+Caucasia,Caucasia,7.9833,-75.2,Colombia,CO,COL,Antioquia,minor,90213.0,1170351945
+Montelíbano,Montelibano,7.975,-75.4208,Colombia,CO,COL,Córdoba,minor,88674.0,1170283887
+Caldas,Caldas,6.09,-75.638,Colombia,CO,COL,Antioquia,minor,85385.0,1170279867
+Chiquinquirá,Chiquinquira,5.6333,-73.75,Colombia,CO,COL,Boyacá,minor,85274.0,1170668478
+Sabanalarga,Sabanalarga,10.63,-74.9236,Colombia,CO,COL,Atlántico,minor,84410.0,1170724527
+Chigorodó,Chigorodo,7.6675,-76.6808,Colombia,CO,COL,Antioquia,minor,84183.0,1170787746
+Sabaneta,Sabaneta,6.15,-75.6,Colombia,CO,COL,Antioquia,minor,82375.0,1170000611
+Tierralta,Tierralta,7.9167,-76.1667,Colombia,CO,COL,Córdoba,minor,78770.0,1170909785
+Espinal,Espinal,4.2,-74.8333,Colombia,CO,COL,Tolima,minor,75828.0,1170084447
+Arjona,Arjona,10.2586,-75.3461,Colombia,CO,COL,Bolívar,minor,75615.0,1170602407
+Acacías,Acacias,3.9878,-73.7597,Colombia,CO,COL,Meta,minor,75252.0,1170420071
+Copacabana,Copacabana,6.3333,-75.5,Colombia,CO,COL,Antioquia,minor,73574.0,1170002661
+Santa Rosa de Cabal,Santa Rosa de Cabal,4.8667,-75.6167,Colombia,CO,COL,Risaralda,minor,73028.0,1170419801
+San Vicente del Caguán,San Vicente del Caguan,2.1167,-74.7667,Colombia,CO,COL,Caquetá,minor,72949.0,1170922792
+La Dorada,La Dorada,5.4538,-74.6647,Colombia,CO,COL,Caldas,minor,72925.0,1170734727
+Turbaná,Turbana,10.2833,-75.45,Colombia,CO,COL,Bolívar,minor,72168.0,1170487782
+El Banco,El Banco,8.9983,-73.9747,Colombia,CO,COL,Magdalena,minor,72131.0,1170111607
+San Andrés,San Andres,12.5847,-81.7006,Colombia,CO,COL,San Andrés y Providencia,admin,71946.0,1170563968
+Calarcá,Calarca,4.5333,-75.65,Colombia,CO,COL,Quindío,minor,71605.0,1170442353
+La Estrella,La Estrella,6.1667,-75.6667,Colombia,CO,COL,Antioquia,minor,71545.0,1170386533
+Corozal,Corozal,9.3333,-75.25,Colombia,CO,COL,Sucre,minor,70853.0,1170958484
+Villa del Rosario,Villa del Rosario,7.8353,-72.4736,Colombia,CO,COL,Norte de Santander,minor,69833.0,1170700232
+Garzón,Garzon,2.1819,-75.6578,Colombia,CO,COL,Huila,minor,69823.0,1170149755
+Planeta Rica,Planeta Rica,8.4089,-75.5819,Colombia,CO,COL,Córdoba,minor,69285.0,1170924519
+Necoclí,Necocli,8.4167,-76.7833,Colombia,CO,COL,Antioquia,minor,69090.0,1170745269
+San José del Guaviare,San Jose del Guaviare,2.5667,-72.6333,Colombia,CO,COL,Guaviare,admin,68878.0,1170839384
+Manaure,Manaure,11.7792,-72.4494,Colombia,CO,COL,La Guajira,minor,67584.0,1170534927
+El Carmen de Bolívar,El Carmen de Bolivar,9.7167,-75.1333,Colombia,CO,COL,Bolívar,minor,66001.0,1170394868
+La Ceja,La Ceja,6.0306,-75.4317,Colombia,CO,COL,Antioquia,minor,64889.0,1170869906
+Marinilla,Marinilla,6.1738,-75.3347,Colombia,CO,COL,Antioquia,minor,64645.0,1170499821
+Ciénaga de Oro,Cienaga de Oro,8.8833,-75.6167,Colombia,CO,COL,Córdoba,minor,64226.0,1170711004
+Puerto Asís,Puerto Asis,0.5167,-76.5,Colombia,CO,COL,Putumayo,minor,63067.0,1170627964
+Carmen de Viboral,Carmen de Viboral,6.0833,-75.3333,Colombia,CO,COL,Antioquia,minor,62581.0,1170768757
+Riosucio,Riosucio,5.4208,-75.7025,Colombia,CO,COL,Caldas,minor,62296.0,1170642933
+Plato,Plato,9.7919,-74.7872,Colombia,CO,COL,Magdalena,minor,61856.0,1170202938
+La Plata,La Plata,2.39,-75.9075,Colombia,CO,COL,Huila,minor,61026.0,1170531527
+Villamaría,Villamaria,5.0,-75.5,Colombia,CO,COL,Caldas,minor,60729.0,1170294681
+Galapa,Galapa,10.9167,-74.8333,Colombia,CO,COL,Atlántico,minor,60708.0,1170611900
+San Marcos,San Marcos,8.6611,-75.1347,Colombia,CO,COL,Sucre,minor,59976.0,1170680965
+Florida,Florida,3.3275,-76.2386,Colombia,CO,COL,Valle del Cauca,minor,58988.0,1170190923
+Pradera,Pradera,3.4167,-76.1667,Colombia,CO,COL,Valle del Cauca,minor,57990.0,1170774780
+Orito,Orito,0.6661,-76.8708,Colombia,CO,COL,Putumayo,minor,57774.0,1170380074
+Riosucio,Riosucio,7.4406,-77.1189,Colombia,CO,COL,Chocó,minor,57220.0,1170229854
+Puerto Boyacá,Puerto Boyaca,6.0,-74.4167,Colombia,CO,COL,Boyacá,minor,56930.0,1170291040
+El Cerrito,El Cerrito,3.6667,-76.1667,Colombia,CO,COL,Valle del Cauca,minor,56470.0,1170510590
+Mocoa,Mocoa,1.15,-76.6475,Colombia,CO,COL,Putumayo,admin,56398.0,1170970726
+Saravena,Saravena,6.9556,-71.8722,Colombia,CO,COL,Arauca,minor,55554.0,1170587428
+Valle del Guamuez,Valle del Guamuez,0.4253,-76.9053,Colombia,CO,COL,Putumayo,,54237.0,1170672638
+Cajicá,Cajica,4.9167,-74.0333,Colombia,CO,COL,Cundinamarca,minor,54111.0,1170852541
+Puerto Libertador,Puerto Libertador,7.9067,-75.6733,Colombia,CO,COL,Córdoba,minor,53990.0,1170000625
+Tame,Tame,6.4667,-71.7333,Colombia,CO,COL,Arauca,minor,53266.0,1170459811
+Barbosa,Barbosa,6.439,-75.333,Colombia,CO,COL,Antioquia,minor,53167.0,1170859178
+Lorica,Lorica,9.2419,-75.816,Colombia,CO,COL,Córdoba,minor,52771.0,1170094504
+San Onofre,San Onofre,9.7333,-75.5333,Colombia,CO,COL,Sucre,minor,51991.0,1170481491
+San Gil,San Gil,6.5592,-73.135,Colombia,CO,COL,Santander,minor,51874.0,1170310004
+El Bagre,El Bagre,7.5942,-74.8119,Colombia,CO,COL,Antioquia,minor,51862.0,1170419984
+Baranoa,Baranoa,10.8,-74.9167,Colombia,CO,COL,Atlántico,minor,51730.0,1170983977
+Girardota,Girardota,6.3764,-75.4473,Colombia,CO,COL,Antioquia,minor,51662.0,1170812272
+Guarne,Guarne,6.28,-75.4427,Colombia,CO,COL,Antioquia,minor,51265.0,1170977229
+Chinchiná,Chinchina,4.9825,-75.6036,Colombia,CO,COL,Caldas,minor,50673.0,1170836479
+Chinú,Chinu,9.0833,-75.3333,Colombia,CO,COL,Córdoba,minor,50313.0,1170780523
+Pamplona,Pamplona,7.3781,-72.6525,Colombia,CO,COL,Norte de Santander,minor,50025.0,1170275020
+Cimitarra,Cimitarra,6.3167,-73.95,Colombia,CO,COL,Santander,minor,49593.0,1170205431
+San Juan del Cesar,San Juan del Cesar,10.7667,-73.0,Colombia,CO,COL,La Guajira,minor,49584.0,1170398526
+María la Baja,Maria la Baja,10.0,-75.3333,Colombia,CO,COL,Bolívar,minor,49462.0,1170699582
+Agustín Codazzi,Agustin Codazzi,10.0367,-73.2369,Colombia,CO,COL,Cesar,minor,49233.0,1170077466
+Samaniego,Samaniego,1.35,-77.6,Colombia,CO,COL,Nariño,minor,49178.0,1170018906
+Carepa,Carepa,7.7578,-76.6553,Colombia,CO,COL,Antioquia,minor,47932.0,1170091679
+La Vega,La Vega,2.0008,-76.7778,Colombia,CO,COL,Cauca,minor,47417.0,1170000228
+Chaparral,Chaparral,3.7236,-75.4847,Colombia,CO,COL,Tolima,minor,47397.0,1170193964
+San Andrés de Sotavento,San Andres de Sotavento,9.15,-75.5,Colombia,CO,COL,Córdoba,minor,47282.0,1170392574
+Ayapel,Ayapel,8.3167,-75.15,Colombia,CO,COL,Córdoba,minor,47247.0,1170146577
+Urrao,Urrao,6.3156,-76.1342,Colombia,CO,COL,Antioquia,minor,47128.0,1170571210
+Zarzal,Zarzal,4.3983,-76.0772,Colombia,CO,COL,Valle del Cauca,minor,47062.0,1170495189
+Valencia,Valencia,8.2592,-76.1469,Colombia,CO,COL,Córdoba,minor,46897.0,1170188761
+La Jagua de Ibirico,La Jagua de Ibirico,9.5667,-73.3333,Colombia,CO,COL,Cesar,minor,46722.0,1170526836
+Puerto Tejada,Puerto Tejada,3.25,-76.4167,Colombia,CO,COL,Cauca,minor,46166.0,1170475909
+Ortega,Ortega,3.9167,-75.25,Colombia,CO,COL,Tolima,minor,45524.0,1170797038
+San Pelayo,San Pelayo,8.9667,-75.85,Colombia,CO,COL,Córdoba,minor,45396.0,1170248105
+Bolívar,Bolivar,1.9708,-76.9694,Colombia,CO,COL,Cauca,minor,44864.0,1170620269
+Arboletes,Arboletes,8.8517,-76.4283,Colombia,CO,COL,Antioquia,minor,44560.0,1170052299
+Piendamó,Piendamo,2.6408,-76.5284,Colombia,CO,COL,Cauca,minor,44535.0,1170889555
+Villeta,Villeta,5.0083,-74.4738,Colombia,CO,COL,Cundinamarca,minor,43574.0,1170441862
+Andes,Andes,5.5833,-75.9167,Colombia,CO,COL,Antioquia,minor,43269.0,1170727383
+Aguazul,Aguazul,5.1731,-72.5547,Colombia,CO,COL,Casanare,minor,43183.0,1170359050
+Cumaribo,Cumaribo,4.4333,-69.8,Colombia,CO,COL,Vichada,minor,43138.0,1170966663
+Puerto Colombia,Puerto Colombia,11.0167,-74.8833,Colombia,CO,COL,Atlántico,minor,42803.0,1170869718
+Miranda,Miranda,3.25,-76.25,Colombia,CO,COL,Cauca,minor,42639.0,1170512860
+El Charco,El Charco,2.4775,-78.1111,Colombia,CO,COL,Nariño,minor,42525.0,1170354433
+Cáceres,Caceres,7.6667,-75.3333,Colombia,CO,COL,Antioquia,minor,42112.0,1170859204
+Santa Rosa del Sur,Santa Rosa del Sur,7.9667,-74.05,Colombia,CO,COL,Bolívar,minor,42003.0,1170579856
+Montenegro,Montenegro,4.5671,-75.7504,Colombia,CO,COL,Quindío,minor,41857.0,1170267706
+Pueblo Nuevo,Pueblo Nuevo,8.5008,-75.5072,Colombia,CO,COL,Córdoba,minor,41684.0,1170000348
+Yarumal,Yarumal,7.0,-75.5,Colombia,CO,COL,Antioquia,minor,41542.0,1170371045
+Puerto Gaitán,Puerto Gaitan,4.3142,-72.0825,Colombia,CO,COL,Meta,minor,41513.0,1170781522
+Tuchín,Tuchin,9.1833,-75.55,Colombia,CO,COL,Córdoba,minor,41345.0,1170331155
+Arauquita,Arauquita,7.0303,-71.4356,Colombia,CO,COL,Arauca,minor,41309.0,1170159021
+Túquerres,Tuquerres,1.0833,-77.6167,Colombia,CO,COL,Nariño,minor,41205.0,1170724789
+Sevilla,Sevilla,4.2689,-75.9361,Colombia,CO,COL,Valle del Cauca,minor,41153.0,1170453618
+Guaduas,Guaduas,5.0694,-74.5981,Colombia,CO,COL,Cundinamarca,minor,41142.0,1170513211
+Segovia,Segovia,7.0781,-74.7017,Colombia,CO,COL,Antioquia,minor,41000.0,1170027654
+Pie de Pató,Pie de Pato,5.5333,-77.0,Colombia,CO,COL,Chocó,minor,40733.0,1170030072
+Bosconia,Bosconia,9.9761,-73.8903,Colombia,CO,COL,Cesar,minor,40562.0,1170142290
+Cumbal,Cumbal,0.9078,-77.7908,Colombia,CO,COL,Nariño,minor,40492.0,1170478415
+Aracataca,Aracataca,10.5937,-74.1928,Colombia,CO,COL,Magdalena,minor,40400.0,1170335661
+La Unión,La Union,3.6539,-76.5722,Colombia,CO,COL,Valle del Cauca,minor,40339.0,1170145484
+Acevedo,Acevedo,1.8192,-75.8964,Colombia,CO,COL,Huila,minor,39877.0,1170946838
+Líbano,Libano,4.9167,-75.1667,Colombia,CO,COL,Tolima,minor,39665.0,1170994564
+Fonseca,Fonseca,10.8333,-72.8333,Colombia,CO,COL,La Guajira,minor,39662.0,1170493430
+Villa de San Diego de Ubaté,Villa de San Diego de Ubate,5.3072,-73.8144,Colombia,CO,COL,Cundinamarca,minor,39568.0,1170489797
+La Tebaida,La Tebaida,4.45,-75.8,Colombia,CO,COL,Quindío,minor,39498.0,1170920731
+Puerto Berrío,Puerto Berrio,6.49,-74.4025,Colombia,CO,COL,Antioquia,minor,39314.0,1170372171
+Tarazá,Taraza,7.5881,-75.4028,Colombia,CO,COL,Antioquia,minor,39257.0,1170830485
+Barbacoas,Barbacoas,1.6717,-78.1397,Colombia,CO,COL,Nariño,minor,38708.0,1170561863
+Cajibío,Cajibio,2.6333,-76.6333,Colombia,CO,COL,Cauca,minor,38703.0,1170570874
+Ábrego,Abrego,8.0,-73.2,Colombia,CO,COL,Norte de Santander,minor,38627.0,1170272362
+Sibaté,Sibate,4.4908,-74.2594,Colombia,CO,COL,Cundinamarca,minor,38412.0,1170223176
+Barrancas,Barrancas,11.0,-72.75,Colombia,CO,COL,La Guajira,minor,38232.0,1170612474
+Sampués,Sampues,9.1833,-75.3833,Colombia,CO,COL,Sucre,minor,37925.0,1170198440
+Dibulla,Dibulla,11.2667,-73.3,Colombia,CO,COL,La Guajira,minor,37854.0,1170252076
+Patía,Patia,2.1667,-77.0833,Colombia,CO,COL,Cauca,,37781.0,1170437187
+San Sebastián de Mariquita,San Sebastian de Mariquita,5.25,-74.9167,Colombia,CO,COL,Tolima,minor,37770.0,1170963203
+El Bordo,El Bordo,2.1667,-77.0833,Colombia,CO,COL,Cauca,minor,37504.0,1170827287
+Santa Rosa de Osos,Santa Rosa de Osos,6.65,-75.4667,Colombia,CO,COL,Antioquia,minor,37435.0,1170188464
+Tibú,Tibu,8.65,-72.7333,Colombia,CO,COL,Norte de Santander,minor,37286.0,1170518089
+Melgar,Melgar,4.2039,-74.6428,Colombia,CO,COL,Tolima,minor,37224.0,1170387585
+Dagua,Dagua,3.6667,-76.7,Colombia,CO,COL,Valle del Cauca,minor,36891.0,1170326563
+La Macarena,La Macarena,2.1828,-73.7847,Colombia,CO,COL,Meta,minor,36781.0,1170049072
+Anserma,Anserma,5.2381,-75.784,Colombia,CO,COL,Caldas,minor,36691.0,1170000614
+Belalcázar,Belalcazar,2.6469,-75.9717,Colombia,CO,COL,Cauca,minor,36628.0,1170676223
+Sonsón,Sonson,5.7097,-75.3108,Colombia,CO,COL,Antioquia,minor,36445.0,1170000118
+Tocancipá,Tocancipa,4.9657,-73.9136,Colombia,CO,COL,Cundinamarca,minor,36439.0,1170000496
+San Pablo,San Pablo,7.4825,-73.925,Colombia,CO,COL,Bolívar,minor,36341.0,1170480324
+San Bernardo del Viento,San Bernardo del Viento,9.35,-75.95,Colombia,CO,COL,Córdoba,minor,36200.0,1170684147
+Santiago de Tolú,Santiago de Tolu,9.5333,-75.5833,Colombia,CO,COL,Sucre,minor,35670.0,1170666994
+Guacarí,Guacari,3.7667,-76.3333,Colombia,CO,COL,Valle del Cauca,minor,35662.0,1170383272
+Gigante,Gigante,2.3867,-75.5461,Colombia,CO,COL,Huila,minor,35498.0,1170264129
+Cartagena del Chairá,Cartagena del Chaira,1.35,-74.8333,Colombia,CO,COL,Caquetá,minor,35473.0,1170248005
+Santuario,Santuario,6.1375,-75.2639,Colombia,CO,COL,Antioquia,minor,35422.0,1170679272
+Yarumal,Yarumal,7.0306,-75.5905,Colombia,CO,COL,Antioquia,,35315.0,1170196021
+Quimbaya,Quimbaya,4.6333,-75.75,Colombia,CO,COL,Quindío,minor,35276.0,1170735319
+Buenos Aires,Buenos Aires,2.9167,-76.6667,Colombia,CO,COL,Cauca,minor,35197.0,1170770289
+Puerto López,Puerto Lopez,4.0872,-72.9606,Colombia,CO,COL,Meta,minor,35097.0,1170290556
+San Luis de Sincé,San Luis de Since,9.25,-75.15,Colombia,CO,COL,Sucre,minor,35022.0,1170323001
+Campoalegre,Campoalegre,2.6867,-75.3256,Colombia,CO,COL,Huila,minor,34923.0,1170655224
+Caldono,Caldono,2.8,-76.5333,Colombia,CO,COL,Cauca,minor,34132.0,1170589443
+San Agustín,San Agustin,1.9,-76.2833,Colombia,CO,COL,Huila,minor,34120.0,1170663571
+San Juan Nepomuceno,San Juan Nepomuceno,9.95,-75.0833,Colombia,CO,COL,Bolívar,minor,34012.0,1170645816
+Majagual,Majagual,8.5,-74.6667,Colombia,CO,COL,Sucre,minor,34010.0,1170046110
+Quinchía,Quinchia,5.3379,-75.7296,Colombia,CO,COL,Risaralda,minor,34005.0,1170201227
+Timbío,Timbio,2.3445,-76.6839,Colombia,CO,COL,Cauca,minor,33883.0,1170815311
+Puerto Rico,Puerto Rico,1.9142,-75.145,Colombia,CO,COL,Caquetá,minor,33765.0,1170209030
+Roldanillo,Roldanillo,4.4167,-76.15,Colombia,CO,COL,Valle del Cauca,minor,33697.0,1170267836
+San Antero,San Antero,9.3833,-75.75,Colombia,CO,COL,Córdoba,minor,33662.0,1170032632
+Leticia,Leticia,-4.2167,-69.9333,Colombia,CO,COL,Amazonas,admin,33503.0,1170548641
+Corinto,Corinto,3.1739,-76.2594,Colombia,CO,COL,Cauca,minor,33489.0,1170948905
+Sabanagrande,Sabanagrande,10.8,-74.75,Colombia,CO,COL,Atlántico,minor,33437.0,1170578455
+Pivijay,Pivijay,10.4667,-74.6167,Colombia,CO,COL,Magdalena,minor,33225.0,1170978231
+Puebloviejo,Puebloviejo,10.9972,-74.2875,Colombia,CO,COL,Magdalena,minor,33030.0,1170245441
+Bocas de Satinga,Bocas de Satinga,2.3469,-78.3256,Colombia,CO,COL,Nariño,minor,32759.0,1170318285
+Puerto Escondido,Puerto Escondido,8.95,-76.25,Colombia,CO,COL,Córdoba,minor,32745.0,1170484515
+La Mesa,La Mesa,4.6303,-74.4625,Colombia,CO,COL,Cundinamarca,minor,32694.0,1170000629
+Silvia,Silvia,2.6167,-76.3833,Colombia,CO,COL,Cauca,minor,32692.0,1170405315
+Cota,Cota,4.8167,-74.1,Colombia,CO,COL,Cundinamarca,minor,32691.0,1170708586
+El Difícil,El Dificil,9.85,-74.2386,Colombia,CO,COL,Magdalena,minor,32637.0,1170207587
+Inzá,Inza,2.5503,-76.0636,Colombia,CO,COL,Cauca,minor,32582.0,1170048803
+La Virginia,La Virginia,4.9167,-75.8333,Colombia,CO,COL,Risaralda,minor,32330.0,1170879762
+San Pedro de Urabá,San Pedro de Uraba,8.2833,-76.3833,Colombia,CO,COL,Antioquia,minor,32328.0,1170185600
+Remedios,Remedios,7.0275,-74.6939,Colombia,CO,COL,Antioquia,minor,32057.0,1170639594
+Santo Tomás,Santo Tomas,10.7667,-74.9167,Colombia,CO,COL,Atlántico,minor,32000.0,1170972056
+Paipa,Paipa,5.8333,-73.15,Colombia,CO,COL,Boyacá,minor,31868.0,1170592144
+Guachavés,Guachaves,1.2219,-77.6772,Colombia,CO,COL,Nariño,minor,31856.0,1170755614
+Sitionuevo,Sitionuevo,10.7833,-74.7167,Colombia,CO,COL,Magdalena,minor,31706.0,1170226891
+Puerto Wilches,Puerto Wilches,7.35,-73.9,Colombia,CO,COL,Santander,minor,31509.0,1170389077
+Neira,Neira,5.1664,-75.5189,Colombia,CO,COL,Caldas,minor,31399.0,1170186315
+Guamo,Guamo,4.0833,-74.9167,Colombia,CO,COL,Tolima,minor,31350.0,1170113847
+Socorro,Socorro,6.5333,-73.2,Colombia,CO,COL,Santander,minor,31115.0,1170793746
+Toribío,Toribio,2.9581,-76.2714,Colombia,CO,COL,Cauca,minor,30654.0,1170262354
+Amagá,Amaga,6.05,-75.7,Colombia,CO,COL,Antioquia,minor,30376.0,1170092259
+Chimichagua,Chimichagua,9.25,-73.8167,Colombia,CO,COL,Cesar,minor,30303.0,1170174620
+Planadas,Planadas,3.1964,-75.6444,Colombia,CO,COL,Tolima,minor,30117.0,1170444880
+Fresno,Fresno,5.1556,-75.0403,Colombia,CO,COL,Tolima,minor,29794.0,1170216002
+Tabio,Tabio,4.9158,-74.0983,Colombia,CO,COL,Cundinamarca,minor,29731.0,1170060372
+Barbosa,Barbosa,5.933,-73.621,Colombia,CO,COL,Santander,minor,29581.0,1170376059
+Purificación,Purificacion,3.8667,-74.9333,Colombia,CO,COL,Tolima,minor,29539.0,1170787107
+Flandes,Flandes,4.2833,-74.8,Colombia,CO,COL,Tolima,minor,29478.0,1170495426
+Aipe,Aipe,3.2167,-75.2333,Colombia,CO,COL,Huila,minor,29177.0,1170334427
+Sopó,Sopo,4.9167,-73.9333,Colombia,CO,COL,Cundinamarca,minor,29120.0,1170179207
+Moñitos,Monitos,9.2503,-76.1325,Colombia,CO,COL,Córdoba,minor,29117.0,1170797471
+La Dorada,La Dorada,0.3436,-76.9108,Colombia,CO,COL,Putumayo,minor,28982.0,1170206428
+La Calera,La Calera,4.7531,-73.92,Colombia,CO,COL,Cundinamarca,minor,28908.0,1170042987
+Caicedonia,Caicedonia,4.3333,-75.8333,Colombia,CO,COL,Valle del Cauca,minor,28825.0,1170729476
+San Carlos,San Carlos,8.8006,-75.7022,Colombia,CO,COL,Córdoba,minor,28597.0,1170505254
+El Copey,El Copey,10.15,-73.9667,Colombia,CO,COL,Cesar,minor,28550.0,1170203188
+Isnos,Isnos,1.9333,-76.2333,Colombia,CO,COL,Huila,minor,28530.0,1170081298
+Puerto Leguízamo,Puerto Leguizamo,-0.1939,-74.7806,Colombia,CO,COL,Putumayo,minor,28468.0,1170882938
+Coyaima,Coyaima,3.8333,-75.0833,Colombia,CO,COL,Tolima,minor,28443.0,1170700858
+Mitú,Mitu,1.1983,-70.1733,Colombia,CO,COL,Vaupés,admin,28382.0,1170846096
+Villanueva,Villanueva,10.6,-72.9833,Colombia,CO,COL,La Guajira,minor,28346.0,1170525155
+Guamal,Guamal,9.1472,-74.23,Colombia,CO,COL,Magdalena,minor,28277.0,1170423757
+San Vicente de Chucurí,San Vicente de Chucuri,6.8833,-73.4167,Colombia,CO,COL,Santander,minor,28084.0,1170349085
+Pacho,Pacho,5.1306,-74.1583,Colombia,CO,COL,Cundinamarca,minor,27977.0,1170161563
+Palmar de Varela,Palmar de Varela,10.75,-74.75,Colombia,CO,COL,Atlántico,minor,27728.0,1170543827
+Argelia,Argelia,2.2431,-77.2786,Colombia,CO,COL,Cauca,minor,27670.0,1170028016
+Supía,Supia,5.4667,-75.65,Colombia,CO,COL,Caldas,minor,27489.0,1170656633
+Ciudad Bolívar,Ciudad Bolivar,5.85,-76.0333,Colombia,CO,COL,Antioquia,minor,27458.0,1170990931
+Tauramena,Tauramena,5.0167,-72.75,Colombia,CO,COL,Casanare,minor,27178.0,1170457009
+San Juan de Urabá,San Juan de Uraba,8.7667,-76.5333,Colombia,CO,COL,Antioquia,minor,27149.0,1170070547
+Pueblo Bello,Pueblo Bello,10.4167,-73.5833,Colombia,CO,COL,Cesar,minor,27007.0,1170551166
+Chiriguaná,Chiriguana,9.3667,-73.6,Colombia,CO,COL,Cesar,minor,27006.0,1170624254
+Albania,Albania,11.1597,-72.5856,Colombia,CO,COL,La Guajira,minor,26940.0,1170788671
+Fortul,Fortul,6.7922,-71.7756,Colombia,CO,COL,Arauca,minor,26798.0,1170737836
+Morales,Morales,2.7603,-76.6339,Colombia,CO,COL,Cauca,minor,26707.0,1170455752
+Los Córdobas,Los Cordobas,8.9,-76.3667,Colombia,CO,COL,Córdoba,minor,26705.0,1170780435
+Circasia,Circasia,4.6167,-75.6333,Colombia,CO,COL,Quindío,minor,26705.0,1170367133
+San Benito Abad,San Benito Abad,8.9333,-75.0333,Colombia,CO,COL,Sucre,minor,26595.0,1170661666
+San Alberto,San Alberto,7.7525,-73.3892,Colombia,CO,COL,Cesar,minor,26551.0,1170270470
+Balboa,Balboa,2.0436,-77.2197,Colombia,CO,COL,Cauca,minor,26384.0,1170412260
+Pensilvania,Pensilvania,5.5,-75.0833,Colombia,CO,COL,Caldas,minor,26342.0,1170749751
+Paz de Ariporo,Paz de Ariporo,5.8833,-71.9,Colombia,CO,COL,Casanare,minor,26237.0,1170610185
+Buesaco,Buesaco,1.3833,-77.1667,Colombia,CO,COL,Nariño,minor,26229.0,1170721996
+Mahates,Mahates,10.2333,-75.1833,Colombia,CO,COL,Bolívar,minor,26075.0,1170291893
+Istmina,Istmina,5.1667,-76.6833,Colombia,CO,COL,Chocó,minor,25981.0,1170211056
+Santa Ana,Santa Ana,9.319,-74.57,Colombia,CO,COL,Magdalena,minor,25938.0,1170325175
+San Martín,San Martin,3.6969,-73.6986,Colombia,CO,COL,Meta,minor,25902.0,1170677493
+Nechí,Nechi,8.1,-74.7833,Colombia,CO,COL,Antioquia,minor,25790.0,1170181619
+Yolombó,Yolombo,6.5978,-75.0122,Colombia,CO,COL,Antioquia,minor,25647.0,1170796377
+Solano,Solano,0.6983,-75.2539,Colombia,CO,COL,Caquetá,minor,25546.0,1170616766
+Vistahermosa,Vistahermosa,3.1239,-73.7514,Colombia,CO,COL,Meta,minor,25461.0,1170088623
+San José,San Jose,1.6967,-78.2453,Colombia,CO,COL,Nariño,minor,25433.0,1170557399
+Caloto,Caloto,3.0333,-76.4167,Colombia,CO,COL,Cauca,minor,25416.0,1170219131
+Belén de Umbría,Belen de Umbria,5.2,-75.8667,Colombia,CO,COL,Risaralda,minor,25276.0,1170015614
+La Unión,La Union,1.6019,-77.1317,Colombia,CO,COL,Nariño,minor,25270.0,1170740769
+Chocontá,Choconta,5.1467,-73.6825,Colombia,CO,COL,Cundinamarca,minor,25257.0,1170690374
+Sandoná,Sandona,1.2833,-77.4667,Colombia,CO,COL,Nariño,minor,25220.0,1170586561
+Pinillos,Pinillos,8.9167,-74.4667,Colombia,CO,COL,Bolívar,minor,24923.0,1170148335
+Villanueva,Villanueva,4.6087,-72.9288,Colombia,CO,COL,Casanare,minor,24740.0,1170495463
+Algeciras,Algeciras,2.5333,-75.3167,Colombia,CO,COL,Huila,minor,24708.0,1170438880
+Santa Rosa,Santa Rosa,10.4456,-75.3686,Colombia,CO,COL,Bolívar,minor,24694.0,1170627978
+Calamar,Calamar,10.25,-74.9158,Colombia,CO,COL,Bolívar,minor,24573.0,1170252193
+El Retorno,El Retorno,2.3306,-72.6278,Colombia,CO,COL,Guaviare,minor,24562.0,1170783770
+Valdivia,Valdivia,7.289,-75.398,Colombia,CO,COL,Antioquia,minor,24538.0,1170000617
+Puerto Guzmán,Puerto Guzman,0.9667,-76.5833,Colombia,CO,COL,Putumayo,minor,24355.0,1170853414
+Donmatías,Donmatias,6.4833,-75.4333,Colombia,CO,COL,Antioquia,minor,24201.0,1170287770
+Rioblanco,Rioblanco,3.5,-75.8333,Colombia,CO,COL,Tolima,minor,24139.0,1170893363
+Marsella,Marsella,4.9167,-75.75,Colombia,CO,COL,Risaralda,minor,24131.0,1170787775
+Cogua,Cogua,5.0667,-73.9833,Colombia,CO,COL,Cundinamarca,minor,24092.0,1170991139
+Zaragoza,Zaragoza,7.494,-74.871,Colombia,CO,COL,Antioquia,minor,24067.0,1170606958
+Guapí,Guapi,2.5703,-77.8856,Colombia,CO,COL,Cauca,minor,24037.0,1170811574
+El Zulia,El Zulia,7.9333,-72.6,Colombia,CO,COL,Norte de Santander,minor,23921.0,1170321590
+Hatonuevo,Hatonuevo,11.0694,-72.7669,Colombia,CO,COL,La Guajira,minor,23911.0,1170166285
+Honda,Honda,5.2042,-74.7417,Colombia,CO,COL,Tolima,minor,23830.0,1170848069
+Ituango,Ituango,7.1667,-75.75,Colombia,CO,COL,Antioquia,minor,23784.0,1170490299
+Villanueva,Villanueva,10.4456,-75.2761,Colombia,CO,COL,Bolívar,minor,23777.0,1170676204
+El Paso,El Paso,9.6622,-73.7519,Colombia,CO,COL,Cesar,minor,23534.0,1170404892
+Canalete,Canalete,8.79,-76.2411,Colombia,CO,COL,Córdoba,minor,23520.0,1170068172
+Teorama,Teorama,8.4353,-73.2864,Colombia,CO,COL,Norte de Santander,minor,23381.0,1170297865
+San José,San Jose,1.4744,-77.0836,Colombia,CO,COL,Nariño,minor,23279.0,1170922261
+Puerto Concordia,Puerto Concordia,2.6833,-72.7667,Colombia,CO,COL,Meta,minor,23131.0,1170046908
+Achí,Achi,8.5667,-74.55,Colombia,CO,COL,Bolívar,minor,23051.0,1170684229
+Curumaní,Curumani,9.2,-73.55,Colombia,CO,COL,Cesar,minor,23018.0,1170847203
+Dabeiba,Dabeiba,7.0,-76.25,Colombia,CO,COL,Antioquia,minor,22954.0,1170194523
+Luruaco,Luruaco,10.6083,-75.1417,Colombia,CO,COL,Atlántico,minor,22878.0,1170268775
+Rivera,Rivera,2.7853,-75.2589,Colombia,CO,COL,Huila,minor,22877.0,1170362771
+Guadalupe,Guadalupe,2.025,-75.7572,Colombia,CO,COL,Huila,minor,22867.0,1170375870
+Ataco,Ataco,3.6,-75.3833,Colombia,CO,COL,Tolima,minor,22818.0,1170693038
+Amalfi,Amalfi,6.9167,-75.0833,Colombia,CO,COL,Antioquia,minor,22714.0,1170542286
+Buenavista,Buenavista,8.6833,-75.25,Colombia,CO,COL,Córdoba,minor,22711.0,1170230620
+Manzanares,Manzanares,5.2519,-75.1569,Colombia,CO,COL,Caldas,minor,22623.0,1170983089
+Santa Fe de Antioquia,Santa Fe de Antioquia,6.55,-75.8167,Colombia,CO,COL,Antioquia,minor,22613.0,1170034183
+Sardinata,Sardinata,8.0833,-72.8,Colombia,CO,COL,Norte de Santander,minor,22583.0,1170154538
+Sabana de Torres,Sabana de Torres,7.4,-73.5,Colombia,CO,COL,Santander,minor,22512.0,1170400571
+Mutatá,Mutata,7.2442,-76.4358,Colombia,CO,COL,Antioquia,minor,22505.0,1170918759
+Sucre,Sucre,8.8139,-74.7253,Colombia,CO,COL,Sucre,minor,22480.0,1170782443
+Natagaima,Natagaima,3.5833,-75.0833,Colombia,CO,COL,Tolima,minor,22320.0,1170715642
+El Doncello,El Doncello,1.6833,-75.2833,Colombia,CO,COL,Caquetá,minor,22306.0,1170237364
+El Colegio,El Colegio,4.5808,-74.4425,Colombia,CO,COL,Cundinamarca,minor,22247.0,1170000628
+Repelón,Repelon,10.55,-75.1333,Colombia,CO,COL,Atlántico,minor,22196.0,1170326698
+Pailitas,Pailitas,8.9667,-73.6333,Colombia,CO,COL,Cesar,minor,22083.0,1170355661
+Timbiquí,Timbiqui,2.7667,-77.6333,Colombia,CO,COL,Cauca,minor,22077.0,1170187722
+Tiquisio,Tiquisio,8.5667,-74.2667,Colombia,CO,COL,Bolívar,minor,22041.0,1170823883
+Silvania,Silvania,4.4033,-74.3881,Colombia,CO,COL,Cundinamarca,minor,22020.0,1170709496
+Taminango,Taminango,1.5667,-77.2833,Colombia,CO,COL,Nariño,minor,21985.0,1170223532
+Villa de Leyva,Villa de Leyva,5.6333,-73.5333,Colombia,CO,COL,Boyacá,minor,21953.0,1170607364
+Los Palmitos,Los Palmitos,9.3811,-75.2714,Colombia,CO,COL,Sucre,minor,21831.0,1170000253
+Ginebra,Ginebra,3.7244,-76.2672,Colombia,CO,COL,Valle del Cauca,minor,21815.0,1170109956
+Puerto Triunfo,Puerto Triunfo,5.8667,-74.65,Colombia,CO,COL,Antioquia,minor,21745.0,1170980494
+San Jacinto,San Jacinto,9.8311,-75.1219,Colombia,CO,COL,Bolívar,minor,21644.0,1170354916
+Nueva Granada,Nueva Granada,9.8031,-74.3903,Colombia,CO,COL,Magdalena,minor,21612.0,1170955196
+Galeras,Galeras,9.1667,-75.05,Colombia,CO,COL,Sucre,minor,21548.0,1170148348
+Villagarzón,Villagarzon,1.0294,-76.6164,Colombia,CO,COL,Putumayo,minor,21507.0,1170786448
+San Bernardo,San Bernardo,1.5108,-77.0467,Colombia,CO,COL,Nariño,minor,21492.0,1170882959
+El Paujíl,El Paujil,1.5644,-75.3319,Colombia,CO,COL,Caquetá,minor,21462.0,1170891728
+Santa Bárbara,Santa Barbara,5.8747,-75.5661,Colombia,CO,COL,Antioquia,minor,21413.0,1170129538
+Cumaral,Cumaral,4.2694,-73.4864,Colombia,CO,COL,Meta,minor,21397.0,1170080308
+Almaguer,Almaguer,1.9167,-76.8667,Colombia,CO,COL,Cauca,minor,21374.0,1170307475
+Aguadas,Aguadas,5.6167,-75.4667,Colombia,CO,COL,Caldas,minor,21237.0,1170536116
+Montecristo,Montecristo,8.2994,-74.4756,Colombia,CO,COL,Bolívar,minor,21229.0,1170653032
+Suaza,Suaza,1.9833,-75.8167,Colombia,CO,COL,Huila,minor,21119.0,1170853182
+Villapinzón,Villapinzon,5.2167,-73.6,Colombia,CO,COL,Cundinamarca,minor,21049.0,1170598594
+Fredonia,Fredonia,5.9167,-75.6667,Colombia,CO,COL,Antioquia,minor,20997.0,1170731658
+El Retén,El Reten,10.6167,-74.2667,Colombia,CO,COL,Magdalena,minor,20981.0,1170874464
+Bugalagrande,Bugalagrande,4.2167,-76.1667,Colombia,CO,COL,Valle del Cauca,minor,20970.0,1170646923
+Sotomayor,Sotomayor,1.4933,-77.5214,Colombia,CO,COL,Nariño,minor,20865.0,1170028050
+Moniquirá,Moniquira,5.9167,-73.5,Colombia,CO,COL,Boyacá,minor,20848.0,1170206857
+Ovejas,Ovejas,9.5,-75.1667,Colombia,CO,COL,Sucre,minor,20846.0,1170231895
+Samacá,Samaca,5.5,-73.4833,Colombia,CO,COL,Boyacá,minor,20767.0,1170064917
+Becerril,Becerril,9.7,-73.2833,Colombia,CO,COL,Cesar,minor,20477.0,1170989688
+Timaná,Timana,1.9833,-75.95,Colombia,CO,COL,Huila,minor,20463.0,1170667913
+San Martín,San Martin,8.0472,-73.5153,Colombia,CO,COL,Cesar,minor,20452.0,1170564282
+San Lorenzo,San Lorenzo,1.5039,-77.2178,Colombia,CO,COL,Nariño,minor,20403.0,1170168710
+Inírida,Inirida,3.8653,-67.9239,Colombia,CO,COL,Guainía,admin,20279.0,1170563591
+Simití,Simiti,7.9667,-73.95,Colombia,CO,COL,Bolívar,minor,20271.0,1170040846
+Concordia,Concordia,6.049,-75.909,Colombia,CO,COL,Antioquia,minor,20271.0,1170368496
+Tenjo,Tenjo,4.9167,-74.1667,Colombia,CO,COL,Cundinamarca,minor,20269.0,1170657903
+Rovira,Rovira,4.25,-75.3333,Colombia,CO,COL,Tolima,minor,20255.0,1170046008
+Frontino,Frontino,6.7833,-76.1333,Colombia,CO,COL,Antioquia,minor,20156.0,1170729668
+Tolú Viejo,Tolu Viejo,9.45,-75.45,Colombia,CO,COL,Sucre,minor,20033.0,1170864829
+Málaga,Malaga,6.7833,-72.6667,Colombia,CO,COL,Santander,minor,19884.0,1170443368
+Suárez,Suarez,2.9589,-76.6953,Colombia,CO,COL,Cauca,minor,19690.0,1170553127
+Urumita,Urumita,10.5667,-73.0167,Colombia,CO,COL,La Guajira,minor,19629.0,1170312888
+Venadillo,Venadillo,4.75,-74.9167,Colombia,CO,COL,Tolima,minor,19586.0,1170931543
+Ansermanuevo,Ansermanuevo,4.8,-76.0,Colombia,CO,COL,Valle del Cauca,minor,19557.0,1170498489
+Polonuevo,Polonuevo,10.7833,-74.8667,Colombia,CO,COL,Atlántico,minor,19454.0,1170997382
+La Unión,La Union,5.9736,-75.3614,Colombia,CO,COL,Antioquia,minor,19119.0,1170723102
+El Rosal,El Rosal,4.8519,-74.2628,Colombia,CO,COL,Cundinamarca,minor,18958.0,1170518827
+Tadó,Tado,5.2667,-76.5667,Colombia,CO,COL,Chocó,minor,18906.0,1170279230
+San Sebastián de Buenavista,San Sebastian de Buenavista,9.2403,-74.3556,Colombia,CO,COL,Magdalena,minor,18865.0,1170564424
+Anzoátegui,Anzoategui,4.6339,-75.0972,Colombia,CO,COL,Tolima,minor,18849.0,1170133861
+Guachucal,Guachucal,0.9667,-77.7333,Colombia,CO,COL,Nariño,minor,18845.0,1170078700
+Vélez,Velez,6.0103,-73.6763,Colombia,CO,COL,Santander,minor,18808.0,1170298824
+Tocaima,Tocaima,4.5,-74.6667,Colombia,CO,COL,Cundinamarca,minor,18790.0,1170682674
+Villa Rica,Villa Rica,2.5167,-76.85,Colombia,CO,COL,Cauca,,18761.0,1170377938
+Salamina,Salamina,5.4083,-75.49,Colombia,CO,COL,Caldas,minor,18704.0,1170954127
+Morales,Morales,8.3133,-73.8719,Colombia,CO,COL,Bolívar,minor,18678.0,1170533443
+Pizarro,Pizarro,4.95,-77.3667,Colombia,CO,COL,Chocó,minor,18561.0,1170809490
+San Diego,San Diego,10.3375,-73.1825,Colombia,CO,COL,Cesar,minor,18531.0,1170032847
+Astrea,Astrea,9.5,-73.9833,Colombia,CO,COL,Cesar,minor,18434.0,1170944258
+Ponedera,Ponedera,10.65,-74.75,Colombia,CO,COL,Atlántico,minor,18430.0,1170527788
+Campo de la Cruz,Campo de la Cruz,10.3778,-74.8814,Colombia,CO,COL,Atlántico,minor,18354.0,1170737801
+Buenavista,Buenavista,8.6805,-75.2554,Colombia,CO,COL,Córdoba,,18344.0,1170418186
+Trujillo,Trujillo,4.25,-76.3333,Colombia,CO,COL,Valle del Cauca,minor,18142.0,1170602348
+Andalucía,Andalucia,4.1667,-76.1667,Colombia,CO,COL,Valle del Cauca,minor,18132.0,1170644836
+San Pedro,San Pedro,4.0,-76.2292,Colombia,CO,COL,Valle del Cauca,minor,18128.0,1170576529
+Convención,Convencion,8.8333,-73.2,Colombia,CO,COL,Norte de Santander,minor,18112.0,1170793866
+Ricaurte,Ricaurte,1.2108,-77.9933,Colombia,CO,COL,Nariño,minor,18067.0,1170607902
+San Vicente,San Vicente,6.2819,-75.3322,Colombia,CO,COL,Antioquia,minor,18051.0,1170160969
+San Pedro,San Pedro,8.7333,-74.7167,Colombia,CO,COL,Sucre,,18029.0,1170847061
+Pelaya,Pelaya,8.6833,-73.6667,Colombia,CO,COL,Cesar,minor,17910.0,1170015000
+Salgar,Salgar,5.9617,-75.9753,Colombia,CO,COL,Antioquia,minor,17804.0,1170000086
+El Carmen de Chucurí,El Carmen de Chucuri,6.6981,-73.5111,Colombia,CO,COL,Santander,minor,17638.0,1170751882
+La Primavera,La Primavera,5.4906,-70.4092,Colombia,CO,COL,Vichada,minor,17626.0,1170159193
+Totoró,Totoro,2.5117,-76.4003,Colombia,CO,COL,Cauca,minor,17611.0,1170684203
+Restrepo,Restrepo,4.25,-73.5667,Colombia,CO,COL,Meta,minor,17610.0,1170439018
+Abejorral,Abejorral,5.7894,-75.4281,Colombia,CO,COL,Antioquia,minor,17599.0,1170508965
+Yondó,Yondo,7.0,-73.9167,Colombia,CO,COL,Antioquia,minor,17597.0,1170716454
+Mistrató,Mistrato,5.3,-75.8833,Colombia,CO,COL,Risaralda,minor,17527.0,1170662238
+Puerto Guzmán,Puerto Guzman,0.9703,-76.5858,Colombia,CO,COL,Putumayo,,17495.0,1170540013
+Samaná,Samana,5.5833,-74.9167,Colombia,CO,COL,Caldas,minor,17466.0,1170332815
+Guaranda,Guaranda,8.4672,-74.5367,Colombia,CO,COL,Sucre,minor,17422.0,1170473707
+Suesca,Suesca,5.1,-73.8,Colombia,CO,COL,Cundinamarca,minor,17318.0,1170580731
+Betulia,Betulia,6.1122,-75.9839,Colombia,CO,COL,Antioquia,minor,17317.0,1170946542
+Cajamarca,Cajamarca,4.4167,-75.5,Colombia,CO,COL,Tolima,minor,17309.0,1170462346
+Tíogollo,Tiogollo,10.3408,-74.7333,Colombia,CO,COL,Magdalena,,17308.0,1170688181
+Toledo,Toledo,7.3131,-72.4875,Colombia,CO,COL,Norte de Santander,minor,17283.0,1170149745
+Lérida,Lerida,4.9,-74.9167,Colombia,CO,COL,Tolima,minor,17197.0,1170865929
+Cáqueza,Caqueza,4.4053,-73.9478,Colombia,CO,COL,Cundinamarca,minor,17048.0,1170175410
+Gachancipá,Gachancipa,4.9908,-73.8731,Colombia,CO,COL,Cundinamarca,minor,17026.0,1170853649
+Retiro,Retiro,6.0572,-75.5025,Colombia,CO,COL,Antioquia,minor,16974.0,1170702192
+Garagoa,Garagoa,5.0825,-73.3642,Colombia,CO,COL,Boyacá,minor,16944.0,1170105749
+San Roque,San Roque,6.4853,-75.0197,Colombia,CO,COL,Antioquia,minor,16789.0,1170674966
+Puerto Carreño,Puerto Carreno,6.1903,-67.4836,Colombia,CO,COL,Vichada,admin,16763.0,1170291142
+El Piñón,El Pinon,10.3333,-74.6667,Colombia,CO,COL,Magdalena,minor,16752.0,1170478027
+La Cruz,La Cruz,1.6047,-76.9742,Colombia,CO,COL,Nariño,minor,16674.0,1170176423
+San Estanislao,San Estanislao,10.4,-75.15,Colombia,CO,COL,Bolívar,minor,16518.0,1170812235
+Anorí,Anori,7.0736,-75.1458,Colombia,CO,COL,Antioquia,minor,16447.0,1170571922
+Pupiales,Pupiales,0.8667,-77.65,Colombia,CO,COL,Nariño,minor,16431.0,1170678513
+Toro,Toro,4.6117,-76.0814,Colombia,CO,COL,Valle del Cauca,minor,16394.0,1170854707
+Jambaló,Jambalo,2.85,-76.3167,Colombia,CO,COL,Cauca,minor,16353.0,1170689229
+Chinácota,Chinacota,7.6167,-72.6,Colombia,CO,COL,Norte de Santander,minor,16348.0,1170848933
+Nobsa,Nobsa,5.7667,-72.95,Colombia,CO,COL,Boyacá,minor,16271.0,1170848106
+Momil,Momil,9.2333,-75.6833,Colombia,CO,COL,Córdoba,minor,16264.0,1170726403
+Yotoco,Yotoco,3.8667,-76.3833,Colombia,CO,COL,Valle del Cauca,minor,16263.0,1170305801
+Restrepo,Restrepo,3.825,-76.525,Colombia,CO,COL,Valle del Cauca,minor,16227.0,1170000422
+El Peñol,El Penol,6.2186,-75.2433,Colombia,CO,COL,Nariño,,16223.0,1170074292
+Cotorra,Cotorra,9.05,-75.8,Colombia,CO,COL,Córdoba,minor,16215.0,1170561401
+Subachoque,Subachoque,4.9281,-74.1736,Colombia,CO,COL,Cundinamarca,minor,16117.0,1170356384
+Tarqui,Tarqui,2.1106,-75.8231,Colombia,CO,COL,Huila,minor,16108.0,1170724338
+Aquitania,Aquitania,5.5833,-72.8333,Colombia,CO,COL,Boyacá,minor,16087.0,1170697722
+Darién,Darien,3.9167,-76.6667,Colombia,CO,COL,Valle del Cauca,minor,16054.0,1170479782
+Chivolo,Chivolo,10.0261,-74.6211,Colombia,CO,COL,Magdalena,minor,15960.0,1170052767
+Pijiño del Carmen,Pijino del Carmen,9.3333,-74.45,Colombia,CO,COL,Magdalena,minor,15759.0,1170562025
+Guasca,Guasca,4.8658,-73.8772,Colombia,CO,COL,Cundinamarca,minor,15727.0,1170022740
+La Montañita,La Montanita,1.5833,-75.25,Colombia,CO,COL,Caquetá,minor,15725.0,1170812971
+Ventaquemada,Ventaquemada,5.4167,-73.5,Colombia,CO,COL,Boyacá,minor,15442.0,1170473736
+Landázuri,Landazuri,6.2181,-73.8114,Colombia,CO,COL,Santander,minor,15395.0,1170306835
+Támesis,Tamesis,5.6667,-75.7167,Colombia,CO,COL,Antioquia,minor,15218.0,1170438434
+La Apartada,La Apartada,8.1006,-75.3825,Colombia,CO,COL,Córdoba,minor,15204.0,1170000626
+Puerto Salgar,Puerto Salgar,5.5,-74.5833,Colombia,CO,COL,Cundinamarca,minor,15019.0,1170945460
+La Gloria,La Gloria,8.5833,-73.5833,Colombia,CO,COL,Cesar,minor,14989.0,1170957032
+Obando,Obando,4.5833,-75.9167,Colombia,CO,COL,Valle del Cauca,minor,14980.0,1170669388
+Coconuco,Coconuco,2.25,-76.4167,Colombia,CO,COL,Cauca,minor,14952.0,1170332695
+Monterrey,Monterrey,4.8783,-72.8972,Colombia,CO,COL,Casanare,minor,14828.0,1170450558
+Mercaderes,Mercaderes,1.8,-77.1667,Colombia,CO,COL,Cauca,minor,14824.0,1170092647
+Cocorná,Cocorna,6.0569,-75.1853,Colombia,CO,COL,Antioquia,minor,14743.0,1170897315
+Riofrío,Riofrio,4.1561,-76.2878,Colombia,CO,COL,Valle del Cauca,minor,14716.0,1170785545
+Purísima de la Concepción,Purisima de la Concepcion,9.2333,-75.7333,Colombia,CO,COL,Córdoba,minor,14705.0,1170780807
+Condoto,Condoto,5.1,-76.65,Colombia,CO,COL,Chocó,minor,14660.0,1170624933
+Cómbita,Combita,5.75,-73.25,Colombia,CO,COL,Boyacá,minor,14632.0,1170000033
+Anapoima,Anapoima,4.5503,-74.5361,Colombia,CO,COL,Cundinamarca,minor,14519.0,1170450555
+San Martín de Loba,San Martin de Loba,8.8333,-73.9167,Colombia,CO,COL,Bolívar,minor,14504.0,1170000618
+San Carlos,San Carlos,6.1897,-74.9969,Colombia,CO,COL,Antioquia,minor,14480.0,1170540736
+Sopetrán,Sopetran,6.5017,-75.7433,Colombia,CO,COL,Antioquia,minor,14453.0,1170000615
+Barranco de Loba,Barranco de Loba,8.95,-74.1167,Colombia,CO,COL,Bolívar,minor,14435.0,1170730052
+Morroa,Morroa,9.3333,-75.3167,Colombia,CO,COL,Sucre,minor,14429.0,1170532353
+San Antonio,San Antonio,3.9167,-75.5,Colombia,CO,COL,Tolima,minor,14400.0,1170845571
+Villa Rica,Villa Rica,3.1736,-76.4631,Colombia,CO,COL,Cauca,minor,14378.0,1170820910
+Saldaña,Saldana,3.9347,-75.0203,Colombia,CO,COL,Tolima,minor,14329.0,1170588181
+Tenerife,Tenerife,9.8989,-74.8589,Colombia,CO,COL,Magdalena,minor,14320.0,1170763439
+Algarrobo,Algarrobo,10.1,-74.2667,Colombia,CO,COL,Magdalena,minor,14294.0,1170405852
+Algarrobo,Algarrobo,10.1,-74.2667,Colombia,CO,COL,Magdalena,,14294.0,1170512460
+Juan de Acosta,Juan de Acosta,10.8333,-75.0333,Colombia,CO,COL,Atlántico,minor,14184.0,1170261449
+Sibundoy,Sibundoy,1.2033,-76.9192,Colombia,CO,COL,Putumayo,minor,14104.0,1170369776
+Titiribí,Titiribi,6.0667,-75.8,Colombia,CO,COL,Antioquia,minor,14092.0,1170013003
+Tibasosa,Tibasosa,5.8333,-72.9667,Colombia,CO,COL,Boyacá,minor,14063.0,1170340482
+El Carmen de Atrato,El Carmen de Atrato,5.8983,-76.1431,Colombia,CO,COL,Chocó,minor,14049.0,1170000623
+Río de Oro,Rio de Oro,8.0,-73.5,Colombia,CO,COL,Cesar,minor,14041.0,1170000449
+Santa Catalina,Santa Catalina,10.6039,-75.2878,Colombia,CO,COL,Bolívar,minor,14039.0,1170893444
+Córdoba,Cordoba,0.855,-77.5211,Colombia,CO,COL,Nariño,minor,14006.0,1170192500
+Bolívar,Bolivar,4.3386,-76.1847,Colombia,CO,COL,Valle del Cauca,minor,13954.0,1170438450
+Sesquilé,Sesquile,5.0453,-73.7972,Colombia,CO,COL,Cundinamarca,minor,13936.0,1170884868
+Tamalameque,Tamalameque,8.8333,-73.5833,Colombia,CO,COL,Cesar,minor,13862.0,1170626838
+Guamal,Guamal,3.88,-73.7656,Colombia,CO,COL,Meta,minor,13857.0,1170121080
+Clemencia,Clemencia,10.5833,-75.3333,Colombia,CO,COL,Bolívar,minor,13821.0,1170519066
+Jardín,Jardin,5.5986,-75.8194,Colombia,CO,COL,Antioquia,minor,13748.0,1170860427
+Palmito,Palmito,9.3333,-75.55,Colombia,CO,COL,Sucre,minor,13682.0,1170554434
+Altos del Rosario,Altos del Rosario,8.8,-74.1667,Colombia,CO,COL,Bolívar,minor,13669.0,1170079040
+Castilla La Nueva,Castilla La Nueva,3.8333,-73.6833,Colombia,CO,COL,Meta,minor,13611.0,1170337623
+Cañasgordas,Canasgordas,6.7497,-76.0258,Colombia,CO,COL,Antioquia,minor,13595.0,1170135054
+Ráquira,Raquira,5.5333,-73.6333,Colombia,CO,COL,Boyacá,minor,13588.0,1170663878
+Palestina,Palestina,5.0833,-75.6667,Colombia,CO,COL,Caldas,minor,13560.0,1170065725
+Chimá,Chima,9.15,-75.6333,Colombia,CO,COL,Córdoba,minor,13492.0,1170217235
+Nemocón,Nemocon,5.05,-73.8833,Colombia,CO,COL,Cundinamarca,minor,13488.0,1170453041
+Manatí,Manati,10.445,-74.9597,Colombia,CO,COL,Atlántico,minor,13456.0,1170827497
+San Juan de Betulia,San Juan de Betulia,9.2756,-75.2456,Colombia,CO,COL,Sucre,minor,13437.0,1170286513
+San Jacinto del Cauca,San Jacinto del Cauca,8.25,-74.7167,Colombia,CO,COL,Bolívar,minor,13426.0,1170204575
+Rosas,Rosas,2.2667,-76.75,Colombia,CO,COL,Cauca,minor,13302.0,1170048993
+Maní,Mani,4.8167,-72.2833,Colombia,CO,COL,Casanare,minor,13291.0,1170495978
+El Tablón,El Tablon,1.4269,-77.0969,Colombia,CO,COL,Nariño,minor,13255.0,1170509980
+La Victoria,La Victoria,4.5214,-76.0364,Colombia,CO,COL,Valle del Cauca,minor,13247.0,1170932962
+Pácora,Pacora,5.5258,-75.4589,Colombia,CO,COL,Caldas,minor,13214.0,1170478424
+Bagadó,Bagado,5.4167,-76.4167,Colombia,CO,COL,Chocó,minor,13174.0,1170462492
+San Jerónimo,San Jeronimo,6.4417,-75.7278,Colombia,CO,COL,Antioquia,minor,13158.0,1170182912
+Cicuco,Cicuco,9.2667,-74.65,Colombia,CO,COL,Bolívar,minor,13120.0,1170569018
+La Vega,La Vega,4.9992,-74.3411,Colombia,CO,COL,Cundinamarca,minor,13085.0,1170671820
+San Antonio del Tequendama,San Antonio del Tequendama,4.6328,-74.3522,Colombia,CO,COL,Cundinamarca,minor,13084.0,1170251762
+Simijaca,Simijaca,5.5019,-73.8519,Colombia,CO,COL,Cundinamarca,minor,13077.0,1170095690
+San Pablo,San Pablo,1.6725,-77.0139,Colombia,CO,COL,Nariño,minor,12929.0,1170794698
+Anolaima,Anolaima,4.7617,-74.464,Colombia,CO,COL,Cundinamarca,minor,12911.0,1170457629
+Ricaurte,Ricaurte,4.2792,-74.7728,Colombia,CO,COL,Cundinamarca,minor,12881.0,1170544866
+Santuario,Santuario,5.0725,-75.9623,Colombia,CO,COL,Risaralda,minor,12826.0,1170439701
+Alcalá,Alcala,4.6667,-75.75,Colombia,CO,COL,Valle del Cauca,minor,12716.0,1170054347
+Apía,Apia,5.1,-75.95,Colombia,CO,COL,Risaralda,minor,12613.0,1170159513
+Santa Bárbara de Pinto,Santa Barbara de Pinto,9.4333,-74.7,Colombia,CO,COL,Magdalena,minor,12610.0,1170483777
+Viotá,Viota,4.4381,-74.5239,Colombia,CO,COL,Cundinamarca,minor,12589.0,1170693383
+San Rafael,San Rafael,6.2975,-75.0314,Colombia,CO,COL,Antioquia,minor,12578.0,1170732033
+La Argentina,La Argentina,2.1961,-75.98,Colombia,CO,COL,Huila,minor,12475.0,1170000037
+El Tambo,El Tambo,1.4131,-77.3981,Colombia,CO,COL,Nariño,minor,12457.0,1170998419
+Gamarra,Gamarra,8.3333,-73.6667,Colombia,CO,COL,Cesar,minor,12444.0,1170567440
+Los Santos,Los Santos,6.9167,-73.0833,Colombia,CO,COL,Santander,minor,12433.0,1170390233
+Viterbo,Viterbo,5.0667,-75.8833,Colombia,CO,COL,Caldas,minor,12432.0,1170417091
+Guática,Guatica,5.3167,-75.8,Colombia,CO,COL,Risaralda,minor,12423.0,1170331290
+Pueblo Rico,Pueblo Rico,5.25,-76.1667,Colombia,CO,COL,Risaralda,minor,12423.0,1170315840
+Chachagüí,Chachagui,1.3605,-77.2835,Colombia,CO,COL,Nariño,minor,12419.0,1170508673
+Saboyá,Saboya,5.7,-73.7667,Colombia,CO,COL,Boyacá,minor,12372.0,1170473369
+San Antonio,San Antonio,10.0,-74.6667,Colombia,CO,COL,Magdalena,,12364.0,1170443543
+Susa,Susa,5.4528,-73.814,Colombia,CO,COL,Cundinamarca,minor,12302.0,1170534475
+Arbeláez,Arbelaez,4.2725,-74.4151,Colombia,CO,COL,Cundinamarca,minor,12292.0,1170472184
+Hatillo de Loba,Hatillo de Loba,8.9586,-74.0808,Colombia,CO,COL,Bolívar,minor,12270.0,1170880028
+Córdoba,Cordoba,9.5867,-74.8272,Colombia,CO,COL,Bolívar,minor,12266.0,1170365164
+Pital,Pital,2.987,-75.826,Colombia,CO,COL,Huila,minor,12246.0,1170707654
+Fómeque,Fomeque,4.4847,-73.8936,Colombia,CO,COL,Cundinamarca,minor,12214.0,1170945629
+Unguía,Unguia,8.05,-77.1,Colombia,CO,COL,Chocó,minor,12192.0,1170526283
+Pasca,Pasca,4.3075,-74.3008,Colombia,CO,COL,Cundinamarca,minor,12175.0,1170537329
+Puerto Nare,Puerto Nare,6.1917,-74.5867,Colombia,CO,COL,Antioquia,minor,12161.0,1170388042
+Ebéjico,Ebejico,6.3333,-75.7667,Colombia,CO,COL,Antioquia,minor,12158.0,1170232093
+Marquetalia,Marquetalia,5.3333,-75.0,Colombia,CO,COL,Caldas,minor,12146.0,1170955036
+Jericó,Jerico,5.7833,-75.7833,Colombia,CO,COL,Antioquia,minor,12103.0,1170373171
+Acandí,Acandi,8.5333,-77.2333,Colombia,CO,COL,Chocó,minor,12095.0,1170188476
+Caimito,Caimito,8.8333,-75.1667,Colombia,CO,COL,Sucre,minor,12077.0,1170914117
+Filandia,Filandia,4.6667,-75.6333,Colombia,CO,COL,Quindío,minor,12066.0,1170471225
+Curití,Curiti,6.6667,-73.0,Colombia,CO,COL,Santander,minor,12065.0,1170526729
+Oiba,Oiba,6.2667,-73.3,Colombia,CO,COL,Santander,minor,12063.0,1170706539
+El Carmen,El Carmen,8.5128,-73.4508,Colombia,CO,COL,Norte de Santander,minor,12001.0,1170574816
+Paispamba,Paispamba,2.25,-76.5833,Colombia,CO,COL,Cauca,minor,11958.0,1170817361
+Distracción,Distraccion,10.9,-72.8833,Colombia,CO,COL,La Guajira,minor,11934.0,1170180285
+Trinidad,Trinidad,5.4089,-71.6622,Colombia,CO,COL,Casanare,minor,11734.0,1170027404
+Puente Nacional,Puente Nacional,5.8833,-73.6833,Colombia,CO,COL,Santander,minor,11718.0,1170000515
+Candelaria,Candelaria,10.4592,-74.8806,Colombia,CO,COL,Atlántico,minor,11635.0,1170881306
+Fuente de Oro,Fuente de Oro,3.4667,-73.6167,Colombia,CO,COL,Meta,minor,11599.0,1170263395
+Santa Lucía,Santa Lucia,10.3167,-74.95,Colombia,CO,COL,Atlántico,minor,11584.0,1170763002
+Santa Genoveva de Docordó,Santa Genoveva de Docordo,4.2586,-77.3675,Colombia,CO,COL,Chocó,minor,11579.0,1170336944
+La Unión,La Union,8.8606,-75.2806,Colombia,CO,COL,Sucre,minor,11566.0,1170400912
+Cisneros,Cisneros,6.5383,-75.0886,Colombia,CO,COL,Antioquia,minor,11555.0,1170710325
+San Carlos de Guaroa,San Carlos de Guaroa,3.7111,-73.2425,Colombia,CO,COL,Meta,minor,11512.0,1170978795
+Valdivia,Valdivia,7.2938,-75.3919,Colombia,CO,COL,Antioquia,,11511.0,1170877215
+Guayabal,Guayabal,4.9633,-74.9056,Colombia,CO,COL,Tolima,minor,11490.0,1170472298
+Puerto Rico,Puerto Rico,2.9383,-73.2083,Colombia,CO,COL,Meta,minor,11433.0,1170252143
+Hato Corozal,Hato Corozal,3.1833,-73.75,Colombia,CO,COL,Meta,,11431.0,1170673872
+Guachetá,Guacheta,5.3856,-73.6856,Colombia,CO,COL,Cundinamarca,minor,11385.0,1170660676
+Zambrano,Zambrano,9.75,-74.8333,Colombia,CO,COL,Bolívar,minor,11367.0,1170000087
+San José del Fragua,San Jose del Fragua,1.3286,-75.9728,Colombia,CO,COL,Caquetá,minor,11364.0,1170931653
+Talaigua Nuevo,Talaigua Nuevo,9.3069,-74.5686,Colombia,CO,COL,Bolívar,minor,11350.0,1170791252
+Santa Rosa de Viterbo,Santa Rosa de Viterbo,5.8833,-72.9833,Colombia,CO,COL,Boyacá,minor,11329.0,1170798661
+Coveñas,Covenas,9.4167,-75.7,Colombia,CO,COL,Sucre,minor,11270.0,1170707919
+El Playón,El Playon,7.4767,-73.2081,Colombia,CO,COL,Santander,minor,11252.0,1170615390
+Lloró,Lloro,5.5,-76.5333,Colombia,CO,COL,Chocó,minor,11197.0,1170030184
+Puerto Caicedo,Puerto Caicedo,0.685,-76.6044,Colombia,CO,COL,Putumayo,minor,11122.0,1170335113
+Oporapa,Oporapa,2.05,-75.9667,Colombia,CO,COL,Huila,minor,11111.0,1170571598
+Gachetá,Gacheta,4.8176,-73.636,Colombia,CO,COL,Cundinamarca,minor,11086.0,1170649939
+Belén de los Andaquíes,Belen de los Andaquies,1.4161,-75.8725,Colombia,CO,COL,Caquetá,minor,11081.0,1170848387
+El Águila,El Aguila,4.9167,-76.0833,Colombia,CO,COL,Valle del Cauca,minor,11069.0,1170584025
+La Esperanza,La Esperanza,7.6392,-73.3358,Colombia,CO,COL,Norte de Santander,minor,11040.0,1170817366
+La Palma,La Palma,5.3606,-74.3897,Colombia,CO,COL,Cundinamarca,minor,11012.0,1170347214
+Vijes,Vijes,3.7,-76.45,Colombia,CO,COL,Valle del Cauca,minor,11010.0,1170640729
+Agua de Dios,Agua de Dios,4.3781,-74.6739,Colombia,CO,COL,Cundinamarca,minor,10995.0,1170261758
+Cáchira,Cachira,7.75,-73.1667,Colombia,CO,COL,Norte de Santander,minor,10970.0,1170614751
+Tarrá,Tarra,8.0475,-73.0836,Colombia,CO,COL,Norte de Santander,,10957.0,1170074509
+El Tarra,El Tarra,8.5756,-73.0944,Colombia,CO,COL,Norte de Santander,minor,10957.0,1170113123
+Yacopí,Yacopi,5.4667,-74.3333,Colombia,CO,COL,Cundinamarca,minor,10887.0,1170241710
+Mogotes,Mogotes,6.4833,-72.9667,Colombia,CO,COL,Santander,minor,10860.0,1170943912
+Buenavista,Buenavista,9.3222,-74.9772,Colombia,CO,COL,Sucre,minor,10829.0,1170935421
+Icononzo,Icononzo,4.1833,-74.5333,Colombia,CO,COL,Tolima,minor,10801.0,1170002188
+Guaitarilla,Guaitarilla,1.1333,-77.5564,Colombia,CO,COL,Nariño,minor,10774.0,1170237698
+Santo Domingo,Santo Domingo,6.4708,-75.1658,Colombia,CO,COL,Antioquia,minor,10759.0,1170000493
+Choachí,Choachi,4.5297,-73.9236,Colombia,CO,COL,Cundinamarca,minor,10729.0,1170262604
+Ubalá,Ubala,4.7439,-73.5347,Colombia,CO,COL,Cundinamarca,minor,10718.0,1170000627
+Villahermosa,Villahermosa,5.0,-75.1667,Colombia,CO,COL,Tolima,minor,10696.0,1170425263
+Tubará,Tubara,10.8667,-74.9833,Colombia,CO,COL,Atlántico,minor,10602.0,1170951499
+Yacuanquer,Yacuanquer,1.1167,-77.4,Colombia,CO,COL,Nariño,minor,10579.0,1170229796
+Lejanías,Lejanias,3.5268,-74.0232,Colombia,CO,COL,Meta,minor,10576.0,1170478276
+Chitagá,Chitaga,7.1333,-72.6667,Colombia,CO,COL,Norte de Santander,minor,10554.0,1170356842
+Angostura,Angostura,6.8667,-75.3333,Colombia,CO,COL,Antioquia,minor,10500.0,1170569077
+Regidor,Regidor,8.6667,-73.8333,Colombia,CO,COL,Bolívar,minor,10489.0,1170335895
+Palestina,Palestina,1.75,-76.0667,Colombia,CO,COL,Huila,minor,10454.0,1170209006
+Úmbita,Umbita,5.2167,-73.4667,Colombia,CO,COL,Boyacá,minor,10314.0,1170372127
+Caparrapí,Caparrapi,5.3442,-74.4917,Colombia,CO,COL,Cundinamarca,minor,10301.0,1170076731
+Venecia,Venecia,5.9167,-75.75,Colombia,CO,COL,Antioquia,minor,10280.0,1170112749
+Tello,Tello,3.0667,-75.1333,Colombia,CO,COL,Huila,minor,10273.0,1170282620
+Lenguazaque,Lenguazaque,5.3069,-73.7061,Colombia,CO,COL,Cundinamarca,minor,10268.0,1170060796
+Puerto Santander,Puerto Santander,8.3636,-72.4075,Colombia,CO,COL,Norte de Santander,minor,10249.0,1170636572
+Santa María,Santa Maria,2.95,-75.65,Colombia,CO,COL,Huila,,10215.0,1170000610
+Charalá,Charala,6.25,-73.0833,Colombia,CO,COL,Santander,minor,10211.0,1170539322
+Medina,Medina,4.5092,-73.3494,Colombia,CO,COL,Cundinamarca,minor,10205.0,1170855873
+Mosquera,Mosquera,2.4903,-78.4953,Colombia,CO,COL,Nariño,minor,10203.0,1170583379
+Potosí,Potosi,0.8081,-77.5728,Colombia,CO,COL,Nariño,minor,10186.0,1170814336
+Toca,Toca,5.5667,-73.2,Colombia,CO,COL,Boyacá,minor,10157.0,1170029150
+Génova,Genova,1.6442,-77.0194,Colombia,CO,COL,Nariño,minor,10127.0,1170687201
+Granada,Granada,6.147,-75.188,Colombia,CO,COL,Antioquia,minor,10117.0,1170246805
+Saladoblanco,Saladoblanco,2.0167,-76.05,Colombia,CO,COL,Huila,minor,10076.0,1170865938
+Ramiriquí,Ramiriqui,5.4,-73.3333,Colombia,CO,COL,Boyacá,minor,10015.0,1170346541
+Suaita,Suaita,6.1019,-73.4406,Colombia,CO,COL,Santander,minor,10006.0,1170125417
+El Cairo,El Cairo,4.75,-76.25,Colombia,CO,COL,Valle del Cauca,minor,9976.0,1170273914
+Vegachí,Vegachi,6.7731,-74.7994,Colombia,CO,COL,Antioquia,minor,9966.0,1170785667
+San Calixto,San Calixto,8.4,-73.2167,Colombia,CO,COL,Norte de Santander,minor,9961.0,1170279369
+Bellavista,Bellavista,6.5236,-76.9744,Colombia,CO,COL,Chocó,minor,9941.0,1170717666
+Padilla,Padilla,3.2333,-76.3167,Colombia,CO,COL,Cauca,minor,9937.0,1170965732
+La Sierra,La Sierra,2.25,-76.8333,Colombia,CO,COL,Cauca,minor,9935.0,1170193592
+Arroyohondo,Arroyohondo,10.1333,-75.5667,Colombia,CO,COL,Bolívar,minor,9907.0,1170311154
+Coello,Coello,4.3333,-74.9167,Colombia,CO,COL,Tolima,minor,9887.0,1170249234
+Margarita,Margarita,9.0833,-74.2,Colombia,CO,COL,Bolívar,minor,9876.0,1170553154
+Aranzazu,Aranzazu,5.3,-75.45,Colombia,CO,COL,Caldas,minor,9854.0,1170469075
+Norosí,Norosi,8.5261,-74.0378,Colombia,CO,COL,Bolívar,minor,9850.0,1170174177
+Cachipay,Cachipay,4.7308,-74.4375,Colombia,CO,COL,Cundinamarca,minor,9833.0,1170432909
+Socotá,Socota,6.05,-72.6333,Colombia,CO,COL,Boyacá,minor,9812.0,1170884046
+Sasaima,Sasaima,4.965,-74.4347,Colombia,CO,COL,Cundinamarca,minor,9807.0,1170341139
+San Sebastián,San Sebastian,1.8439,-76.7717,Colombia,CO,COL,Cauca,minor,9806.0,1170001774
+El Roble,El Roble,9.1,-75.2,Colombia,CO,COL,Sucre,minor,9786.0,1170150718
+San Fernando,San Fernando,9.2797,-74.5339,Colombia,CO,COL,Bolívar,minor,9776.0,1170000616
+San Fernando,San Fernando,9.2683,-74.5302,Colombia,CO,COL,Bolívar,,9776.0,1170368411
+Tesalia,Tesalia,2.4833,-75.7333,Colombia,CO,COL,Huila,minor,9767.0,1170389636
+Mesetas,Mesetas,3.3781,-74.0447,Colombia,CO,COL,Meta,minor,9751.0,1170008691
+Hacarí,Hacari,8.3167,-73.15,Colombia,CO,COL,Norte de Santander,minor,9745.0,1170058977
+Puerto Nariño,Puerto Narino,-3.7733,-70.3819,Colombia,CO,COL,Amazonas,minor,9744.0,1170109460
+Belalcázar,Belalcazar,5.0,-75.8167,Colombia,CO,COL,Caldas,minor,9690.0,1170179028
+Concordia,Concordia,10.2667,-74.8333,Colombia,CO,COL,Magdalena,minor,9681.0,1170555051
+Tuta,Tuta,5.7,-73.2333,Colombia,CO,COL,Boyacá,minor,9673.0,1170818814
+Filadelfia,Filadelfia,5.3,-75.6,Colombia,CO,COL,Caldas,minor,9630.0,1170090455
+Guateque,Guateque,5.0056,-73.4722,Colombia,CO,COL,Boyacá,minor,9603.0,1170912824
+Bolívar,Bolivar,5.9911,-73.7739,Colombia,CO,COL,Santander,minor,9567.0,1170731054
+Cunday,Cunday,4.0833,-74.6667,Colombia,CO,COL,Tolima,minor,9544.0,1170276420
+Chita,Chita,6.1667,-72.4167,Colombia,CO,COL,Boyacá,minor,9542.0,1170485101
+Mutis,Mutis,6.2167,-77.4,Colombia,CO,COL,Chocó,minor,9400.0,1170271802
+Suan,Suan,10.3333,-74.8833,Colombia,CO,COL,Atlántico,minor,9344.0,1170318336
+Pesca,Pesca,5.5833,-73.05,Colombia,CO,COL,Boyacá,minor,9322.0,1170369834
+Betania,Betania,5.75,-75.9667,Colombia,CO,COL,Antioquia,minor,9286.0,1170782709
+Piamonte,Piamonte,1.1194,-76.3269,Colombia,CO,COL,Cauca,minor,9259.0,1170393388
+Sucre,Sucre,5.923,-73.795,Colombia,CO,COL,Santander,minor,9256.0,1170154930
+Bojacá,Bojaca,4.7336,-74.3422,Colombia,CO,COL,Cundinamarca,minor,9256.0,1170070721
+Risaralda,Risaralda,5.1667,-75.75,Colombia,CO,COL,Caldas,minor,9254.0,1170718416
+Granada,Granada,4.5186,-74.3514,Colombia,CO,COL,Cundinamarca,minor,9253.0,1170616970
+Falan,Falan,5.1333,-74.95,Colombia,CO,COL,Tolima,minor,9204.0,1170115815
+Une,Une,4.4019,-74.025,Colombia,CO,COL,Cundinamarca,minor,9196.0,1170857775
+Tibaná,Tibana,5.3167,-73.4,Colombia,CO,COL,Boyacá,minor,9186.0,1170436338
+Solita,Solita,0.8667,-75.65,Colombia,CO,COL,Caquetá,minor,9139.0,1170851278
+Guatapé,Guatape,6.2333,-75.1667,Colombia,CO,COL,Antioquia,minor,9121.0,1170993383
+Palocabildo,Palocabildo,5.1333,-75.0333,Colombia,CO,COL,Tolima,minor,9120.0,1170027378
+Carmen de Carupa,Carmen de Carupa,5.3503,-73.9053,Colombia,CO,COL,Cundinamarca,minor,9109.0,1170408211
+San Zenón,San Zenon,9.245,-74.4992,Colombia,CO,COL,Magdalena,minor,9107.0,1170977298
+Consacá,Consaca,1.2,-77.4667,Colombia,CO,COL,Nariño,minor,9099.0,1170808724
+Campamento,Campamento,6.9789,-75.2964,Colombia,CO,COL,Antioquia,minor,9091.0,1170487323
+Calamar,Calamar,1.9206,-72.5542,Colombia,CO,COL,Guaviare,minor,9091.0,1170732993
+Íquira,Iquira,2.65,-75.65,Colombia,CO,COL,Huila,minor,9064.0,1170529442
+La Florida,La Florida,1.3017,-77.4106,Colombia,CO,COL,Nariño,minor,9047.0,1170744583
+Iscuandé,Iscuande,2.4444,-77.9717,Colombia,CO,COL,Nariño,minor,8989.0,1170165783
+Arboledas,Arboledas,7.6667,-72.75,Colombia,CO,COL,Norte de Santander,minor,8984.0,1170201750
+Puerto Lleras,Puerto Lleras,3.2694,-73.375,Colombia,CO,COL,Meta,minor,8982.0,1170566483
+Linares,Linares,1.35,-77.5333,Colombia,CO,COL,Nariño,minor,8974.0,1170176780
+Siachoque,Siachoque,5.5,-73.2333,Colombia,CO,COL,Boyacá,minor,8964.0,1170608833
+Nuquí,Nuqui,5.7167,-77.2667,Colombia,CO,COL,Chocó,minor,8958.0,1170020146
+Yaguará,Yaguara,2.6661,-75.5186,Colombia,CO,COL,Huila,minor,8952.0,1170717025
+Angelópolis,Angelopolis,6.1333,-75.7,Colombia,CO,COL,Antioquia,minor,8946.0,1170231958
+Tena,Tena,4.6547,-74.39,Colombia,CO,COL,Cundinamarca,minor,8941.0,1170594078
+Nunchía,Nunchia,5.6333,-72.2,Colombia,CO,COL,Casanare,minor,8928.0,1170389960
+Argelia,Argelia,5.7425,-75.1464,Colombia,CO,COL,Antioquia,minor,8911.0,1170927955
+Carmen de Apicalá,Carmen de Apicala,4.15,-74.7333,Colombia,CO,COL,Tolima,minor,8880.0,1170771576
+Sucre,Sucre,2.0383,-76.9253,Colombia,CO,COL,Cauca,minor,8880.0,1170700284
+Teruel,Teruel,2.75,-75.5667,Colombia,CO,COL,Huila,minor,8876.0,1170243677
+Alvarado,Alvarado,4.5667,-74.95,Colombia,CO,COL,Tolima,minor,8873.0,1170398878
+González,Gonzalez,8.4,-73.3333,Colombia,CO,COL,Cesar,minor,8859.0,1170832293
+Ospina,Ospina,1.0581,-77.5664,Colombia,CO,COL,Nariño,minor,8834.0,1170871794
+Entrerríos,Entrerrios,6.5667,-75.5167,Colombia,CO,COL,Antioquia,minor,8820.0,1170412234
+Tausa,Tausa,5.1964,-73.8875,Colombia,CO,COL,Cundinamarca,minor,8801.0,1170046469
+Zapatoca,Zapatoca,6.8167,-73.2667,Colombia,CO,COL,Santander,minor,8762.0,1170912223
+Buenavista,Buenavista,9.3333,-74.3,Colombia,CO,COL,Magdalena,,8749.0,1170070362
+San Juan de Arama,San Juan de Arama,3.3736,-73.8767,Colombia,CO,COL,Meta,minor,8728.0,1170213121
+Carlosama,Carlosama,0.8658,-77.7294,Colombia,CO,COL,Nariño,minor,8727.0,1170333785
+Junín,Junin,4.7903,-73.8136,Colombia,CO,COL,Cundinamarca,minor,8720.0,1170184431
+Iles,Iles,0.9667,-77.5167,Colombia,CO,COL,Nariño,minor,8701.0,1170251090
+Briceño,Briceno,7.1111,-75.55,Colombia,CO,COL,Antioquia,minor,8673.0,1170830473
+Nariño,Narino,5.6092,-75.1764,Colombia,CO,COL,Antioquia,minor,8603.0,1170449720
+La Belleza,La Belleza,5.8614,-73.9683,Colombia,CO,COL,Santander,minor,8596.0,1170636722
+Yalí,Yali,6.6767,-74.8411,Colombia,CO,COL,Antioquia,minor,8577.0,1170977762
+Usiacurí,Usiacuri,10.75,-74.9833,Colombia,CO,COL,Atlántico,minor,8561.0,1170893496
+Muzo,Muzo,5.5313,-74.1073,Colombia,CO,COL,Boyacá,minor,8548.0,1170433861
+El Dovio,El Dovio,4.5167,-76.2333,Colombia,CO,COL,Valle del Cauca,minor,8508.0,1170108297
+Orocué,Orocue,4.7942,-71.34,Colombia,CO,COL,Casanare,minor,8460.0,1170535682
+Juradó,Jurado,7.1114,-77.7714,Colombia,CO,COL,Chocó,minor,3239.0,1170520604

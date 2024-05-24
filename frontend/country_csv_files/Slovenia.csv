@@ -1,0 +1,419 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Ljubljana,Ljubljana,46.0514,14.5061,Slovenia,SI,SVN,Ljubljana,primary,284293.0,1705917455
+Maribor,Maribor,46.5575,15.6456,Slovenia,SI,SVN,Maribor,admin,97019.0,1705454394
+Celje,Celje,46.2358,15.2675,Slovenia,SI,SVN,Celje,admin,37872.0,1705563326
+Kranj,Kranj,46.2333,14.3667,Slovenia,SI,SVN,Kranj,admin,37553.0,1705842003
+Koper,Koper,45.55,13.7333,Slovenia,SI,SVN,Koper,admin,25753.0,1705478862
+Velenje,Velenje,46.3625,15.1144,Slovenia,SI,SVN,Velenje,admin,25594.0,1705929589
+Novo Mesto,Novo Mesto,45.8,15.1667,Slovenia,SI,SVN,Novo Mesto,admin,24183.0,1705849587
+Ptuj,Ptuj,46.4194,15.8694,Slovenia,SI,SVN,Ptuj,admin,17959.0,1705072535
+Trbovlje,Trbovlje,46.15,15.05,Slovenia,SI,SVN,Trbovlje,admin,13822.0,1705370010
+Kamnik,Kamnik,46.2257,14.612,Slovenia,SI,SVN,Kamnik,admin,13800.0,1705864078
+Nova Gorica,Nova Gorica,45.9558,13.6433,Slovenia,SI,SVN,Nova Gorica,admin,13031.0,1705939355
+Izola,Izola,45.5344,13.6675,Slovenia,SI,SVN,Izola,admin,11682.0,1705476087
+Škofja Loka,Skofja Loka,46.1672,14.303,Slovenia,SI,SVN,Škofja Loka,admin,11671.0,1705743622
+Murska Sobota,Murska Sobota,46.6667,16.1667,Slovenia,SI,SVN,Murska Sobota,admin,11107.0,1705129726
+Postojna,Postojna,45.7759,14.2137,Slovenia,SI,SVN,Postojna,admin,9605.0,1705090259
+Logatec,Logatec,45.9167,14.2297,Slovenia,SI,SVN,Logatec,admin,9091.0,1705275257
+Vrhnika,Vrhnika,45.9624,14.2937,Slovenia,SI,SVN,Vrhnika,admin,8969.0,1705071756
+Jesenice,Jesenice,46.4366,14.0602,Slovenia,SI,SVN,Jesenice,admin,8399.0,1705471403
+Slovenska Bistrica,Slovenska Bistrica,46.3903,15.575,Slovenia,SI,SVN,Slovenska Bistrica,admin,8219.0,1705359875
+Kočevje,Kocevje,45.643,14.8594,Slovenia,SI,SVN,Kočevje,admin,8151.0,1705859832
+Grosuplje,Grosuplje,45.9551,14.6562,Slovenia,SI,SVN,Grosuplje,admin,7703.0,1705847148
+Ravne na Koroškem,Ravne na Koroskem,46.5437,14.9642,Slovenia,SI,SVN,Ravne na Koroškem,admin,7363.0,1705757622
+Slovenj Gradec,Slovenj Gradec,46.5094,15.0792,Slovenia,SI,SVN,Slovenj Gradec,admin,7249.0,1705845238
+Brežice,Brezice,45.9048,15.5922,Slovenia,SI,SVN,Brežice,admin,6843.0,1705251132
+Ajdovščina,Ajdovscina,45.8861,13.9097,Slovenia,SI,SVN,Ajdovščina,admin,6843.0,1705580792
+Litija,Litija,46.0667,14.8167,Slovenia,SI,SVN,Litija,admin,6688.0,1705902870
+Mengeš,Menges,46.1626,14.568,Slovenia,SI,SVN,Mengeš,admin,6119.0,1705274788
+Sežana,Sezana,45.7034,13.8706,Slovenia,SI,SVN,Sežana,admin,6037.0,1705079549
+Zagorje,Zagorje,46.1342,14.9942,Slovenia,SI,SVN,Zagorje ob Savi,admin,6023.0,1705942287
+Radovljica,Radovljica,46.3425,14.1721,Slovenia,SI,SVN,Radovljica,admin,5981.0,1705488511
+Idrija,Idrija,46.0025,14.0275,Slovenia,SI,SVN,Idrija,admin,5848.0,1705472042
+Črnomelj,Crnomelj,45.5711,15.1889,Slovenia,SI,SVN,Črnomelj,admin,5496.0,1705132468
+Medvode,Medvode,46.1382,14.4147,Slovenia,SI,SVN,Medvode,admin,5380.0,1705158152
+Slovenske Konjice,Slovenske Konjice,46.3383,15.4233,Slovenia,SI,SVN,Slovenske Konjice,admin,5157.0,1705506460
+Rogaška Slatina,Rogaska Slatina,46.2314,15.6381,Slovenia,SI,SVN,Rogaška Slatina,admin,5082.0,1705772825
+Žalec,Zalec,46.251,15.1639,Slovenia,SI,SVN,Žalec,admin,5004.0,1705340993
+Hrastnik,Hrastnik,46.1479,15.1528,Slovenia,SI,SVN,Hrastnik,admin,4962.0,1705818009
+Šentjur,Sentjur,46.2176,15.396,Slovenia,SI,SVN,Šentjur,admin,4940.0,1705076635
+Bled,Bled,46.3688,14.114,Slovenia,SI,SVN,Bled,admin,4929.0,1705655016
+Prevalje,Prevalje,46.5438,14.9119,Slovenia,SI,SVN,Prevalje,admin,4620.0,1705187949
+Sevnica,Sevnica,46.0092,15.3041,Slovenia,SI,SVN,Sevnica,admin,4533.0,1705218575
+Ilirska Bistrica,Ilirska Bistrica,45.5679,14.2527,Slovenia,SI,SVN,Ilirska Bistrica,admin,4323.0,1705031705
+Ruše,Ruse,46.5386,15.5154,Slovenia,SI,SVN,Ruše,admin,4206.0,1705417281
+Cerknica,Cerknica,45.7964,14.3581,Slovenia,SI,SVN,Cerknica,admin,4018.0,1705932096
+Trebnje,Trebnje,45.9104,15.0086,Slovenia,SI,SVN,Trebnje,admin,3927.0,1705570941
+Trzin,Trzin,46.1353,14.56,Slovenia,SI,SVN,Trzin,admin,3925.0,1705707595
+Miklavž na Dravskem Polju,Miklavz na Dravskem Polju,46.5057,15.6993,Slovenia,SI,SVN,Miklavž na Dravskem Polju,admin,3808.0,1705244140
+Piran,Piran,45.5283,13.5683,Slovenia,SI,SVN,Piran,admin,3787.0,1705085466
+Šempeter pri Gorici,Sempeter pri Gorici,45.9284,13.6378,Slovenia,SI,SVN,Šempeter-Vrtojba,admin,3694.0,1705397569
+Tržič,Trzic,46.3581,14.293,Slovenia,SI,SVN,Tržič,admin,3670.0,1705554055
+Žiri,Ziri,46.0469,14.1097,Slovenia,SI,SVN,Žiri,admin,3657.0,1705440220
+Ribnica,Ribnica,45.74,14.7308,Slovenia,SI,SVN,Ribnica,admin,3612.0,1705675272
+Tolmin,Tolmin,46.1857,13.7352,Slovenia,SI,SVN,Tolmin,admin,3525.0,1705602247
+Laško,Lasko,46.1563,15.2386,Slovenia,SI,SVN,Laško,admin,3288.0,1705962698
+Lenart v Slovenskih Goricah,Lenart v Slovenskih Goricah,46.5742,15.8322,Slovenia,SI,SVN,Lenart,admin,3285.0,1705719159
+Ljutomer,Ljutomer,46.5168,16.2027,Slovenia,SI,SVN,Ljutomer,admin,3244.0,1705303708
+Domžale,Domzale,46.1394,14.595,Slovenia,SI,SVN,Domžale,admin,3231.0,1705822721
+Metlika,Metlika,45.6517,15.32,Slovenia,SI,SVN,Metlika,admin,3229.0,1705008169
+Ankaran,Ankaran,45.5793,13.7379,Slovenia,SI,SVN,Ankaran,admin,3224.0,1705521676
+Brezovica,Brezovica,46.0207,14.4178,Slovenia,SI,SVN,Brezovica,admin,3221.0,1705190624
+Mežica,Mezica,46.5206,14.8536,Slovenia,SI,SVN,Mežica,admin,3176.0,1705607524
+Šenčur,Sencur,46.243,14.4181,Slovenia,SI,SVN,Šenčur,admin,3121.0,1705968659
+Dravograd,Dravograd,46.5903,15.0236,Slovenia,SI,SVN,Dravograd,admin,3088.0,1705130450
+Gornja Radgona,Gornja Radgona,46.6752,15.9926,Slovenia,SI,SVN,Gornja Radgona,admin,3086.0,1705643923
+Železniki,Zelezniki,46.2182,14.1592,Slovenia,SI,SVN,Železniki,admin,3069.0,1705885002
+Škofljica,Skofljica,45.9836,14.5761,Slovenia,SI,SVN,Škofljica,admin,3029.0,1705067758
+Lendava,Lendava,46.5631,16.4519,Slovenia,SI,SVN,Lendava,admin,2954.0,1705653525
+Rogašovci,Rogasovci,46.8053,16.0344,Slovenia,SI,SVN,Rogašovci,admin,2946.0,1705970248
+Šoštanj,Sostanj,46.3798,15.0482,Slovenia,SI,SVN,Šoštanj,admin,2933.0,1705376916
+Zreče,Zrece,46.375,15.3854,Slovenia,SI,SVN,Zreče,admin,2922.0,1705764665
+Radlje ob Dravi,Radlje ob Dravi,46.6152,15.2264,Slovenia,SI,SVN,Radlje ob Dravi,admin,2856.0,1705478193
+Rače,Race,46.4529,15.6812,Slovenia,SI,SVN,Rače-Fram,admin,2693.0,1705643433
+Borovnica,Borovnica,45.9197,14.3572,Slovenia,SI,SVN,Borovnica,admin,2674.0,1705665714
+Vojnik,Vojnik,46.2933,15.3052,Slovenia,SI,SVN,Vojnik,admin,2475.0,1705662463
+Beltinci,Beltinci,46.606,16.2328,Slovenia,SI,SVN,Beltinci,admin,2430.0,1705238814
+Polzela,Polzela,46.2809,15.074,Slovenia,SI,SVN,Polzela,admin,2351.0,1705144123
+Krško,Krsko,45.95,15.4833,Slovenia,SI,SVN,Krško,admin,2314.0,1705286396
+Muta,Muta,46.6167,15.1667,Slovenia,SI,SVN,Muta,admin,2291.0,1705459961
+Sveta Ana,Sveta Ana,46.6497,15.8453,Slovenia,SI,SVN,Sveta Ana,admin,2285.0,1705062986
+Štore,Store,46.2219,15.3111,Slovenia,SI,SVN,Štore,admin,2257.0,1705775604
+Ig,Ig,45.9692,14.5394,Slovenia,SI,SVN,Ig,admin,2240.0,1705409266
+Ivančna Gorica,Ivancna Gorica,45.9374,14.8029,Slovenia,SI,SVN,Ivančna Gorica,admin,2205.0,1705930549
+Črna na Koroškem,Crna na Koroskem,46.4697,14.849,Slovenia,SI,SVN,Črna na Koroškem,admin,2201.0,1705127725
+Radenci,Radenci,46.6428,16.0453,Slovenia,SI,SVN,Radenci,admin,2171.0,1705609332
+Spodnje Hoče,Spodnje Hoce,46.4996,15.6471,Slovenia,SI,SVN,Hoče-Slivnica,admin,2109.0,1705379997
+Vipava,Vipava,45.8476,13.9624,Slovenia,SI,SVN,Vipava,admin,2101.0,1705864633
+Pivka,Pivka,45.6833,14.2,Slovenia,SI,SVN,Pivka,admin,2059.0,1705709650
+Mozirje,Mozirje,46.3381,14.9572,Slovenia,SI,SVN,Mozirje,admin,2052.0,1705239053
+Semič,Semic,45.6546,15.1783,Slovenia,SI,SVN,Semič,admin,2017.0,1705653513
+Radeče,Radece,46.0658,15.1728,Slovenia,SI,SVN,Radeče,admin,1993.0,1705420341
+Lovrenc na Pohorju,Lovrenc na Pohorju,46.5381,15.3844,Slovenia,SI,SVN,Lovrenc na Pohorju,admin,1992.0,1705376318
+Ormož,Ormoz,46.4086,16.1475,Slovenia,SI,SVN,Ormož,admin,1962.0,1705413437
+Straža,Straza,45.7864,15.0745,Slovenia,SI,SVN,Straža,admin,1945.0,1705491164
+Mislinja,Mislinja,46.4431,15.1931,Slovenia,SI,SVN,Mislinja,admin,1862.0,1705898157
+Naklo,Naklo,46.2749,14.3176,Slovenia,SI,SVN,Naklo,admin,1776.0,1705637872
+Bohinjska Bistrica,Bohinjska Bistrica,46.2742,13.9524,Slovenia,SI,SVN,Bohinj,admin,1767.0,1705094350
+Šmarje,Smarje,46.2281,15.5182,Slovenia,SI,SVN,Šmarje pri Jelšah,admin,1755.0,1705373506
+Divača,Divaca,45.682,13.9702,Slovenia,SI,SVN,Divača,admin,1734.0,1705065298
+Cerklje na Gorenjskem,Cerklje na Gorenjskem,46.2488,14.4855,Slovenia,SI,SVN,Cerklje na Gorenjskem,admin,1710.0,1705820033
+Vodice,Vodice,46.1897,14.4944,Slovenia,SI,SVN,Vodice,admin,1706.0,1705728443
+Spodnji Duplek,Spodnji Duplek,46.5053,15.7467,Slovenia,SI,SVN,Duplek,admin,1689.0,1705953692
+Tabor,Tabor,46.2225,15.0081,Slovenia,SI,SVN,Tabor,admin,1669.0,1705756002
+Odranci,Odranci,46.5856,16.2753,Slovenia,SI,SVN,Odranci,admin,1632.0,1705912877
+Prebold,Prebold,46.2369,15.0919,Slovenia,SI,SVN,Prebold,admin,1605.0,1705746627
+Zgornja Kungota,Zgornja Kungota,46.6388,15.6141,Slovenia,SI,SVN,Kungota,admin,1594.0,1705104301
+Bovec,Bovec,46.3378,13.5522,Slovenia,SI,SVN,Bovec,admin,1586.0,1705609781
+Rogatec,Rogatec,46.2243,15.7052,Slovenia,SI,SVN,Rogatec,admin,1540.0,1705579021
+Vuzenica,Vuzenica,46.5992,15.1669,Slovenia,SI,SVN,Vuzenica,admin,1522.0,1705639122
+Turnišče,Turnisce,46.6194,16.3223,Slovenia,SI,SVN,Turnišče,admin,1506.0,1705851676
+Miren,Miren,45.8962,13.6072,Slovenia,SI,SVN,Miren-Kostanjevica,admin,1506.0,1705608129
+Dragomer,Dragomer,46.0189,14.382,Slovenia,SI,SVN,Log-Dragomer,admin,1464.0,1705762040
+Kranjska Gora,Kranjska Gora,46.4854,13.7871,Slovenia,SI,SVN,Kranjska Gora,admin,1452.0,1705443136
+Šentjernej,Sentjernej,45.8389,15.3361,Slovenia,SI,SVN,Šentjernej,admin,1441.0,1705329272
+Cerkno,Cerkno,46.1278,13.9875,Slovenia,SI,SVN,Cerkno,admin,1425.0,1705759580
+Oplotnica,Oplotnica,46.386,15.4458,Slovenia,SI,SVN,Oplotnica,admin,1420.0,1705182651
+Šmartno,Smartno,46.0441,14.8466,Slovenia,SI,SVN,Šmartno pri Litiji,admin,1395.0,1705164835
+Mirna,Mirna,45.9476,15.0664,Slovenia,SI,SVN,Mirna,admin,1371.0,1705033855
+Selnica ob Dravi,Selnica ob Dravi,46.5514,15.4947,Slovenia,SI,SVN,Selnica ob Dravi,admin,1348.0,1705864774
+Dornava,Dornava,46.4299,15.9488,Slovenia,SI,SVN,Dornava,admin,1263.0,1705023699
+Kidričevo,Kidricevo,46.406,15.7983,Slovenia,SI,SVN,Kidričevo,admin,1257.0,1705321982
+Horjul,Horjul,46.023,14.2981,Slovenia,SI,SVN,Horjul,admin,1169.0,1705243858
+Črenšovci,Crensovci,46.5747,16.2937,Slovenia,SI,SVN,Črenšovci,admin,1151.0,1705698578
+Kanal,Kanal,46.088,13.6347,Slovenia,SI,SVN,Kanal ob Soči,admin,1142.0,1705955833
+Gorenja Vas,Gorenja Vas,46.1069,14.1451,Slovenia,SI,SVN,Gorenja Vas-Poljane,admin,1132.0,1705961189
+Poljčane,Poljcane,46.3135,15.5791,Slovenia,SI,SVN,Poljčane,admin,1118.0,1705286007
+Ljubno,Ljubno,46.3333,14.8333,Slovenia,SI,SVN,Ljubno,admin,1094.0,1705083617
+Kobarid,Kobarid,46.2464,13.578,Slovenia,SI,SVN,Kobarid,admin,1085.0,1705651680
+Benedikt,Benedikt,46.6065,15.8842,Slovenia,SI,SVN,Benedikt,admin,1078.0,1705523597
+Gornji Grad,Gornji Grad,46.2961,14.8052,Slovenia,SI,SVN,Gornji Grad,admin,1016.0,1705879741
+Mirna Peč,Mirna Pec,45.858,15.0876,Slovenia,SI,SVN,Mirna Peč,admin,1015.0,1705096910
+Središče ob Dravi,Sredisce ob Dravi,46.3933,16.2722,Slovenia,SI,SVN,Središče ob Dravi,admin,984.0,1705613407
+Moravče,Moravce,46.1356,14.7439,Slovenia,SI,SVN,Moravče,admin,957.0,1705291500
+Dobrovnik,Dobrovnik,46.6515,16.3479,Slovenia,SI,SVN,Dobrovnik,admin,948.0,1705602796
+Dobrova,Dobrova,46.0533,14.4144,Slovenia,SI,SVN,Dobrova-Polhov Gradec,admin,921.0,1705653264
+Veržej,Verzej,46.5818,16.1623,Slovenia,SI,SVN,Veržej,admin,900.0,1705529436
+Komenda,Komenda,46.2073,14.539,Slovenia,SI,SVN,Komenda,admin,896.0,1705295612
+Dolenjske Toplice,Dolenjske Toplice,45.7545,15.0583,Slovenia,SI,SVN,Dolenjske Toplice,admin,882.0,1705395845
+Nazarje,Nazarje,46.3202,14.9531,Slovenia,SI,SVN,Nazarje,admin,880.0,1705598784
+Velika Polana,Velika Polana,46.5719,16.3472,Slovenia,SI,SVN,Velika Polana,admin,870.0,1705627212
+Vitanje,Vitanje,46.3825,15.2956,Slovenia,SI,SVN,Vitanje,admin,859.0,1705925648
+Gorišnica,Gorisnica,46.4122,16.0131,Slovenia,SI,SVN,Gorišnica,admin,856.0,1705561619
+Pesnica,Pesnica,46.6099,15.6714,Slovenia,SI,SVN,Pesnica,admin,843.0,1705389455
+Sodražica,Sodrazica,45.7616,14.6363,Slovenia,SI,SVN,Sodražica,admin,842.0,1705295579
+Stari Trg,Stari Trg,45.7142,14.4695,Slovenia,SI,SVN,Loška Dolina,admin,838.0,1705849784
+Preddvor,Preddvor,46.3052,14.4203,Slovenia,SI,SVN,Preddvor,admin,835.0,1705403351
+Zgornja Hajdina,Zgornja Hajdina,46.4057,15.8385,Slovenia,SI,SVN,Hajdina,admin,804.0,1705893552
+Starše,Starse,46.4664,15.7675,Slovenia,SI,SVN,Starše,admin,757.0,1705557844
+Sveta Trojica v Slovenskih Goricah,Sveta Trojica v Slovenskih Goricah,46.5756,15.8769,Slovenia,SI,SVN,Sveta Trojica v Slovenskih Goricah,admin,754.0,1705659496
+Moravske-Toplice,Moravske-Toplice,46.6927,16.2281,Slovenia,SI,SVN,Moravske Toplice,admin,752.0,1705126489
+Velike Lašče,Velike Lasce,45.8363,14.6377,Slovenia,SI,SVN,Velike Lašče,admin,724.0,1705618557
+Mokronog,Mokronog,45.9426,15.149,Slovenia,SI,SVN,Mokronog-Trebelno,admin,700.0,1705336506
+Kostanjevica na Krki,Kostanjevica na Krki,45.8463,15.4249,Slovenia,SI,SVN,Kostanjevica na Krki,admin,689.0,1705796422
+Komen,Komen,45.8159,13.7507,Slovenia,SI,SVN,Komen,admin,642.0,1705031068
+Šmartno,Smartno,46.3297,15.0325,Slovenia,SI,SVN,Šmartno ob Paki,admin,636.0,1705804130
+Kozje,Kozje,46.074,15.559,Slovenia,SI,SVN,Kozje,admin,634.0,1705548274
+Puconci,Puconci,46.7039,16.1572,Slovenia,SI,SVN,Puconci,admin,633.0,1705677747
+Grad,Grad,46.7977,16.0984,Slovenia,SI,SVN,Grad,admin,620.0,1705033390
+Majšperk,Majsperk,46.35,15.7333,Slovenia,SI,SVN,Majšperk,admin,606.0,1705147774
+Videm,Videm,45.8484,14.6944,Slovenia,SI,SVN,Dobrepolje,admin,590.0,1705074870
+Podčetrtek,Podcetrtek,46.1573,15.5974,Slovenia,SI,SVN,Podčetrtek,admin,578.0,1705261000
+Zgornje Jezersko,Zgornje Jezersko,46.3951,14.4966,Slovenia,SI,SVN,Jezersko,admin,558.0,1705991236
+Apače,Apace,46.6967,15.9111,Slovenia,SI,SVN,Apače,admin,543.0,1705285338
+Kobilje,Kobilje,46.6837,16.3953,Slovenia,SI,SVN,Kobilje,admin,542.0,1705965317
+Dobrna,Dobrna,46.3381,15.2293,Slovenia,SI,SVN,Dobrna,admin,536.0,1705353787
+Zgornje Gorje,Zgornje Gorje,46.3801,14.0684,Slovenia,SI,SVN,Gorje,admin,532.0,1705342044
+Rečica,Recica,46.3247,14.9228,Slovenia,SI,SVN,Rečica ob Savinji,admin,516.0,1705082644
+Križevci,Krizevci,46.5631,16.1399,Slovenia,SI,SVN,Križevci,admin,499.0,1705138690
+Markovci,Markovci,46.3956,15.9314,Slovenia,SI,SVN,Markovci,admin,495.0,1705493301
+Šmarješke Toplice,Smarjeske Toplice,45.8622,15.2214,Slovenia,SI,SVN,Šmarješke Toplice,admin,492.0,1705361649
+Cirkulane,Cirkulane,46.3436,15.9941,Slovenia,SI,SVN,Cirkulane,admin,451.0,1705650900
+Videm pri Ptuju,Videm pri Ptuju,46.3699,15.8935,Slovenia,SI,SVN,Videm,admin,451.0,1705681768
+Lukovica,Lukovica,46.1686,14.6892,Slovenia,SI,SVN,Lukovica,admin,438.0,1705829201
+Kuzma,Kuzma,46.8333,16.0833,Slovenia,SI,SVN,Kuzma,admin,429.0,1705411351
+Cankova,Cankova,46.7193,16.0179,Slovenia,SI,SVN,Cankova,admin,416.0,1705097170
+Gornji Petrovci,Gornji Petrovci,46.805,16.2172,Slovenia,SI,SVN,Gornji Petrovci,admin,411.0,1705170234
+Tišina,Tisina,46.6558,16.0933,Slovenia,SI,SVN,Tišina,admin,408.0,1705811179
+Ribnica,Ribnica,46.5372,15.2733,Slovenia,SI,SVN,Ribnica na Pohorju,admin,404.0,1705830999
+Luče,Luce,46.3565,14.7436,Slovenia,SI,SVN,Luče,admin,402.0,1705042629
+Šalovci,Salovci,46.825,16.2981,Slovenia,SI,SVN,Šalovci,admin,392.0,1705296581
+Juršinci,Jursinci,46.4853,15.971,Slovenia,SI,SVN,Juršinci,admin,381.0,1705262198
+Podlehnik,Podlehnik,46.3361,15.8786,Slovenia,SI,SVN,Podlehnik,admin,378.0,1705352359
+Braslovče,Braslovce,46.2884,15.0386,Slovenia,SI,SVN,Braslovče,admin,378.0,1705126731
+Trnovska Vas,Trnovska Vas,46.5231,15.8978,Slovenia,SI,SVN,Trnovska Vas,admin,369.0,1705654373
+Jurovski Dol,Jurovski Dol,46.6087,15.7796,Slovenia,SI,SVN,Sveti Jurij v Slovenskih Goricah,admin,361.0,1705288408
+Hrib-Loški Potok,Hrib-Loski Potok,45.7015,14.5901,Slovenia,SI,SVN,Loški Potok,admin,353.0,1705118688
+Vitomarci,Vitomarci,46.5248,15.9346,Slovenia,SI,SVN,Sveti Andraž v Slovenskih Goricah,admin,341.0,1705653481
+Dobrovo,Dobrovo,45.9989,13.5296,Slovenia,SI,SVN,Brda,admin,334.0,1705226459
+Šentrupert,Sentrupert,45.9769,15.0897,Slovenia,SI,SVN,Šentrupert,admin,310.0,1705083565
+Podvelka,Podvelka,46.5864,15.3286,Slovenia,SI,SVN,Podvelka,admin,299.0,1705523444
+Nova Vas,Nova Vas,45.7726,14.5064,Slovenia,SI,SVN,Bloke,admin,293.0,1705701553
+Hodoš,Hodos,46.8285,16.3239,Slovenia,SI,SVN,Hodoš,admin,280.0,1705217643
+Dol,Dol,46.0884,14.6425,Slovenia,SI,SVN,Dol pri Ljubljani,admin,277.0,1705717325
+Tomaž pri Ormožu,Tomaz pri Ormozu,46.4833,16.0794,Slovenia,SI,SVN,Sveti Tomaž,admin,254.0,1705837424
+Bistrica ob Sotli,Bistrica ob Sotli,46.0589,15.6642,Slovenia,SI,SVN,Bistrica ob Sotli,admin,235.0,1705641346
+Škocjan,Skocjan,45.9069,15.2914,Slovenia,SI,SVN,Škocjan,admin,233.0,1705940381
+Makole,Makole,46.3174,15.6669,Slovenia,SI,SVN,Makole,admin,221.0,1705304446
+Sveti Jurij,Sveti Jurij,46.5683,16.0203,Slovenia,SI,SVN,Sveti Jurij ob Ščavnici,admin,209.0,1705832384
+Solčava,Solcava,46.4201,14.6918,Slovenia,SI,SVN,Solčava,admin,208.0,1705581561
+Destrnik,Destrnik,46.4923,15.8801,Slovenia,SI,SVN,Destrnik,admin,186.0,1705579309
+Cerkvenjak,Cerkvenjak,46.566,15.9429,Slovenia,SI,SVN,Cerkvenjak,admin,163.0,1705808302
+Razkrižje,Razkrizje,46.5182,16.2882,Slovenia,SI,SVN,Razkrižje,admin,141.0,1705276725
+Dobje,Dobje,46.1369,15.3945,Slovenia,SI,SVN,Dobje,admin,114.0,1705204927
+Osilnica,Osilnica,45.5289,14.6983,Slovenia,SI,SVN,Osilnica,admin,76.0,1705839708
+Vransko,Vransko,46.172,14.8217,Slovenia,SI,SVN,Vransko,admin,11.0,1705616966
+Kostel,Kostel,45.5088,14.91,Slovenia,SI,SVN,Kostel,admin,10.0,1705541759
+Žetale,Zetale,46.275,15.7939,Slovenia,SI,SVN,Žetale,admin,,1705941695
+Šentilj,Sentilj,46.6817,15.6481,Slovenia,SI,SVN,Šentilj,admin,,1705840723
+Žužemberk,Zuzemberk,45.8339,14.9292,Slovenia,SI,SVN,Žužemberk,admin,,1705027920
+Zavrč,Zavrc,46.3917,16.0497,Slovenia,SI,SVN,Zavrč,admin,,1705477555
+Ljubljana,Ljubljana,46.0514,14.5061,Slovenia,SI,SVN,Ljubljana,primary,284293.0,1705917455
+Maribor,Maribor,46.5575,15.6456,Slovenia,SI,SVN,Maribor,admin,97019.0,1705454394
+Celje,Celje,46.2358,15.2675,Slovenia,SI,SVN,Celje,admin,37872.0,1705563326
+Kranj,Kranj,46.2333,14.3667,Slovenia,SI,SVN,Kranj,admin,37553.0,1705842003
+Koper,Koper,45.55,13.7333,Slovenia,SI,SVN,Koper,admin,25753.0,1705478862
+Velenje,Velenje,46.3625,15.1144,Slovenia,SI,SVN,Velenje,admin,25594.0,1705929589
+Novo Mesto,Novo Mesto,45.8,15.1667,Slovenia,SI,SVN,Novo Mesto,admin,24183.0,1705849587
+Ptuj,Ptuj,46.4194,15.8694,Slovenia,SI,SVN,Ptuj,admin,17959.0,1705072535
+Trbovlje,Trbovlje,46.15,15.05,Slovenia,SI,SVN,Trbovlje,admin,13822.0,1705370010
+Kamnik,Kamnik,46.2257,14.612,Slovenia,SI,SVN,Kamnik,admin,13800.0,1705864078
+Nova Gorica,Nova Gorica,45.9558,13.6433,Slovenia,SI,SVN,Nova Gorica,admin,13031.0,1705939355
+Izola,Izola,45.5344,13.6675,Slovenia,SI,SVN,Izola,admin,11682.0,1705476087
+Škofja Loka,Skofja Loka,46.1672,14.303,Slovenia,SI,SVN,Škofja Loka,admin,11671.0,1705743622
+Murska Sobota,Murska Sobota,46.6667,16.1667,Slovenia,SI,SVN,Murska Sobota,admin,11107.0,1705129726
+Postojna,Postojna,45.7759,14.2137,Slovenia,SI,SVN,Postojna,admin,9605.0,1705090259
+Logatec,Logatec,45.9167,14.2297,Slovenia,SI,SVN,Logatec,admin,9091.0,1705275257
+Vrhnika,Vrhnika,45.9624,14.2937,Slovenia,SI,SVN,Vrhnika,admin,8969.0,1705071756
+Jesenice,Jesenice,46.4366,14.0602,Slovenia,SI,SVN,Jesenice,admin,8399.0,1705471403
+Slovenska Bistrica,Slovenska Bistrica,46.3903,15.575,Slovenia,SI,SVN,Slovenska Bistrica,admin,8219.0,1705359875
+Kočevje,Kocevje,45.643,14.8594,Slovenia,SI,SVN,Kočevje,admin,8151.0,1705859832
+Grosuplje,Grosuplje,45.9551,14.6562,Slovenia,SI,SVN,Grosuplje,admin,7703.0,1705847148
+Ravne na Koroškem,Ravne na Koroskem,46.5437,14.9642,Slovenia,SI,SVN,Ravne na Koroškem,admin,7363.0,1705757622
+Slovenj Gradec,Slovenj Gradec,46.5094,15.0792,Slovenia,SI,SVN,Slovenj Gradec,admin,7249.0,1705845238
+Brežice,Brezice,45.9048,15.5922,Slovenia,SI,SVN,Brežice,admin,6843.0,1705251132
+Ajdovščina,Ajdovscina,45.8861,13.9097,Slovenia,SI,SVN,Ajdovščina,admin,6843.0,1705580792
+Litija,Litija,46.0667,14.8167,Slovenia,SI,SVN,Litija,admin,6688.0,1705902870
+Mengeš,Menges,46.1626,14.568,Slovenia,SI,SVN,Mengeš,admin,6119.0,1705274788
+Sežana,Sezana,45.7034,13.8706,Slovenia,SI,SVN,Sežana,admin,6037.0,1705079549
+Zagorje,Zagorje,46.1342,14.9942,Slovenia,SI,SVN,Zagorje ob Savi,admin,6023.0,1705942287
+Radovljica,Radovljica,46.3425,14.1721,Slovenia,SI,SVN,Radovljica,admin,5981.0,1705488511
+Idrija,Idrija,46.0025,14.0275,Slovenia,SI,SVN,Idrija,admin,5848.0,1705472042
+Črnomelj,Crnomelj,45.5711,15.1889,Slovenia,SI,SVN,Črnomelj,admin,5496.0,1705132468
+Medvode,Medvode,46.1382,14.4147,Slovenia,SI,SVN,Medvode,admin,5380.0,1705158152
+Slovenske Konjice,Slovenske Konjice,46.3383,15.4233,Slovenia,SI,SVN,Slovenske Konjice,admin,5157.0,1705506460
+Rogaška Slatina,Rogaska Slatina,46.2314,15.6381,Slovenia,SI,SVN,Rogaška Slatina,admin,5082.0,1705772825
+Žalec,Zalec,46.251,15.1639,Slovenia,SI,SVN,Žalec,admin,5004.0,1705340993
+Hrastnik,Hrastnik,46.1479,15.1528,Slovenia,SI,SVN,Hrastnik,admin,4962.0,1705818009
+Šentjur,Sentjur,46.2176,15.396,Slovenia,SI,SVN,Šentjur,admin,4940.0,1705076635
+Bled,Bled,46.3688,14.114,Slovenia,SI,SVN,Bled,admin,4929.0,1705655016
+Prevalje,Prevalje,46.5438,14.9119,Slovenia,SI,SVN,Prevalje,admin,4620.0,1705187949
+Sevnica,Sevnica,46.0092,15.3041,Slovenia,SI,SVN,Sevnica,admin,4533.0,1705218575
+Ilirska Bistrica,Ilirska Bistrica,45.5679,14.2527,Slovenia,SI,SVN,Ilirska Bistrica,admin,4323.0,1705031705
+Ruše,Ruse,46.5386,15.5154,Slovenia,SI,SVN,Ruše,admin,4206.0,1705417281
+Cerknica,Cerknica,45.7964,14.3581,Slovenia,SI,SVN,Cerknica,admin,4018.0,1705932096
+Trebnje,Trebnje,45.9104,15.0086,Slovenia,SI,SVN,Trebnje,admin,3927.0,1705570941
+Trzin,Trzin,46.1353,14.56,Slovenia,SI,SVN,Trzin,admin,3925.0,1705707595
+Miklavž na Dravskem Polju,Miklavz na Dravskem Polju,46.5057,15.6993,Slovenia,SI,SVN,Miklavž na Dravskem Polju,admin,3808.0,1705244140
+Piran,Piran,45.5283,13.5683,Slovenia,SI,SVN,Piran,admin,3787.0,1705085466
+Šempeter pri Gorici,Sempeter pri Gorici,45.9284,13.6378,Slovenia,SI,SVN,Šempeter-Vrtojba,admin,3694.0,1705397569
+Tržič,Trzic,46.3581,14.293,Slovenia,SI,SVN,Tržič,admin,3670.0,1705554055
+Žiri,Ziri,46.0469,14.1097,Slovenia,SI,SVN,Žiri,admin,3657.0,1705440220
+Ribnica,Ribnica,45.74,14.7308,Slovenia,SI,SVN,Ribnica,admin,3612.0,1705675272
+Tolmin,Tolmin,46.1857,13.7352,Slovenia,SI,SVN,Tolmin,admin,3525.0,1705602247
+Laško,Lasko,46.1563,15.2386,Slovenia,SI,SVN,Laško,admin,3288.0,1705962698
+Lenart v Slovenskih Goricah,Lenart v Slovenskih Goricah,46.5742,15.8322,Slovenia,SI,SVN,Lenart,admin,3285.0,1705719159
+Ljutomer,Ljutomer,46.5168,16.2027,Slovenia,SI,SVN,Ljutomer,admin,3244.0,1705303708
+Domžale,Domzale,46.1394,14.595,Slovenia,SI,SVN,Domžale,admin,3231.0,1705822721
+Metlika,Metlika,45.6517,15.32,Slovenia,SI,SVN,Metlika,admin,3229.0,1705008169
+Ankaran,Ankaran,45.5793,13.7379,Slovenia,SI,SVN,Ankaran,admin,3224.0,1705521676
+Brezovica,Brezovica,46.0207,14.4178,Slovenia,SI,SVN,Brezovica,admin,3221.0,1705190624
+Mežica,Mezica,46.5206,14.8536,Slovenia,SI,SVN,Mežica,admin,3176.0,1705607524
+Šenčur,Sencur,46.243,14.4181,Slovenia,SI,SVN,Šenčur,admin,3121.0,1705968659
+Dravograd,Dravograd,46.5903,15.0236,Slovenia,SI,SVN,Dravograd,admin,3088.0,1705130450
+Gornja Radgona,Gornja Radgona,46.6752,15.9926,Slovenia,SI,SVN,Gornja Radgona,admin,3086.0,1705643923
+Železniki,Zelezniki,46.2182,14.1592,Slovenia,SI,SVN,Železniki,admin,3069.0,1705885002
+Škofljica,Skofljica,45.9836,14.5761,Slovenia,SI,SVN,Škofljica,admin,3029.0,1705067758
+Lendava,Lendava,46.5631,16.4519,Slovenia,SI,SVN,Lendava,admin,2954.0,1705653525
+Rogašovci,Rogasovci,46.8053,16.0344,Slovenia,SI,SVN,Rogašovci,admin,2946.0,1705970248
+Šoštanj,Sostanj,46.3798,15.0482,Slovenia,SI,SVN,Šoštanj,admin,2933.0,1705376916
+Zreče,Zrece,46.375,15.3854,Slovenia,SI,SVN,Zreče,admin,2922.0,1705764665
+Radlje ob Dravi,Radlje ob Dravi,46.6152,15.2264,Slovenia,SI,SVN,Radlje ob Dravi,admin,2856.0,1705478193
+Rače,Race,46.4529,15.6812,Slovenia,SI,SVN,Rače-Fram,admin,2693.0,1705643433
+Borovnica,Borovnica,45.9197,14.3572,Slovenia,SI,SVN,Borovnica,admin,2674.0,1705665714
+Vojnik,Vojnik,46.2933,15.3052,Slovenia,SI,SVN,Vojnik,admin,2475.0,1705662463
+Beltinci,Beltinci,46.606,16.2328,Slovenia,SI,SVN,Beltinci,admin,2430.0,1705238814
+Polzela,Polzela,46.2809,15.074,Slovenia,SI,SVN,Polzela,admin,2351.0,1705144123
+Krško,Krsko,45.95,15.4833,Slovenia,SI,SVN,Krško,admin,2314.0,1705286396
+Muta,Muta,46.6167,15.1667,Slovenia,SI,SVN,Muta,admin,2291.0,1705459961
+Sveta Ana,Sveta Ana,46.6497,15.8453,Slovenia,SI,SVN,Sveta Ana,admin,2285.0,1705062986
+Štore,Store,46.2219,15.3111,Slovenia,SI,SVN,Štore,admin,2257.0,1705775604
+Ig,Ig,45.9692,14.5394,Slovenia,SI,SVN,Ig,admin,2240.0,1705409266
+Ivančna Gorica,Ivancna Gorica,45.9374,14.8029,Slovenia,SI,SVN,Ivančna Gorica,admin,2205.0,1705930549
+Črna na Koroškem,Crna na Koroskem,46.4697,14.849,Slovenia,SI,SVN,Črna na Koroškem,admin,2201.0,1705127725
+Radenci,Radenci,46.6428,16.0453,Slovenia,SI,SVN,Radenci,admin,2171.0,1705609332
+Spodnje Hoče,Spodnje Hoce,46.4996,15.6471,Slovenia,SI,SVN,Hoče-Slivnica,admin,2109.0,1705379997
+Vipava,Vipava,45.8476,13.9624,Slovenia,SI,SVN,Vipava,admin,2101.0,1705864633
+Pivka,Pivka,45.6833,14.2,Slovenia,SI,SVN,Pivka,admin,2059.0,1705709650
+Mozirje,Mozirje,46.3381,14.9572,Slovenia,SI,SVN,Mozirje,admin,2052.0,1705239053
+Semič,Semic,45.6546,15.1783,Slovenia,SI,SVN,Semič,admin,2017.0,1705653513
+Radeče,Radece,46.0658,15.1728,Slovenia,SI,SVN,Radeče,admin,1993.0,1705420341
+Lovrenc na Pohorju,Lovrenc na Pohorju,46.5381,15.3844,Slovenia,SI,SVN,Lovrenc na Pohorju,admin,1992.0,1705376318
+Ormož,Ormoz,46.4086,16.1475,Slovenia,SI,SVN,Ormož,admin,1962.0,1705413437
+Straža,Straza,45.7864,15.0745,Slovenia,SI,SVN,Straža,admin,1945.0,1705491164
+Mislinja,Mislinja,46.4431,15.1931,Slovenia,SI,SVN,Mislinja,admin,1862.0,1705898157
+Naklo,Naklo,46.2749,14.3176,Slovenia,SI,SVN,Naklo,admin,1776.0,1705637872
+Bohinjska Bistrica,Bohinjska Bistrica,46.2742,13.9524,Slovenia,SI,SVN,Bohinj,admin,1767.0,1705094350
+Šmarje,Smarje,46.2281,15.5182,Slovenia,SI,SVN,Šmarje pri Jelšah,admin,1755.0,1705373506
+Divača,Divaca,45.682,13.9702,Slovenia,SI,SVN,Divača,admin,1734.0,1705065298
+Cerklje na Gorenjskem,Cerklje na Gorenjskem,46.2488,14.4855,Slovenia,SI,SVN,Cerklje na Gorenjskem,admin,1710.0,1705820033
+Vodice,Vodice,46.1897,14.4944,Slovenia,SI,SVN,Vodice,admin,1706.0,1705728443
+Spodnji Duplek,Spodnji Duplek,46.5053,15.7467,Slovenia,SI,SVN,Duplek,admin,1689.0,1705953692
+Tabor,Tabor,46.2225,15.0081,Slovenia,SI,SVN,Tabor,admin,1669.0,1705756002
+Odranci,Odranci,46.5856,16.2753,Slovenia,SI,SVN,Odranci,admin,1632.0,1705912877
+Prebold,Prebold,46.2369,15.0919,Slovenia,SI,SVN,Prebold,admin,1605.0,1705746627
+Zgornja Kungota,Zgornja Kungota,46.6388,15.6141,Slovenia,SI,SVN,Kungota,admin,1594.0,1705104301
+Bovec,Bovec,46.3378,13.5522,Slovenia,SI,SVN,Bovec,admin,1586.0,1705609781
+Rogatec,Rogatec,46.2243,15.7052,Slovenia,SI,SVN,Rogatec,admin,1540.0,1705579021
+Vuzenica,Vuzenica,46.5992,15.1669,Slovenia,SI,SVN,Vuzenica,admin,1522.0,1705639122
+Turnišče,Turnisce,46.6194,16.3223,Slovenia,SI,SVN,Turnišče,admin,1506.0,1705851676
+Miren,Miren,45.8962,13.6072,Slovenia,SI,SVN,Miren-Kostanjevica,admin,1506.0,1705608129
+Dragomer,Dragomer,46.0189,14.382,Slovenia,SI,SVN,Log-Dragomer,admin,1464.0,1705762040
+Kranjska Gora,Kranjska Gora,46.4854,13.7871,Slovenia,SI,SVN,Kranjska Gora,admin,1452.0,1705443136
+Šentjernej,Sentjernej,45.8389,15.3361,Slovenia,SI,SVN,Šentjernej,admin,1441.0,1705329272
+Cerkno,Cerkno,46.1278,13.9875,Slovenia,SI,SVN,Cerkno,admin,1425.0,1705759580
+Oplotnica,Oplotnica,46.386,15.4458,Slovenia,SI,SVN,Oplotnica,admin,1420.0,1705182651
+Šmartno,Smartno,46.0441,14.8466,Slovenia,SI,SVN,Šmartno pri Litiji,admin,1395.0,1705164835
+Mirna,Mirna,45.9476,15.0664,Slovenia,SI,SVN,Mirna,admin,1371.0,1705033855
+Selnica ob Dravi,Selnica ob Dravi,46.5514,15.4947,Slovenia,SI,SVN,Selnica ob Dravi,admin,1348.0,1705864774
+Dornava,Dornava,46.4299,15.9488,Slovenia,SI,SVN,Dornava,admin,1263.0,1705023699
+Kidričevo,Kidricevo,46.406,15.7983,Slovenia,SI,SVN,Kidričevo,admin,1257.0,1705321982
+Horjul,Horjul,46.023,14.2981,Slovenia,SI,SVN,Horjul,admin,1169.0,1705243858
+Črenšovci,Crensovci,46.5747,16.2937,Slovenia,SI,SVN,Črenšovci,admin,1151.0,1705698578
+Kanal,Kanal,46.088,13.6347,Slovenia,SI,SVN,Kanal ob Soči,admin,1142.0,1705955833
+Gorenja Vas,Gorenja Vas,46.1069,14.1451,Slovenia,SI,SVN,Gorenja Vas-Poljane,admin,1132.0,1705961189
+Poljčane,Poljcane,46.3135,15.5791,Slovenia,SI,SVN,Poljčane,admin,1118.0,1705286007
+Ljubno,Ljubno,46.3333,14.8333,Slovenia,SI,SVN,Ljubno,admin,1094.0,1705083617
+Kobarid,Kobarid,46.2464,13.578,Slovenia,SI,SVN,Kobarid,admin,1085.0,1705651680
+Benedikt,Benedikt,46.6065,15.8842,Slovenia,SI,SVN,Benedikt,admin,1078.0,1705523597
+Gornji Grad,Gornji Grad,46.2961,14.8052,Slovenia,SI,SVN,Gornji Grad,admin,1016.0,1705879741
+Mirna Peč,Mirna Pec,45.858,15.0876,Slovenia,SI,SVN,Mirna Peč,admin,1015.0,1705096910
+Središče ob Dravi,Sredisce ob Dravi,46.3933,16.2722,Slovenia,SI,SVN,Središče ob Dravi,admin,984.0,1705613407
+Moravče,Moravce,46.1356,14.7439,Slovenia,SI,SVN,Moravče,admin,957.0,1705291500
+Dobrovnik,Dobrovnik,46.6515,16.3479,Slovenia,SI,SVN,Dobrovnik,admin,948.0,1705602796
+Dobrova,Dobrova,46.0533,14.4144,Slovenia,SI,SVN,Dobrova-Polhov Gradec,admin,921.0,1705653264
+Veržej,Verzej,46.5818,16.1623,Slovenia,SI,SVN,Veržej,admin,900.0,1705529436
+Komenda,Komenda,46.2073,14.539,Slovenia,SI,SVN,Komenda,admin,896.0,1705295612
+Dolenjske Toplice,Dolenjske Toplice,45.7545,15.0583,Slovenia,SI,SVN,Dolenjske Toplice,admin,882.0,1705395845
+Nazarje,Nazarje,46.3202,14.9531,Slovenia,SI,SVN,Nazarje,admin,880.0,1705598784
+Velika Polana,Velika Polana,46.5719,16.3472,Slovenia,SI,SVN,Velika Polana,admin,870.0,1705627212
+Vitanje,Vitanje,46.3825,15.2956,Slovenia,SI,SVN,Vitanje,admin,859.0,1705925648
+Gorišnica,Gorisnica,46.4122,16.0131,Slovenia,SI,SVN,Gorišnica,admin,856.0,1705561619
+Pesnica,Pesnica,46.6099,15.6714,Slovenia,SI,SVN,Pesnica,admin,843.0,1705389455
+Sodražica,Sodrazica,45.7616,14.6363,Slovenia,SI,SVN,Sodražica,admin,842.0,1705295579
+Stari Trg,Stari Trg,45.7142,14.4695,Slovenia,SI,SVN,Loška Dolina,admin,838.0,1705849784
+Preddvor,Preddvor,46.3052,14.4203,Slovenia,SI,SVN,Preddvor,admin,835.0,1705403351
+Zgornja Hajdina,Zgornja Hajdina,46.4057,15.8385,Slovenia,SI,SVN,Hajdina,admin,804.0,1705893552
+Starše,Starse,46.4664,15.7675,Slovenia,SI,SVN,Starše,admin,757.0,1705557844
+Sveta Trojica v Slovenskih Goricah,Sveta Trojica v Slovenskih Goricah,46.5756,15.8769,Slovenia,SI,SVN,Sveta Trojica v Slovenskih Goricah,admin,754.0,1705659496
+Moravske-Toplice,Moravske-Toplice,46.6927,16.2281,Slovenia,SI,SVN,Moravske Toplice,admin,752.0,1705126489
+Velike Lašče,Velike Lasce,45.8363,14.6377,Slovenia,SI,SVN,Velike Lašče,admin,724.0,1705618557
+Mokronog,Mokronog,45.9426,15.149,Slovenia,SI,SVN,Mokronog-Trebelno,admin,700.0,1705336506
+Kostanjevica na Krki,Kostanjevica na Krki,45.8463,15.4249,Slovenia,SI,SVN,Kostanjevica na Krki,admin,689.0,1705796422
+Komen,Komen,45.8159,13.7507,Slovenia,SI,SVN,Komen,admin,642.0,1705031068
+Šmartno,Smartno,46.3297,15.0325,Slovenia,SI,SVN,Šmartno ob Paki,admin,636.0,1705804130
+Kozje,Kozje,46.074,15.559,Slovenia,SI,SVN,Kozje,admin,634.0,1705548274
+Puconci,Puconci,46.7039,16.1572,Slovenia,SI,SVN,Puconci,admin,633.0,1705677747
+Grad,Grad,46.7977,16.0984,Slovenia,SI,SVN,Grad,admin,620.0,1705033390
+Majšperk,Majsperk,46.35,15.7333,Slovenia,SI,SVN,Majšperk,admin,606.0,1705147774
+Videm,Videm,45.8484,14.6944,Slovenia,SI,SVN,Dobrepolje,admin,590.0,1705074870
+Podčetrtek,Podcetrtek,46.1573,15.5974,Slovenia,SI,SVN,Podčetrtek,admin,578.0,1705261000
+Zgornje Jezersko,Zgornje Jezersko,46.3951,14.4966,Slovenia,SI,SVN,Jezersko,admin,558.0,1705991236
+Apače,Apace,46.6967,15.9111,Slovenia,SI,SVN,Apače,admin,543.0,1705285338
+Kobilje,Kobilje,46.6837,16.3953,Slovenia,SI,SVN,Kobilje,admin,542.0,1705965317
+Dobrna,Dobrna,46.3381,15.2293,Slovenia,SI,SVN,Dobrna,admin,536.0,1705353787
+Zgornje Gorje,Zgornje Gorje,46.3801,14.0684,Slovenia,SI,SVN,Gorje,admin,532.0,1705342044
+Rečica,Recica,46.3247,14.9228,Slovenia,SI,SVN,Rečica ob Savinji,admin,516.0,1705082644
+Križevci,Krizevci,46.5631,16.1399,Slovenia,SI,SVN,Križevci,admin,499.0,1705138690
+Markovci,Markovci,46.3956,15.9314,Slovenia,SI,SVN,Markovci,admin,495.0,1705493301
+Šmarješke Toplice,Smarjeske Toplice,45.8622,15.2214,Slovenia,SI,SVN,Šmarješke Toplice,admin,492.0,1705361649
+Cirkulane,Cirkulane,46.3436,15.9941,Slovenia,SI,SVN,Cirkulane,admin,451.0,1705650900
+Videm pri Ptuju,Videm pri Ptuju,46.3699,15.8935,Slovenia,SI,SVN,Videm,admin,451.0,1705681768
+Lukovica,Lukovica,46.1686,14.6892,Slovenia,SI,SVN,Lukovica,admin,438.0,1705829201
+Kuzma,Kuzma,46.8333,16.0833,Slovenia,SI,SVN,Kuzma,admin,429.0,1705411351
+Cankova,Cankova,46.7193,16.0179,Slovenia,SI,SVN,Cankova,admin,416.0,1705097170
+Gornji Petrovci,Gornji Petrovci,46.805,16.2172,Slovenia,SI,SVN,Gornji Petrovci,admin,411.0,1705170234
+Tišina,Tisina,46.6558,16.0933,Slovenia,SI,SVN,Tišina,admin,408.0,1705811179
+Ribnica,Ribnica,46.5372,15.2733,Slovenia,SI,SVN,Ribnica na Pohorju,admin,404.0,1705830999
+Luče,Luce,46.3565,14.7436,Slovenia,SI,SVN,Luče,admin,402.0,1705042629
+Šalovci,Salovci,46.825,16.2981,Slovenia,SI,SVN,Šalovci,admin,392.0,1705296581
+Juršinci,Jursinci,46.4853,15.971,Slovenia,SI,SVN,Juršinci,admin,381.0,1705262198
+Podlehnik,Podlehnik,46.3361,15.8786,Slovenia,SI,SVN,Podlehnik,admin,378.0,1705352359
+Braslovče,Braslovce,46.2884,15.0386,Slovenia,SI,SVN,Braslovče,admin,378.0,1705126731
+Trnovska Vas,Trnovska Vas,46.5231,15.8978,Slovenia,SI,SVN,Trnovska Vas,admin,369.0,1705654373
+Jurovski Dol,Jurovski Dol,46.6087,15.7796,Slovenia,SI,SVN,Sveti Jurij v Slovenskih Goricah,admin,361.0,1705288408
+Hrib-Loški Potok,Hrib-Loski Potok,45.7015,14.5901,Slovenia,SI,SVN,Loški Potok,admin,353.0,1705118688
+Vitomarci,Vitomarci,46.5248,15.9346,Slovenia,SI,SVN,Sveti Andraž v Slovenskih Goricah,admin,341.0,1705653481
+Dobrovo,Dobrovo,45.9989,13.5296,Slovenia,SI,SVN,Brda,admin,334.0,1705226459
+Šentrupert,Sentrupert,45.9769,15.0897,Slovenia,SI,SVN,Šentrupert,admin,310.0,1705083565
+Podvelka,Podvelka,46.5864,15.3286,Slovenia,SI,SVN,Podvelka,admin,299.0,1705523444
+Nova Vas,Nova Vas,45.7726,14.5064,Slovenia,SI,SVN,Bloke,admin,293.0,1705701553
+Hodoš,Hodos,46.8285,16.3239,Slovenia,SI,SVN,Hodoš,admin,280.0,1705217643
+Dol,Dol,46.0884,14.6425,Slovenia,SI,SVN,Dol pri Ljubljani,admin,277.0,1705717325
+Tomaž pri Ormožu,Tomaz pri Ormozu,46.4833,16.0794,Slovenia,SI,SVN,Sveti Tomaž,admin,254.0,1705837424
+Bistrica ob Sotli,Bistrica ob Sotli,46.0589,15.6642,Slovenia,SI,SVN,Bistrica ob Sotli,admin,235.0,1705641346
+Škocjan,Skocjan,45.9069,15.2914,Slovenia,SI,SVN,Škocjan,admin,233.0,1705940381
+Makole,Makole,46.3174,15.6669,Slovenia,SI,SVN,Makole,admin,221.0,1705304446
+Sveti Jurij,Sveti Jurij,46.5683,16.0203,Slovenia,SI,SVN,Sveti Jurij ob Ščavnici,admin,209.0,1705832384
+Solčava,Solcava,46.4201,14.6918,Slovenia,SI,SVN,Solčava,admin,208.0,1705581561
+Destrnik,Destrnik,46.4923,15.8801,Slovenia,SI,SVN,Destrnik,admin,186.0,1705579309
+Cerkvenjak,Cerkvenjak,46.566,15.9429,Slovenia,SI,SVN,Cerkvenjak,admin,163.0,1705808302
+Razkrižje,Razkrizje,46.5182,16.2882,Slovenia,SI,SVN,Razkrižje,admin,141.0,1705276725
+Dobje,Dobje,46.1369,15.3945,Slovenia,SI,SVN,Dobje,admin,114.0,1705204927
+Osilnica,Osilnica,45.5289,14.6983,Slovenia,SI,SVN,Osilnica,admin,76.0,1705839708
+Vransko,Vransko,46.172,14.8217,Slovenia,SI,SVN,Vransko,admin,11.0,1705616966
+Kostel,Kostel,45.5088,14.91,Slovenia,SI,SVN,Kostel,admin,10.0,1705541759
+Žetale,Zetale,46.275,15.7939,Slovenia,SI,SVN,Žetale,admin,,1705941695
+Šentilj,Sentilj,46.6817,15.6481,Slovenia,SI,SVN,Šentilj,admin,,1705840723
+Žužemberk,Zuzemberk,45.8339,14.9292,Slovenia,SI,SVN,Žužemberk,admin,,1705027920
+Zavrč,Zavrc,46.3917,16.0497,Slovenia,SI,SVN,Zavrč,admin,,1705477555

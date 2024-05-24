@@ -1,0 +1,971 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Toronto,Toronto,43.7417,-79.3733,Canada,CA,CAN,Ontario,admin,5647656.0,1124279679
+Montréal,Montreal,45.5089,-73.5617,Canada,CA,CAN,Quebec,,3675219.0,1124586170
+Vancouver,Vancouver,49.25,-123.1,Canada,CA,CAN,British Columbia,,2426160.0,1124825478
+Calgary,Calgary,51.05,-114.0667,Canada,CA,CAN,Alberta,,1306784.0,1124690423
+Edmonton,Edmonton,53.5344,-113.4903,Canada,CA,CAN,Alberta,admin,1151635.0,1124290735
+Ottawa,Ottawa,45.4247,-75.695,Canada,CA,CAN,Ontario,primary,1068821.0,1124399363
+Winnipeg,Winnipeg,49.8844,-97.1464,Canada,CA,CAN,Manitoba,admin,758515.0,1124224963
+Quebec City,Quebec City,46.8139,-71.2081,Canada,CA,CAN,Quebec,admin,733156.0,1124823933
+Hamilton,Hamilton,43.2567,-79.8692,Canada,CA,CAN,Ontario,,729560.0,1124567288
+Mississauga,Mississauga,43.6,-79.65,Canada,CA,CAN,Ontario,,717961.0,1124112672
+Brampton,Brampton,43.6833,-79.7667,Canada,CA,CAN,Ontario,,656480.0,1124625989
+Surrey,Surrey,49.19,-122.8489,Canada,CA,CAN,British Columbia,,568322.0,1124001454
+Kitchener,Kitchener,43.4186,-80.4728,Canada,CA,CAN,Ontario,,522888.0,1124158530
+Halifax,Halifax,44.6475,-63.5906,Canada,CA,CAN,Nova Scotia,admin,439819.0,1124130981
+Laval,Laval,45.5833,-73.75,Canada,CA,CAN,Quebec,,438366.0,1124922301
+London,London,42.9836,-81.2497,Canada,CA,CAN,Ontario,,423369.0,1124469960
+Victoria,Victoria,48.4283,-123.3647,Canada,CA,CAN,British Columbia,admin,363222.0,1124147219
+Markham,Markham,43.8767,-79.2633,Canada,CA,CAN,Ontario,,338503.0,1124272698
+Oshawa,Oshawa,43.9,-78.85,Canada,CA,CAN,Ontario,,335949.0,1124541904
+Vaughan,Vaughan,43.8333,-79.5,Canada,CA,CAN,Ontario,,323103.0,1124000141
+Windsor,Windsor,42.2833,-83.0,Canada,CA,CAN,Ontario,,306519.0,1124261024
+Gatineau,Gatineau,45.4833,-75.65,Canada,CA,CAN,Quebec,,291041.0,1124722129
+Saskatoon,Saskatoon,52.1333,-106.6833,Canada,CA,CAN,Saskatchewan,,266141.0,1124612546
+Longueuil,Longueuil,45.5333,-73.5167,Canada,CA,CAN,Quebec,,254483.0,1124122753
+Burnaby,Burnaby,49.2667,-122.9667,Canada,CA,CAN,British Columbia,,249125.0,1124817304
+St. Catharines,St. Catharines,43.1833,-79.2333,Canada,CA,CAN,Ontario,,242460.0,1124140229
+Regina,Regina,50.4547,-104.6067,Canada,CA,CAN,Saskatchewan,admin,226404.0,1124342541
+Oakville,Oakville,43.45,-79.6833,Canada,CA,CAN,Ontario,,213759.0,1124080468
+Richmond,Richmond,49.1667,-123.1333,Canada,CA,CAN,British Columbia,,209937.0,1124121940
+Richmond Hill,Richmond Hill,43.8667,-79.4333,Canada,CA,CAN,Ontario,,202022.0,1124364273
+Burlington,Burlington,43.3167,-79.8,Canada,CA,CAN,Ontario,,186948.0,1124955083
+St. John's,St. John's,47.4817,-52.7971,Canada,CA,CAN,Newfoundland and Labrador,admin,185565.0,1124741456
+Kelowna,Kelowna,49.8881,-119.4956,Canada,CA,CAN,British Columbia,,181380.0,1124080626
+Sherbrooke,Sherbrooke,45.4,-71.9,Canada,CA,CAN,Quebec,,172950.0,1124559506
+Sudbury,Sudbury,46.49,-81.01,Canada,CA,CAN,Ontario,,166004.0,1124539524
+Barrie,Barrie,44.3711,-79.6769,Canada,CA,CAN,Ontario,,154676.0,1124340223
+Abbotsford,Abbotsford,49.05,-122.3167,Canada,CA,CAN,British Columbia,,153524.0,1124808029
+Lévis,Levis,46.8,-71.1833,Canada,CA,CAN,Quebec,,149683.0,1124958950
+Coquitlam,Coquitlam,49.2839,-122.7919,Canada,CA,CAN,British Columbia,,148625.0,1124000500
+Saguenay,Saguenay,48.4167,-71.0667,Canada,CA,CAN,Quebec,,144723.0,1124001930
+Guelph,Guelph,43.55,-80.25,Canada,CA,CAN,Ontario,,144356.0,1124968815
+Trois-Rivières,Trois-Rivieres,46.35,-72.55,Canada,CA,CAN,Quebec,,139163.0,1124407487
+Whitby,Whitby,43.8833,-78.9417,Canada,CA,CAN,Ontario,,138501.0,1124112077
+Cambridge,Cambridge,43.3972,-80.3114,Canada,CA,CAN,Ontario,,138479.0,1124113576
+Kanata,Kanata,45.3333,-75.9,Canada,CA,CAN,Ontario,,137118.0,1124008510
+Milton,Milton,43.5083,-79.8833,Canada,CA,CAN,Ontario,,132979.0,1124001426
+Kingston,Kingston,44.3128,-76.4553,Canada,CA,CAN,Ontario,,132485.0,1124298601
+Ajax,Ajax,43.8583,-79.0364,Canada,CA,CAN,Ontario,,126666.0,1124382916
+Waterloo,Waterloo,43.4667,-80.5167,Canada,CA,CAN,Ontario,,121436.0,1124321390
+Terrebonne,Terrebonne,45.7,-73.6333,Canada,CA,CAN,Quebec,,119944.0,1124993674
+Moncton,Moncton,46.1328,-64.7714,Canada,CA,CAN,New Brunswick,,119785.0,1124521303
+Saanich,Saanich,48.484,-123.381,Canada,CA,CAN,British Columbia,,117735.0,1124000949
+White Rock,White Rock,49.025,-122.8028,Canada,CA,CAN,British Columbia,,109167.0,1124260555
+Thunder Bay,Thunder Bay,48.3822,-89.2461,Canada,CA,CAN,Ontario,,108843.0,1124398712
+Delta,Delta,49.0847,-123.0586,Canada,CA,CAN,British Columbia,,108455.0,1124001200
+Nanaimo,Nanaimo,49.1642,-123.9364,Canada,CA,CAN,British Columbia,,106079.0,1124623893
+Brantford,Brantford,43.1667,-80.25,Canada,CA,CAN,Ontario,,104688.0,1124737006
+Chatham,Chatham,42.4229,-82.1324,Canada,CA,CAN,Ontario,,103988.0,1124393373
+Chicoutimi,Chicoutimi,48.4333,-71.0667,Canada,CA,CAN,Quebec,,103934.0,1124426272
+Clarington,Clarington,43.935,-78.6083,Canada,CA,CAN,Ontario,,101427.0,1124000882
+Saint-Jérôme,Saint-Jerome,45.7833,-74.0,Canada,CA,CAN,Quebec,,100859.0,1124268324
+Red Deer,Red Deer,52.2681,-113.8111,Canada,CA,CAN,Alberta,,100844.0,1124404130
+Pickering,Pickering,43.8354,-79.089,Canada,CA,CAN,Ontario,,99186.0,1124781814
+Lethbridge,Lethbridge,49.6942,-112.8328,Canada,CA,CAN,Alberta,,98406.0,1124321200
+Kamloops,Kamloops,50.6761,-120.3408,Canada,CA,CAN,British Columbia,,97902.0,1124735582
+Saint-Jean-sur-Richelieu,Saint-Jean-sur-Richelieu,45.3167,-73.2667,Canada,CA,CAN,Quebec,,97873.0,1124278447
+Niagara Falls,Niagara Falls,43.06,-79.1067,Canada,CA,CAN,Ontario,,94415.0,1124704011
+Cape Breton,Cape Breton,46.1389,-60.1931,Canada,CA,CAN,Nova Scotia,,93694.0,1124000383
+Chilliwack,Chilliwack,49.1577,-121.9509,Canada,CA,CAN,British Columbia,,93203.0,1124531262
+Brossard,Brossard,45.4667,-73.45,Canada,CA,CAN,Quebec,,91525.0,1124655166
+Maple Ridge,Maple Ridge,49.2167,-122.6,Canada,CA,CAN,British Columbia,,90990.0,1124001699
+Newmarket,Newmarket,44.05,-79.4667,Canada,CA,CAN,Ontario,,87942.0,1124400266
+Repentigny,Repentigny,45.7333,-73.4667,Canada,CA,CAN,Quebec,,86100.0,1124379778
+Peterborough,Peterborough,44.3,-78.3167,Canada,CA,CAN,Ontario,,84793.0,1124440356
+Drummondville,Drummondville,45.8833,-72.4833,Canada,CA,CAN,Quebec,,79258.0,1124624283
+Kawartha Lakes,Kawartha Lakes,44.35,-78.75,Canada,CA,CAN,Ontario,,79247.0,1124000852
+New Westminster,New Westminster,49.2069,-122.9111,Canada,CA,CAN,British Columbia,,78916.0,1124196524
+Prince George,Prince George,53.9169,-122.7494,Canada,CA,CAN,British Columbia,,76708.0,1124733292
+Caledon,Caledon,43.8667,-79.8667,Canada,CA,CAN,Ontario,,76581.0,1124070007
+Châteauguay,Chateauguay,45.38,-73.75,Canada,CA,CAN,Quebec,,75891.0,1124437897
+Belleville,Belleville,44.1667,-77.3833,Canada,CA,CAN,Ontario,,75052.0,1124786959
+Airdrie,Airdrie,51.2917,-114.0144,Canada,CA,CAN,Alberta,,74100.0,1124990202
+Sarnia,Sarnia,42.9994,-82.3089,Canada,CA,CAN,Ontario,,73944.0,1124509835
+Wood Buffalo,Wood Buffalo,57.6042,-111.3284,Canada,CA,CAN,Alberta,,72326.0,1124001123
+Sault Ste. Marie,Sault Ste. Marie,46.5333,-84.35,Canada,CA,CAN,Ontario,,72051.0,1124810690
+Saint John,Saint John,45.2806,-66.0761,Canada,CA,CAN,New Brunswick,,69895.0,1124631364
+Welland,Welland,42.9833,-79.2333,Canada,CA,CAN,Ontario,,69302.0,1124745616
+Granby,Granby,45.4,-72.7333,Canada,CA,CAN,Quebec,,69025.0,1124502071
+St. Albert,St. Albert,53.6303,-113.6258,Canada,CA,CAN,Alberta,,68232.0,1124850754
+Fort McMurray,Fort McMurray,56.7333,-111.3833,Canada,CA,CAN,Alberta,,68002.0,1124169385
+Fredericton,Fredericton,45.9636,-66.6431,Canada,CA,CAN,New Brunswick,admin,64614.0,1124061289
+Grande Prairie,Grande Prairie,55.1708,-118.7947,Canada,CA,CAN,Alberta,,64141.0,1124505481
+Medicine Hat,Medicine Hat,50.0417,-110.6775,Canada,CA,CAN,Alberta,,63382.0,1124303972
+Halton Hills,Halton Hills,43.63,-79.95,Canada,CA,CAN,Ontario,,62951.0,1124000788
+Aurora,Aurora,44.0,-79.4667,Canada,CA,CAN,Ontario,,62057.0,1124085034
+Port Coquitlam,Port Coquitlam,49.2625,-122.7811,Canada,CA,CAN,British Columbia,,61498.0,1124473757
+Mirabel,Mirabel,45.65,-74.0833,Canada,CA,CAN,Quebec,,61108.0,1124182375
+Blainville,Blainville,45.67,-73.88,Canada,CA,CAN,Quebec,,59819.0,1124000623
+Lac-Brome,Lac-Brome,45.2167,-72.5167,Canada,CA,CAN,Quebec,,58889.0,1124000579
+North Vancouver,North Vancouver,49.3202,-123.0699,Canada,CA,CAN,British Columbia,,58120.0,1124000146
+Saint-Hyacinthe,Saint-Hyacinthe,45.6167,-72.95,Canada,CA,CAN,Quebec,,57239.0,1124010116
+Bowmanville,Bowmanville,43.9125,-78.6871,Canada,CA,CAN,Ontario,,56742.0,1124995265
+Beloeil,Beloeil,45.5667,-73.2,Canada,CA,CAN,Quebec,,52959.0,1124469084
+North Bay,North Bay,46.3,-79.45,Canada,CA,CAN,Ontario,,52662.0,1124058496
+Charlottetown,Charlottetown,46.2403,-63.1347,Canada,CA,CAN,Prince Edward Island,admin,52390.0,1124897699
+Vernon,Vernon,50.267,-119.272,Canada,CA,CAN,British Columbia,,51896.0,1124553338
+Brandon,Brandon,49.8483,-99.95,Canada,CA,CAN,Manitoba,,51313.0,1124239939
+Mascouche,Mascouche,45.75,-73.6,Canada,CA,CAN,Quebec,,51183.0,1124001580
+Stouffville,Stouffville,43.9667,-79.25,Canada,CA,CAN,Ontario,,49864.0,1124207594
+Shawinigan,Shawinigan,46.5667,-72.75,Canada,CA,CAN,Quebec,,49620.0,1124441118
+Joliette,Joliette,46.0167,-73.45,Canada,CA,CAN,Quebec,,49246.0,1124841554
+Rimouski,Rimouski,48.45,-68.53,Canada,CA,CAN,Quebec,,48935.0,1124433645
+Courtenay,Courtenay,49.6878,-124.9944,Canada,CA,CAN,British Columbia,,48917.0,1124324905
+Dollard-des-Ormeaux,Dollard-des-Ormeaux,45.4833,-73.8167,Canada,CA,CAN,Quebec,,48403.0,1124902278
+Cornwall,Cornwall,45.0275,-74.74,Canada,CA,CAN,Ontario,,47845.0,1124938303
+Victoriaville,Victoriaville,46.05,-71.9667,Canada,CA,CAN,Quebec,,47760.0,1124149787
+Georgina,Georgina,44.3,-79.4333,Canada,CA,CAN,Ontario,,47642.0,1124000048
+Woodstock,Woodstock,43.1306,-80.7467,Canada,CA,CAN,Ontario,,46705.0,1124758374
+Langford Station,Langford Station,48.4506,-123.5058,Canada,CA,CAN,British Columbia,,46584.0,1124095065
+Quinte West,Quinte West,44.1833,-77.5667,Canada,CA,CAN,Ontario,,46560.0,1124001037
+St. Thomas,St. Thomas,42.775,-81.1833,Canada,CA,CAN,Ontario,,45732.0,1124790209
+Saint-Eustache,Saint-Eustache,45.57,-73.9,Canada,CA,CAN,Quebec,,45276.0,1124758162
+West Vancouver,West Vancouver,49.3667,-123.1667,Canada,CA,CAN,British Columbia,,44122.0,1124001824
+Georgetown,Georgetown,43.6526,-79.9281,Canada,CA,CAN,Ontario,,44058.0,1124195031
+New Tecumseth,New Tecumseth,44.0833,-79.75,Canada,CA,CAN,Ontario,,43948.0,1124001571
+Innisfil,Innisfil,44.3,-79.5833,Canada,CA,CAN,Ontario,,43326.0,1124001408
+Vaudreuil-Dorion,Vaudreuil-Dorion,45.4,-74.0333,Canada,CA,CAN,Quebec,,43268.0,1124618618
+Bradford West Gwillimbury,Bradford West Gwillimbury,44.1333,-79.6333,Canada,CA,CAN,Ontario,,42880.0,1124001093
+Salaberry-de-Valleyfield,Salaberry-de-Valleyfield,45.25,-74.13,Canada,CA,CAN,Quebec,,42787.0,1124638758
+Rouyn-Noranda,Rouyn-Noranda,48.2333,-79.0167,Canada,CA,CAN,Quebec,,42313.0,1124267752
+Boucherville,Boucherville,45.6,-73.45,Canada,CA,CAN,Quebec,,41743.0,1124000296
+Mission,Mission,49.1337,-122.3112,Canada,CA,CAN,British Columbia,,41519.0,1124502601
+Timmins,Timmins,48.4667,-81.3333,Canada,CA,CAN,Ontario,,41145.0,1124760634
+Lakeshore,Lakeshore,42.2399,-82.6511,Canada,CA,CAN,Ontario,,40410.0,1124001501
+Brant,Brant,43.1167,-80.3667,Canada,CA,CAN,Ontario,,39474.0,1124000682
+Spruce Grove,Spruce Grove,53.545,-113.9008,Canada,CA,CAN,Alberta,,39348.0,1124943146
+Bradford,Bradford,44.1167,-79.5667,Canada,CA,CAN,Ontario,,38128.0,1124378317
+Campbell River,Campbell River,50.0244,-125.2475,Canada,CA,CAN,British Columbia,,38108.0,1124851971
+Prince Albert,Prince Albert,53.2,-105.75,Canada,CA,CAN,Saskatchewan,,37756.0,1124158154
+Penticton,Penticton,49.4911,-119.5886,Canada,CA,CAN,British Columbia,,36893.0,1124613898
+Sorel-Tracy,Sorel-Tracy,46.0333,-73.1167,Canada,CA,CAN,Quebec,,36650.0,1124000182
+East Kelowna,East Kelowna,49.8625,-119.5833,Canada,CA,CAN,British Columbia,,36078.0,1124070905
+Leamington,Leamington,42.0667,-82.5833,Canada,CA,CAN,Ontario,,35730.0,1124258797
+East Gwillimbury,East Gwillimbury,44.1333,-79.4167,Canada,CA,CAN,Ontario,,34637.0,1124001370
+Côte-Saint-Luc,Cote-Saint-Luc,45.4687,-73.6673,Canada,CA,CAN,Quebec,,34504.0,1124563603
+Orangeville,Orangeville,43.9167,-80.1167,Canada,CA,CAN,Ontario,,34177.0,1124566061
+Leduc,Leduc,53.2594,-113.5492,Canada,CA,CAN,Alberta,,34094.0,1124170853
+Moose Jaw,Moose Jaw,50.3933,-105.5519,Canada,CA,CAN,Saskatchewan,,33665.0,1124806868
+Port Moody,Port Moody,49.2831,-122.8317,Canada,CA,CAN,British Columbia,,33535.0,1124252668
+Pointe-Claire,Pointe-Claire,45.45,-73.8167,Canada,CA,CAN,Quebec,,33488.0,1124470650
+Orillia,Orillia,44.6,-79.4167,Canada,CA,CAN,Ontario,,33411.0,1124049830
+Stratford,Stratford,43.3708,-80.9819,Canada,CA,CAN,Ontario,,33232.0,1124676255
+Saint-Georges,Saint-Georges,46.0966,-70.6768,Canada,CA,CAN,Quebec,,32935.0,1124775858
+Fort Erie,Fort Erie,42.9167,-79.0167,Canada,CA,CAN,Ontario,,32901.0,1124516852
+Val-d’Or,Val-d'Or,48.1,-77.7833,Canada,CA,CAN,Quebec,,32752.0,1124239138
+LaSalle,LaSalle,42.2167,-83.0667,Canada,CA,CAN,Ontario,,32721.0,1124000988
+Cochrane,Cochrane,51.189,-114.467,Canada,CA,CAN,Alberta,,32199.0,1124952542
+North Cowichan,North Cowichan,48.8236,-123.7192,Canada,CA,CAN,British Columbia,,31990.0,1124000052
+Lloydminster,Lloydminster,53.2783,-110.005,Canada,CA,CAN,Saskatchewan,,31582.0,1124051728
+Chambly,Chambly,45.4311,-73.2873,Canada,CA,CAN,Quebec,,31444.0,1124345124
+Centre Wellington,Centre Wellington,43.7,-80.3667,Canada,CA,CAN,Ontario,,31093.0,1124000849
+Okotoks,Okotoks,50.725,-113.975,Canada,CA,CAN,Alberta,,30405.0,1124521470
+Alma,Alma,48.55,-71.65,Canada,CA,CAN,Quebec,,30331.0,1124138438
+Sainte-Julie,Sainte-Julie,45.5833,-73.3333,Canada,CA,CAN,Quebec,,30045.0,1124000521
+Saint-Constant,Saint-Constant,45.37,-73.57,Canada,CA,CAN,Quebec,,29954.0,1124000054
+Langley,Langley,49.0987,-122.6597,Canada,CA,CAN,British Columbia,,28963.0,1124000480
+Grimsby,Grimsby,43.2,-79.55,Canada,CA,CAN,Ontario,,28883.0,1124989517
+Magog,Magog,45.2667,-72.15,Canada,CA,CAN,Quebec,,28312.0,1124404849
+Boisbriand,Boisbriand,45.62,-73.83,Canada,CA,CAN,Quebec,,28308.0,1124001940
+Whitehorse,Whitehorse,60.7029,-135.0691,Canada,CA,CAN,Yukon,admin,28201.0,1124348186
+Dieppe,Dieppe,46.0989,-64.7242,Canada,CA,CAN,New Brunswick,,28114.0,1124195431
+King,King,44.0463,-79.6044,Canada,CA,CAN,Ontario,,27333.0,1124001693
+Parksville,Parksville,49.315,-124.312,Canada,CA,CAN,British Columbia,,27330.0,1124698963
+Conception Bay South,Conception Bay South,47.5167,-52.9833,Canada,CA,CAN,Newfoundland and Labrador,,27168.0,1124000563
+Keswick,Keswick,44.25,-79.4667,Canada,CA,CAN,Ontario,,27145.0,1124059829
+Fort Saskatchewan,Fort Saskatchewan,53.7128,-113.2133,Canada,CA,CAN,Alberta,,27088.0,1124769097
+Woolwich,Woolwich,43.5667,-80.4833,Canada,CA,CAN,Ontario,,26999.0,1124000096
+Bolton,Bolton,43.8833,-79.7333,Canada,CA,CAN,Ontario,,26795.0,1124208470
+Sainte-Thérèse,Sainte-Therese,45.6333,-73.85,Canada,CA,CAN,Quebec,,26533.0,1124190411
+Clarence-Rockland,Clarence-Rockland,45.4833,-75.2,Canada,CA,CAN,Ontario,,26505.0,1124000639
+La Prairie,La Prairie,45.42,-73.5,Canada,CA,CAN,Quebec,,26406.0,1124956496
+Saint-Bruno-de-Montarville,Saint-Bruno-de-Montarville,45.5333,-73.35,Canada,CA,CAN,Quebec,,26273.0,1124286783
+Midland,Midland,44.75,-79.8833,Canada,CA,CAN,Ontario,,26246.0,1124104490
+Thetford Mines,Thetford Mines,46.1,-71.3,Canada,CA,CAN,Quebec,,26072.0,1124032181
+Lincoln,Lincoln,43.13,-79.43,Canada,CA,CAN,Ontario,,25719.0,1124001767
+Quispamsis,Quispamsis,45.4322,-65.9462,Canada,CA,CAN,New Brunswick,,24881.0,1124000379
+Wasaga Beach,Wasaga Beach,44.5206,-80.0167,Canada,CA,CAN,Ontario,,24862.0,1124001919
+Collingwood,Collingwood,44.5,-80.2167,Canada,CA,CAN,Ontario,,24811.0,1124219884
+Sept-Îles,Sept-Iles,50.2167,-66.3833,Canada,CA,CAN,Quebec,,24569.0,1124406431
+Duncan,Duncan,48.7787,-123.7079,Canada,CA,CAN,British Columbia,,24358.0,1124316061
+Hudson,Hudson,45.45,-74.15,Canada,CA,CAN,Quebec,,24245.0,1124590540
+Saint-Lin--Laurentides,Saint-Lin--Laurentides,45.85,-73.7667,Canada,CA,CAN,Quebec,,24030.0,1124906585
+Tsawwassen,Tsawwassen,49.0436,-123.0985,Canada,CA,CAN,British Columbia,,23940.0,1124987555
+Strathroy-Caradoc,Strathroy-Caradoc,42.9575,-81.6167,Canada,CA,CAN,Ontario,,23871.0,1124000831
+Squamish,Squamish,49.7017,-123.1589,Canada,CA,CAN,British Columbia,,23819.0,1124005958
+Thorold,Thorold,43.1167,-79.2,Canada,CA,CAN,Ontario,,23816.0,1124718251
+Truro,Truro,45.3647,-63.28,Canada,CA,CAN,Nova Scotia,,23583.0,1124952899
+Amherstburg,Amherstburg,42.1,-83.0833,Canada,CA,CAN,Ontario,,23524.0,1124696938
+L’Assomption,L'Assomption,45.8333,-73.4167,Canada,CA,CAN,Quebec,,23442.0,1124500862
+Tecumseh,Tecumseh,42.2431,-82.9256,Canada,CA,CAN,Ontario,,23300.0,1124720869
+Alliston,Alliston,44.15,-79.8667,Canada,CA,CAN,Ontario,,23253.0,1124831787
+Fergus,Fergus,43.707,-80.3777,Canada,CA,CAN,Ontario,,23209.0,1124116076
+Ladner,Ladner,49.0833,-123.0833,Canada,CA,CAN,British Columbia,,23016.0,1124098513
+Candiac,Candiac,45.38,-73.52,Canada,CA,CAN,Quebec,,22997.0,1124457982
+Essa,Essa,44.25,-79.7833,Canada,CA,CAN,Ontario,,22970.0,1124001569
+Paradise,Paradise,47.5333,-52.8667,Canada,CA,CAN,Newfoundland and Labrador,,22957.0,1124001159
+Saint-Lambert,Saint-Lambert,45.5,-73.5167,Canada,CA,CAN,Quebec,,22761.0,1124174363
+Mount Pearl Park,Mount Pearl Park,47.5189,-52.8058,Canada,CA,CAN,Newfoundland and Labrador,,22477.0,1124869949
+Lindsay,Lindsay,44.35,-78.7333,Canada,CA,CAN,Ontario,,22367.0,1124031696
+Saint-Lazare,Saint-Lazare,45.4,-74.1333,Canada,CA,CAN,Quebec,,22354.0,1124000613
+Owen Sound,Owen Sound,44.5667,-80.9333,Canada,CA,CAN,Ontario,,22318.0,1124623613
+Brockville,Brockville,44.5833,-75.6833,Canada,CA,CAN,Ontario,,22293.0,1124286131
+Chestermere,Chestermere,51.05,-113.8225,Canada,CA,CAN,Alberta,,22163.0,1124000371
+Kingsville,Kingsville,42.1,-82.7167,Canada,CA,CAN,Ontario,,22119.0,1124616034
+Port Alberni,Port Alberni,49.2339,-124.805,Canada,CA,CAN,British Columbia,,21711.0,1124952808
+Springwater,Springwater,44.4333,-79.7333,Canada,CA,CAN,Ontario,,21701.0,1124001298
+Scugog,Scugog,44.09,-78.936,Canada,CA,CAN,Ontario,,21617.0,1124000741
+Uxbridge,Uxbridge,44.1167,-79.1333,Canada,CA,CAN,Ontario,,21556.0,1124829638
+Fort St. John,Fort St. John,56.2465,-120.8476,Canada,CA,CAN,British Columbia,,21465.0,1124517495
+Wilmot,Wilmot,43.4,-80.65,Canada,CA,CAN,Ontario,,21429.0,1124001797
+Essex,Essex,42.0833,-82.9,Canada,CA,CAN,Ontario,,21216.0,1124628052
+Varennes,Varennes,45.6833,-73.4333,Canada,CA,CAN,Quebec,,21198.0,1124232101
+Oro-Medonte,Oro-Medonte,44.5667,-79.5833,Canada,CA,CAN,Ontario,,21036.0,1124001350
+Mont-Royal,Mont-Royal,45.5161,-73.6431,Canada,CA,CAN,Quebec,,20953.0,1124001920
+Beaumont,Beaumont,53.3572,-113.4147,Canada,CA,CAN,Alberta,,20888.0,1124001210
+Baie-Comeau,Baie-Comeau,49.2167,-68.15,Canada,CA,CAN,Quebec,,20687.0,1124859576
+Riverview,Riverview,46.0613,-64.8052,Canada,CA,CAN,New Brunswick,,20584.0,1124000112
+Cobourg,Cobourg,43.9667,-78.1667,Canada,CA,CAN,Ontario,,20519.0,1124831257
+Cranbrook,Cranbrook,49.5097,-115.7667,Canada,CA,CAN,British Columbia,,20499.0,1124937794
+Yellowknife,Yellowknife,62.4709,-114.4053,Canada,CA,CAN,Northwest Territories,admin,20340.0,1124208917
+South Frontenac,South Frontenac,44.5081,-76.4939,Canada,CA,CAN,Ontario,,20188.0,1124000063
+Rivière-du-Loup,Riviere-du-Loup,47.8333,-69.5333,Canada,CA,CAN,Quebec,,20118.0,1124662123
+Port Colborne,Port Colborne,42.8833,-79.25,Canada,CA,CAN,Ontario,,20033.0,1124274319
+Saint-Augustin-de-Desmaures,Saint-Augustin-de-Desmaures,46.7333,-71.4667,Canada,CA,CAN,Quebec,,19907.0,1124000358
+Huntsville,Huntsville,45.3333,-79.2167,Canada,CA,CAN,Ontario,,19816.0,1124961145
+Sainte-Marthe-sur-le-Lac,Sainte-Marthe-sur-le-Lac,45.53,-73.93,Canada,CA,CAN,Quebec,,19797.0,1124001153
+Lloydminster,Lloydminster,53.2807,-110.035,Canada,CA,CAN,Alberta,,19739.0,1124000858
+Westmount,Westmount,45.4833,-73.6,Canada,CA,CAN,Quebec,,19658.0,1124878078
+Russell,Russell,45.2569,-75.3583,Canada,CA,CAN,Ontario,,19598.0,1124982538
+Les Coteaux,Les Coteaux,45.28,-74.23,Canada,CA,CAN,Quebec,,19582.0,1124001989
+Salmon Arm,Salmon Arm,50.7022,-119.2722,Canada,CA,CAN,British Columbia,,19432.0,1124478865
+Kirkland,Kirkland,45.45,-73.8667,Canada,CA,CAN,Quebec,,19413.0,1124000941
+Corner Brook,Corner Brook,48.9287,-57.926,Canada,CA,CAN,Newfoundland and Labrador,,19333.0,1124244792
+New Glasgow,New Glasgow,45.5926,-62.6455,Canada,CA,CAN,Nova Scotia,,19316.0,1124760188
+Dorval,Dorval,45.45,-73.75,Canada,CA,CAN,Quebec,,19302.0,1124933556
+Beaconsfield,Beaconsfield,45.4333,-73.8667,Canada,CA,CAN,Quebec,,19277.0,1124755118
+Pitt Meadows,Pitt Meadows,49.2333,-122.6833,Canada,CA,CAN,British Columbia,,19146.0,1124786902
+Niagara-on-the-Lake,Niagara-on-the-Lake,43.2553,-79.0717,Canada,CA,CAN,Ontario,,19088.0,1124366228
+Colwood,Colwood,48.4236,-123.4958,Canada,CA,CAN,British Columbia,,18961.0,1124000395
+Middlesex Centre,Middlesex Centre,43.05,-81.45,Canada,CA,CAN,Ontario,,18928.0,1124001841
+Mont-Saint-Hilaire,Mont-Saint-Hilaire,45.5622,-73.1917,Canada,CA,CAN,Quebec,,18859.0,1124333461
+Camrose,Camrose,53.0167,-112.8333,Canada,CA,CAN,Alberta,,18772.0,1124351657
+Selwyn,Selwyn,44.4167,-78.3333,Canada,CA,CAN,Ontario,,18653.0,1124000937
+Tillsonburg,Tillsonburg,42.8667,-80.7333,Canada,CA,CAN,Ontario,,18615.0,1124817746
+Pelham,Pelham,43.0333,-79.3333,Canada,CA,CAN,Ontario,,18192.0,1124000042
+Petawawa,Petawawa,45.9,-77.2833,Canada,CA,CAN,Ontario,,18160.0,1124206291
+Stony Plain,Stony Plain,53.5264,-114.0069,Canada,CA,CAN,Alberta,,17993.0,1124982081
+Oak Bay,Oak Bay,48.4264,-123.3228,Canada,CA,CAN,British Columbia,,17990.0,1124761730
+North Grenville,North Grenville,44.9667,-75.65,Canada,CA,CAN,Ontario,,17964.0,1124000746
+Loyalist,Loyalist,44.25,-76.75,Canada,CA,CAN,Ontario,,17943.0,1124001145
+Deux-Montagnes,Deux-Montagnes,45.5333,-73.8833,Canada,CA,CAN,Quebec,,17915.0,1124980214
+Steinbach,Steinbach,49.5258,-96.6839,Canada,CA,CAN,Manitoba,,17806.0,1124152692
+Saint-Colomban,Saint-Colomban,45.73,-74.13,Canada,CA,CAN,Quebec,,17740.0,1124001676
+Miramichi,Miramichi,47.0196,-65.5072,Canada,CA,CAN,New Brunswick,,17692.0,1124714190
+Esquimalt,Esquimalt,48.4306,-123.4147,Canada,CA,CAN,British Columbia,,17533.0,1124990218
+Buckingham,Buckingham,45.5889,-75.4164,Canada,CA,CAN,Quebec,,17407.0,1124482800
+Central Saanich,Central Saanich,48.5142,-123.3839,Canada,CA,CAN,British Columbia,,17385.0,1124000519
+Sainte-Catherine,Sainte-Catherine,45.4,-73.58,Canada,CA,CAN,Quebec,,17347.0,1124941451
+Port Hope,Port Hope,43.95,-78.3,Canada,CA,CAN,Ontario,,17294.0,1124105292
+Inverness,Inverness,46.2,-61.1,Canada,CA,CAN,Nova Scotia,,17235.0,1124840965
+Saint-Basile-le-Grand,Saint-Basile-le-Grand,45.5333,-73.2833,Canada,CA,CAN,Quebec,,17053.0,1124000968
+L’Ancienne-Lorette,L'Ancienne-Lorette,46.8,-71.35,Canada,CA,CAN,Quebec,,16970.0,1124580674
+Glace Bay,Glace Bay,46.2,-59.9667,Canada,CA,CAN,Nova Scotia,,16915.0,1124283186
+Swift Current,Swift Current,50.2881,-107.7939,Canada,CA,CAN,Saskatchewan,,16750.0,1124460875
+Pembroke,Pembroke,45.8167,-77.1,Canada,CA,CAN,Ontario,,16571.0,1124877940
+Edmundston,Edmundston,47.3765,-68.3253,Canada,CA,CAN,New Brunswick,,16437.0,1124274233
+Yorkton,Yorkton,51.2139,-102.4628,Canada,CA,CAN,Saskatchewan,,16280.0,1124108820
+Springfield,Springfield,49.9292,-96.6939,Canada,CA,CAN,Manitoba,,16142.0,1124000696
+Sylvan Lake,Sylvan Lake,52.3083,-114.0964,Canada,CA,CAN,Alberta,,16142.0,1124397940
+Simcoe,Simcoe,42.8376,-80.3073,Canada,CA,CAN,Ontario,,16121.0,1124000018
+Strathroy,Strathroy,42.9558,-81.6226,Canada,CA,CAN,Ontario,,16056.0,1124990299
+Bracebridge,Bracebridge,45.0333,-79.3,Canada,CA,CAN,Ontario,,16010.0,1124793645
+Summerside,Summerside,46.4,-63.7833,Canada,CA,CAN,Prince Edward Island,,16001.0,1124487102
+Canmore,Canmore,51.089,-115.359,Canada,CA,CAN,Alberta,,15990.0,1124688642
+Bathurst,Bathurst,47.62,-65.65,Canada,CA,CAN,New Brunswick,,15985.0,1124816720
+Greater Napanee,Greater Napanee,44.25,-76.95,Canada,CA,CAN,Ontario,,15892.0,1124001319
+Lake Country,Lake Country,50.0833,-119.4142,Canada,CA,CAN,British Columbia,,15817.0,1124001544
+Laurentides,Laurentides,45.85,-73.7667,Canada,CA,CAN,Quebec,,15768.0,1124093347
+Hanover,Hanover,49.4433,-96.8492,Canada,CA,CAN,Manitoba,,15733.0,1124001704
+Winkler,Winkler,49.1817,-97.9397,Canada,CA,CAN,Manitoba,,15335.0,1124205424
+Saint-Charles-Borromée,Saint-Charles-Borromee,46.05,-73.4667,Canada,CA,CAN,Quebec,,15285.0,1124000877
+Cowansville,Cowansville,45.2,-72.75,Canada,CA,CAN,Quebec,,15234.0,1124357421
+Sainte-Anne-des-Plaines,Sainte-Anne-des-Plaines,45.7617,-73.8204,Canada,CA,CAN,Quebec,,15221.0,1124304532
+Gaspé,Gaspe,48.8333,-64.4833,Canada,CA,CAN,Quebec,,15163.0,1124212754
+Sooke,Sooke,48.3761,-123.7378,Canada,CA,CAN,British Columbia,,15086.0,1124034713
+Kenora,Kenora,49.7667,-94.4833,Canada,CA,CAN,Ontario,,14967.0,1124844807
+Cold Lake,Cold Lake,54.4642,-110.1825,Canada,CA,CAN,Alberta,,14961.0,1124089461
+Paris,Paris,43.2,-80.3833,Canada,CA,CAN,Ontario,,14956.0,1124828151
+Brooks,Brooks,50.5642,-111.8989,Canada,CA,CAN,Alberta,,14924.0,1124093123
+Kentville,Kentville,45.0775,-64.4958,Canada,CA,CAN,Nova Scotia,,14905.0,1124530137
+Comox,Comox,49.6733,-124.9022,Canada,CA,CAN,British Columbia,,14806.0,1124788300
+Pincourt,Pincourt,45.3833,-73.9833,Canada,CA,CAN,Quebec,,14751.0,1124637966
+Mississippi Mills,Mississippi Mills,45.2167,-76.2,Canada,CA,CAN,Ontario,,14740.0,1124001617
+St. Clair,St. Clair,42.7833,-82.35,Canada,CA,CAN,Ontario,,14659.0,1124000228
+Terrace,Terrace,54.5164,-128.5997,Canada,CA,CAN,British Columbia,,14633.0,1124878479
+Mercier,Mercier,45.32,-73.75,Canada,CA,CAN,Quebec,,14626.0,1124186621
+Angus,Angus,44.3167,-79.8833,Canada,CA,CAN,Ontario,,14503.0,1124760864
+West Lincoln,West Lincoln,43.0667,-79.5667,Canada,CA,CAN,Ontario,,14500.0,1124001460
+Lavaltrie,Lavaltrie,45.8833,-73.2833,Canada,CA,CAN,Quebec,,14425.0,1124818327
+New Hamburg,New Hamburg,43.3808,-80.7062,Canada,CA,CAN,Ontario,,14379.0,1124075072
+West Nipissing / Nipissing Ouest,West Nipissing / Nipissing Ouest,46.3667,-79.9167,Canada,CA,CAN,Ontario,,14364.0,1124000026
+Strathmore,Strathmore,51.0378,-113.4003,Canada,CA,CAN,Alberta,,14339.0,1124000881
+High River,High River,50.5808,-113.8744,Canada,CA,CAN,Alberta,,14324.0,1124607825
+Clearview,Clearview,44.3981,-80.0742,Canada,CA,CAN,Ontario,,14151.0,1124000053
+Lachute,Lachute,45.65,-74.3333,Canada,CA,CAN,Quebec,,14100.0,1124217062
+Rosemère,Rosemere,45.6369,-73.8,Canada,CA,CAN,Quebec,,14090.0,1124741055
+Matane,Matane,48.85,-67.5333,Canada,CA,CAN,Quebec,,13987.0,1124528318
+Thames Centre,Thames Centre,43.03,-81.08,Canada,CA,CAN,Ontario,,13980.0,1124000993
+Powell River,Powell River,49.8353,-124.5247,Canada,CA,CAN,British Columbia,,13943.0,1124154376
+Carleton Place,Carleton Place,45.1333,-76.1333,Canada,CA,CAN,Ontario,,13940.0,1124676010
+Guelph/Eramosa,Guelph/Eramosa,43.63,-80.22,Canada,CA,CAN,Ontario,,13904.0,1124001707
+Grand Falls,Grand Falls,48.9578,-55.6633,Canada,CA,CAN,Newfoundland and Labrador,,13853.0,1124068277
+North Battleford,North Battleford,52.7575,-108.2861,Canada,CA,CAN,Saskatchewan,,13836.0,1124789635
+Mont-Laurier,Mont-Laurier,46.55,-75.5,Canada,CA,CAN,Quebec,,13779.0,1124355399
+Central Elgin,Central Elgin,42.7667,-81.1,Canada,CA,CAN,Ontario,,13746.0,1124000475
+Mistassini,Mistassini,48.8229,-72.2154,Canada,CA,CAN,Quebec,,13718.0,1124980171
+Saugeen Shores,Saugeen Shores,44.4333,-81.3667,Canada,CA,CAN,Ontario,,13715.0,1124000488
+Ingersoll,Ingersoll,43.0392,-80.8836,Canada,CA,CAN,Ontario,,13693.0,1124716784
+Beauharnois,Beauharnois,45.32,-73.87,Canada,CA,CAN,Quebec,,13638.0,1124880971
+Rockland,Rockland,45.5459,-75.2836,Canada,CA,CAN,Ontario,,13625.0,1124529064
+South Stormont,South Stormont,45.0833,-74.9667,Canada,CA,CAN,Ontario,,13570.0,1124001793
+Bécancour,Becancour,46.3333,-72.4333,Canada,CA,CAN,Quebec,,13561.0,1124242297
+Severn,Severn,44.75,-79.5167,Canada,CA,CAN,Ontario,,13477.0,1124489890
+Lacombe,Lacombe,52.4683,-113.7369,Canada,CA,CAN,Alberta,,13396.0,1124057569
+Sainte-Sophie,Sainte-Sophie,45.82,-73.9,Canada,CA,CAN,Quebec,,13375.0,1124001574
+Port-Alfred,Port-Alfred,48.3333,-70.8833,Canada,CA,CAN,Quebec,,13350.0,1124108942
+Val-des-Monts,Val-des-Monts,45.65,-75.6667,Canada,CA,CAN,Quebec,,13328.0,1124001051
+Beamsville,Beamsville,43.171,-79.4767,Canada,CA,CAN,Ontario,,13323.0,1124672291
+Saint-Amable,Saint-Amable,45.65,-73.3,Canada,CA,CAN,Quebec,,13322.0,1124000904
+Portage La Prairie,Portage La Prairie,49.9728,-98.2919,Canada,CA,CAN,Manitoba,,13270.0,1124282782
+South Glengarry,South Glengarry,45.2,-74.5833,Canada,CA,CAN,Ontario,,13150.0,1124001506
+Sainte-Marie,Sainte-Marie,46.45,-71.0333,Canada,CA,CAN,Quebec,,13134.0,1124650507
+North Perth,North Perth,43.73,-80.95,Canada,CA,CAN,Ontario,,13130.0,1124000749
+Thompson,Thompson,55.7433,-97.8553,Canada,CA,CAN,Manitoba,,13035.0,1124110693
+Trent Hills,Trent Hills,44.3142,-77.8514,Canada,CA,CAN,Ontario,,12900.0,1124001755
+Trail,Trail,49.095,-117.71,Canada,CA,CAN,British Columbia,,12863.0,1124817036
+The Nation / La Nation,The Nation / La Nation,45.35,-75.0333,Canada,CA,CAN,Ontario,,12808.0,1124001243
+Amos,Amos,48.5667,-78.1167,Canada,CA,CAN,Quebec,,12675.0,1124939649
+Wetaskiwin,Wetaskiwin,52.9694,-113.3769,Canada,CA,CAN,Alberta,,12594.0,1124492484
+West Grey,West Grey,44.1833,-80.8167,Canada,CA,CAN,Ontario,,12518.0,1124000272
+Warman,Warman,52.3219,-106.5842,Canada,CA,CAN,Saskatchewan,,12419.0,1124688931
+Sydney Mines,Sydney Mines,46.2333,-60.2167,Canada,CA,CAN,Nova Scotia,,12353.0,1124524156
+Dawson Creek,Dawson Creek,55.7606,-120.2356,Canada,CA,CAN,British Columbia,,12323.0,1124081402
+Sidney,Sidney,48.6506,-123.3986,Canada,CA,CAN,British Columbia,,12318.0,1124421362
+Gravenhurst,Gravenhurst,44.9167,-79.3667,Canada,CA,CAN,Ontario,,12311.0,1124842372
+Prince Rupert,Prince Rupert,54.3122,-130.3271,Canada,CA,CAN,British Columbia,,12300.0,1124847707
+Perth East,Perth East,43.47,-80.95,Canada,CA,CAN,Ontario,,12261.0,1124001760
+North Saanich,North Saanich,48.6142,-123.42,Canada,CA,CAN,British Columbia,,12235.0,1124000779
+Caledonia,Caledonia,43.0773,-79.9514,Canada,CA,CAN,Ontario,,12179.0,1124198315
+Prévost,Prevost,45.87,-74.08,Canada,CA,CAN,Quebec,,12171.0,1124001584
+Sainte-Adèle,Sainte-Adele,45.95,-74.13,Canada,CA,CAN,Quebec,,12137.0,1124439200
+Sainte-Agathe-des-Monts,Sainte-Agathe-des-Monts,46.05,-74.28,Canada,CA,CAN,Quebec,,12136.0,1124041166
+Quesnel,Quesnel,52.9784,-122.4927,Canada,CA,CAN,British Columbia,,12110.0,1124028015
+Les Îles-de-la-Madeleine,Les Iles-de-la-Madeleine,47.3833,-61.8667,Canada,CA,CAN,Quebec,,12010.0,1124000721
+Taché,Tache,49.7081,-96.6736,Canada,CA,CAN,Manitoba,,11916.0,1124000169
+Wellington North,Wellington North,43.9,-80.57,Canada,CA,CAN,Ontario,,11914.0,1124001997
+St. Andrews,St. Andrews,50.27,-96.9747,Canada,CA,CAN,Manitoba,,11913.0,1124001672
+Williams Lake,Williams Lake,52.1294,-122.1383,Canada,CA,CAN,British Columbia,,11906.0,1124821980
+Gander,Gander,48.9569,-54.6089,Canada,CA,CAN,Newfoundland and Labrador,,11880.0,1124310517
+Whistler,Whistler,50.1208,-122.9544,Canada,CA,CAN,British Columbia,,11854.0,1124001562
+Brighton,Brighton,44.1222,-77.7642,Canada,CA,CAN,Ontario,,11844.0,1124672085
+Tiny,Tiny,44.6833,-79.95,Canada,CA,CAN,Ontario,,11787.0,1124000103
+Hawkesbury,Hawkesbury,45.6,-74.6,Canada,CA,CAN,Ontario,,11755.0,1124065659
+Carignan,Carignan,45.45,-73.3,Canada,CA,CAN,Quebec,,11740.0,1124001655
+Brock,Brock,44.3167,-79.0833,Canada,CA,CAN,Ontario,,11642.0,1124001106
+L’Île-Perrot,L'Ile-Perrot,45.3833,-73.95,Canada,CA,CAN,Quebec,,11638.0,1124063001
+Summerland,Summerland,49.6006,-119.6778,Canada,CA,CAN,British Columbia,,11615.0,1124400731
+Chatham,Chatham,47.0443,-65.3781,Canada,CA,CAN,New Brunswick,,11594.0,1124155559
+St. Clements,St. Clements,50.2689,-96.6742,Canada,CA,CAN,Manitoba,,11586.0,1124000566
+View Royal,View Royal,48.4517,-123.4339,Canada,CA,CAN,British Columbia,,11575.0,1124001985
+Montmagny,Montmagny,46.9833,-70.55,Canada,CA,CAN,Quebec,,11491.0,1124025705
+Cantley,Cantley,45.5667,-75.7833,Canada,CA,CAN,Quebec,,11449.0,1124000263
+Erin,Erin,43.7667,-80.0667,Canada,CA,CAN,Ontario,,11439.0,1124418313
+Notre-Dame-de-l'Île-Perrot,Notre-Dame-de-l'Ile-Perrot,45.3667,-73.9333,Canada,CA,CAN,Quebec,,11427.0,1124001191
+Kincardine,Kincardine,44.1667,-81.6333,Canada,CA,CAN,Ontario,,11389.0,1124781881
+Elliot Lake,Elliot Lake,46.3833,-82.65,Canada,CA,CAN,Ontario,,11372.0,1124793448
+Bromont,Bromont,45.3167,-72.65,Canada,CA,CAN,Quebec,,11357.0,1124286457
+Arnprior,Arnprior,45.4333,-76.35,Canada,CA,CAN,Ontario,,11305.0,1124700031
+North Dundas,North Dundas,45.0833,-75.35,Canada,CA,CAN,Ontario,,11278.0,1124000474
+Wellesley,Wellesley,43.55,-80.7167,Canada,CA,CAN,Ontario,,11260.0,1124590159
+Nelson,Nelson,49.5,-117.2833,Canada,CA,CAN,British Columbia,,11198.0,1124361295
+Ladysmith,Ladysmith,48.9975,-123.8203,Canada,CA,CAN,British Columbia,,11194.0,1124872385
+Coldstream,Coldstream,50.22,-119.2481,Canada,CA,CAN,British Columbia,,11171.0,1124000216
+Hauterive,Hauterive,49.1833,-68.2667,Canada,CA,CAN,Quebec,,11147.0,1124727529
+Georgian Bluffs,Georgian Bluffs,44.65,-81.0333,Canada,CA,CAN,Ontario,,11100.0,1124001470
+Weyburn,Weyburn,49.6611,-103.8525,Canada,CA,CAN,Saskatchewan,,11019.0,1124618383
+La Tuque,La Tuque,48.0652,-74.0528,Canada,CA,CAN,Quebec,,11001.0,1124000430
+Norwich,Norwich,42.9833,-80.6,Canada,CA,CAN,Ontario,,11001.0,1124219807
+Meaford,Meaford,44.58,-80.73,Canada,CA,CAN,Ontario,,10991.0,1124445257
+Adjala-Tosorontio,Adjala-Tosorontio,44.1333,-79.9333,Canada,CA,CAN,Ontario,,10975.0,1124000498
+Hamilton Township,Hamilton Township,44.054,-78.2164,Canada,CA,CAN,Ontario,,10942.0,1124000994
+Stratford,Stratford,46.2167,-63.0893,Canada,CA,CAN,Prince Edward Island,,10927.0,1124001331
+Estevan,Estevan,49.1392,-102.9861,Canada,CA,CAN,Saskatchewan,,10851.0,1124416742
+Dolbeau,Dolbeau,48.8666,-72.2333,Canada,CA,CAN,Quebec,,10849.0,1124037070
+South Dundas,South Dundas,44.9167,-75.2667,Canada,CA,CAN,Ontario,,10833.0,1124001404
+Binbrook,Binbrook,43.122,-79.805,Canada,CA,CAN,Ontario,,10791.0,1124589628
+Elmira,Elmira,43.5996,-80.5604,Canada,CA,CAN,Ontario,,10790.0,1124652334
+Lambton Shores,Lambton Shores,43.1833,-81.9,Canada,CA,CAN,Ontario,,10631.0,1124001891
+North Dumfries,North Dumfries,43.32,-80.38,Canada,CA,CAN,Ontario,,10619.0,1124000802
+Martensville,Martensville,52.2897,-106.6667,Canada,CA,CAN,Saskatchewan,,10549.0,1124000654
+Mapleton,Mapleton,43.7358,-80.6681,Canada,CA,CAN,Ontario,,10527.0,1124000835
+Rawdon,Rawdon,46.05,-73.7167,Canada,CA,CAN,Quebec,,10416.0,1124084263
+Morinville,Morinville,53.8022,-113.6497,Canada,CA,CAN,Alberta,,10385.0,1124322535
+Wallaceburg,Wallaceburg,42.5984,-82.3916,Canada,CA,CAN,Ontario,,10323.0,1124916797
+Blackfalds,Blackfalds,52.3833,-113.8,Canada,CA,CAN,Alberta,,10315.0,1124056144
+Chester,Chester,44.65,-64.3,Canada,CA,CAN,Nova Scotia,,10310.0,1124772236
+Queens,Queens,44.0333,-64.7167,Canada,CA,CAN,Nova Scotia,,10307.0,1124001652
+Selkirk,Selkirk,50.1436,-96.8839,Canada,CA,CAN,Manitoba,,10278.0,1124499880
+Saint-Félicien,Saint-Felicien,48.65,-72.45,Canada,CA,CAN,Quebec,,10278.0,1124555496
+Roberval,Roberval,48.52,-72.23,Canada,CA,CAN,Quebec,,10227.0,1124395055
+Rideau Lakes,Rideau Lakes,44.6667,-76.2167,Canada,CA,CAN,Ontario,,10207.0,1124000369
+Sechelt,Sechelt,49.4742,-123.7542,Canada,CA,CAN,British Columbia,,10200.0,1124845591
+Bois-des-Filion,Bois-des-Filion,45.6667,-73.75,Canada,CA,CAN,Quebec,,10159.0,1124978470
+North Glengarry,North Glengarry,45.3333,-74.7333,Canada,CA,CAN,Ontario,,10109.0,1124000836
+South Huron,South Huron,43.32,-81.5,Canada,CA,CAN,Ontario,,10096.0,1124000910
+Marieville,Marieville,45.4333,-73.1667,Canada,CA,CAN,Quebec,,10094.0,1124834229
+Penetanguishene,Penetanguishene,44.7667,-79.9333,Canada,CA,CAN,Ontario,,10077.0,1124304117
+Tay,Tay,44.7167,-79.7667,Canada,CA,CAN,Ontario,,10033.0,1124001057
+Castlegar,Castlegar,49.3256,-117.6661,Canada,CA,CAN,British Columbia,,10029.0,1124379972
+Cavan Monaghan,Cavan Monaghan,44.2,-78.4667,Canada,CA,CAN,Ontario,,10016.0,1124001281
+Morden,Morden,49.1919,-98.1006,Canada,CA,CAN,Manitoba,,9929.0,1124327817
+Temiskaming Shores,Temiskaming Shores,47.5167,-79.6833,Canada,CA,CAN,Ontario,,9920.0,1124001880
+Hinton,Hinton,53.4114,-117.5639,Canada,CA,CAN,Alberta,,9882.0,1124131074
+Saint-Sauveur,Saint-Sauveur,45.9,-74.17,Canada,CA,CAN,Quebec,,9881.0,1124720935
+Grey Highlands,Grey Highlands,44.3333,-80.5,Canada,CA,CAN,Ontario,,9804.0,1124000119
+East St. Paul,East St. Paul,49.9772,-97.0103,Canada,CA,CAN,Manitoba,,9725.0,1124000695
+Stoneham-et-Tewkesbury,Stoneham-et-Tewkesbury,47.1667,-71.4333,Canada,CA,CAN,Quebec,,9682.0,1124000439
+Alfred and Plantagenet,Alfred and Plantagenet,45.5667,-74.9167,Canada,CA,CAN,Ontario,,9680.0,1124001813
+Mont-Tremblant,Mont-Tremblant,46.1167,-74.6,Canada,CA,CAN,Quebec,,9646.0,1124041173
+Port Elgin,Port Elgin,44.4333,-81.3833,Canada,CA,CAN,Ontario,,9619.0,1124651350
+Saint-Zotique,Saint-Zotique,45.25,-74.25,Canada,CA,CAN,Quebec,,9618.0,1124170824
+Saint-Raymond,Saint-Raymond,46.9,-71.8333,Canada,CA,CAN,Quebec,,9615.0,1124162305
+Tottenham,Tottenham,44.0238,-79.8045,Canada,CA,CAN,Ontario,,9609.0,1124399104
+Gibsons,Gibsons,49.4028,-123.5036,Canada,CA,CAN,British Columbia,,9603.0,1124342069
+Port Perry,Port Perry,44.1,-78.9333,Canada,CA,CAN,Ontario,,9553.0,1124565089
+Amherst,Amherst,45.8167,-64.2167,Canada,CA,CAN,Nova Scotia,,9548.0,1124895094
+Elizabethtown-Kitley,Elizabethtown-Kitley,44.7,-75.8833,Canada,CA,CAN,Ontario,,9545.0,1124001450
+Listowel,Listowel,43.7351,-80.9533,Canada,CA,CAN,Ontario,,9539.0,1124679629
+Crystal Beach,Crystal Beach,42.8661,-79.0624,Canada,CA,CAN,Ontario,,9531.0,1124189754
+Smiths Falls,Smiths Falls,44.9,-76.0167,Canada,CA,CAN,Ontario,,9517.0,1124233827
+Lorraine,Lorraine,45.6833,-73.7833,Canada,CA,CAN,Quebec,,9502.0,1124001859
+Ramara,Ramara,44.6333,-79.2167,Canada,CA,CAN,Ontario,,9488.0,1124000641
+Notre-Dame-des-Prairies,Notre-Dame-des-Prairies,46.05,-73.4333,Canada,CA,CAN,Quebec,,9471.0,1124001393
+Leeds and the Thousand Islands,Leeds and the Thousand Islands,44.45,-76.08,Canada,CA,CAN,Ontario,,9465.0,1124000531
+Brockton,Brockton,44.1667,-81.2167,Canada,CA,CAN,Ontario,,9461.0,1124000713
+Laurentian Valley,Laurentian Valley,45.7681,-77.2239,Canada,CA,CAN,Ontario,,9450.0,1124000736
+Mono,Mono,44.0167,-80.0667,Canada,CA,CAN,Ontario,,9421.0,1124001904
+Acton,Acton,43.6333,-80.0333,Canada,CA,CAN,Ontario,,9377.0,1124804037
+Sainte-Julienne,Sainte-Julienne,45.97,-73.72,Canada,CA,CAN,Quebec,,9331.0,1124086540
+Qualicum Beach,Qualicum Beach,49.35,-124.4333,Canada,CA,CAN,British Columbia,,9303.0,1124822520
+Malahide,Malahide,42.7928,-80.9361,Canada,CA,CAN,Ontario,,9292.0,1124001777
+Oromocto,Oromocto,45.8488,-66.4788,Canada,CA,CAN,New Brunswick,,9223.0,1124928183
+Whitecourt,Whitecourt,54.1417,-115.6833,Canada,CA,CAN,Alberta,,9195.0,1124641551
+Olds,Olds,51.7928,-114.1067,Canada,CA,CAN,Alberta,,9184.0,1124330412
+Huron East,Huron East,43.63,-81.28,Canada,CA,CAN,Ontario,,9138.0,1124000724
+Beckwith,Beckwith,45.0833,-76.0667,Canada,CA,CAN,Ontario,,9021.0,1124000163
+Labrador City,Labrador City,52.95,-66.9167,Canada,CA,CAN,Newfoundland and Labrador,,9011.0,1124000773
+Shelburne,Shelburne,44.0833,-80.2,Canada,CA,CAN,Ontario,,8989.0,1124470888
+Stanley,Stanley,49.1331,-98.0656,Canada,CA,CAN,Manitoba,,8981.0,1124001503
+Taber,Taber,49.7847,-112.1508,Canada,CA,CAN,Alberta,,8978.0,1124113583
+Donnacona,Donnacona,46.6747,-71.7294,Canada,CA,CAN,Quebec,,8952.0,1124002794
+Corman Park No. 344,Corman Park No. 344,52.2291,-106.8002,Canada,CA,CAN,Saskatchewan,,8909.0,1124000077
+L’Epiphanie,L'Epiphanie,45.8483,-73.5061,Canada,CA,CAN,Quebec,,8883.0,1124599436
+West Perth,West Perth,43.47,-81.2,Canada,CA,CAN,Ontario,,8865.0,1124001056
+Campbellton,Campbellton,48.005,-66.6731,Canada,CA,CAN,New Brunswick,,8833.0,1124336512
+Bridgewater,Bridgewater,44.37,-64.52,Canada,CA,CAN,Nova Scotia,,8790.0,1124736310
+Coaldale,Coaldale,49.7333,-112.6167,Canada,CA,CAN,Alberta,,8771.0,1124989507
+Pont-Rouge,Pont-Rouge,46.75,-71.7,Canada,CA,CAN,Quebec,,8723.0,1124608325
+Champlain,Champlain,45.5333,-74.65,Canada,CA,CAN,Ontario,,8706.0,1124000537
+Coaticook,Coaticook,45.1333,-71.8,Canada,CA,CAN,Quebec,,8698.0,1124454176
+Embrun,Embrun,45.2735,-75.292,Canada,CA,CAN,Ontario,,8680.0,1124211385
+Minto,Minto,43.9167,-80.8667,Canada,CA,CAN,Ontario,,8671.0,1124000198
+La Pêche,La Peche,45.6833,-75.9833,Canada,CA,CAN,Quebec,,8636.0,1124001249
+Shediac,Shediac,46.2167,-64.5333,Canada,CA,CAN,New Brunswick,,8563.0,1124770042
+Iqaluit,Iqaluit,63.7598,-68.5107,Canada,CA,CAN,Nunavut,admin,7740.0,1124379539
+Toronto,Toronto,43.7417,-79.3733,Canada,CA,CAN,Ontario,admin,5647656.0,1124279679
+Montréal,Montreal,45.5089,-73.5617,Canada,CA,CAN,Quebec,,3675219.0,1124586170
+Vancouver,Vancouver,49.25,-123.1,Canada,CA,CAN,British Columbia,,2426160.0,1124825478
+Calgary,Calgary,51.05,-114.0667,Canada,CA,CAN,Alberta,,1306784.0,1124690423
+Edmonton,Edmonton,53.5344,-113.4903,Canada,CA,CAN,Alberta,admin,1151635.0,1124290735
+Ottawa,Ottawa,45.4247,-75.695,Canada,CA,CAN,Ontario,primary,1068821.0,1124399363
+Winnipeg,Winnipeg,49.8844,-97.1464,Canada,CA,CAN,Manitoba,admin,758515.0,1124224963
+Quebec City,Quebec City,46.8139,-71.2081,Canada,CA,CAN,Quebec,admin,733156.0,1124823933
+Hamilton,Hamilton,43.2567,-79.8692,Canada,CA,CAN,Ontario,,729560.0,1124567288
+Mississauga,Mississauga,43.6,-79.65,Canada,CA,CAN,Ontario,,717961.0,1124112672
+Brampton,Brampton,43.6833,-79.7667,Canada,CA,CAN,Ontario,,656480.0,1124625989
+Surrey,Surrey,49.19,-122.8489,Canada,CA,CAN,British Columbia,,568322.0,1124001454
+Kitchener,Kitchener,43.4186,-80.4728,Canada,CA,CAN,Ontario,,522888.0,1124158530
+Halifax,Halifax,44.6475,-63.5906,Canada,CA,CAN,Nova Scotia,admin,439819.0,1124130981
+Laval,Laval,45.5833,-73.75,Canada,CA,CAN,Quebec,,438366.0,1124922301
+London,London,42.9836,-81.2497,Canada,CA,CAN,Ontario,,423369.0,1124469960
+Victoria,Victoria,48.4283,-123.3647,Canada,CA,CAN,British Columbia,admin,363222.0,1124147219
+Markham,Markham,43.8767,-79.2633,Canada,CA,CAN,Ontario,,338503.0,1124272698
+Oshawa,Oshawa,43.9,-78.85,Canada,CA,CAN,Ontario,,335949.0,1124541904
+Vaughan,Vaughan,43.8333,-79.5,Canada,CA,CAN,Ontario,,323103.0,1124000141
+Windsor,Windsor,42.2833,-83.0,Canada,CA,CAN,Ontario,,306519.0,1124261024
+Gatineau,Gatineau,45.4833,-75.65,Canada,CA,CAN,Quebec,,291041.0,1124722129
+Saskatoon,Saskatoon,52.1333,-106.6833,Canada,CA,CAN,Saskatchewan,,266141.0,1124612546
+Longueuil,Longueuil,45.5333,-73.5167,Canada,CA,CAN,Quebec,,254483.0,1124122753
+Burnaby,Burnaby,49.2667,-122.9667,Canada,CA,CAN,British Columbia,,249125.0,1124817304
+St. Catharines,St. Catharines,43.1833,-79.2333,Canada,CA,CAN,Ontario,,242460.0,1124140229
+Regina,Regina,50.4547,-104.6067,Canada,CA,CAN,Saskatchewan,admin,226404.0,1124342541
+Oakville,Oakville,43.45,-79.6833,Canada,CA,CAN,Ontario,,213759.0,1124080468
+Richmond,Richmond,49.1667,-123.1333,Canada,CA,CAN,British Columbia,,209937.0,1124121940
+Richmond Hill,Richmond Hill,43.8667,-79.4333,Canada,CA,CAN,Ontario,,202022.0,1124364273
+Burlington,Burlington,43.3167,-79.8,Canada,CA,CAN,Ontario,,186948.0,1124955083
+St. John's,St. John's,47.4817,-52.7971,Canada,CA,CAN,Newfoundland and Labrador,admin,185565.0,1124741456
+Kelowna,Kelowna,49.8881,-119.4956,Canada,CA,CAN,British Columbia,,181380.0,1124080626
+Sherbrooke,Sherbrooke,45.4,-71.9,Canada,CA,CAN,Quebec,,172950.0,1124559506
+Sudbury,Sudbury,46.49,-81.01,Canada,CA,CAN,Ontario,,166004.0,1124539524
+Barrie,Barrie,44.3711,-79.6769,Canada,CA,CAN,Ontario,,154676.0,1124340223
+Abbotsford,Abbotsford,49.05,-122.3167,Canada,CA,CAN,British Columbia,,153524.0,1124808029
+Lévis,Levis,46.8,-71.1833,Canada,CA,CAN,Quebec,,149683.0,1124958950
+Coquitlam,Coquitlam,49.2839,-122.7919,Canada,CA,CAN,British Columbia,,148625.0,1124000500
+Saguenay,Saguenay,48.4167,-71.0667,Canada,CA,CAN,Quebec,,144723.0,1124001930
+Guelph,Guelph,43.55,-80.25,Canada,CA,CAN,Ontario,,144356.0,1124968815
+Trois-Rivières,Trois-Rivieres,46.35,-72.55,Canada,CA,CAN,Quebec,,139163.0,1124407487
+Whitby,Whitby,43.8833,-78.9417,Canada,CA,CAN,Ontario,,138501.0,1124112077
+Cambridge,Cambridge,43.3972,-80.3114,Canada,CA,CAN,Ontario,,138479.0,1124113576
+Kanata,Kanata,45.3333,-75.9,Canada,CA,CAN,Ontario,,137118.0,1124008510
+Milton,Milton,43.5083,-79.8833,Canada,CA,CAN,Ontario,,132979.0,1124001426
+Kingston,Kingston,44.3128,-76.4553,Canada,CA,CAN,Ontario,,132485.0,1124298601
+Ajax,Ajax,43.8583,-79.0364,Canada,CA,CAN,Ontario,,126666.0,1124382916
+Waterloo,Waterloo,43.4667,-80.5167,Canada,CA,CAN,Ontario,,121436.0,1124321390
+Terrebonne,Terrebonne,45.7,-73.6333,Canada,CA,CAN,Quebec,,119944.0,1124993674
+Moncton,Moncton,46.1328,-64.7714,Canada,CA,CAN,New Brunswick,,119785.0,1124521303
+Saanich,Saanich,48.484,-123.381,Canada,CA,CAN,British Columbia,,117735.0,1124000949
+White Rock,White Rock,49.025,-122.8028,Canada,CA,CAN,British Columbia,,109167.0,1124260555
+Thunder Bay,Thunder Bay,48.3822,-89.2461,Canada,CA,CAN,Ontario,,108843.0,1124398712
+Delta,Delta,49.0847,-123.0586,Canada,CA,CAN,British Columbia,,108455.0,1124001200
+Nanaimo,Nanaimo,49.1642,-123.9364,Canada,CA,CAN,British Columbia,,106079.0,1124623893
+Brantford,Brantford,43.1667,-80.25,Canada,CA,CAN,Ontario,,104688.0,1124737006
+Chatham,Chatham,42.4229,-82.1324,Canada,CA,CAN,Ontario,,103988.0,1124393373
+Chicoutimi,Chicoutimi,48.4333,-71.0667,Canada,CA,CAN,Quebec,,103934.0,1124426272
+Clarington,Clarington,43.935,-78.6083,Canada,CA,CAN,Ontario,,101427.0,1124000882
+Saint-Jérôme,Saint-Jerome,45.7833,-74.0,Canada,CA,CAN,Quebec,,100859.0,1124268324
+Red Deer,Red Deer,52.2681,-113.8111,Canada,CA,CAN,Alberta,,100844.0,1124404130
+Pickering,Pickering,43.8354,-79.089,Canada,CA,CAN,Ontario,,99186.0,1124781814
+Lethbridge,Lethbridge,49.6942,-112.8328,Canada,CA,CAN,Alberta,,98406.0,1124321200
+Kamloops,Kamloops,50.6761,-120.3408,Canada,CA,CAN,British Columbia,,97902.0,1124735582
+Saint-Jean-sur-Richelieu,Saint-Jean-sur-Richelieu,45.3167,-73.2667,Canada,CA,CAN,Quebec,,97873.0,1124278447
+Niagara Falls,Niagara Falls,43.06,-79.1067,Canada,CA,CAN,Ontario,,94415.0,1124704011
+Cape Breton,Cape Breton,46.1389,-60.1931,Canada,CA,CAN,Nova Scotia,,93694.0,1124000383
+Chilliwack,Chilliwack,49.1577,-121.9509,Canada,CA,CAN,British Columbia,,93203.0,1124531262
+Brossard,Brossard,45.4667,-73.45,Canada,CA,CAN,Quebec,,91525.0,1124655166
+Maple Ridge,Maple Ridge,49.2167,-122.6,Canada,CA,CAN,British Columbia,,90990.0,1124001699
+Newmarket,Newmarket,44.05,-79.4667,Canada,CA,CAN,Ontario,,87942.0,1124400266
+Repentigny,Repentigny,45.7333,-73.4667,Canada,CA,CAN,Quebec,,86100.0,1124379778
+Peterborough,Peterborough,44.3,-78.3167,Canada,CA,CAN,Ontario,,84793.0,1124440356
+Drummondville,Drummondville,45.8833,-72.4833,Canada,CA,CAN,Quebec,,79258.0,1124624283
+Kawartha Lakes,Kawartha Lakes,44.35,-78.75,Canada,CA,CAN,Ontario,,79247.0,1124000852
+New Westminster,New Westminster,49.2069,-122.9111,Canada,CA,CAN,British Columbia,,78916.0,1124196524
+Prince George,Prince George,53.9169,-122.7494,Canada,CA,CAN,British Columbia,,76708.0,1124733292
+Caledon,Caledon,43.8667,-79.8667,Canada,CA,CAN,Ontario,,76581.0,1124070007
+Châteauguay,Chateauguay,45.38,-73.75,Canada,CA,CAN,Quebec,,75891.0,1124437897
+Belleville,Belleville,44.1667,-77.3833,Canada,CA,CAN,Ontario,,75052.0,1124786959
+Airdrie,Airdrie,51.2917,-114.0144,Canada,CA,CAN,Alberta,,74100.0,1124990202
+Sarnia,Sarnia,42.9994,-82.3089,Canada,CA,CAN,Ontario,,73944.0,1124509835
+Wood Buffalo,Wood Buffalo,57.6042,-111.3284,Canada,CA,CAN,Alberta,,72326.0,1124001123
+Sault Ste. Marie,Sault Ste. Marie,46.5333,-84.35,Canada,CA,CAN,Ontario,,72051.0,1124810690
+Saint John,Saint John,45.2806,-66.0761,Canada,CA,CAN,New Brunswick,,69895.0,1124631364
+Welland,Welland,42.9833,-79.2333,Canada,CA,CAN,Ontario,,69302.0,1124745616
+Granby,Granby,45.4,-72.7333,Canada,CA,CAN,Quebec,,69025.0,1124502071
+St. Albert,St. Albert,53.6303,-113.6258,Canada,CA,CAN,Alberta,,68232.0,1124850754
+Fort McMurray,Fort McMurray,56.7333,-111.3833,Canada,CA,CAN,Alberta,,68002.0,1124169385
+Fredericton,Fredericton,45.9636,-66.6431,Canada,CA,CAN,New Brunswick,admin,64614.0,1124061289
+Grande Prairie,Grande Prairie,55.1708,-118.7947,Canada,CA,CAN,Alberta,,64141.0,1124505481
+Medicine Hat,Medicine Hat,50.0417,-110.6775,Canada,CA,CAN,Alberta,,63382.0,1124303972
+Halton Hills,Halton Hills,43.63,-79.95,Canada,CA,CAN,Ontario,,62951.0,1124000788
+Aurora,Aurora,44.0,-79.4667,Canada,CA,CAN,Ontario,,62057.0,1124085034
+Port Coquitlam,Port Coquitlam,49.2625,-122.7811,Canada,CA,CAN,British Columbia,,61498.0,1124473757
+Mirabel,Mirabel,45.65,-74.0833,Canada,CA,CAN,Quebec,,61108.0,1124182375
+Blainville,Blainville,45.67,-73.88,Canada,CA,CAN,Quebec,,59819.0,1124000623
+Lac-Brome,Lac-Brome,45.2167,-72.5167,Canada,CA,CAN,Quebec,,58889.0,1124000579
+North Vancouver,North Vancouver,49.3202,-123.0699,Canada,CA,CAN,British Columbia,,58120.0,1124000146
+Saint-Hyacinthe,Saint-Hyacinthe,45.6167,-72.95,Canada,CA,CAN,Quebec,,57239.0,1124010116
+Bowmanville,Bowmanville,43.9125,-78.6871,Canada,CA,CAN,Ontario,,56742.0,1124995265
+Beloeil,Beloeil,45.5667,-73.2,Canada,CA,CAN,Quebec,,52959.0,1124469084
+North Bay,North Bay,46.3,-79.45,Canada,CA,CAN,Ontario,,52662.0,1124058496
+Charlottetown,Charlottetown,46.2403,-63.1347,Canada,CA,CAN,Prince Edward Island,admin,52390.0,1124897699
+Vernon,Vernon,50.267,-119.272,Canada,CA,CAN,British Columbia,,51896.0,1124553338
+Brandon,Brandon,49.8483,-99.95,Canada,CA,CAN,Manitoba,,51313.0,1124239939
+Mascouche,Mascouche,45.75,-73.6,Canada,CA,CAN,Quebec,,51183.0,1124001580
+Stouffville,Stouffville,43.9667,-79.25,Canada,CA,CAN,Ontario,,49864.0,1124207594
+Shawinigan,Shawinigan,46.5667,-72.75,Canada,CA,CAN,Quebec,,49620.0,1124441118
+Joliette,Joliette,46.0167,-73.45,Canada,CA,CAN,Quebec,,49246.0,1124841554
+Rimouski,Rimouski,48.45,-68.53,Canada,CA,CAN,Quebec,,48935.0,1124433645
+Courtenay,Courtenay,49.6878,-124.9944,Canada,CA,CAN,British Columbia,,48917.0,1124324905
+Dollard-des-Ormeaux,Dollard-des-Ormeaux,45.4833,-73.8167,Canada,CA,CAN,Quebec,,48403.0,1124902278
+Cornwall,Cornwall,45.0275,-74.74,Canada,CA,CAN,Ontario,,47845.0,1124938303
+Victoriaville,Victoriaville,46.05,-71.9667,Canada,CA,CAN,Quebec,,47760.0,1124149787
+Georgina,Georgina,44.3,-79.4333,Canada,CA,CAN,Ontario,,47642.0,1124000048
+Woodstock,Woodstock,43.1306,-80.7467,Canada,CA,CAN,Ontario,,46705.0,1124758374
+Langford Station,Langford Station,48.4506,-123.5058,Canada,CA,CAN,British Columbia,,46584.0,1124095065
+Quinte West,Quinte West,44.1833,-77.5667,Canada,CA,CAN,Ontario,,46560.0,1124001037
+St. Thomas,St. Thomas,42.775,-81.1833,Canada,CA,CAN,Ontario,,45732.0,1124790209
+Saint-Eustache,Saint-Eustache,45.57,-73.9,Canada,CA,CAN,Quebec,,45276.0,1124758162
+West Vancouver,West Vancouver,49.3667,-123.1667,Canada,CA,CAN,British Columbia,,44122.0,1124001824
+Georgetown,Georgetown,43.6526,-79.9281,Canada,CA,CAN,Ontario,,44058.0,1124195031
+New Tecumseth,New Tecumseth,44.0833,-79.75,Canada,CA,CAN,Ontario,,43948.0,1124001571
+Innisfil,Innisfil,44.3,-79.5833,Canada,CA,CAN,Ontario,,43326.0,1124001408
+Vaudreuil-Dorion,Vaudreuil-Dorion,45.4,-74.0333,Canada,CA,CAN,Quebec,,43268.0,1124618618
+Bradford West Gwillimbury,Bradford West Gwillimbury,44.1333,-79.6333,Canada,CA,CAN,Ontario,,42880.0,1124001093
+Salaberry-de-Valleyfield,Salaberry-de-Valleyfield,45.25,-74.13,Canada,CA,CAN,Quebec,,42787.0,1124638758
+Rouyn-Noranda,Rouyn-Noranda,48.2333,-79.0167,Canada,CA,CAN,Quebec,,42313.0,1124267752
+Boucherville,Boucherville,45.6,-73.45,Canada,CA,CAN,Quebec,,41743.0,1124000296
+Mission,Mission,49.1337,-122.3112,Canada,CA,CAN,British Columbia,,41519.0,1124502601
+Timmins,Timmins,48.4667,-81.3333,Canada,CA,CAN,Ontario,,41145.0,1124760634
+Lakeshore,Lakeshore,42.2399,-82.6511,Canada,CA,CAN,Ontario,,40410.0,1124001501
+Brant,Brant,43.1167,-80.3667,Canada,CA,CAN,Ontario,,39474.0,1124000682
+Spruce Grove,Spruce Grove,53.545,-113.9008,Canada,CA,CAN,Alberta,,39348.0,1124943146
+Bradford,Bradford,44.1167,-79.5667,Canada,CA,CAN,Ontario,,38128.0,1124378317
+Campbell River,Campbell River,50.0244,-125.2475,Canada,CA,CAN,British Columbia,,38108.0,1124851971
+Prince Albert,Prince Albert,53.2,-105.75,Canada,CA,CAN,Saskatchewan,,37756.0,1124158154
+Penticton,Penticton,49.4911,-119.5886,Canada,CA,CAN,British Columbia,,36893.0,1124613898
+Sorel-Tracy,Sorel-Tracy,46.0333,-73.1167,Canada,CA,CAN,Quebec,,36650.0,1124000182
+East Kelowna,East Kelowna,49.8625,-119.5833,Canada,CA,CAN,British Columbia,,36078.0,1124070905
+Leamington,Leamington,42.0667,-82.5833,Canada,CA,CAN,Ontario,,35730.0,1124258797
+East Gwillimbury,East Gwillimbury,44.1333,-79.4167,Canada,CA,CAN,Ontario,,34637.0,1124001370
+Côte-Saint-Luc,Cote-Saint-Luc,45.4687,-73.6673,Canada,CA,CAN,Quebec,,34504.0,1124563603
+Orangeville,Orangeville,43.9167,-80.1167,Canada,CA,CAN,Ontario,,34177.0,1124566061
+Leduc,Leduc,53.2594,-113.5492,Canada,CA,CAN,Alberta,,34094.0,1124170853
+Moose Jaw,Moose Jaw,50.3933,-105.5519,Canada,CA,CAN,Saskatchewan,,33665.0,1124806868
+Port Moody,Port Moody,49.2831,-122.8317,Canada,CA,CAN,British Columbia,,33535.0,1124252668
+Pointe-Claire,Pointe-Claire,45.45,-73.8167,Canada,CA,CAN,Quebec,,33488.0,1124470650
+Orillia,Orillia,44.6,-79.4167,Canada,CA,CAN,Ontario,,33411.0,1124049830
+Stratford,Stratford,43.3708,-80.9819,Canada,CA,CAN,Ontario,,33232.0,1124676255
+Saint-Georges,Saint-Georges,46.0966,-70.6768,Canada,CA,CAN,Quebec,,32935.0,1124775858
+Fort Erie,Fort Erie,42.9167,-79.0167,Canada,CA,CAN,Ontario,,32901.0,1124516852
+Val-d’Or,Val-d'Or,48.1,-77.7833,Canada,CA,CAN,Quebec,,32752.0,1124239138
+LaSalle,LaSalle,42.2167,-83.0667,Canada,CA,CAN,Ontario,,32721.0,1124000988
+Cochrane,Cochrane,51.189,-114.467,Canada,CA,CAN,Alberta,,32199.0,1124952542
+North Cowichan,North Cowichan,48.8236,-123.7192,Canada,CA,CAN,British Columbia,,31990.0,1124000052
+Lloydminster,Lloydminster,53.2783,-110.005,Canada,CA,CAN,Saskatchewan,,31582.0,1124051728
+Chambly,Chambly,45.4311,-73.2873,Canada,CA,CAN,Quebec,,31444.0,1124345124
+Centre Wellington,Centre Wellington,43.7,-80.3667,Canada,CA,CAN,Ontario,,31093.0,1124000849
+Okotoks,Okotoks,50.725,-113.975,Canada,CA,CAN,Alberta,,30405.0,1124521470
+Alma,Alma,48.55,-71.65,Canada,CA,CAN,Quebec,,30331.0,1124138438
+Sainte-Julie,Sainte-Julie,45.5833,-73.3333,Canada,CA,CAN,Quebec,,30045.0,1124000521
+Saint-Constant,Saint-Constant,45.37,-73.57,Canada,CA,CAN,Quebec,,29954.0,1124000054
+Langley,Langley,49.0987,-122.6597,Canada,CA,CAN,British Columbia,,28963.0,1124000480
+Grimsby,Grimsby,43.2,-79.55,Canada,CA,CAN,Ontario,,28883.0,1124989517
+Magog,Magog,45.2667,-72.15,Canada,CA,CAN,Quebec,,28312.0,1124404849
+Boisbriand,Boisbriand,45.62,-73.83,Canada,CA,CAN,Quebec,,28308.0,1124001940
+Whitehorse,Whitehorse,60.7029,-135.0691,Canada,CA,CAN,Yukon,admin,28201.0,1124348186
+Dieppe,Dieppe,46.0989,-64.7242,Canada,CA,CAN,New Brunswick,,28114.0,1124195431
+King,King,44.0463,-79.6044,Canada,CA,CAN,Ontario,,27333.0,1124001693
+Parksville,Parksville,49.315,-124.312,Canada,CA,CAN,British Columbia,,27330.0,1124698963
+Conception Bay South,Conception Bay South,47.5167,-52.9833,Canada,CA,CAN,Newfoundland and Labrador,,27168.0,1124000563
+Keswick,Keswick,44.25,-79.4667,Canada,CA,CAN,Ontario,,27145.0,1124059829
+Fort Saskatchewan,Fort Saskatchewan,53.7128,-113.2133,Canada,CA,CAN,Alberta,,27088.0,1124769097
+Woolwich,Woolwich,43.5667,-80.4833,Canada,CA,CAN,Ontario,,26999.0,1124000096
+Bolton,Bolton,43.8833,-79.7333,Canada,CA,CAN,Ontario,,26795.0,1124208470
+Sainte-Thérèse,Sainte-Therese,45.6333,-73.85,Canada,CA,CAN,Quebec,,26533.0,1124190411
+Clarence-Rockland,Clarence-Rockland,45.4833,-75.2,Canada,CA,CAN,Ontario,,26505.0,1124000639
+La Prairie,La Prairie,45.42,-73.5,Canada,CA,CAN,Quebec,,26406.0,1124956496
+Saint-Bruno-de-Montarville,Saint-Bruno-de-Montarville,45.5333,-73.35,Canada,CA,CAN,Quebec,,26273.0,1124286783
+Midland,Midland,44.75,-79.8833,Canada,CA,CAN,Ontario,,26246.0,1124104490
+Thetford Mines,Thetford Mines,46.1,-71.3,Canada,CA,CAN,Quebec,,26072.0,1124032181
+Lincoln,Lincoln,43.13,-79.43,Canada,CA,CAN,Ontario,,25719.0,1124001767
+Quispamsis,Quispamsis,45.4322,-65.9462,Canada,CA,CAN,New Brunswick,,24881.0,1124000379
+Wasaga Beach,Wasaga Beach,44.5206,-80.0167,Canada,CA,CAN,Ontario,,24862.0,1124001919
+Collingwood,Collingwood,44.5,-80.2167,Canada,CA,CAN,Ontario,,24811.0,1124219884
+Sept-Îles,Sept-Iles,50.2167,-66.3833,Canada,CA,CAN,Quebec,,24569.0,1124406431
+Duncan,Duncan,48.7787,-123.7079,Canada,CA,CAN,British Columbia,,24358.0,1124316061
+Hudson,Hudson,45.45,-74.15,Canada,CA,CAN,Quebec,,24245.0,1124590540
+Saint-Lin--Laurentides,Saint-Lin--Laurentides,45.85,-73.7667,Canada,CA,CAN,Quebec,,24030.0,1124906585
+Tsawwassen,Tsawwassen,49.0436,-123.0985,Canada,CA,CAN,British Columbia,,23940.0,1124987555
+Strathroy-Caradoc,Strathroy-Caradoc,42.9575,-81.6167,Canada,CA,CAN,Ontario,,23871.0,1124000831
+Squamish,Squamish,49.7017,-123.1589,Canada,CA,CAN,British Columbia,,23819.0,1124005958
+Thorold,Thorold,43.1167,-79.2,Canada,CA,CAN,Ontario,,23816.0,1124718251
+Truro,Truro,45.3647,-63.28,Canada,CA,CAN,Nova Scotia,,23583.0,1124952899
+Amherstburg,Amherstburg,42.1,-83.0833,Canada,CA,CAN,Ontario,,23524.0,1124696938
+L’Assomption,L'Assomption,45.8333,-73.4167,Canada,CA,CAN,Quebec,,23442.0,1124500862
+Tecumseh,Tecumseh,42.2431,-82.9256,Canada,CA,CAN,Ontario,,23300.0,1124720869
+Alliston,Alliston,44.15,-79.8667,Canada,CA,CAN,Ontario,,23253.0,1124831787
+Fergus,Fergus,43.707,-80.3777,Canada,CA,CAN,Ontario,,23209.0,1124116076
+Ladner,Ladner,49.0833,-123.0833,Canada,CA,CAN,British Columbia,,23016.0,1124098513
+Candiac,Candiac,45.38,-73.52,Canada,CA,CAN,Quebec,,22997.0,1124457982
+Essa,Essa,44.25,-79.7833,Canada,CA,CAN,Ontario,,22970.0,1124001569
+Paradise,Paradise,47.5333,-52.8667,Canada,CA,CAN,Newfoundland and Labrador,,22957.0,1124001159
+Saint-Lambert,Saint-Lambert,45.5,-73.5167,Canada,CA,CAN,Quebec,,22761.0,1124174363
+Mount Pearl Park,Mount Pearl Park,47.5189,-52.8058,Canada,CA,CAN,Newfoundland and Labrador,,22477.0,1124869949
+Lindsay,Lindsay,44.35,-78.7333,Canada,CA,CAN,Ontario,,22367.0,1124031696
+Saint-Lazare,Saint-Lazare,45.4,-74.1333,Canada,CA,CAN,Quebec,,22354.0,1124000613
+Owen Sound,Owen Sound,44.5667,-80.9333,Canada,CA,CAN,Ontario,,22318.0,1124623613
+Brockville,Brockville,44.5833,-75.6833,Canada,CA,CAN,Ontario,,22293.0,1124286131
+Chestermere,Chestermere,51.05,-113.8225,Canada,CA,CAN,Alberta,,22163.0,1124000371
+Kingsville,Kingsville,42.1,-82.7167,Canada,CA,CAN,Ontario,,22119.0,1124616034
+Port Alberni,Port Alberni,49.2339,-124.805,Canada,CA,CAN,British Columbia,,21711.0,1124952808
+Springwater,Springwater,44.4333,-79.7333,Canada,CA,CAN,Ontario,,21701.0,1124001298
+Scugog,Scugog,44.09,-78.936,Canada,CA,CAN,Ontario,,21617.0,1124000741
+Uxbridge,Uxbridge,44.1167,-79.1333,Canada,CA,CAN,Ontario,,21556.0,1124829638
+Fort St. John,Fort St. John,56.2465,-120.8476,Canada,CA,CAN,British Columbia,,21465.0,1124517495
+Wilmot,Wilmot,43.4,-80.65,Canada,CA,CAN,Ontario,,21429.0,1124001797
+Essex,Essex,42.0833,-82.9,Canada,CA,CAN,Ontario,,21216.0,1124628052
+Varennes,Varennes,45.6833,-73.4333,Canada,CA,CAN,Quebec,,21198.0,1124232101
+Oro-Medonte,Oro-Medonte,44.5667,-79.5833,Canada,CA,CAN,Ontario,,21036.0,1124001350
+Mont-Royal,Mont-Royal,45.5161,-73.6431,Canada,CA,CAN,Quebec,,20953.0,1124001920
+Beaumont,Beaumont,53.3572,-113.4147,Canada,CA,CAN,Alberta,,20888.0,1124001210
+Baie-Comeau,Baie-Comeau,49.2167,-68.15,Canada,CA,CAN,Quebec,,20687.0,1124859576
+Riverview,Riverview,46.0613,-64.8052,Canada,CA,CAN,New Brunswick,,20584.0,1124000112
+Cobourg,Cobourg,43.9667,-78.1667,Canada,CA,CAN,Ontario,,20519.0,1124831257
+Cranbrook,Cranbrook,49.5097,-115.7667,Canada,CA,CAN,British Columbia,,20499.0,1124937794
+Yellowknife,Yellowknife,62.4709,-114.4053,Canada,CA,CAN,Northwest Territories,admin,20340.0,1124208917
+South Frontenac,South Frontenac,44.5081,-76.4939,Canada,CA,CAN,Ontario,,20188.0,1124000063
+Rivière-du-Loup,Riviere-du-Loup,47.8333,-69.5333,Canada,CA,CAN,Quebec,,20118.0,1124662123
+Port Colborne,Port Colborne,42.8833,-79.25,Canada,CA,CAN,Ontario,,20033.0,1124274319
+Saint-Augustin-de-Desmaures,Saint-Augustin-de-Desmaures,46.7333,-71.4667,Canada,CA,CAN,Quebec,,19907.0,1124000358
+Huntsville,Huntsville,45.3333,-79.2167,Canada,CA,CAN,Ontario,,19816.0,1124961145
+Sainte-Marthe-sur-le-Lac,Sainte-Marthe-sur-le-Lac,45.53,-73.93,Canada,CA,CAN,Quebec,,19797.0,1124001153
+Lloydminster,Lloydminster,53.2807,-110.035,Canada,CA,CAN,Alberta,,19739.0,1124000858
+Westmount,Westmount,45.4833,-73.6,Canada,CA,CAN,Quebec,,19658.0,1124878078
+Russell,Russell,45.2569,-75.3583,Canada,CA,CAN,Ontario,,19598.0,1124982538
+Les Coteaux,Les Coteaux,45.28,-74.23,Canada,CA,CAN,Quebec,,19582.0,1124001989
+Salmon Arm,Salmon Arm,50.7022,-119.2722,Canada,CA,CAN,British Columbia,,19432.0,1124478865
+Kirkland,Kirkland,45.45,-73.8667,Canada,CA,CAN,Quebec,,19413.0,1124000941
+Corner Brook,Corner Brook,48.9287,-57.926,Canada,CA,CAN,Newfoundland and Labrador,,19333.0,1124244792
+New Glasgow,New Glasgow,45.5926,-62.6455,Canada,CA,CAN,Nova Scotia,,19316.0,1124760188
+Dorval,Dorval,45.45,-73.75,Canada,CA,CAN,Quebec,,19302.0,1124933556
+Beaconsfield,Beaconsfield,45.4333,-73.8667,Canada,CA,CAN,Quebec,,19277.0,1124755118
+Pitt Meadows,Pitt Meadows,49.2333,-122.6833,Canada,CA,CAN,British Columbia,,19146.0,1124786902
+Niagara-on-the-Lake,Niagara-on-the-Lake,43.2553,-79.0717,Canada,CA,CAN,Ontario,,19088.0,1124366228
+Colwood,Colwood,48.4236,-123.4958,Canada,CA,CAN,British Columbia,,18961.0,1124000395
+Middlesex Centre,Middlesex Centre,43.05,-81.45,Canada,CA,CAN,Ontario,,18928.0,1124001841
+Mont-Saint-Hilaire,Mont-Saint-Hilaire,45.5622,-73.1917,Canada,CA,CAN,Quebec,,18859.0,1124333461
+Camrose,Camrose,53.0167,-112.8333,Canada,CA,CAN,Alberta,,18772.0,1124351657
+Selwyn,Selwyn,44.4167,-78.3333,Canada,CA,CAN,Ontario,,18653.0,1124000937
+Tillsonburg,Tillsonburg,42.8667,-80.7333,Canada,CA,CAN,Ontario,,18615.0,1124817746
+Pelham,Pelham,43.0333,-79.3333,Canada,CA,CAN,Ontario,,18192.0,1124000042
+Petawawa,Petawawa,45.9,-77.2833,Canada,CA,CAN,Ontario,,18160.0,1124206291
+Stony Plain,Stony Plain,53.5264,-114.0069,Canada,CA,CAN,Alberta,,17993.0,1124982081
+Oak Bay,Oak Bay,48.4264,-123.3228,Canada,CA,CAN,British Columbia,,17990.0,1124761730
+North Grenville,North Grenville,44.9667,-75.65,Canada,CA,CAN,Ontario,,17964.0,1124000746
+Loyalist,Loyalist,44.25,-76.75,Canada,CA,CAN,Ontario,,17943.0,1124001145
+Deux-Montagnes,Deux-Montagnes,45.5333,-73.8833,Canada,CA,CAN,Quebec,,17915.0,1124980214
+Steinbach,Steinbach,49.5258,-96.6839,Canada,CA,CAN,Manitoba,,17806.0,1124152692
+Saint-Colomban,Saint-Colomban,45.73,-74.13,Canada,CA,CAN,Quebec,,17740.0,1124001676
+Miramichi,Miramichi,47.0196,-65.5072,Canada,CA,CAN,New Brunswick,,17692.0,1124714190
+Esquimalt,Esquimalt,48.4306,-123.4147,Canada,CA,CAN,British Columbia,,17533.0,1124990218
+Buckingham,Buckingham,45.5889,-75.4164,Canada,CA,CAN,Quebec,,17407.0,1124482800
+Central Saanich,Central Saanich,48.5142,-123.3839,Canada,CA,CAN,British Columbia,,17385.0,1124000519
+Sainte-Catherine,Sainte-Catherine,45.4,-73.58,Canada,CA,CAN,Quebec,,17347.0,1124941451
+Port Hope,Port Hope,43.95,-78.3,Canada,CA,CAN,Ontario,,17294.0,1124105292
+Inverness,Inverness,46.2,-61.1,Canada,CA,CAN,Nova Scotia,,17235.0,1124840965
+Saint-Basile-le-Grand,Saint-Basile-le-Grand,45.5333,-73.2833,Canada,CA,CAN,Quebec,,17053.0,1124000968
+L’Ancienne-Lorette,L'Ancienne-Lorette,46.8,-71.35,Canada,CA,CAN,Quebec,,16970.0,1124580674
+Glace Bay,Glace Bay,46.2,-59.9667,Canada,CA,CAN,Nova Scotia,,16915.0,1124283186
+Swift Current,Swift Current,50.2881,-107.7939,Canada,CA,CAN,Saskatchewan,,16750.0,1124460875
+Pembroke,Pembroke,45.8167,-77.1,Canada,CA,CAN,Ontario,,16571.0,1124877940
+Edmundston,Edmundston,47.3765,-68.3253,Canada,CA,CAN,New Brunswick,,16437.0,1124274233
+Yorkton,Yorkton,51.2139,-102.4628,Canada,CA,CAN,Saskatchewan,,16280.0,1124108820
+Springfield,Springfield,49.9292,-96.6939,Canada,CA,CAN,Manitoba,,16142.0,1124000696
+Sylvan Lake,Sylvan Lake,52.3083,-114.0964,Canada,CA,CAN,Alberta,,16142.0,1124397940
+Simcoe,Simcoe,42.8376,-80.3073,Canada,CA,CAN,Ontario,,16121.0,1124000018
+Strathroy,Strathroy,42.9558,-81.6226,Canada,CA,CAN,Ontario,,16056.0,1124990299
+Bracebridge,Bracebridge,45.0333,-79.3,Canada,CA,CAN,Ontario,,16010.0,1124793645
+Summerside,Summerside,46.4,-63.7833,Canada,CA,CAN,Prince Edward Island,,16001.0,1124487102
+Canmore,Canmore,51.089,-115.359,Canada,CA,CAN,Alberta,,15990.0,1124688642
+Bathurst,Bathurst,47.62,-65.65,Canada,CA,CAN,New Brunswick,,15985.0,1124816720
+Greater Napanee,Greater Napanee,44.25,-76.95,Canada,CA,CAN,Ontario,,15892.0,1124001319
+Lake Country,Lake Country,50.0833,-119.4142,Canada,CA,CAN,British Columbia,,15817.0,1124001544
+Laurentides,Laurentides,45.85,-73.7667,Canada,CA,CAN,Quebec,,15768.0,1124093347
+Hanover,Hanover,49.4433,-96.8492,Canada,CA,CAN,Manitoba,,15733.0,1124001704
+Winkler,Winkler,49.1817,-97.9397,Canada,CA,CAN,Manitoba,,15335.0,1124205424
+Saint-Charles-Borromée,Saint-Charles-Borromee,46.05,-73.4667,Canada,CA,CAN,Quebec,,15285.0,1124000877
+Cowansville,Cowansville,45.2,-72.75,Canada,CA,CAN,Quebec,,15234.0,1124357421
+Sainte-Anne-des-Plaines,Sainte-Anne-des-Plaines,45.7617,-73.8204,Canada,CA,CAN,Quebec,,15221.0,1124304532
+Gaspé,Gaspe,48.8333,-64.4833,Canada,CA,CAN,Quebec,,15163.0,1124212754
+Sooke,Sooke,48.3761,-123.7378,Canada,CA,CAN,British Columbia,,15086.0,1124034713
+Kenora,Kenora,49.7667,-94.4833,Canada,CA,CAN,Ontario,,14967.0,1124844807
+Cold Lake,Cold Lake,54.4642,-110.1825,Canada,CA,CAN,Alberta,,14961.0,1124089461
+Paris,Paris,43.2,-80.3833,Canada,CA,CAN,Ontario,,14956.0,1124828151
+Brooks,Brooks,50.5642,-111.8989,Canada,CA,CAN,Alberta,,14924.0,1124093123
+Kentville,Kentville,45.0775,-64.4958,Canada,CA,CAN,Nova Scotia,,14905.0,1124530137
+Comox,Comox,49.6733,-124.9022,Canada,CA,CAN,British Columbia,,14806.0,1124788300
+Pincourt,Pincourt,45.3833,-73.9833,Canada,CA,CAN,Quebec,,14751.0,1124637966
+Mississippi Mills,Mississippi Mills,45.2167,-76.2,Canada,CA,CAN,Ontario,,14740.0,1124001617
+St. Clair,St. Clair,42.7833,-82.35,Canada,CA,CAN,Ontario,,14659.0,1124000228
+Terrace,Terrace,54.5164,-128.5997,Canada,CA,CAN,British Columbia,,14633.0,1124878479
+Mercier,Mercier,45.32,-73.75,Canada,CA,CAN,Quebec,,14626.0,1124186621
+Angus,Angus,44.3167,-79.8833,Canada,CA,CAN,Ontario,,14503.0,1124760864
+West Lincoln,West Lincoln,43.0667,-79.5667,Canada,CA,CAN,Ontario,,14500.0,1124001460
+Lavaltrie,Lavaltrie,45.8833,-73.2833,Canada,CA,CAN,Quebec,,14425.0,1124818327
+New Hamburg,New Hamburg,43.3808,-80.7062,Canada,CA,CAN,Ontario,,14379.0,1124075072
+West Nipissing / Nipissing Ouest,West Nipissing / Nipissing Ouest,46.3667,-79.9167,Canada,CA,CAN,Ontario,,14364.0,1124000026
+Strathmore,Strathmore,51.0378,-113.4003,Canada,CA,CAN,Alberta,,14339.0,1124000881
+High River,High River,50.5808,-113.8744,Canada,CA,CAN,Alberta,,14324.0,1124607825
+Clearview,Clearview,44.3981,-80.0742,Canada,CA,CAN,Ontario,,14151.0,1124000053
+Lachute,Lachute,45.65,-74.3333,Canada,CA,CAN,Quebec,,14100.0,1124217062
+Rosemère,Rosemere,45.6369,-73.8,Canada,CA,CAN,Quebec,,14090.0,1124741055
+Matane,Matane,48.85,-67.5333,Canada,CA,CAN,Quebec,,13987.0,1124528318
+Thames Centre,Thames Centre,43.03,-81.08,Canada,CA,CAN,Ontario,,13980.0,1124000993
+Powell River,Powell River,49.8353,-124.5247,Canada,CA,CAN,British Columbia,,13943.0,1124154376
+Carleton Place,Carleton Place,45.1333,-76.1333,Canada,CA,CAN,Ontario,,13940.0,1124676010
+Guelph/Eramosa,Guelph/Eramosa,43.63,-80.22,Canada,CA,CAN,Ontario,,13904.0,1124001707
+Grand Falls,Grand Falls,48.9578,-55.6633,Canada,CA,CAN,Newfoundland and Labrador,,13853.0,1124068277
+North Battleford,North Battleford,52.7575,-108.2861,Canada,CA,CAN,Saskatchewan,,13836.0,1124789635
+Mont-Laurier,Mont-Laurier,46.55,-75.5,Canada,CA,CAN,Quebec,,13779.0,1124355399
+Central Elgin,Central Elgin,42.7667,-81.1,Canada,CA,CAN,Ontario,,13746.0,1124000475
+Mistassini,Mistassini,48.8229,-72.2154,Canada,CA,CAN,Quebec,,13718.0,1124980171
+Saugeen Shores,Saugeen Shores,44.4333,-81.3667,Canada,CA,CAN,Ontario,,13715.0,1124000488
+Ingersoll,Ingersoll,43.0392,-80.8836,Canada,CA,CAN,Ontario,,13693.0,1124716784
+Beauharnois,Beauharnois,45.32,-73.87,Canada,CA,CAN,Quebec,,13638.0,1124880971
+Rockland,Rockland,45.5459,-75.2836,Canada,CA,CAN,Ontario,,13625.0,1124529064
+South Stormont,South Stormont,45.0833,-74.9667,Canada,CA,CAN,Ontario,,13570.0,1124001793
+Bécancour,Becancour,46.3333,-72.4333,Canada,CA,CAN,Quebec,,13561.0,1124242297
+Severn,Severn,44.75,-79.5167,Canada,CA,CAN,Ontario,,13477.0,1124489890
+Lacombe,Lacombe,52.4683,-113.7369,Canada,CA,CAN,Alberta,,13396.0,1124057569
+Sainte-Sophie,Sainte-Sophie,45.82,-73.9,Canada,CA,CAN,Quebec,,13375.0,1124001574
+Port-Alfred,Port-Alfred,48.3333,-70.8833,Canada,CA,CAN,Quebec,,13350.0,1124108942
+Val-des-Monts,Val-des-Monts,45.65,-75.6667,Canada,CA,CAN,Quebec,,13328.0,1124001051
+Beamsville,Beamsville,43.171,-79.4767,Canada,CA,CAN,Ontario,,13323.0,1124672291
+Saint-Amable,Saint-Amable,45.65,-73.3,Canada,CA,CAN,Quebec,,13322.0,1124000904
+Portage La Prairie,Portage La Prairie,49.9728,-98.2919,Canada,CA,CAN,Manitoba,,13270.0,1124282782
+South Glengarry,South Glengarry,45.2,-74.5833,Canada,CA,CAN,Ontario,,13150.0,1124001506
+Sainte-Marie,Sainte-Marie,46.45,-71.0333,Canada,CA,CAN,Quebec,,13134.0,1124650507
+North Perth,North Perth,43.73,-80.95,Canada,CA,CAN,Ontario,,13130.0,1124000749
+Thompson,Thompson,55.7433,-97.8553,Canada,CA,CAN,Manitoba,,13035.0,1124110693
+Trent Hills,Trent Hills,44.3142,-77.8514,Canada,CA,CAN,Ontario,,12900.0,1124001755
+Trail,Trail,49.095,-117.71,Canada,CA,CAN,British Columbia,,12863.0,1124817036
+The Nation / La Nation,The Nation / La Nation,45.35,-75.0333,Canada,CA,CAN,Ontario,,12808.0,1124001243
+Amos,Amos,48.5667,-78.1167,Canada,CA,CAN,Quebec,,12675.0,1124939649
+Wetaskiwin,Wetaskiwin,52.9694,-113.3769,Canada,CA,CAN,Alberta,,12594.0,1124492484
+West Grey,West Grey,44.1833,-80.8167,Canada,CA,CAN,Ontario,,12518.0,1124000272
+Warman,Warman,52.3219,-106.5842,Canada,CA,CAN,Saskatchewan,,12419.0,1124688931
+Sydney Mines,Sydney Mines,46.2333,-60.2167,Canada,CA,CAN,Nova Scotia,,12353.0,1124524156
+Dawson Creek,Dawson Creek,55.7606,-120.2356,Canada,CA,CAN,British Columbia,,12323.0,1124081402
+Sidney,Sidney,48.6506,-123.3986,Canada,CA,CAN,British Columbia,,12318.0,1124421362
+Gravenhurst,Gravenhurst,44.9167,-79.3667,Canada,CA,CAN,Ontario,,12311.0,1124842372
+Prince Rupert,Prince Rupert,54.3122,-130.3271,Canada,CA,CAN,British Columbia,,12300.0,1124847707
+Perth East,Perth East,43.47,-80.95,Canada,CA,CAN,Ontario,,12261.0,1124001760
+North Saanich,North Saanich,48.6142,-123.42,Canada,CA,CAN,British Columbia,,12235.0,1124000779
+Caledonia,Caledonia,43.0773,-79.9514,Canada,CA,CAN,Ontario,,12179.0,1124198315
+Prévost,Prevost,45.87,-74.08,Canada,CA,CAN,Quebec,,12171.0,1124001584
+Sainte-Adèle,Sainte-Adele,45.95,-74.13,Canada,CA,CAN,Quebec,,12137.0,1124439200
+Sainte-Agathe-des-Monts,Sainte-Agathe-des-Monts,46.05,-74.28,Canada,CA,CAN,Quebec,,12136.0,1124041166
+Quesnel,Quesnel,52.9784,-122.4927,Canada,CA,CAN,British Columbia,,12110.0,1124028015
+Les Îles-de-la-Madeleine,Les Iles-de-la-Madeleine,47.3833,-61.8667,Canada,CA,CAN,Quebec,,12010.0,1124000721
+Taché,Tache,49.7081,-96.6736,Canada,CA,CAN,Manitoba,,11916.0,1124000169
+Wellington North,Wellington North,43.9,-80.57,Canada,CA,CAN,Ontario,,11914.0,1124001997
+St. Andrews,St. Andrews,50.27,-96.9747,Canada,CA,CAN,Manitoba,,11913.0,1124001672
+Williams Lake,Williams Lake,52.1294,-122.1383,Canada,CA,CAN,British Columbia,,11906.0,1124821980
+Gander,Gander,48.9569,-54.6089,Canada,CA,CAN,Newfoundland and Labrador,,11880.0,1124310517
+Whistler,Whistler,50.1208,-122.9544,Canada,CA,CAN,British Columbia,,11854.0,1124001562
+Brighton,Brighton,44.1222,-77.7642,Canada,CA,CAN,Ontario,,11844.0,1124672085
+Tiny,Tiny,44.6833,-79.95,Canada,CA,CAN,Ontario,,11787.0,1124000103
+Hawkesbury,Hawkesbury,45.6,-74.6,Canada,CA,CAN,Ontario,,11755.0,1124065659
+Carignan,Carignan,45.45,-73.3,Canada,CA,CAN,Quebec,,11740.0,1124001655
+Brock,Brock,44.3167,-79.0833,Canada,CA,CAN,Ontario,,11642.0,1124001106
+L’Île-Perrot,L'Ile-Perrot,45.3833,-73.95,Canada,CA,CAN,Quebec,,11638.0,1124063001
+Summerland,Summerland,49.6006,-119.6778,Canada,CA,CAN,British Columbia,,11615.0,1124400731
+Chatham,Chatham,47.0443,-65.3781,Canada,CA,CAN,New Brunswick,,11594.0,1124155559
+St. Clements,St. Clements,50.2689,-96.6742,Canada,CA,CAN,Manitoba,,11586.0,1124000566
+View Royal,View Royal,48.4517,-123.4339,Canada,CA,CAN,British Columbia,,11575.0,1124001985
+Montmagny,Montmagny,46.9833,-70.55,Canada,CA,CAN,Quebec,,11491.0,1124025705
+Cantley,Cantley,45.5667,-75.7833,Canada,CA,CAN,Quebec,,11449.0,1124000263
+Erin,Erin,43.7667,-80.0667,Canada,CA,CAN,Ontario,,11439.0,1124418313
+Notre-Dame-de-l'Île-Perrot,Notre-Dame-de-l'Ile-Perrot,45.3667,-73.9333,Canada,CA,CAN,Quebec,,11427.0,1124001191
+Kincardine,Kincardine,44.1667,-81.6333,Canada,CA,CAN,Ontario,,11389.0,1124781881
+Elliot Lake,Elliot Lake,46.3833,-82.65,Canada,CA,CAN,Ontario,,11372.0,1124793448
+Bromont,Bromont,45.3167,-72.65,Canada,CA,CAN,Quebec,,11357.0,1124286457
+Arnprior,Arnprior,45.4333,-76.35,Canada,CA,CAN,Ontario,,11305.0,1124700031
+North Dundas,North Dundas,45.0833,-75.35,Canada,CA,CAN,Ontario,,11278.0,1124000474
+Wellesley,Wellesley,43.55,-80.7167,Canada,CA,CAN,Ontario,,11260.0,1124590159
+Nelson,Nelson,49.5,-117.2833,Canada,CA,CAN,British Columbia,,11198.0,1124361295
+Ladysmith,Ladysmith,48.9975,-123.8203,Canada,CA,CAN,British Columbia,,11194.0,1124872385
+Coldstream,Coldstream,50.22,-119.2481,Canada,CA,CAN,British Columbia,,11171.0,1124000216
+Hauterive,Hauterive,49.1833,-68.2667,Canada,CA,CAN,Quebec,,11147.0,1124727529
+Georgian Bluffs,Georgian Bluffs,44.65,-81.0333,Canada,CA,CAN,Ontario,,11100.0,1124001470
+Weyburn,Weyburn,49.6611,-103.8525,Canada,CA,CAN,Saskatchewan,,11019.0,1124618383
+La Tuque,La Tuque,48.0652,-74.0528,Canada,CA,CAN,Quebec,,11001.0,1124000430
+Norwich,Norwich,42.9833,-80.6,Canada,CA,CAN,Ontario,,11001.0,1124219807
+Meaford,Meaford,44.58,-80.73,Canada,CA,CAN,Ontario,,10991.0,1124445257
+Adjala-Tosorontio,Adjala-Tosorontio,44.1333,-79.9333,Canada,CA,CAN,Ontario,,10975.0,1124000498
+Hamilton Township,Hamilton Township,44.054,-78.2164,Canada,CA,CAN,Ontario,,10942.0,1124000994
+Stratford,Stratford,46.2167,-63.0893,Canada,CA,CAN,Prince Edward Island,,10927.0,1124001331
+Estevan,Estevan,49.1392,-102.9861,Canada,CA,CAN,Saskatchewan,,10851.0,1124416742
+Dolbeau,Dolbeau,48.8666,-72.2333,Canada,CA,CAN,Quebec,,10849.0,1124037070
+South Dundas,South Dundas,44.9167,-75.2667,Canada,CA,CAN,Ontario,,10833.0,1124001404
+Binbrook,Binbrook,43.122,-79.805,Canada,CA,CAN,Ontario,,10791.0,1124589628
+Elmira,Elmira,43.5996,-80.5604,Canada,CA,CAN,Ontario,,10790.0,1124652334
+Lambton Shores,Lambton Shores,43.1833,-81.9,Canada,CA,CAN,Ontario,,10631.0,1124001891
+North Dumfries,North Dumfries,43.32,-80.38,Canada,CA,CAN,Ontario,,10619.0,1124000802
+Martensville,Martensville,52.2897,-106.6667,Canada,CA,CAN,Saskatchewan,,10549.0,1124000654
+Mapleton,Mapleton,43.7358,-80.6681,Canada,CA,CAN,Ontario,,10527.0,1124000835
+Rawdon,Rawdon,46.05,-73.7167,Canada,CA,CAN,Quebec,,10416.0,1124084263
+Morinville,Morinville,53.8022,-113.6497,Canada,CA,CAN,Alberta,,10385.0,1124322535
+Wallaceburg,Wallaceburg,42.5984,-82.3916,Canada,CA,CAN,Ontario,,10323.0,1124916797
+Blackfalds,Blackfalds,52.3833,-113.8,Canada,CA,CAN,Alberta,,10315.0,1124056144
+Chester,Chester,44.65,-64.3,Canada,CA,CAN,Nova Scotia,,10310.0,1124772236
+Queens,Queens,44.0333,-64.7167,Canada,CA,CAN,Nova Scotia,,10307.0,1124001652
+Selkirk,Selkirk,50.1436,-96.8839,Canada,CA,CAN,Manitoba,,10278.0,1124499880
+Saint-Félicien,Saint-Felicien,48.65,-72.45,Canada,CA,CAN,Quebec,,10278.0,1124555496
+Roberval,Roberval,48.52,-72.23,Canada,CA,CAN,Quebec,,10227.0,1124395055
+Rideau Lakes,Rideau Lakes,44.6667,-76.2167,Canada,CA,CAN,Ontario,,10207.0,1124000369
+Sechelt,Sechelt,49.4742,-123.7542,Canada,CA,CAN,British Columbia,,10200.0,1124845591
+Bois-des-Filion,Bois-des-Filion,45.6667,-73.75,Canada,CA,CAN,Quebec,,10159.0,1124978470
+North Glengarry,North Glengarry,45.3333,-74.7333,Canada,CA,CAN,Ontario,,10109.0,1124000836
+South Huron,South Huron,43.32,-81.5,Canada,CA,CAN,Ontario,,10096.0,1124000910
+Marieville,Marieville,45.4333,-73.1667,Canada,CA,CAN,Quebec,,10094.0,1124834229
+Penetanguishene,Penetanguishene,44.7667,-79.9333,Canada,CA,CAN,Ontario,,10077.0,1124304117
+Tay,Tay,44.7167,-79.7667,Canada,CA,CAN,Ontario,,10033.0,1124001057
+Castlegar,Castlegar,49.3256,-117.6661,Canada,CA,CAN,British Columbia,,10029.0,1124379972
+Cavan Monaghan,Cavan Monaghan,44.2,-78.4667,Canada,CA,CAN,Ontario,,10016.0,1124001281
+Morden,Morden,49.1919,-98.1006,Canada,CA,CAN,Manitoba,,9929.0,1124327817
+Temiskaming Shores,Temiskaming Shores,47.5167,-79.6833,Canada,CA,CAN,Ontario,,9920.0,1124001880
+Hinton,Hinton,53.4114,-117.5639,Canada,CA,CAN,Alberta,,9882.0,1124131074
+Saint-Sauveur,Saint-Sauveur,45.9,-74.17,Canada,CA,CAN,Quebec,,9881.0,1124720935
+Grey Highlands,Grey Highlands,44.3333,-80.5,Canada,CA,CAN,Ontario,,9804.0,1124000119
+East St. Paul,East St. Paul,49.9772,-97.0103,Canada,CA,CAN,Manitoba,,9725.0,1124000695
+Stoneham-et-Tewkesbury,Stoneham-et-Tewkesbury,47.1667,-71.4333,Canada,CA,CAN,Quebec,,9682.0,1124000439
+Alfred and Plantagenet,Alfred and Plantagenet,45.5667,-74.9167,Canada,CA,CAN,Ontario,,9680.0,1124001813
+Mont-Tremblant,Mont-Tremblant,46.1167,-74.6,Canada,CA,CAN,Quebec,,9646.0,1124041173
+Port Elgin,Port Elgin,44.4333,-81.3833,Canada,CA,CAN,Ontario,,9619.0,1124651350
+Saint-Zotique,Saint-Zotique,45.25,-74.25,Canada,CA,CAN,Quebec,,9618.0,1124170824
+Saint-Raymond,Saint-Raymond,46.9,-71.8333,Canada,CA,CAN,Quebec,,9615.0,1124162305
+Tottenham,Tottenham,44.0238,-79.8045,Canada,CA,CAN,Ontario,,9609.0,1124399104
+Gibsons,Gibsons,49.4028,-123.5036,Canada,CA,CAN,British Columbia,,9603.0,1124342069
+Port Perry,Port Perry,44.1,-78.9333,Canada,CA,CAN,Ontario,,9553.0,1124565089
+Amherst,Amherst,45.8167,-64.2167,Canada,CA,CAN,Nova Scotia,,9548.0,1124895094
+Elizabethtown-Kitley,Elizabethtown-Kitley,44.7,-75.8833,Canada,CA,CAN,Ontario,,9545.0,1124001450
+Listowel,Listowel,43.7351,-80.9533,Canada,CA,CAN,Ontario,,9539.0,1124679629
+Crystal Beach,Crystal Beach,42.8661,-79.0624,Canada,CA,CAN,Ontario,,9531.0,1124189754
+Smiths Falls,Smiths Falls,44.9,-76.0167,Canada,CA,CAN,Ontario,,9517.0,1124233827
+Lorraine,Lorraine,45.6833,-73.7833,Canada,CA,CAN,Quebec,,9502.0,1124001859
+Ramara,Ramara,44.6333,-79.2167,Canada,CA,CAN,Ontario,,9488.0,1124000641
+Notre-Dame-des-Prairies,Notre-Dame-des-Prairies,46.05,-73.4333,Canada,CA,CAN,Quebec,,9471.0,1124001393
+Leeds and the Thousand Islands,Leeds and the Thousand Islands,44.45,-76.08,Canada,CA,CAN,Ontario,,9465.0,1124000531
+Brockton,Brockton,44.1667,-81.2167,Canada,CA,CAN,Ontario,,9461.0,1124000713
+Laurentian Valley,Laurentian Valley,45.7681,-77.2239,Canada,CA,CAN,Ontario,,9450.0,1124000736
+Mono,Mono,44.0167,-80.0667,Canada,CA,CAN,Ontario,,9421.0,1124001904
+Acton,Acton,43.6333,-80.0333,Canada,CA,CAN,Ontario,,9377.0,1124804037
+Sainte-Julienne,Sainte-Julienne,45.97,-73.72,Canada,CA,CAN,Quebec,,9331.0,1124086540
+Qualicum Beach,Qualicum Beach,49.35,-124.4333,Canada,CA,CAN,British Columbia,,9303.0,1124822520
+Malahide,Malahide,42.7928,-80.9361,Canada,CA,CAN,Ontario,,9292.0,1124001777
+Oromocto,Oromocto,45.8488,-66.4788,Canada,CA,CAN,New Brunswick,,9223.0,1124928183
+Whitecourt,Whitecourt,54.1417,-115.6833,Canada,CA,CAN,Alberta,,9195.0,1124641551
+Olds,Olds,51.7928,-114.1067,Canada,CA,CAN,Alberta,,9184.0,1124330412
+Huron East,Huron East,43.63,-81.28,Canada,CA,CAN,Ontario,,9138.0,1124000724
+Beckwith,Beckwith,45.0833,-76.0667,Canada,CA,CAN,Ontario,,9021.0,1124000163
+Labrador City,Labrador City,52.95,-66.9167,Canada,CA,CAN,Newfoundland and Labrador,,9011.0,1124000773
+Shelburne,Shelburne,44.0833,-80.2,Canada,CA,CAN,Ontario,,8989.0,1124470888
+Stanley,Stanley,49.1331,-98.0656,Canada,CA,CAN,Manitoba,,8981.0,1124001503
+Taber,Taber,49.7847,-112.1508,Canada,CA,CAN,Alberta,,8978.0,1124113583
+Donnacona,Donnacona,46.6747,-71.7294,Canada,CA,CAN,Quebec,,8952.0,1124002794
+Corman Park No. 344,Corman Park No. 344,52.2291,-106.8002,Canada,CA,CAN,Saskatchewan,,8909.0,1124000077
+L’Epiphanie,L'Epiphanie,45.8483,-73.5061,Canada,CA,CAN,Quebec,,8883.0,1124599436
+West Perth,West Perth,43.47,-81.2,Canada,CA,CAN,Ontario,,8865.0,1124001056
+Campbellton,Campbellton,48.005,-66.6731,Canada,CA,CAN,New Brunswick,,8833.0,1124336512
+Bridgewater,Bridgewater,44.37,-64.52,Canada,CA,CAN,Nova Scotia,,8790.0,1124736310
+Coaldale,Coaldale,49.7333,-112.6167,Canada,CA,CAN,Alberta,,8771.0,1124989507
+Pont-Rouge,Pont-Rouge,46.75,-71.7,Canada,CA,CAN,Quebec,,8723.0,1124608325
+Champlain,Champlain,45.5333,-74.65,Canada,CA,CAN,Ontario,,8706.0,1124000537
+Coaticook,Coaticook,45.1333,-71.8,Canada,CA,CAN,Quebec,,8698.0,1124454176
+Embrun,Embrun,45.2735,-75.292,Canada,CA,CAN,Ontario,,8680.0,1124211385
+Minto,Minto,43.9167,-80.8667,Canada,CA,CAN,Ontario,,8671.0,1124000198
+La Pêche,La Peche,45.6833,-75.9833,Canada,CA,CAN,Quebec,,8636.0,1124001249
+Shediac,Shediac,46.2167,-64.5333,Canada,CA,CAN,New Brunswick,,8563.0,1124770042
+Iqaluit,Iqaluit,63.7598,-68.5107,Canada,CA,CAN,Nunavut,admin,7740.0,1124379539

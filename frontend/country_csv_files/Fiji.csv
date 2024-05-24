@@ -1,0 +1,19 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Suva,Suva,-18.1416,178.4419,Fiji,FJ,FJI,Rewa,primary,185913.0,1242615095
+Nadi,Nadi,-17.8,177.4167,Fiji,FJ,FJI,Ba,,71048.0,1242357822
+Nausori,Nausori,-18.0244,178.5454,Fiji,FJ,FJI,Tailevu,,57882.0,1242640119
+Lautoka,Lautoka,-17.6242,177.4528,Fiji,FJ,FJI,Ba,,52220.0,1242457077
+Labasa,Labasa,-16.4311,179.3703,Fiji,FJ,FJI,Macuata,,27949.0,1242740801
+Lami,Lami,-18.1167,178.4167,Fiji,FJ,FJI,Rewa,,20529.0,1242263735
+Nakasi,Nakasi,-18.0667,178.5167,Fiji,FJ,FJI,Naitasiri,,18919.0,1242908509
+Ba,Ba,-17.5333,177.6833,Fiji,FJ,FJI,Ba,,18526.0,1242193764
+Sigatoka,Sigatoka,-18.1414,177.5069,Fiji,FJ,FJI,Nadroga and Navosa,,9622.0,1242813237
+Suva,Suva,-18.1416,178.4419,Fiji,FJ,FJI,Rewa,primary,185913.0,1242615095
+Nadi,Nadi,-17.8,177.4167,Fiji,FJ,FJI,Ba,,71048.0,1242357822
+Nausori,Nausori,-18.0244,178.5454,Fiji,FJ,FJI,Tailevu,,57882.0,1242640119
+Lautoka,Lautoka,-17.6242,177.4528,Fiji,FJ,FJI,Ba,,52220.0,1242457077
+Labasa,Labasa,-16.4311,179.3703,Fiji,FJ,FJI,Macuata,,27949.0,1242740801
+Lami,Lami,-18.1167,178.4167,Fiji,FJ,FJI,Rewa,,20529.0,1242263735
+Nakasi,Nakasi,-18.0667,178.5167,Fiji,FJ,FJI,Naitasiri,,18919.0,1242908509
+Ba,Ba,-17.5333,177.6833,Fiji,FJ,FJI,Ba,,18526.0,1242193764
+Sigatoka,Sigatoka,-18.1414,177.5069,Fiji,FJ,FJI,Nadroga and Navosa,,9622.0,1242813237

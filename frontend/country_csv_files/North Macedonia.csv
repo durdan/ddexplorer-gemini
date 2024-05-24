@@ -1,0 +1,143 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Skopje,Skopje,41.9961,21.4317,North Macedonia,MK,MKD,Skopje,primary,526502.0,1807600615
+Kumanovo,Kumanovo,42.1322,21.7144,North Macedonia,MK,MKD,Kumanovo,admin,70842.0,1807301219
+Bitola,Bitola,41.0319,21.3347,North Macedonia,MK,MKD,Bitola,admin,69287.0,1807488567
+Prilep,Prilep,41.3464,21.5542,North Macedonia,MK,MKD,Prilep,admin,63308.0,1807551778
+Tetovo,Tetovo,42.0103,20.9714,North Macedonia,MK,MKD,Tetovo,admin,63176.0,1807020286
+Štip,Stip,41.7358,22.1914,North Macedonia,MK,MKD,Štip,admin,42000.0,1807614061
+Veles,Veles,41.7153,21.7753,North Macedonia,MK,MKD,Veles,admin,40664.0,1807468155
+Ohrid,Ohrid,41.1169,20.8019,North Macedonia,MK,MKD,Ohrid,admin,38818.0,1807586875
+Strumica,Strumica,41.4375,22.6431,North Macedonia,MK,MKD,Strumica,admin,33825.0,1807799132
+Gostivar,Gostivar,41.8,20.9167,North Macedonia,MK,MKD,Gostivar,admin,32814.0,1807901060
+Kočani,Kocani,41.9167,22.4125,North Macedonia,MK,MKD,Kočani,admin,28330.0,1807422302
+Dračevo,Dracevo,41.9367,21.5217,North Macedonia,MK,MKD,Skopje,,19246.0,1807215833
+Struga,Struga,41.1775,20.6789,North Macedonia,MK,MKD,Struga,admin,15009.0,1807746682
+Debar,Debar,41.525,20.5272,North Macedonia,MK,MKD,Debar,admin,14561.0,1807621851
+Kriva Palanka,Kriva Palanka,42.2017,22.3317,North Macedonia,MK,MKD,Kriva Palanka,admin,13481.0,1807058849
+Negotino,Negotino,41.4839,22.0892,North Macedonia,MK,MKD,Negotino,admin,12488.0,1807848381
+Sveti Nikole,Sveti Nikole,41.865,21.9425,North Macedonia,MK,MKD,Sveti Nikole,admin,11728.0,1807880409
+Probištip,Probistip,41.9936,22.1767,North Macedonia,MK,MKD,Probištip,admin,10826.0,1807592969
+Delčevo,Delcevo,41.9661,22.7747,North Macedonia,MK,MKD,Delčevo,admin,9644.0,1807161783
+Vinica,Vinica,41.8828,22.5092,North Macedonia,MK,MKD,Vinica,admin,8584.0,1807665568
+Aračinovo,Aracinovo,42.0264,21.5617,North Macedonia,MK,MKD,Aračinovo,admin,7315.0,1807619539
+Kičevo,Kicevo,41.5142,20.9631,North Macedonia,MK,MKD,Kičevo,admin,7280.0,1807895120
+Kavadarci,Kavadarci,41.4328,22.0117,North Macedonia,MK,MKD,Kavadarci,admin,6228.0,1807183974
+Berovo,Berovo,41.7078,22.8564,North Macedonia,MK,MKD,Berovo,admin,5850.0,1807873177
+Kratovo,Kratovo,42.0783,22.175,North Macedonia,MK,MKD,Kratovo,admin,5401.0,1807262234
+Gevgelija,Gevgelija,41.1392,22.5025,North Macedonia,MK,MKD,Gevgelija,admin,4967.0,1807600399
+Vrapčište,Vrapciste,41.8337,20.8851,North Macedonia,MK,MKD,Vrapčište,admin,4874.0,1807187187
+Radoviš,Radovis,41.6381,22.4644,North Macedonia,MK,MKD,Radoviš,admin,4678.0,1807341711
+Kruševo,Krusevo,41.37,21.2483,North Macedonia,MK,MKD,Kruševo,admin,4104.0,1807741715
+Makedonski Brod,Makedonski Brod,41.5133,21.2153,North Macedonia,MK,MKD,Makedonski Brod,admin,3643.0,1807831162
+Demir Kapija,Demir Kapija,41.4114,22.2422,North Macedonia,MK,MKD,Demir Kapija,admin,3275.0,1807182004
+Tearce,Tearce,42.0775,21.0519,North Macedonia,MK,MKD,Tearce,admin,3038.0,1807139125
+Bogdanci,Bogdanci,41.2031,22.5728,North Macedonia,MK,MKD,Bogdanci,admin,2951.0,1807565779
+Rosoman,Rosoman,41.5161,21.9497,North Macedonia,MK,MKD,Rosoman,admin,2553.0,1807663389
+Demir Hisar,Demir Hisar,41.2208,21.2031,North Macedonia,MK,MKD,Demir Hisar,admin,2431.0,1807908017
+Vevčani,Vevcani,41.2403,20.5931,North Macedonia,MK,MKD,Vevčani,admin,2359.0,1807108428
+Gradsko,Gradsko,41.5775,21.9428,North Macedonia,MK,MKD,Gradsko,admin,2219.0,1807080471
+Valandovo,Valandovo,41.3169,22.5611,North Macedonia,MK,MKD,Valandovo,admin,1992.0,1807423601
+Krivogaštani,Krivogastani,41.3358,21.3331,North Macedonia,MK,MKD,Krivogaštani,admin,1870.0,1807293579
+Pehčevo,Pehcevo,41.7592,22.8906,North Macedonia,MK,MKD,Pehčevo,admin,1687.0,1807666030
+Plasnica,Plasnica,41.4667,21.1167,North Macedonia,MK,MKD,Plasnica,admin,1584.0,1807030257
+Zrnovci,Zrnovci,41.8542,22.4442,North Macedonia,MK,MKD,Zrnovci,admin,1534.0,1807046032
+Novaci,Novaci,41.0419,21.4561,North Macedonia,MK,MKD,Novaci,admin,1283.0,1807936735
+Bosilovo,Bosilovo,41.4406,22.7278,North Macedonia,MK,MKD,Bosilovo,admin,1273.0,1807868218
+Mogila,Mogila,41.1083,21.3786,North Macedonia,MK,MKD,Mogila,admin,1262.0,1807583335
+Novo Selo,Novo Selo,41.4128,22.88,North Macedonia,MK,MKD,Novo Selo,admin,1246.0,1807743098
+Konče,Konce,41.4958,22.3825,North Macedonia,MK,MKD,Konče,admin,915.0,1807382770
+Rostuša,Rostusa,41.61,20.6,North Macedonia,MK,MKD,Mavrovo i Rostuše,admin,872.0,1807907483
+Jegunovce,Jegunovce,42.0731,21.1231,North Macedonia,MK,MKD,Jegunovce,admin,846.0,1807040114
+Rankovce,Rankovce,42.1719,22.1167,North Macedonia,MK,MKD,Rankovce,admin,744.0,1807575395
+Sopište,Sopiste,41.95,21.4333,North Macedonia,MK,MKD,Sopište,admin,690.0,1807691189
+Obleševo,Oblesevo,41.8833,22.3339,North Macedonia,MK,MKD,Češinovo-Obleševo,admin,673.0,1807758244
+Vasilevo,Vasilevo,41.4758,22.6417,North Macedonia,MK,MKD,Vasilevo,admin,630.0,1807855424
+Karbinci,Karbinci,41.8167,22.2375,North Macedonia,MK,MKD,Karbinci,admin,574.0,1807568669
+Lozovo,Lozovo,41.7817,21.9025,North Macedonia,MK,MKD,Lozovo,admin,521.0,1807681577
+Staro Nagoričane,Staro Nagoricane,42.2,21.83,North Macedonia,MK,MKD,Staro Nagoričane,admin,493.0,1807782793
+Brvenica,Brvenica,41.9672,20.9808,North Macedonia,MK,MKD,Brvenica,admin,449.0,1807009322
+Centar Župa,Centar Zupa,41.4775,20.5578,North Macedonia,MK,MKD,Centar Župa,admin,354.0,1807323094
+Dolneni,Dolneni,41.4264,21.4536,North Macedonia,MK,MKD,Dolneni,admin,300.0,1807169470
+Belčišta,Belcista,41.3028,20.8303,North Macedonia,MK,MKD,Debarca,admin,297.0,1807953626
+Čučer-Sandevo,Cucer-Sandevo,42.0975,21.3877,North Macedonia,MK,MKD,Čučer-Sandevo,admin,274.0,1807969277
+Zelenikovo,Zelenikovo,41.8867,21.5869,North Macedonia,MK,MKD,Zelenikovo,admin,272.0,1807765797
+Petrovec,Petrovec,41.9389,21.615,North Macedonia,MK,MKD,Petrovec,admin,121.0,1807236473
+Star Dojran,Star Dojran,41.1865,22.7203,North Macedonia,MK,MKD,Dojran,admin,105.0,1807304153
+Želino,Zelino,41.9794,21.0619,North Macedonia,MK,MKD,Želino,admin,105.0,1807040075
+Studeničani,Studenicani,41.9158,21.5306,North Macedonia,MK,MKD,Studeničani,admin,59.0,1807047160
+Bogovinje,Bogovinje,41.9233,20.9133,North Macedonia,MK,MKD,Bogovinje,admin,25.0,1807279534
+Lipkovo,Lipkovo,42.1553,21.5875,North Macedonia,MK,MKD,Lipkovo,admin,,1807754347
+Ilinden,Ilinden,41.9945,21.58,North Macedonia,MK,MKD,Ilinden,admin,,1807767601
+Resen,Resen,41.0893,21.0109,North Macedonia,MK,MKD,Resen,admin,,1807384915
+Makedonska Kamenica,Makedonska Kamenica,42.0208,22.5876,North Macedonia,MK,MKD,Makedonska Kamenica,admin,,1807768534
+Skopje,Skopje,41.9961,21.4317,North Macedonia,MK,MKD,Skopje,primary,526502.0,1807600615
+Kumanovo,Kumanovo,42.1322,21.7144,North Macedonia,MK,MKD,Kumanovo,admin,70842.0,1807301219
+Bitola,Bitola,41.0319,21.3347,North Macedonia,MK,MKD,Bitola,admin,69287.0,1807488567
+Prilep,Prilep,41.3464,21.5542,North Macedonia,MK,MKD,Prilep,admin,63308.0,1807551778
+Tetovo,Tetovo,42.0103,20.9714,North Macedonia,MK,MKD,Tetovo,admin,63176.0,1807020286
+Štip,Stip,41.7358,22.1914,North Macedonia,MK,MKD,Štip,admin,42000.0,1807614061
+Veles,Veles,41.7153,21.7753,North Macedonia,MK,MKD,Veles,admin,40664.0,1807468155
+Ohrid,Ohrid,41.1169,20.8019,North Macedonia,MK,MKD,Ohrid,admin,38818.0,1807586875
+Strumica,Strumica,41.4375,22.6431,North Macedonia,MK,MKD,Strumica,admin,33825.0,1807799132
+Gostivar,Gostivar,41.8,20.9167,North Macedonia,MK,MKD,Gostivar,admin,32814.0,1807901060
+Kočani,Kocani,41.9167,22.4125,North Macedonia,MK,MKD,Kočani,admin,28330.0,1807422302
+Dračevo,Dracevo,41.9367,21.5217,North Macedonia,MK,MKD,Skopje,,19246.0,1807215833
+Struga,Struga,41.1775,20.6789,North Macedonia,MK,MKD,Struga,admin,15009.0,1807746682
+Debar,Debar,41.525,20.5272,North Macedonia,MK,MKD,Debar,admin,14561.0,1807621851
+Kriva Palanka,Kriva Palanka,42.2017,22.3317,North Macedonia,MK,MKD,Kriva Palanka,admin,13481.0,1807058849
+Negotino,Negotino,41.4839,22.0892,North Macedonia,MK,MKD,Negotino,admin,12488.0,1807848381
+Sveti Nikole,Sveti Nikole,41.865,21.9425,North Macedonia,MK,MKD,Sveti Nikole,admin,11728.0,1807880409
+Probištip,Probistip,41.9936,22.1767,North Macedonia,MK,MKD,Probištip,admin,10826.0,1807592969
+Delčevo,Delcevo,41.9661,22.7747,North Macedonia,MK,MKD,Delčevo,admin,9644.0,1807161783
+Vinica,Vinica,41.8828,22.5092,North Macedonia,MK,MKD,Vinica,admin,8584.0,1807665568
+Aračinovo,Aracinovo,42.0264,21.5617,North Macedonia,MK,MKD,Aračinovo,admin,7315.0,1807619539
+Kičevo,Kicevo,41.5142,20.9631,North Macedonia,MK,MKD,Kičevo,admin,7280.0,1807895120
+Kavadarci,Kavadarci,41.4328,22.0117,North Macedonia,MK,MKD,Kavadarci,admin,6228.0,1807183974
+Berovo,Berovo,41.7078,22.8564,North Macedonia,MK,MKD,Berovo,admin,5850.0,1807873177
+Kratovo,Kratovo,42.0783,22.175,North Macedonia,MK,MKD,Kratovo,admin,5401.0,1807262234
+Gevgelija,Gevgelija,41.1392,22.5025,North Macedonia,MK,MKD,Gevgelija,admin,4967.0,1807600399
+Vrapčište,Vrapciste,41.8337,20.8851,North Macedonia,MK,MKD,Vrapčište,admin,4874.0,1807187187
+Radoviš,Radovis,41.6381,22.4644,North Macedonia,MK,MKD,Radoviš,admin,4678.0,1807341711
+Kruševo,Krusevo,41.37,21.2483,North Macedonia,MK,MKD,Kruševo,admin,4104.0,1807741715
+Makedonski Brod,Makedonski Brod,41.5133,21.2153,North Macedonia,MK,MKD,Makedonski Brod,admin,3643.0,1807831162
+Demir Kapija,Demir Kapija,41.4114,22.2422,North Macedonia,MK,MKD,Demir Kapija,admin,3275.0,1807182004
+Tearce,Tearce,42.0775,21.0519,North Macedonia,MK,MKD,Tearce,admin,3038.0,1807139125
+Bogdanci,Bogdanci,41.2031,22.5728,North Macedonia,MK,MKD,Bogdanci,admin,2951.0,1807565779
+Rosoman,Rosoman,41.5161,21.9497,North Macedonia,MK,MKD,Rosoman,admin,2553.0,1807663389
+Demir Hisar,Demir Hisar,41.2208,21.2031,North Macedonia,MK,MKD,Demir Hisar,admin,2431.0,1807908017
+Vevčani,Vevcani,41.2403,20.5931,North Macedonia,MK,MKD,Vevčani,admin,2359.0,1807108428
+Gradsko,Gradsko,41.5775,21.9428,North Macedonia,MK,MKD,Gradsko,admin,2219.0,1807080471
+Valandovo,Valandovo,41.3169,22.5611,North Macedonia,MK,MKD,Valandovo,admin,1992.0,1807423601
+Krivogaštani,Krivogastani,41.3358,21.3331,North Macedonia,MK,MKD,Krivogaštani,admin,1870.0,1807293579
+Pehčevo,Pehcevo,41.7592,22.8906,North Macedonia,MK,MKD,Pehčevo,admin,1687.0,1807666030
+Plasnica,Plasnica,41.4667,21.1167,North Macedonia,MK,MKD,Plasnica,admin,1584.0,1807030257
+Zrnovci,Zrnovci,41.8542,22.4442,North Macedonia,MK,MKD,Zrnovci,admin,1534.0,1807046032
+Novaci,Novaci,41.0419,21.4561,North Macedonia,MK,MKD,Novaci,admin,1283.0,1807936735
+Bosilovo,Bosilovo,41.4406,22.7278,North Macedonia,MK,MKD,Bosilovo,admin,1273.0,1807868218
+Mogila,Mogila,41.1083,21.3786,North Macedonia,MK,MKD,Mogila,admin,1262.0,1807583335
+Novo Selo,Novo Selo,41.4128,22.88,North Macedonia,MK,MKD,Novo Selo,admin,1246.0,1807743098
+Konče,Konce,41.4958,22.3825,North Macedonia,MK,MKD,Konče,admin,915.0,1807382770
+Rostuša,Rostusa,41.61,20.6,North Macedonia,MK,MKD,Mavrovo i Rostuše,admin,872.0,1807907483
+Jegunovce,Jegunovce,42.0731,21.1231,North Macedonia,MK,MKD,Jegunovce,admin,846.0,1807040114
+Rankovce,Rankovce,42.1719,22.1167,North Macedonia,MK,MKD,Rankovce,admin,744.0,1807575395
+Sopište,Sopiste,41.95,21.4333,North Macedonia,MK,MKD,Sopište,admin,690.0,1807691189
+Obleševo,Oblesevo,41.8833,22.3339,North Macedonia,MK,MKD,Češinovo-Obleševo,admin,673.0,1807758244
+Vasilevo,Vasilevo,41.4758,22.6417,North Macedonia,MK,MKD,Vasilevo,admin,630.0,1807855424
+Karbinci,Karbinci,41.8167,22.2375,North Macedonia,MK,MKD,Karbinci,admin,574.0,1807568669
+Lozovo,Lozovo,41.7817,21.9025,North Macedonia,MK,MKD,Lozovo,admin,521.0,1807681577
+Staro Nagoričane,Staro Nagoricane,42.2,21.83,North Macedonia,MK,MKD,Staro Nagoričane,admin,493.0,1807782793
+Brvenica,Brvenica,41.9672,20.9808,North Macedonia,MK,MKD,Brvenica,admin,449.0,1807009322
+Centar Župa,Centar Zupa,41.4775,20.5578,North Macedonia,MK,MKD,Centar Župa,admin,354.0,1807323094
+Dolneni,Dolneni,41.4264,21.4536,North Macedonia,MK,MKD,Dolneni,admin,300.0,1807169470
+Belčišta,Belcista,41.3028,20.8303,North Macedonia,MK,MKD,Debarca,admin,297.0,1807953626
+Čučer-Sandevo,Cucer-Sandevo,42.0975,21.3877,North Macedonia,MK,MKD,Čučer-Sandevo,admin,274.0,1807969277
+Zelenikovo,Zelenikovo,41.8867,21.5869,North Macedonia,MK,MKD,Zelenikovo,admin,272.0,1807765797
+Petrovec,Petrovec,41.9389,21.615,North Macedonia,MK,MKD,Petrovec,admin,121.0,1807236473
+Star Dojran,Star Dojran,41.1865,22.7203,North Macedonia,MK,MKD,Dojran,admin,105.0,1807304153
+Želino,Zelino,41.9794,21.0619,North Macedonia,MK,MKD,Želino,admin,105.0,1807040075
+Studeničani,Studenicani,41.9158,21.5306,North Macedonia,MK,MKD,Studeničani,admin,59.0,1807047160
+Bogovinje,Bogovinje,41.9233,20.9133,North Macedonia,MK,MKD,Bogovinje,admin,25.0,1807279534
+Lipkovo,Lipkovo,42.1553,21.5875,North Macedonia,MK,MKD,Lipkovo,admin,,1807754347
+Ilinden,Ilinden,41.9945,21.58,North Macedonia,MK,MKD,Ilinden,admin,,1807767601
+Resen,Resen,41.0893,21.0109,North Macedonia,MK,MKD,Resen,admin,,1807384915
+Makedonska Kamenica,Makedonska Kamenica,42.0208,22.5876,North Macedonia,MK,MKD,Makedonska Kamenica,admin,,1807768534

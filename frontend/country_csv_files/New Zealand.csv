@@ -1,0 +1,117 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Auckland,Auckland,-36.8406,174.74,New Zealand,NZ,NZL,Auckland,admin,1346091.0,1554435911
+Christchurch,Christchurch,-43.531,172.6365,New Zealand,NZ,NZL,Canterbury,admin,383200.0,1554377228
+Manukau City,Manukau City,-37.0,174.885,New Zealand,NZ,NZL,Auckland,,375600.0,1554797148
+Wellington,Wellington,-41.2889,174.7772,New Zealand,NZ,NZL,Wellington,primary,216200.0,1554772152
+Northcote,Northcote,-36.8019,174.7494,New Zealand,NZ,NZL,Auckland,,205605.0,1554717659
+Hamilton,Hamilton,-37.7833,175.2833,New Zealand,NZ,NZL,Waikato,admin,176500.0,1554873040
+Tauranga,Tauranga,-37.6833,176.1667,New Zealand,NZ,NZL,Bay of Plenty,,151300.0,1554759867
+Lower Hutt,Lower Hutt,-41.2167,174.9167,New Zealand,NZ,NZL,Wellington,,103400.0,1554623632
+Dunedin,Dunedin,-45.8742,170.5036,New Zealand,NZ,NZL,Otago,admin,99885.0,1554475997
+Palmerston North,Palmerston North,-40.355,175.6117,New Zealand,NZ,NZL,Manawatu-Wanganui,admin,76236.0,1554138183
+Napier,Napier,-39.4903,176.9178,New Zealand,NZ,NZL,Hawke’s Bay,admin,62241.0,1554064936
+New Plymouth,New Plymouth,-39.0578,174.0742,New Zealand,NZ,NZL,Taranaki,,57600.0,1554939405
+Porirua,Porirua,-41.1333,174.85,New Zealand,NZ,NZL,Wellington,,55218.0,1554561880
+Rotorua,Rotorua,-38.1378,176.2514,New Zealand,NZ,NZL,Bay of Plenty,,54204.0,1554000379
+Whangarei,Whangarei,-35.725,174.3236,New Zealand,NZ,NZL,Northland,admin,50784.0,1554000636
+Invercargill,Invercargill,-46.4131,168.3475,New Zealand,NZ,NZL,Southland,admin,47625.0,1554148942
+Nelson,Nelson,-41.2708,173.2839,New Zealand,NZ,NZL,Nelson,admin,46437.0,1554017097
+Upper Hutt,Upper Hutt,-41.1333,175.05,New Zealand,NZ,NZL,Wellington,,41000.0,1554000042
+Whanganui,Whanganui,-39.9325,175.0519,New Zealand,NZ,NZL,Manawatu-Wanganui,,39400.0,1554827998
+Gisborne,Gisborne,-38.6625,178.0178,New Zealand,NZ,NZL,Gisborne,admin,34527.0,1554359840
+Paraparaumu,Paraparaumu,-40.9144,175.0056,New Zealand,NZ,NZL,Wellington,,28701.0,1554166459
+Timaru,Timaru,-44.3931,171.2508,New Zealand,NZ,NZL,Canterbury,,27501.0,1554243304
+Blenheim,Blenheim,-41.514,173.96,New Zealand,NZ,NZL,Marlborough,admin,26400.0,1554001426
+Taupo,Taupo,-38.6875,176.0694,New Zealand,NZ,NZL,Waikato,,23622.0,1554654784
+Masterton,Masterton,-40.97,175.65,New Zealand,NZ,NZL,Wellington,,19818.0,1554641049
+Cambridge,Cambridge,-37.8833,175.4667,New Zealand,NZ,NZL,Waikato,,18651.0,1554000848
+Feilding,Feilding,-40.2167,175.5667,New Zealand,NZ,NZL,Manawatu-Wanganui,,17800.0,1554000257
+Ashton,Ashton,-44.0333,171.7667,New Zealand,NZ,NZL,Canterbury,,17700.0,1554784264
+Levin,Levin,-40.6219,175.2867,New Zealand,NZ,NZL,Manawatu-Wanganui,,17670.0,1554983635
+Macetown,Macetown,-44.8667,168.8333,New Zealand,NZ,NZL,Otago,,16600.0,1554582165
+Rolleston,Rolleston,-43.5833,172.3833,New Zealand,NZ,NZL,Canterbury,,16350.0,1554176166
+Whakatane,Whakatane,-37.96,176.98,New Zealand,NZ,NZL,Bay of Plenty,admin,15795.0,1554253729
+Richmond,Richmond,-41.3333,173.1833,New Zealand,NZ,NZL,Tasman,admin,15000.0,1554001427
+Havelock North,Havelock North,-39.6667,176.8833,New Zealand,NZ,NZL,Hawke’s Bay,,13950.0,1554193593
+Tokoroa,Tokoroa,-38.2167,175.8667,New Zealand,NZ,NZL,Waikato,,13572.0,1554951529
+Mosgiel,Mosgiel,-45.875,170.3486,New Zealand,NZ,NZL,Otago,,13400.0,1554341062
+Te Awamutu,Te Awamutu,-38.0167,175.3167,New Zealand,NZ,NZL,Waikato,,12195.0,1554001222
+Waikanae,Waikanae,-40.875,175.0639,New Zealand,NZ,NZL,Wellington,,12100.0,1554624715
+Hawera,Hawera,-39.5933,174.2783,New Zealand,NZ,NZL,Taranaki,,9792.0,1554872573
+Glencoe,Glencoe,-46.1833,168.6833,New Zealand,NZ,NZL,Southland,,9750.0,1554979133
+Waiuku,Waiuku,-37.249,174.73,New Zealand,NZ,NZL,Auckland,,9171.0,1554334008
+Paraparaumu Beach,Paraparaumu Beach,-40.8938,174.9794,New Zealand,NZ,NZL,Wellington,,9087.0,1554306968
+Wanaka,Wanaka,-44.7,169.15,New Zealand,NZ,NZL,Otago,,8900.0,1554152950
+Greymouth,Greymouth,-42.45,171.2075,New Zealand,NZ,NZL,West Coast,admin,7965.0,1554984303
+Thames,Thames,-37.1383,175.5375,New Zealand,NZ,NZL,Waikato,,7293.0,1554802053
+Kerikeri,Kerikeri,-35.2244,173.9514,New Zealand,NZ,NZL,Northland,,6960.0,1554530676
+Kaitaia,Kaitaia,-35.1125,173.2628,New Zealand,NZ,NZL,Northland,,5868.0,1554000934
+Stratford,Stratford,-39.3333,174.2833,New Zealand,NZ,NZL,Taranaki,admin,5740.0,1554001293
+Westport,Westport,-41.7581,171.6022,New Zealand,NZ,NZL,West Coast,,4660.0,1554650685
+Turangi,Turangi,-38.9889,175.8083,New Zealand,NZ,NZL,Waikato,,3320.0,1554981086
+Hokitika,Hokitika,-42.7156,170.9681,New Zealand,NZ,NZL,West Coast,,2892.0,1554205461
+Te Anau,Te Anau,-45.4167,167.7167,New Zealand,NZ,NZL,Southland,,2250.0,1554603580
+Kaikoura,Kaikoura,-42.4,173.68,New Zealand,NZ,NZL,Canterbury,,2210.0,1554578431
+Pukekohe East,Pukekohe East,-37.2,174.9,New Zealand,NZ,NZL,Auckland,,2018.0,1554599644
+Waitakere,Waitakere,-36.85,174.543,New Zealand,NZ,NZL,Auckland,,2018.0,1554034359
+Waitangi,Waitangi,-43.9514,-176.5611,New Zealand,NZ,NZL,Chatham Islands,admin,2018.0,1554847194
+Halfmoon Bay,Halfmoon Bay,-46.9,168.1333,New Zealand,NZ,NZL,Southland,,300.0,1554077152
+Kairaki,Kairaki,-43.386,172.703,New Zealand,NZ,NZL,Canterbury,,225.0,1554001309
+Auckland,Auckland,-36.8406,174.74,New Zealand,NZ,NZL,Auckland,admin,1346091.0,1554435911
+Christchurch,Christchurch,-43.531,172.6365,New Zealand,NZ,NZL,Canterbury,admin,383200.0,1554377228
+Manukau City,Manukau City,-37.0,174.885,New Zealand,NZ,NZL,Auckland,,375600.0,1554797148
+Wellington,Wellington,-41.2889,174.7772,New Zealand,NZ,NZL,Wellington,primary,216200.0,1554772152
+Northcote,Northcote,-36.8019,174.7494,New Zealand,NZ,NZL,Auckland,,205605.0,1554717659
+Hamilton,Hamilton,-37.7833,175.2833,New Zealand,NZ,NZL,Waikato,admin,176500.0,1554873040
+Tauranga,Tauranga,-37.6833,176.1667,New Zealand,NZ,NZL,Bay of Plenty,,151300.0,1554759867
+Lower Hutt,Lower Hutt,-41.2167,174.9167,New Zealand,NZ,NZL,Wellington,,103400.0,1554623632
+Dunedin,Dunedin,-45.8742,170.5036,New Zealand,NZ,NZL,Otago,admin,99885.0,1554475997
+Palmerston North,Palmerston North,-40.355,175.6117,New Zealand,NZ,NZL,Manawatu-Wanganui,admin,76236.0,1554138183
+Napier,Napier,-39.4903,176.9178,New Zealand,NZ,NZL,Hawke’s Bay,admin,62241.0,1554064936
+New Plymouth,New Plymouth,-39.0578,174.0742,New Zealand,NZ,NZL,Taranaki,,57600.0,1554939405
+Porirua,Porirua,-41.1333,174.85,New Zealand,NZ,NZL,Wellington,,55218.0,1554561880
+Rotorua,Rotorua,-38.1378,176.2514,New Zealand,NZ,NZL,Bay of Plenty,,54204.0,1554000379
+Whangarei,Whangarei,-35.725,174.3236,New Zealand,NZ,NZL,Northland,admin,50784.0,1554000636
+Invercargill,Invercargill,-46.4131,168.3475,New Zealand,NZ,NZL,Southland,admin,47625.0,1554148942
+Nelson,Nelson,-41.2708,173.2839,New Zealand,NZ,NZL,Nelson,admin,46437.0,1554017097
+Upper Hutt,Upper Hutt,-41.1333,175.05,New Zealand,NZ,NZL,Wellington,,41000.0,1554000042
+Whanganui,Whanganui,-39.9325,175.0519,New Zealand,NZ,NZL,Manawatu-Wanganui,,39400.0,1554827998
+Gisborne,Gisborne,-38.6625,178.0178,New Zealand,NZ,NZL,Gisborne,admin,34527.0,1554359840
+Paraparaumu,Paraparaumu,-40.9144,175.0056,New Zealand,NZ,NZL,Wellington,,28701.0,1554166459
+Timaru,Timaru,-44.3931,171.2508,New Zealand,NZ,NZL,Canterbury,,27501.0,1554243304
+Blenheim,Blenheim,-41.514,173.96,New Zealand,NZ,NZL,Marlborough,admin,26400.0,1554001426
+Taupo,Taupo,-38.6875,176.0694,New Zealand,NZ,NZL,Waikato,,23622.0,1554654784
+Masterton,Masterton,-40.97,175.65,New Zealand,NZ,NZL,Wellington,,19818.0,1554641049
+Cambridge,Cambridge,-37.8833,175.4667,New Zealand,NZ,NZL,Waikato,,18651.0,1554000848
+Feilding,Feilding,-40.2167,175.5667,New Zealand,NZ,NZL,Manawatu-Wanganui,,17800.0,1554000257
+Ashton,Ashton,-44.0333,171.7667,New Zealand,NZ,NZL,Canterbury,,17700.0,1554784264
+Levin,Levin,-40.6219,175.2867,New Zealand,NZ,NZL,Manawatu-Wanganui,,17670.0,1554983635
+Macetown,Macetown,-44.8667,168.8333,New Zealand,NZ,NZL,Otago,,16600.0,1554582165
+Rolleston,Rolleston,-43.5833,172.3833,New Zealand,NZ,NZL,Canterbury,,16350.0,1554176166
+Whakatane,Whakatane,-37.96,176.98,New Zealand,NZ,NZL,Bay of Plenty,admin,15795.0,1554253729
+Richmond,Richmond,-41.3333,173.1833,New Zealand,NZ,NZL,Tasman,admin,15000.0,1554001427
+Havelock North,Havelock North,-39.6667,176.8833,New Zealand,NZ,NZL,Hawke’s Bay,,13950.0,1554193593
+Tokoroa,Tokoroa,-38.2167,175.8667,New Zealand,NZ,NZL,Waikato,,13572.0,1554951529
+Mosgiel,Mosgiel,-45.875,170.3486,New Zealand,NZ,NZL,Otago,,13400.0,1554341062
+Te Awamutu,Te Awamutu,-38.0167,175.3167,New Zealand,NZ,NZL,Waikato,,12195.0,1554001222
+Waikanae,Waikanae,-40.875,175.0639,New Zealand,NZ,NZL,Wellington,,12100.0,1554624715
+Hawera,Hawera,-39.5933,174.2783,New Zealand,NZ,NZL,Taranaki,,9792.0,1554872573
+Glencoe,Glencoe,-46.1833,168.6833,New Zealand,NZ,NZL,Southland,,9750.0,1554979133
+Waiuku,Waiuku,-37.249,174.73,New Zealand,NZ,NZL,Auckland,,9171.0,1554334008
+Paraparaumu Beach,Paraparaumu Beach,-40.8938,174.9794,New Zealand,NZ,NZL,Wellington,,9087.0,1554306968
+Wanaka,Wanaka,-44.7,169.15,New Zealand,NZ,NZL,Otago,,8900.0,1554152950
+Greymouth,Greymouth,-42.45,171.2075,New Zealand,NZ,NZL,West Coast,admin,7965.0,1554984303
+Thames,Thames,-37.1383,175.5375,New Zealand,NZ,NZL,Waikato,,7293.0,1554802053
+Kerikeri,Kerikeri,-35.2244,173.9514,New Zealand,NZ,NZL,Northland,,6960.0,1554530676
+Kaitaia,Kaitaia,-35.1125,173.2628,New Zealand,NZ,NZL,Northland,,5868.0,1554000934
+Stratford,Stratford,-39.3333,174.2833,New Zealand,NZ,NZL,Taranaki,admin,5740.0,1554001293
+Westport,Westport,-41.7581,171.6022,New Zealand,NZ,NZL,West Coast,,4660.0,1554650685
+Turangi,Turangi,-38.9889,175.8083,New Zealand,NZ,NZL,Waikato,,3320.0,1554981086
+Hokitika,Hokitika,-42.7156,170.9681,New Zealand,NZ,NZL,West Coast,,2892.0,1554205461
+Te Anau,Te Anau,-45.4167,167.7167,New Zealand,NZ,NZL,Southland,,2250.0,1554603580
+Kaikoura,Kaikoura,-42.4,173.68,New Zealand,NZ,NZL,Canterbury,,2210.0,1554578431
+Pukekohe East,Pukekohe East,-37.2,174.9,New Zealand,NZ,NZL,Auckland,,2018.0,1554599644
+Waitakere,Waitakere,-36.85,174.543,New Zealand,NZ,NZL,Auckland,,2018.0,1554034359
+Waitangi,Waitangi,-43.9514,-176.5611,New Zealand,NZ,NZL,Chatham Islands,admin,2018.0,1554847194
+Halfmoon Bay,Halfmoon Bay,-46.9,168.1333,New Zealand,NZ,NZL,Southland,,300.0,1554077152
+Kairaki,Kairaki,-43.386,172.703,New Zealand,NZ,NZL,Canterbury,,225.0,1554001309

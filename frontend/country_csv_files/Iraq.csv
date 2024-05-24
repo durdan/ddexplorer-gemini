@@ -1,0 +1,211 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Baghdad,Baghdad,33.3153,44.3661,Iraq,IQ,IRQ,Baghdād,primary,6183000.0,1368596238
+Mosul,Mosul,36.34,43.13,Iraq,IQ,IRQ,Nīnawá,admin,1792000.0,1368194914
+Al Başrah,Al Basrah,30.515,47.81,Iraq,IQ,IRQ,Al Başrah,admin,1326564.0,1368714645
+Kirkuk,Kirkuk,35.4667,44.3167,Iraq,IQ,IRQ,Karkūk,admin,975000.0,1368344172
+As Sulaymānīyah,As Sulaymaniyah,35.5572,45.4356,Iraq,IQ,IRQ,As Sulaymānīyah,admin,878146.0,1368735317
+Ar Ramādī,Ar Ramadi,33.4258,43.2992,Iraq,IQ,IRQ,Al Anbār,admin,874543.0,1368838855
+Erbil,Erbil,36.1912,44.0092,Iraq,IQ,IRQ,Arbīl,admin,846000.0,1368578192
+An Najaf,An Najaf,32.0,44.33,Iraq,IQ,IRQ,An Najaf,admin,724700.0,1368003357
+Karbalā’,Karbala',32.6167,44.0333,Iraq,IQ,IRQ,Karbalā’,admin,690100.0,1368597794
+An Nāşirīyah,An Nasiriyah,31.0439,46.2575,Iraq,IQ,IRQ,Dhī Qār,admin,541600.0,1368273311
+Al Ḩillah,Al Hillah,32.4775,44.4314,Iraq,IQ,IRQ,Bābil,admin,541034.0,1368916692
+Al ‘Amārah,Al `Amarah,31.8333,47.15,Iraq,IQ,IRQ,Maysān,admin,511500.0,1368336235
+Ba‘qūbah,Ba`qubah,33.75,44.6333,Iraq,IQ,IRQ,Diyālá,admin,467900.0,1368444902
+Ad Dīwānīyah,Ad Diwaniyah,31.9892,44.9247,Iraq,IQ,IRQ,Al Qādisīyah,admin,391600.0,1368864006
+Az Zubayr,Az Zubayr,30.3833,47.7,Iraq,IQ,IRQ,Al Başrah,minor,370000.0,1368147923
+Sawrān,Sawran,36.6606,44.5508,Iraq,IQ,IRQ,Arbīl,minor,350000.0,1368321779
+Dahūk,Dahuk,36.8667,43.0,Iraq,IQ,IRQ,Dahūk,admin,330600.0,1368137126
+Al Kūt,Al Kut,32.4907,45.8304,Iraq,IQ,IRQ,Wāsiţ,admin,321521.0,1368569694
+Ash Shāmīyah,Ash Shamiyah,31.9636,44.5989,Iraq,IQ,IRQ,Al Qādisīyah,minor,300000.0,1368487355
+Al Qurnah,Al Qurnah,31.0158,47.4306,Iraq,IQ,IRQ,Al Başrah,minor,286073.0,1368380047
+Al Ḩamzah,Al Hamzah,31.7339,45.0086,Iraq,IQ,IRQ,Al Qādisīyah,minor,260000.0,1368300397
+Rāniyah,Raniyah,36.255,44.8836,Iraq,IQ,IRQ,As Sulaymānīyah,minor,257577.0,1368214852
+Ash Shaţrah,Ash Shatrah,31.4097,46.1717,Iraq,IQ,IRQ,Dhī Qār,minor,254000.0,1368920164
+Sab‘ al Būr,Sab` al Bur,33.4644,44.1536,Iraq,IQ,IRQ,Baghdād,,254000.0,1368355296
+Al Fallūjah,Al Fallujah,33.35,43.7833,Iraq,IQ,IRQ,Al Anbār,minor,250884.0,1368081888
+Kalār,Kalar,34.6292,45.3222,Iraq,IQ,IRQ,As Sulaymānīyah,minor,250000.0,1368403789
+Abī al Khaşīb,Abi al Khasib,30.4411,47.9725,Iraq,IQ,IRQ,Al Başrah,minor,240300.0,1368259214
+As Samāwah,As Samawah,31.3167,45.2833,Iraq,IQ,IRQ,Al Muthanná,admin,215000.0,1368246912
+‘Aqrah,`Aqrah,36.7414,43.8933,Iraq,IQ,IRQ,Nīnawá,minor,212000.0,1368123730
+At Tājī,At Taji,33.5092,44.2342,Iraq,IQ,IRQ,Baghdād,,200000.0,1368059456
+Zākhū,Zakhu,37.15,42.6833,Iraq,IQ,IRQ,Dahūk,minor,197000.0,1368905231
+Abū Ghurayb,Abu Ghurayb,33.2919,44.0656,Iraq,IQ,IRQ,Baghdād,minor,189000.0,1368635737
+Al Kūfah,Al Kufah,32.03,44.4,Iraq,IQ,IRQ,An Najaf,minor,171305.0,1368929021
+Al Miqdādīyah,Al Miqdadiyah,33.9786,44.9369,Iraq,IQ,IRQ,Diyālá,minor,155968.0,1368045951
+Sāmarrā’,Samarra',34.1983,43.8742,Iraq,IQ,IRQ,Şalāḩ ad Dīn,minor,140400.0,1368265789
+Nāḩiyat Ghammās,Nahiyat Ghammas,31.7431,44.6194,Iraq,IQ,IRQ,Al Qādisīyah,,140000.0,1368372842
+Nāḩiyat Khān Banī Sa‘d,Nahiyat Khan Bani Sa`d,33.57,44.5411,Iraq,IQ,IRQ,Diyālá,,127000.0,1368309131
+Ţūz Khūrmātū,Tuz Khurmatu,34.8772,44.6383,Iraq,IQ,IRQ,Şalāḩ ad Dīn,minor,119000.0,1368226016
+Salmān Bāk,Salman Bak,33.1,44.5833,Iraq,IQ,IRQ,Baghdād,,117500.0,1368786572
+Ar Rumaythah,Ar Rumaythah,31.5209,45.2017,Iraq,IQ,IRQ,Al Muthanná,minor,115431.0,1368170086
+Qal‘at Sukkar,Qal`at Sukkar,31.8589,46.0772,Iraq,IQ,IRQ,Dhī Qār,,110000.0,1368815122
+Umm Qaşr,Umm Qasr,30.0342,47.9294,Iraq,IQ,IRQ,Al Başrah,,107620.0,1368478549
+Tikrīt,Tikrit,34.61,43.68,Iraq,IQ,IRQ,Şalāḩ ad Dīn,admin,105700.0,1368199624
+Al Fāw,Al Faw,29.9758,48.4722,Iraq,IQ,IRQ,Al Başrah,minor,105080.0,1368130668
+Nāḩiyat al Iskandarīyah,Nahiyat al Iskandariyah,32.9,44.35,Iraq,IQ,IRQ,Bābil,,100600.0,1368051501
+Ad Dujayl,Ad Dujayl,33.8389,44.2481,Iraq,IQ,IRQ,Şalāḩ ad Dīn,,100000.0,1368574619
+Rawānduz,Rawanduz,36.6119,44.5247,Iraq,IQ,IRQ,Arbīl,minor,95089.0,1368066834
+Nāḩiyat al Karmah,Nahiyat al Karmah,33.4042,43.9133,Iraq,IQ,IRQ,Al Anbār,,95000.0,1368548065
+Al Hindīyah,Al Hindiyah,32.5442,44.2197,Iraq,IQ,IRQ,Karbalā’,minor,84100.0,1368398173
+Al Ḩayy,Al Hayy,32.1667,46.05,Iraq,IQ,IRQ,Wāsiţ,minor,82900.0,1368988553
+Imam Qasim,Imam Qasim,32.3014,44.6892,Iraq,IQ,IRQ,Bābil,,81500.0,1368437331
+Tall ‘Afar,Tall `Afar,36.3742,42.4433,Iraq,IQ,IRQ,Nīnawá,minor,80000.0,1368564375
+Aş Şuwayrah,As Suwayrah,32.9403,44.6344,Iraq,IQ,IRQ,Wāsiţ,minor,77200.0,1368498003
+Al Musayyib,Al Musayyib,32.7786,44.29,Iraq,IQ,IRQ,Bābil,minor,76454.0,1368000434
+Al Qā’im,Al Qa'im,34.3688,41.0945,Iraq,IQ,IRQ,Al Anbār,minor,74100.0,1368231138
+Saymayl,Saymayl,36.8583,42.8501,Iraq,IQ,IRQ,Dahūk,minor,71557.0,1368902174
+An Nu‘mānīyah,An Nu`maniyah,32.5,45.3333,Iraq,IQ,IRQ,Wāsiţ,minor,71000.0,1368555186
+Az Zubaydīyah,Az Zubaydiyah,32.7588,45.1773,Iraq,IQ,IRQ,Wāsiţ,,70000.0,1368931413
+Hīt,Hit,33.645,42.8264,Iraq,IQ,IRQ,Al Anbār,minor,66700.0,1368649537
+Jamjamāl,Jamjamal,35.5333,44.8333,Iraq,IQ,IRQ,As Sulaymānīyah,minor,65300.0,1368297719
+Ḩalabjah,Halabjah,35.1833,45.9833,Iraq,IQ,IRQ,As Sulaymānīyah,minor,65200.0,1368595428
+Balad,Balad,34.0164,44.1453,Iraq,IQ,IRQ,Şalāḩ ad Dīn,minor,62817.0,1368077707
+Sayyid Şādiq,Sayyid Sadiq,35.3536,45.8667,Iraq,IQ,IRQ,As Sulaymānīyah,minor,61600.0,1368535515
+Bayjī,Bayji,34.9292,43.4931,Iraq,IQ,IRQ,Şalāḩ ad Dīn,minor,60000.0,1368780727
+As Sa‘dīyah,As Sa`diyah,34.1906,45.1208,Iraq,IQ,IRQ,Diyālá,,47213.0,1368439343
+Ḩadīthah,Hadithah,34.1397,42.3781,Iraq,IQ,IRQ,Al Anbār,minor,46500.0,1368900463
+Al ‘Azīzīyah,Al `Aziziyah,32.9083,45.0667,Iraq,IQ,IRQ,Wāsiţ,minor,44868.0,1368091168
+Tāzah Khūrmātū,Tazah Khurmatu,35.3028,44.3286,Iraq,IQ,IRQ,Karkūk,,40000.0,1368922262
+Al Hāshimīyah,Al Hashimiyah,32.3664,44.6581,Iraq,IQ,IRQ,Bābil,minor,37300.0,1368037848
+Qalādizay,Qaladizay,36.1833,45.1278,Iraq,IQ,IRQ,As Sulaymānīyah,minor,36792.0,1368327633
+Al Jabāyish,Al Jabayish,30.9549,46.9751,Iraq,IQ,IRQ,Dhī Qār,minor,36100.0,1368506768
+Buhriz,Buhriz,33.7,44.6667,Iraq,IQ,IRQ,Diyālá,,35400.0,1368638747
+Al Ḩamdānīyah,Al Hamdaniyah,36.2697,43.3775,Iraq,IQ,IRQ,Nīnawá,minor,35000.0,1368523059
+Kifrī,Kifri,34.6833,44.9667,Iraq,IQ,IRQ,Diyālá,minor,32870.0,1368292327
+Madīnat al Ḩabbānīyah,Madinat al Habbaniyah,33.3667,43.5667,Iraq,IQ,IRQ,Al Anbār,,32300.0,1368678108
+Khānah Sūr,Khanah Sur,36.4731,41.6161,Iraq,IQ,IRQ,Nīnawá,,31161.0,1368503455
+‘Aynkāwah,`Aynkawah,36.2292,43.9936,Iraq,IQ,IRQ,Arbīl,minor,30000.0,1368335955
+Jalawlā’,Jalawla',34.2719,45.1681,Iraq,IQ,IRQ,Diyālá,,30000.0,1368851231
+Mandalī,Mandali,33.7333,45.55,Iraq,IQ,IRQ,Diyālá,,29882.0,1368763045
+Ḩarīr,Harir,36.5517,44.3516,Iraq,IQ,IRQ,Arbīl,,28518.0,1368699269
+Ar Ruţbah,Ar Rutbah,33.0381,40.2844,Iraq,IQ,IRQ,Al Anbār,minor,28400.0,1368174661
+Aş Şaqlāwīyah,As Saqlawiyah,33.3964,43.6833,Iraq,IQ,IRQ,Al Anbār,,25000.0,1368898863
+Shaqlāwah,Shaqlawah,36.4056,44.3208,Iraq,IQ,IRQ,Arbīl,minor,25000.0,1368884610
+Makhmūr,Makhmur,35.7756,43.5794,Iraq,IQ,IRQ,Arbīl,minor,23828.0,1368589887
+Nāḩiyat al Kifl,Nahiyat al Kifl,32.2242,44.3767,Iraq,IQ,IRQ,Bābil,,22800.0,1368308216
+Sinjār,Sinjar,36.3225,41.8642,Iraq,IQ,IRQ,Nīnawá,minor,22549.0,1368057870
+Zurbāţīyah,Zurbatiyah,33.15,46.05,Iraq,IQ,IRQ,Wāsiţ,,22400.0,1368601094
+Anah,Anah,34.3722,41.9875,Iraq,IQ,IRQ,Al Anbār,minor,21000.0,1368909811
+Kūysinjaq,Kuysinjaq,36.0833,44.6333,Iraq,IQ,IRQ,Arbīl,minor,19878.0,1368937180
+Rāwah,Rawah,34.4686,41.9167,Iraq,IQ,IRQ,Al Anbār,minor,19629.0,1368442139
+Tall Qaşab,Tall Qasab,36.2583,41.9431,Iraq,IQ,IRQ,Nīnawá,,18000.0,1368840597
+Ash Shaykhān,Ash Shaykhan,36.6917,43.35,Iraq,IQ,IRQ,Nīnawá,minor,17766.0,1368512457
+Bāţūfah,Batufah,37.1744,43.0132,Iraq,IQ,IRQ,Dahūk,minor,17186.0,1368000329
+Aḑ Ḑulū‘īyah,Ad Dulu`iyah,34.05,44.2,Iraq,IQ,IRQ,Şalāḩ ad Dīn,,17000.0,1368869426
+Sinūnī,Sinuni,36.4575,41.7061,Iraq,IQ,IRQ,Nīnawá,,16798.0,1368606100
+Maşīf Sarsink,Masif Sarsink,37.0333,43.3333,Iraq,IQ,IRQ,Dahūk,,16766.0,1368000421
+Ḩammām al ‘Alīl,Hammam al `Alil,36.1581,43.2594,Iraq,IQ,IRQ,Nīnawá,,15985.0,1368957629
+Barţalah,Bartalah,36.3522,43.3797,Iraq,IQ,IRQ,Nīnawá,,15000.0,1368230046
+Amirlī,Amirli,34.725,44.5875,Iraq,IQ,IRQ,Şalāḩ ad Dīn,,15000.0,1368331180
+Tall Banāt,Tall Banat,36.255,42.0164,Iraq,IQ,IRQ,Nīnawá,,14000.0,1368054893
+Kūhbil,Kuhbil,36.5133,41.9542,Iraq,IQ,IRQ,Nīnawá,,13281.0,1368670995
+Khānaqīn,Khanaqin,34.3333,45.3833,Iraq,IQ,IRQ,Diyālá,minor,11791.0,1368075472
+Mahād,Mahad,36.6472,43.4117,Iraq,IQ,IRQ,Nīnawá,,11000.0,1368572891
+Al ‘Amādīyah,Al `Amadiyah,37.0925,43.4872,Iraq,IQ,IRQ,Dahūk,minor,11000.0,1368510045
+Āltūn Kawbrī,Altun Kawbri,35.7533,44.1436,Iraq,IQ,IRQ,Karkūk,,9275.0,1368208612
+Baghdad,Baghdad,33.3153,44.3661,Iraq,IQ,IRQ,Baghdād,primary,6183000.0,1368596238
+Mosul,Mosul,36.34,43.13,Iraq,IQ,IRQ,Nīnawá,admin,1792000.0,1368194914
+Al Başrah,Al Basrah,30.515,47.81,Iraq,IQ,IRQ,Al Başrah,admin,1326564.0,1368714645
+Kirkuk,Kirkuk,35.4667,44.3167,Iraq,IQ,IRQ,Karkūk,admin,975000.0,1368344172
+As Sulaymānīyah,As Sulaymaniyah,35.5572,45.4356,Iraq,IQ,IRQ,As Sulaymānīyah,admin,878146.0,1368735317
+Ar Ramādī,Ar Ramadi,33.4258,43.2992,Iraq,IQ,IRQ,Al Anbār,admin,874543.0,1368838855
+Erbil,Erbil,36.1912,44.0092,Iraq,IQ,IRQ,Arbīl,admin,846000.0,1368578192
+An Najaf,An Najaf,32.0,44.33,Iraq,IQ,IRQ,An Najaf,admin,724700.0,1368003357
+Karbalā’,Karbala',32.6167,44.0333,Iraq,IQ,IRQ,Karbalā’,admin,690100.0,1368597794
+An Nāşirīyah,An Nasiriyah,31.0439,46.2575,Iraq,IQ,IRQ,Dhī Qār,admin,541600.0,1368273311
+Al Ḩillah,Al Hillah,32.4775,44.4314,Iraq,IQ,IRQ,Bābil,admin,541034.0,1368916692
+Al ‘Amārah,Al `Amarah,31.8333,47.15,Iraq,IQ,IRQ,Maysān,admin,511500.0,1368336235
+Ba‘qūbah,Ba`qubah,33.75,44.6333,Iraq,IQ,IRQ,Diyālá,admin,467900.0,1368444902
+Ad Dīwānīyah,Ad Diwaniyah,31.9892,44.9247,Iraq,IQ,IRQ,Al Qādisīyah,admin,391600.0,1368864006
+Az Zubayr,Az Zubayr,30.3833,47.7,Iraq,IQ,IRQ,Al Başrah,minor,370000.0,1368147923
+Sawrān,Sawran,36.6606,44.5508,Iraq,IQ,IRQ,Arbīl,minor,350000.0,1368321779
+Dahūk,Dahuk,36.8667,43.0,Iraq,IQ,IRQ,Dahūk,admin,330600.0,1368137126
+Al Kūt,Al Kut,32.4907,45.8304,Iraq,IQ,IRQ,Wāsiţ,admin,321521.0,1368569694
+Ash Shāmīyah,Ash Shamiyah,31.9636,44.5989,Iraq,IQ,IRQ,Al Qādisīyah,minor,300000.0,1368487355
+Al Qurnah,Al Qurnah,31.0158,47.4306,Iraq,IQ,IRQ,Al Başrah,minor,286073.0,1368380047
+Al Ḩamzah,Al Hamzah,31.7339,45.0086,Iraq,IQ,IRQ,Al Qādisīyah,minor,260000.0,1368300397
+Rāniyah,Raniyah,36.255,44.8836,Iraq,IQ,IRQ,As Sulaymānīyah,minor,257577.0,1368214852
+Ash Shaţrah,Ash Shatrah,31.4097,46.1717,Iraq,IQ,IRQ,Dhī Qār,minor,254000.0,1368920164
+Sab‘ al Būr,Sab` al Bur,33.4644,44.1536,Iraq,IQ,IRQ,Baghdād,,254000.0,1368355296
+Al Fallūjah,Al Fallujah,33.35,43.7833,Iraq,IQ,IRQ,Al Anbār,minor,250884.0,1368081888
+Kalār,Kalar,34.6292,45.3222,Iraq,IQ,IRQ,As Sulaymānīyah,minor,250000.0,1368403789
+Abī al Khaşīb,Abi al Khasib,30.4411,47.9725,Iraq,IQ,IRQ,Al Başrah,minor,240300.0,1368259214
+As Samāwah,As Samawah,31.3167,45.2833,Iraq,IQ,IRQ,Al Muthanná,admin,215000.0,1368246912
+‘Aqrah,`Aqrah,36.7414,43.8933,Iraq,IQ,IRQ,Nīnawá,minor,212000.0,1368123730
+At Tājī,At Taji,33.5092,44.2342,Iraq,IQ,IRQ,Baghdād,,200000.0,1368059456
+Zākhū,Zakhu,37.15,42.6833,Iraq,IQ,IRQ,Dahūk,minor,197000.0,1368905231
+Abū Ghurayb,Abu Ghurayb,33.2919,44.0656,Iraq,IQ,IRQ,Baghdād,minor,189000.0,1368635737
+Al Kūfah,Al Kufah,32.03,44.4,Iraq,IQ,IRQ,An Najaf,minor,171305.0,1368929021
+Al Miqdādīyah,Al Miqdadiyah,33.9786,44.9369,Iraq,IQ,IRQ,Diyālá,minor,155968.0,1368045951
+Sāmarrā’,Samarra',34.1983,43.8742,Iraq,IQ,IRQ,Şalāḩ ad Dīn,minor,140400.0,1368265789
+Nāḩiyat Ghammās,Nahiyat Ghammas,31.7431,44.6194,Iraq,IQ,IRQ,Al Qādisīyah,,140000.0,1368372842
+Nāḩiyat Khān Banī Sa‘d,Nahiyat Khan Bani Sa`d,33.57,44.5411,Iraq,IQ,IRQ,Diyālá,,127000.0,1368309131
+Ţūz Khūrmātū,Tuz Khurmatu,34.8772,44.6383,Iraq,IQ,IRQ,Şalāḩ ad Dīn,minor,119000.0,1368226016
+Salmān Bāk,Salman Bak,33.1,44.5833,Iraq,IQ,IRQ,Baghdād,,117500.0,1368786572
+Ar Rumaythah,Ar Rumaythah,31.5209,45.2017,Iraq,IQ,IRQ,Al Muthanná,minor,115431.0,1368170086
+Qal‘at Sukkar,Qal`at Sukkar,31.8589,46.0772,Iraq,IQ,IRQ,Dhī Qār,,110000.0,1368815122
+Umm Qaşr,Umm Qasr,30.0342,47.9294,Iraq,IQ,IRQ,Al Başrah,,107620.0,1368478549
+Tikrīt,Tikrit,34.61,43.68,Iraq,IQ,IRQ,Şalāḩ ad Dīn,admin,105700.0,1368199624
+Al Fāw,Al Faw,29.9758,48.4722,Iraq,IQ,IRQ,Al Başrah,minor,105080.0,1368130668
+Nāḩiyat al Iskandarīyah,Nahiyat al Iskandariyah,32.9,44.35,Iraq,IQ,IRQ,Bābil,,100600.0,1368051501
+Ad Dujayl,Ad Dujayl,33.8389,44.2481,Iraq,IQ,IRQ,Şalāḩ ad Dīn,,100000.0,1368574619
+Rawānduz,Rawanduz,36.6119,44.5247,Iraq,IQ,IRQ,Arbīl,minor,95089.0,1368066834
+Nāḩiyat al Karmah,Nahiyat al Karmah,33.4042,43.9133,Iraq,IQ,IRQ,Al Anbār,,95000.0,1368548065
+Al Hindīyah,Al Hindiyah,32.5442,44.2197,Iraq,IQ,IRQ,Karbalā’,minor,84100.0,1368398173
+Al Ḩayy,Al Hayy,32.1667,46.05,Iraq,IQ,IRQ,Wāsiţ,minor,82900.0,1368988553
+Imam Qasim,Imam Qasim,32.3014,44.6892,Iraq,IQ,IRQ,Bābil,,81500.0,1368437331
+Tall ‘Afar,Tall `Afar,36.3742,42.4433,Iraq,IQ,IRQ,Nīnawá,minor,80000.0,1368564375
+Aş Şuwayrah,As Suwayrah,32.9403,44.6344,Iraq,IQ,IRQ,Wāsiţ,minor,77200.0,1368498003
+Al Musayyib,Al Musayyib,32.7786,44.29,Iraq,IQ,IRQ,Bābil,minor,76454.0,1368000434
+Al Qā’im,Al Qa'im,34.3688,41.0945,Iraq,IQ,IRQ,Al Anbār,minor,74100.0,1368231138
+Saymayl,Saymayl,36.8583,42.8501,Iraq,IQ,IRQ,Dahūk,minor,71557.0,1368902174
+An Nu‘mānīyah,An Nu`maniyah,32.5,45.3333,Iraq,IQ,IRQ,Wāsiţ,minor,71000.0,1368555186
+Az Zubaydīyah,Az Zubaydiyah,32.7588,45.1773,Iraq,IQ,IRQ,Wāsiţ,,70000.0,1368931413
+Hīt,Hit,33.645,42.8264,Iraq,IQ,IRQ,Al Anbār,minor,66700.0,1368649537
+Jamjamāl,Jamjamal,35.5333,44.8333,Iraq,IQ,IRQ,As Sulaymānīyah,minor,65300.0,1368297719
+Ḩalabjah,Halabjah,35.1833,45.9833,Iraq,IQ,IRQ,As Sulaymānīyah,minor,65200.0,1368595428
+Balad,Balad,34.0164,44.1453,Iraq,IQ,IRQ,Şalāḩ ad Dīn,minor,62817.0,1368077707
+Sayyid Şādiq,Sayyid Sadiq,35.3536,45.8667,Iraq,IQ,IRQ,As Sulaymānīyah,minor,61600.0,1368535515
+Bayjī,Bayji,34.9292,43.4931,Iraq,IQ,IRQ,Şalāḩ ad Dīn,minor,60000.0,1368780727
+As Sa‘dīyah,As Sa`diyah,34.1906,45.1208,Iraq,IQ,IRQ,Diyālá,,47213.0,1368439343
+Ḩadīthah,Hadithah,34.1397,42.3781,Iraq,IQ,IRQ,Al Anbār,minor,46500.0,1368900463
+Al ‘Azīzīyah,Al `Aziziyah,32.9083,45.0667,Iraq,IQ,IRQ,Wāsiţ,minor,44868.0,1368091168
+Tāzah Khūrmātū,Tazah Khurmatu,35.3028,44.3286,Iraq,IQ,IRQ,Karkūk,,40000.0,1368922262
+Al Hāshimīyah,Al Hashimiyah,32.3664,44.6581,Iraq,IQ,IRQ,Bābil,minor,37300.0,1368037848
+Qalādizay,Qaladizay,36.1833,45.1278,Iraq,IQ,IRQ,As Sulaymānīyah,minor,36792.0,1368327633
+Al Jabāyish,Al Jabayish,30.9549,46.9751,Iraq,IQ,IRQ,Dhī Qār,minor,36100.0,1368506768
+Buhriz,Buhriz,33.7,44.6667,Iraq,IQ,IRQ,Diyālá,,35400.0,1368638747
+Al Ḩamdānīyah,Al Hamdaniyah,36.2697,43.3775,Iraq,IQ,IRQ,Nīnawá,minor,35000.0,1368523059
+Kifrī,Kifri,34.6833,44.9667,Iraq,IQ,IRQ,Diyālá,minor,32870.0,1368292327
+Madīnat al Ḩabbānīyah,Madinat al Habbaniyah,33.3667,43.5667,Iraq,IQ,IRQ,Al Anbār,,32300.0,1368678108
+Khānah Sūr,Khanah Sur,36.4731,41.6161,Iraq,IQ,IRQ,Nīnawá,,31161.0,1368503455
+‘Aynkāwah,`Aynkawah,36.2292,43.9936,Iraq,IQ,IRQ,Arbīl,minor,30000.0,1368335955
+Jalawlā’,Jalawla',34.2719,45.1681,Iraq,IQ,IRQ,Diyālá,,30000.0,1368851231
+Mandalī,Mandali,33.7333,45.55,Iraq,IQ,IRQ,Diyālá,,29882.0,1368763045
+Ḩarīr,Harir,36.5517,44.3516,Iraq,IQ,IRQ,Arbīl,,28518.0,1368699269
+Ar Ruţbah,Ar Rutbah,33.0381,40.2844,Iraq,IQ,IRQ,Al Anbār,minor,28400.0,1368174661
+Aş Şaqlāwīyah,As Saqlawiyah,33.3964,43.6833,Iraq,IQ,IRQ,Al Anbār,,25000.0,1368898863
+Shaqlāwah,Shaqlawah,36.4056,44.3208,Iraq,IQ,IRQ,Arbīl,minor,25000.0,1368884610
+Makhmūr,Makhmur,35.7756,43.5794,Iraq,IQ,IRQ,Arbīl,minor,23828.0,1368589887
+Nāḩiyat al Kifl,Nahiyat al Kifl,32.2242,44.3767,Iraq,IQ,IRQ,Bābil,,22800.0,1368308216
+Sinjār,Sinjar,36.3225,41.8642,Iraq,IQ,IRQ,Nīnawá,minor,22549.0,1368057870
+Zurbāţīyah,Zurbatiyah,33.15,46.05,Iraq,IQ,IRQ,Wāsiţ,,22400.0,1368601094
+Anah,Anah,34.3722,41.9875,Iraq,IQ,IRQ,Al Anbār,minor,21000.0,1368909811
+Kūysinjaq,Kuysinjaq,36.0833,44.6333,Iraq,IQ,IRQ,Arbīl,minor,19878.0,1368937180
+Rāwah,Rawah,34.4686,41.9167,Iraq,IQ,IRQ,Al Anbār,minor,19629.0,1368442139
+Tall Qaşab,Tall Qasab,36.2583,41.9431,Iraq,IQ,IRQ,Nīnawá,,18000.0,1368840597
+Ash Shaykhān,Ash Shaykhan,36.6917,43.35,Iraq,IQ,IRQ,Nīnawá,minor,17766.0,1368512457
+Bāţūfah,Batufah,37.1744,43.0132,Iraq,IQ,IRQ,Dahūk,minor,17186.0,1368000329
+Aḑ Ḑulū‘īyah,Ad Dulu`iyah,34.05,44.2,Iraq,IQ,IRQ,Şalāḩ ad Dīn,,17000.0,1368869426
+Sinūnī,Sinuni,36.4575,41.7061,Iraq,IQ,IRQ,Nīnawá,,16798.0,1368606100
+Maşīf Sarsink,Masif Sarsink,37.0333,43.3333,Iraq,IQ,IRQ,Dahūk,,16766.0,1368000421
+Ḩammām al ‘Alīl,Hammam al `Alil,36.1581,43.2594,Iraq,IQ,IRQ,Nīnawá,,15985.0,1368957629
+Barţalah,Bartalah,36.3522,43.3797,Iraq,IQ,IRQ,Nīnawá,,15000.0,1368230046
+Amirlī,Amirli,34.725,44.5875,Iraq,IQ,IRQ,Şalāḩ ad Dīn,,15000.0,1368331180
+Tall Banāt,Tall Banat,36.255,42.0164,Iraq,IQ,IRQ,Nīnawá,,14000.0,1368054893
+Kūhbil,Kuhbil,36.5133,41.9542,Iraq,IQ,IRQ,Nīnawá,,13281.0,1368670995
+Khānaqīn,Khanaqin,34.3333,45.3833,Iraq,IQ,IRQ,Diyālá,minor,11791.0,1368075472
+Mahād,Mahad,36.6472,43.4117,Iraq,IQ,IRQ,Nīnawá,,11000.0,1368572891
+Al ‘Amādīyah,Al `Amadiyah,37.0925,43.4872,Iraq,IQ,IRQ,Dahūk,minor,11000.0,1368510045
+Āltūn Kawbrī,Altun Kawbri,35.7533,44.1436,Iraq,IQ,IRQ,Karkūk,,9275.0,1368208612

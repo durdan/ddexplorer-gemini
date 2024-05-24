@@ -1,0 +1,219 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Guayaquil,Guayaquil,-2.19,-79.8875,Ecuador,EC,ECU,Guayas,admin,2650288.0,1218802178
+Quito,Quito,-0.22,-78.5125,Ecuador,EC,ECU,Pichincha,primary,1763275.0,1218441993
+Cuenca,Cuenca,-2.8974,-79.0045,Ecuador,EC,ECU,Azuay,admin,361524.0,1218041020
+Santo Domingo de los Colorados,Santo Domingo de los Colorados,-0.2542,-79.1719,Ecuador,EC,ECU,Santo Domingo de los Tsáchilas,admin,334826.0,1218148017
+Eloy Alfaro,Eloy Alfaro,-2.1733,-79.8311,Ecuador,EC,ECU,Guayas,,295211.0,1218127217
+Machala,Machala,-3.2667,-79.9667,Ecuador,EC,ECU,El Oro,admin,288072.0,1218378191
+Manta,Manta,-0.95,-80.7162,Ecuador,EC,ECU,Manabí,,258697.0,1218160109
+Portoviejo,Portoviejo,-1.0561,-80.4553,Ecuador,EC,ECU,Manabí,admin,244129.0,1218169586
+Loja,Loja,-3.9833,-79.2,Ecuador,EC,ECU,Loja,admin,203496.0,1218739896
+Quevedo,Quevedo,-1.0333,-79.45,Ecuador,EC,ECU,Los Ríos,,177792.0,1218928435
+Ambato,Ambato,-1.2417,-78.6197,Ecuador,EC,ECU,Tungurahua,admin,177316.0,1218046148
+Riobamba,Riobamba,-1.6731,-78.6483,Ecuador,EC,ECU,Chimborazo,admin,177213.0,1218552075
+Daule,Daule,-1.8667,-79.9833,Ecuador,EC,ECU,Guayas,,161498.0,1218253183
+Milagro,Milagro,-2.1347,-79.5872,Ecuador,EC,ECU,Guayas,,159970.0,1218568564
+Ibarra,Ibarra,0.3627,-78.1307,Ecuador,EC,ECU,Imbabura,admin,157941.0,1218479054
+Esmeraldas,Esmeraldas,0.9667,-79.6528,Ecuador,EC,ECU,Esmeraldas,admin,155487.0,1218601363
+La Libertad,La Libertad,-2.2333,-80.9,Ecuador,EC,ECU,Guayas,,112154.0,1218254479
+Babahoyo,Babahoyo,-1.8167,-79.5167,Ecuador,EC,ECU,Los Ríos,admin,98251.0,1218156392
+Sangolquí,Sangolqui,-0.3344,-78.4475,Ecuador,EC,ECU,Pichincha,,96647.0,1218715616
+Latacunga,Latacunga,-0.9319,-78.6161,Ecuador,EC,ECU,Cotopaxi,admin,77267.0,1218947988
+Samborondón,Samborondon,-2.1833,-79.8833,Ecuador,EC,ECU,Guayas,,72425.0,1218370377
+Montecristi,Montecristi,-1.05,-80.6667,Ecuador,EC,ECU,Manabí,,71066.0,1218883853
+Pasaje,Pasaje,-3.3269,-79.8049,Ecuador,EC,ECU,El Oro,,60147.0,1218997966
+Santa Rosa,Santa Rosa,-3.4522,-79.9617,Ecuador,EC,ECU,El Oro,,56842.0,1218626394
+Tulcán,Tulcan,0.8117,-77.7186,Ecuador,EC,ECU,Carchi,admin,56719.0,1218976878
+Huaquillas,Huaquillas,-3.4814,-80.2432,Ecuador,EC,ECU,El Oro,,56021.0,1218443042
+Nueva Loja,Nueva Loja,0.0847,-76.8828,Ecuador,EC,ECU,Sucumbíos,admin,55627.0,1218895755
+Chone,Chone,-0.6833,-80.1,Ecuador,EC,ECU,Manabí,,54629.0,1218083347
+Santa Elena,Santa Elena,-2.2267,-80.8583,Ecuador,EC,ECU,Santa Elena,admin,54565.0,1218296446
+Puerto Francisco de Orellana,Puerto Francisco de Orellana,-0.4625,-76.9842,Ecuador,EC,ECU,Orellana,admin,51281.0,1218387446
+Playas,Playas,-2.63,-80.39,Ecuador,EC,ECU,Guayas,,48156.0,1218216648
+San Jacinto de Buena Fe,San Jacinto de Buena Fe,-0.8986,-79.4889,Ecuador,EC,ECU,Los Ríos,,46779.0,1218724130
+Jipijapa,Jipijapa,-1.3486,-80.5786,Ecuador,EC,ECU,Manabí,,45382.0,1218962184
+Cayambe,Cayambe,0.0439,-78.1561,Ecuador,EC,ECU,Pichincha,,44559.0,1218475970
+Velasco Ibarra,Velasco Ibarra,-1.0439,-79.6383,Ecuador,EC,ECU,Guayas,,41778.0,1218000005
+Otavalo,Otavalo,0.2303,-78.2625,Ecuador,EC,ECU,Imbabura,,41718.0,1218541444
+Ventanas,Ventanas,-1.45,-79.47,Ecuador,EC,ECU,Los Ríos,,41531.0,1218067203
+La Troncal,La Troncal,-2.4,-79.33,Ecuador,EC,ECU,Cañar,,39600.0,1218086252
+Naranjal,Naranjal,-2.6736,-79.6183,Ecuador,EC,ECU,Guayas,,39323.0,1218900978
+Azogues,Azogues,-2.7333,-78.8333,Ecuador,EC,ECU,Cañar,admin,35763.0,1218651012
+La Concordia,La Concordia,-0.0067,-79.3958,Ecuador,EC,ECU,Esmeraldas,,35474.0,1218975936
+Salinas,Salinas,-2.2167,-80.9501,Ecuador,EC,ECU,Guayas,,35066.0,1218838548
+Vinces,Vinces,-1.55,-79.7333,Ecuador,EC,ECU,Los Ríos,,35064.0,1218211679
+Naranjito,Naranjito,-2.1667,-79.4653,Ecuador,EC,ECU,Guayas,,34664.0,1218386613
+Puyo,Puyo,-1.4861,-78.0028,Ecuador,EC,ECU,Pastaza,admin,33325.0,1218537461
+Balzar,Balzar,-1.36,-79.9,Ecuador,EC,ECU,Guayas,,32744.0,1218257587
+La Maná,La Mana,-0.93,-79.22,Ecuador,EC,ECU,Cotopaxi,,31740.0,1218200586
+Rosa Zarate,Rosa Zarate,0.33,-79.48,Ecuador,EC,ECU,Esmeraldas,,31120.0,1218721040
+Guaranda,Guaranda,-1.6,-79.0,Ecuador,EC,ECU,Bolívar,admin,30755.0,1218581593
+Tena,Tena,-0.989,-77.8159,Ecuador,EC,ECU,Napo,admin,29724.0,1218759537
+San Lorenzo de Esmeraldas,San Lorenzo de Esmeraldas,1.2864,-78.8353,Ecuador,EC,ECU,Esmeraldas,,28491.0,1218156660
+Jaramijó,Jaramijo,-0.9487,-80.6363,Ecuador,EC,ECU,Manabí,,28397.0,1218297465
+Pedernales,Pedernales,0.07,-80.055,Ecuador,EC,ECU,Manabí,,27068.0,1218670991
+Catamayo,Catamayo,-3.9833,-79.35,Ecuador,EC,ECU,Loja,,27026.0,1218400594
+Atuntaqui,Atuntaqui,0.3317,-78.2189,Ecuador,EC,ECU,Imbabura,,25115.0,1218840955
+Pedro Carbo,Pedro Carbo,-1.8179,-80.233,Ecuador,EC,ECU,Guayas,,24882.0,1218092556
+Machachi,Machachi,-0.51,-78.57,Ecuador,EC,ECU,Pichincha,,24188.0,1218716306
+Valencia,Valencia,-0.9525,-79.3531,Ecuador,EC,ECU,Los Ríos,,22996.0,1218923469
+Yaguachi Nuevo,Yaguachi Nuevo,-2.12,-79.69,Ecuador,EC,ECU,Guayas,,22972.0,1218680506
+Camilo Ponce Enríquez,Camilo Ponce Enriquez,-3.05,-79.7333,Ecuador,EC,ECU,Azuay,,22810.0,1218840796
+Macas,Macas,-2.3667,-78.1333,Ecuador,EC,ECU,Morona-Santiago,admin,22398.0,1218176372
+Bahía de Caráquez,Bahia de Caraquez,-0.5995,-80.4245,Ecuador,EC,ECU,Manabí,,22209.0,1218764402
+Guabo,Guabo,-3.2388,-79.8292,Ecuador,EC,ECU,El Oro,,22172.0,1218736994
+Puerto Quito,Puerto Quito,0.1272,-79.2531,Ecuador,EC,ECU,Pichincha,,20445.0,1218847413
+Calceta,Calceta,-0.84,-80.17,Ecuador,EC,ECU,Manabí,,20011.0,1218330963
+Atacames,Atacames,0.8667,-79.8333,Ecuador,EC,ECU,Esmeraldas,,18948.0,1218813219
+Valle,Valle,-2.95,-78.9833,Ecuador,EC,ECU,Azuay,,18692.0,1218202285
+Piñas,Pinas,-3.6806,-79.6806,Ecuador,EC,ECU,El Oro,,18482.0,1218213967
+Zamora,Zamora,-4.0692,-78.9567,Ecuador,EC,ECU,Zamora-Chinchipe,admin,17584.0,1218873167
+San Antonio de Ibarra,San Antonio de Ibarra,0.3627,-78.1307,Ecuador,EC,ECU,Imbabura,,17500.0,1218584009
+San Miguel de Salcedo,San Miguel de Salcedo,-1.05,-78.5833,Ecuador,EC,ECU,Cotopaxi,,16751.0,1218435695
+Lomas de Sargentillo,Lomas de Sargentillo,-1.8833,-80.0833,Ecuador,EC,ECU,Guayas,,16603.0,1218238536
+Montalvo,Montalvo,-1.79,-79.2875,Ecuador,EC,ECU,Los Ríos,,16248.0,1218685895
+Pujilí,Pujili,-0.95,-78.69,Ecuador,EC,ECU,Cotopaxi,,16152.0,1218970258
+San Gabriel,San Gabriel,0.5983,-77.8353,Ecuador,EC,ECU,Carchi,,14497.0,1218199820
+Baños,Banos,-1.3964,-78.4247,Ecuador,EC,ECU,Tungurahua,,14100.0,1218100027
+Ricaurte,Ricaurte,-2.8667,-78.9333,Ecuador,EC,ECU,Azuay,,14006.0,1218488658
+Yantzaza,Yantzaza,-3.85,-78.75,Ecuador,EC,ECU,Zamora-Chinchipe,,13335.0,1218094886
+Cariamanga,Cariamanga,-4.32,-79.56,Ecuador,EC,ECU,Loja,,13175.0,1218774934
+Baláo,Balao,-2.91,-79.81,Ecuador,EC,ECU,Guayas,,12850.0,1218137948
+Puerto Ayora,Puerto Ayora,-0.75,-90.3167,Ecuador,EC,ECU,Galápagos,,12696.0,1218585265
+Sinincay,Sinincay,-2.8333,-79.0,Ecuador,EC,ECU,Azuay,,12650.0,1218165430
+Puerto López,Puerto Lopez,-1.5589,-80.8106,Ecuador,EC,ECU,Manabí,,12598.0,1218728984
+Macará,Macara,-4.3833,-79.95,Ecuador,EC,ECU,Loja,,12454.0,1218426387
+Baños,Banos,-2.9,-79.0667,Ecuador,EC,ECU,Azuay,,12271.0,1218450248
+Zumbagua,Zumbagua,-0.9558,-78.9017,Ecuador,EC,ECU,Cotopaxi,,11895.0,1218423664
+Cumandá,Cumanda,-2.2058,-79.1339,Ecuador,EC,ECU,Cañar,,11442.0,1218168365
+Pelileo,Pelileo,-1.3306,-78.5428,Ecuador,EC,ECU,Tungurahua,,11403.0,1218236950
+Tosagua,Tosagua,-0.78,-80.26,Ecuador,EC,ECU,Manabí,,11317.0,1218293218
+Santa Cruz,Santa Cruz,-0.5333,-90.35,Ecuador,EC,ECU,Galápagos,,11262.0,1218773967
+Sucúa,Sucua,-2.46,-78.17,Ecuador,EC,ECU,Morona-Santiago,,10846.0,1218279880
+Rocafuerte,Rocafuerte,-0.9236,-80.4495,Ecuador,EC,ECU,Manabí,,10574.0,1218553035
+Cotacachi,Cotacachi,0.3,-78.2667,Ecuador,EC,ECU,Imbabura,,10526.0,1218941888
+Palestina,Palestina,-1.6263,-79.977,Ecuador,EC,ECU,Guayas,,10392.0,1218128437
+Piedrahita,Piedrahita,-1.9167,-80.0115,Ecuador,EC,ECU,Guayas,,10010.0,1218821300
+Zaruma,Zaruma,-3.6833,-79.6,Ecuador,EC,ECU,El Oro,,10005.0,1218248860
+Saquisilí,Saquisili,-0.83,-78.67,Ecuador,EC,ECU,Cotopaxi,,9883.0,1218230817
+San Vicente,San Vicente,-1.9,-79.2333,Ecuador,EC,ECU,Bolívar,,9819.0,1218567919
+Píllaro,Pillaro,-1.1667,-78.5333,Ecuador,EC,ECU,Tungurahua,,9816.0,1218633386
+Gualaquiza,Gualaquiza,-3.38,-78.58,Ecuador,EC,ECU,Morona-Santiago,,9157.0,1218241886
+Guano,Guano,-1.5833,-78.6333,Ecuador,EC,ECU,Chimborazo,,9136.0,1218631999
+San Miguel,San Miguel,-1.7,-79.0333,Ecuador,EC,ECU,Bolívar,,8806.0,1218602565
+Simón Bolívar,Simon Bolivar,-2.0025,-79.4856,Ecuador,EC,ECU,Guayas,,8696.0,1218861286
+Puerto Baquerizo Moreno,Puerto Baquerizo Moreno,-0.9025,-89.6092,Ecuador,EC,ECU,Galápagos,admin,7290.0,1218093882
+Alausí,Alausi,-2.19,-78.85,Ecuador,EC,ECU,Chimborazo,,6071.0,1218578121
+Muisne,Muisne,0.6108,-80.0186,Ecuador,EC,ECU,Esmeraldas,,5574.0,1218271569
+Valdez,Valdez,1.25,-79.0,Ecuador,EC,ECU,Esmeraldas,,4956.0,1218064465
+Puerto Villamil,Puerto Villamil,-0.9568,-90.9672,Ecuador,EC,ECU,Galápagos,,2200.0,1218383536
+Yaupi,Yaupi,-2.8379,-77.9357,Ecuador,EC,ECU,Morona-Santiago,,293.0,1218516951
+Guayaquil,Guayaquil,-2.19,-79.8875,Ecuador,EC,ECU,Guayas,admin,2650288.0,1218802178
+Quito,Quito,-0.22,-78.5125,Ecuador,EC,ECU,Pichincha,primary,1763275.0,1218441993
+Cuenca,Cuenca,-2.8974,-79.0045,Ecuador,EC,ECU,Azuay,admin,361524.0,1218041020
+Santo Domingo de los Colorados,Santo Domingo de los Colorados,-0.2542,-79.1719,Ecuador,EC,ECU,Santo Domingo de los Tsáchilas,admin,334826.0,1218148017
+Eloy Alfaro,Eloy Alfaro,-2.1733,-79.8311,Ecuador,EC,ECU,Guayas,,295211.0,1218127217
+Machala,Machala,-3.2667,-79.9667,Ecuador,EC,ECU,El Oro,admin,288072.0,1218378191
+Manta,Manta,-0.95,-80.7162,Ecuador,EC,ECU,Manabí,,258697.0,1218160109
+Portoviejo,Portoviejo,-1.0561,-80.4553,Ecuador,EC,ECU,Manabí,admin,244129.0,1218169586
+Loja,Loja,-3.9833,-79.2,Ecuador,EC,ECU,Loja,admin,203496.0,1218739896
+Quevedo,Quevedo,-1.0333,-79.45,Ecuador,EC,ECU,Los Ríos,,177792.0,1218928435
+Ambato,Ambato,-1.2417,-78.6197,Ecuador,EC,ECU,Tungurahua,admin,177316.0,1218046148
+Riobamba,Riobamba,-1.6731,-78.6483,Ecuador,EC,ECU,Chimborazo,admin,177213.0,1218552075
+Daule,Daule,-1.8667,-79.9833,Ecuador,EC,ECU,Guayas,,161498.0,1218253183
+Milagro,Milagro,-2.1347,-79.5872,Ecuador,EC,ECU,Guayas,,159970.0,1218568564
+Ibarra,Ibarra,0.3627,-78.1307,Ecuador,EC,ECU,Imbabura,admin,157941.0,1218479054
+Esmeraldas,Esmeraldas,0.9667,-79.6528,Ecuador,EC,ECU,Esmeraldas,admin,155487.0,1218601363
+La Libertad,La Libertad,-2.2333,-80.9,Ecuador,EC,ECU,Guayas,,112154.0,1218254479
+Babahoyo,Babahoyo,-1.8167,-79.5167,Ecuador,EC,ECU,Los Ríos,admin,98251.0,1218156392
+Sangolquí,Sangolqui,-0.3344,-78.4475,Ecuador,EC,ECU,Pichincha,,96647.0,1218715616
+Latacunga,Latacunga,-0.9319,-78.6161,Ecuador,EC,ECU,Cotopaxi,admin,77267.0,1218947988
+Samborondón,Samborondon,-2.1833,-79.8833,Ecuador,EC,ECU,Guayas,,72425.0,1218370377
+Montecristi,Montecristi,-1.05,-80.6667,Ecuador,EC,ECU,Manabí,,71066.0,1218883853
+Pasaje,Pasaje,-3.3269,-79.8049,Ecuador,EC,ECU,El Oro,,60147.0,1218997966
+Santa Rosa,Santa Rosa,-3.4522,-79.9617,Ecuador,EC,ECU,El Oro,,56842.0,1218626394
+Tulcán,Tulcan,0.8117,-77.7186,Ecuador,EC,ECU,Carchi,admin,56719.0,1218976878
+Huaquillas,Huaquillas,-3.4814,-80.2432,Ecuador,EC,ECU,El Oro,,56021.0,1218443042
+Nueva Loja,Nueva Loja,0.0847,-76.8828,Ecuador,EC,ECU,Sucumbíos,admin,55627.0,1218895755
+Chone,Chone,-0.6833,-80.1,Ecuador,EC,ECU,Manabí,,54629.0,1218083347
+Santa Elena,Santa Elena,-2.2267,-80.8583,Ecuador,EC,ECU,Santa Elena,admin,54565.0,1218296446
+Puerto Francisco de Orellana,Puerto Francisco de Orellana,-0.4625,-76.9842,Ecuador,EC,ECU,Orellana,admin,51281.0,1218387446
+Playas,Playas,-2.63,-80.39,Ecuador,EC,ECU,Guayas,,48156.0,1218216648
+San Jacinto de Buena Fe,San Jacinto de Buena Fe,-0.8986,-79.4889,Ecuador,EC,ECU,Los Ríos,,46779.0,1218724130
+Jipijapa,Jipijapa,-1.3486,-80.5786,Ecuador,EC,ECU,Manabí,,45382.0,1218962184
+Cayambe,Cayambe,0.0439,-78.1561,Ecuador,EC,ECU,Pichincha,,44559.0,1218475970
+Velasco Ibarra,Velasco Ibarra,-1.0439,-79.6383,Ecuador,EC,ECU,Guayas,,41778.0,1218000005
+Otavalo,Otavalo,0.2303,-78.2625,Ecuador,EC,ECU,Imbabura,,41718.0,1218541444
+Ventanas,Ventanas,-1.45,-79.47,Ecuador,EC,ECU,Los Ríos,,41531.0,1218067203
+La Troncal,La Troncal,-2.4,-79.33,Ecuador,EC,ECU,Cañar,,39600.0,1218086252
+Naranjal,Naranjal,-2.6736,-79.6183,Ecuador,EC,ECU,Guayas,,39323.0,1218900978
+Azogues,Azogues,-2.7333,-78.8333,Ecuador,EC,ECU,Cañar,admin,35763.0,1218651012
+La Concordia,La Concordia,-0.0067,-79.3958,Ecuador,EC,ECU,Esmeraldas,,35474.0,1218975936
+Salinas,Salinas,-2.2167,-80.9501,Ecuador,EC,ECU,Guayas,,35066.0,1218838548
+Vinces,Vinces,-1.55,-79.7333,Ecuador,EC,ECU,Los Ríos,,35064.0,1218211679
+Naranjito,Naranjito,-2.1667,-79.4653,Ecuador,EC,ECU,Guayas,,34664.0,1218386613
+Puyo,Puyo,-1.4861,-78.0028,Ecuador,EC,ECU,Pastaza,admin,33325.0,1218537461
+Balzar,Balzar,-1.36,-79.9,Ecuador,EC,ECU,Guayas,,32744.0,1218257587
+La Maná,La Mana,-0.93,-79.22,Ecuador,EC,ECU,Cotopaxi,,31740.0,1218200586
+Rosa Zarate,Rosa Zarate,0.33,-79.48,Ecuador,EC,ECU,Esmeraldas,,31120.0,1218721040
+Guaranda,Guaranda,-1.6,-79.0,Ecuador,EC,ECU,Bolívar,admin,30755.0,1218581593
+Tena,Tena,-0.989,-77.8159,Ecuador,EC,ECU,Napo,admin,29724.0,1218759537
+San Lorenzo de Esmeraldas,San Lorenzo de Esmeraldas,1.2864,-78.8353,Ecuador,EC,ECU,Esmeraldas,,28491.0,1218156660
+Jaramijó,Jaramijo,-0.9487,-80.6363,Ecuador,EC,ECU,Manabí,,28397.0,1218297465
+Pedernales,Pedernales,0.07,-80.055,Ecuador,EC,ECU,Manabí,,27068.0,1218670991
+Catamayo,Catamayo,-3.9833,-79.35,Ecuador,EC,ECU,Loja,,27026.0,1218400594
+Atuntaqui,Atuntaqui,0.3317,-78.2189,Ecuador,EC,ECU,Imbabura,,25115.0,1218840955
+Pedro Carbo,Pedro Carbo,-1.8179,-80.233,Ecuador,EC,ECU,Guayas,,24882.0,1218092556
+Machachi,Machachi,-0.51,-78.57,Ecuador,EC,ECU,Pichincha,,24188.0,1218716306
+Valencia,Valencia,-0.9525,-79.3531,Ecuador,EC,ECU,Los Ríos,,22996.0,1218923469
+Yaguachi Nuevo,Yaguachi Nuevo,-2.12,-79.69,Ecuador,EC,ECU,Guayas,,22972.0,1218680506
+Camilo Ponce Enríquez,Camilo Ponce Enriquez,-3.05,-79.7333,Ecuador,EC,ECU,Azuay,,22810.0,1218840796
+Macas,Macas,-2.3667,-78.1333,Ecuador,EC,ECU,Morona-Santiago,admin,22398.0,1218176372
+Bahía de Caráquez,Bahia de Caraquez,-0.5995,-80.4245,Ecuador,EC,ECU,Manabí,,22209.0,1218764402
+Guabo,Guabo,-3.2388,-79.8292,Ecuador,EC,ECU,El Oro,,22172.0,1218736994
+Puerto Quito,Puerto Quito,0.1272,-79.2531,Ecuador,EC,ECU,Pichincha,,20445.0,1218847413
+Calceta,Calceta,-0.84,-80.17,Ecuador,EC,ECU,Manabí,,20011.0,1218330963
+Atacames,Atacames,0.8667,-79.8333,Ecuador,EC,ECU,Esmeraldas,,18948.0,1218813219
+Valle,Valle,-2.95,-78.9833,Ecuador,EC,ECU,Azuay,,18692.0,1218202285
+Piñas,Pinas,-3.6806,-79.6806,Ecuador,EC,ECU,El Oro,,18482.0,1218213967
+Zamora,Zamora,-4.0692,-78.9567,Ecuador,EC,ECU,Zamora-Chinchipe,admin,17584.0,1218873167
+San Antonio de Ibarra,San Antonio de Ibarra,0.3627,-78.1307,Ecuador,EC,ECU,Imbabura,,17500.0,1218584009
+San Miguel de Salcedo,San Miguel de Salcedo,-1.05,-78.5833,Ecuador,EC,ECU,Cotopaxi,,16751.0,1218435695
+Lomas de Sargentillo,Lomas de Sargentillo,-1.8833,-80.0833,Ecuador,EC,ECU,Guayas,,16603.0,1218238536
+Montalvo,Montalvo,-1.79,-79.2875,Ecuador,EC,ECU,Los Ríos,,16248.0,1218685895
+Pujilí,Pujili,-0.95,-78.69,Ecuador,EC,ECU,Cotopaxi,,16152.0,1218970258
+San Gabriel,San Gabriel,0.5983,-77.8353,Ecuador,EC,ECU,Carchi,,14497.0,1218199820
+Baños,Banos,-1.3964,-78.4247,Ecuador,EC,ECU,Tungurahua,,14100.0,1218100027
+Ricaurte,Ricaurte,-2.8667,-78.9333,Ecuador,EC,ECU,Azuay,,14006.0,1218488658
+Yantzaza,Yantzaza,-3.85,-78.75,Ecuador,EC,ECU,Zamora-Chinchipe,,13335.0,1218094886
+Cariamanga,Cariamanga,-4.32,-79.56,Ecuador,EC,ECU,Loja,,13175.0,1218774934
+Baláo,Balao,-2.91,-79.81,Ecuador,EC,ECU,Guayas,,12850.0,1218137948
+Puerto Ayora,Puerto Ayora,-0.75,-90.3167,Ecuador,EC,ECU,Galápagos,,12696.0,1218585265
+Sinincay,Sinincay,-2.8333,-79.0,Ecuador,EC,ECU,Azuay,,12650.0,1218165430
+Puerto López,Puerto Lopez,-1.5589,-80.8106,Ecuador,EC,ECU,Manabí,,12598.0,1218728984
+Macará,Macara,-4.3833,-79.95,Ecuador,EC,ECU,Loja,,12454.0,1218426387
+Baños,Banos,-2.9,-79.0667,Ecuador,EC,ECU,Azuay,,12271.0,1218450248
+Zumbagua,Zumbagua,-0.9558,-78.9017,Ecuador,EC,ECU,Cotopaxi,,11895.0,1218423664
+Cumandá,Cumanda,-2.2058,-79.1339,Ecuador,EC,ECU,Cañar,,11442.0,1218168365
+Pelileo,Pelileo,-1.3306,-78.5428,Ecuador,EC,ECU,Tungurahua,,11403.0,1218236950
+Tosagua,Tosagua,-0.78,-80.26,Ecuador,EC,ECU,Manabí,,11317.0,1218293218
+Santa Cruz,Santa Cruz,-0.5333,-90.35,Ecuador,EC,ECU,Galápagos,,11262.0,1218773967
+Sucúa,Sucua,-2.46,-78.17,Ecuador,EC,ECU,Morona-Santiago,,10846.0,1218279880
+Rocafuerte,Rocafuerte,-0.9236,-80.4495,Ecuador,EC,ECU,Manabí,,10574.0,1218553035
+Cotacachi,Cotacachi,0.3,-78.2667,Ecuador,EC,ECU,Imbabura,,10526.0,1218941888
+Palestina,Palestina,-1.6263,-79.977,Ecuador,EC,ECU,Guayas,,10392.0,1218128437
+Piedrahita,Piedrahita,-1.9167,-80.0115,Ecuador,EC,ECU,Guayas,,10010.0,1218821300
+Zaruma,Zaruma,-3.6833,-79.6,Ecuador,EC,ECU,El Oro,,10005.0,1218248860
+Saquisilí,Saquisili,-0.83,-78.67,Ecuador,EC,ECU,Cotopaxi,,9883.0,1218230817
+San Vicente,San Vicente,-1.9,-79.2333,Ecuador,EC,ECU,Bolívar,,9819.0,1218567919
+Píllaro,Pillaro,-1.1667,-78.5333,Ecuador,EC,ECU,Tungurahua,,9816.0,1218633386
+Gualaquiza,Gualaquiza,-3.38,-78.58,Ecuador,EC,ECU,Morona-Santiago,,9157.0,1218241886
+Guano,Guano,-1.5833,-78.6333,Ecuador,EC,ECU,Chimborazo,,9136.0,1218631999
+San Miguel,San Miguel,-1.7,-79.0333,Ecuador,EC,ECU,Bolívar,,8806.0,1218602565
+Simón Bolívar,Simon Bolivar,-2.0025,-79.4856,Ecuador,EC,ECU,Guayas,,8696.0,1218861286
+Puerto Baquerizo Moreno,Puerto Baquerizo Moreno,-0.9025,-89.6092,Ecuador,EC,ECU,Galápagos,admin,7290.0,1218093882
+Alausí,Alausi,-2.19,-78.85,Ecuador,EC,ECU,Chimborazo,,6071.0,1218578121
+Muisne,Muisne,0.6108,-80.0186,Ecuador,EC,ECU,Esmeraldas,,5574.0,1218271569
+Valdez,Valdez,1.25,-79.0,Ecuador,EC,ECU,Esmeraldas,,4956.0,1218064465
+Puerto Villamil,Puerto Villamil,-0.9568,-90.9672,Ecuador,EC,ECU,Galápagos,,2200.0,1218383536
+Yaupi,Yaupi,-2.8379,-77.9357,Ecuador,EC,ECU,Morona-Santiago,,293.0,1218516951

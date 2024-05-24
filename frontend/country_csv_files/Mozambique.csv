@@ -1,0 +1,109 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Maputo,Maputo,-25.9667,32.5833,Mozambique,MZ,MOZ,Maputo,primary,1133200.0,1508074843
+Matola,Matola,-25.9667,32.4667,Mozambique,MZ,MOZ,Maputo,,1032197.0,1508768577
+Nampula,Nampula,-15.1167,39.2667,Mozambique,MZ,MOZ,Nampula,admin,743000.0,1508958445
+Beira,Beira,-19.8333,34.85,Mozambique,MZ,MOZ,Sofala,admin,530604.0,1508407369
+António Enes,Antonio Enes,-16.2333,39.9167,Mozambique,MZ,MOZ,Nampula,,347175.0,1508591443
+Chimoio,Chimoio,-19.1167,33.45,Mozambique,MZ,MOZ,Manica,admin,238976.0,1508460246
+Cidade de Nacala,Cidade de Nacala,-14.5428,40.6728,Mozambique,MZ,MOZ,Nampula,,206449.0,1508752825
+Malema,Malema,-14.9486,37.4144,Mozambique,MZ,MOZ,Nampula,,195077.0,1508782895
+Quelimane,Quelimane,-17.8764,36.8872,Mozambique,MZ,MOZ,Zambézia,admin,192876.0,1508396687
+Tete,Tete,-16.1667,33.6,Mozambique,MZ,MOZ,Tete,admin,152909.0,1508476900
+Vila Junqueiro,Vila Junqueiro,-15.4667,36.9833,Mozambique,MZ,MOZ,Zambézia,,145466.0,1508271174
+Lichinga,Lichinga,-13.3167,35.2333,Mozambique,MZ,MOZ,Niassa,admin,142253.0,1508041628
+Pemba,Pemba,-12.9667,40.55,Mozambique,MZ,MOZ,Cabo Delgado,admin,141316.0,1508872233
+Xai-Xai,Xai-Xai,-25.05,33.65,Mozambique,MZ,MOZ,Gaza,admin,116343.0,1508689070
+Maxixe,Maxixe,-23.8667,35.35,Mozambique,MZ,MOZ,Inhambane,,108824.0,1508002342
+Cuamba,Cuamba,-14.8167,36.55,Mozambique,MZ,MOZ,Niassa,,79013.0,1508862081
+Montepuez,Montepuez,-13.1167,39.0,Mozambique,MZ,MOZ,Cabo Delgado,,76139.0,1508552201
+Dondo,Dondo,-19.6167,34.75,Mozambique,MZ,MOZ,Sofala,,70817.0,1508741848
+Mocuba,Mocuba,-16.85,36.9833,Mozambique,MZ,MOZ,Zambézia,,69045.0,1508922450
+Mocuba,Mocuba,-16.8496,38.26,Mozambique,MZ,MOZ,Zambézia,,68984.0,1508699932
+Inhambane,Inhambane,-23.865,35.3833,Mozambique,MZ,MOZ,Inhambane,admin,63837.0,1508945412
+Chokwé,Chokwe,-24.5253,33.0086,Mozambique,MZ,MOZ,Gaza,,63695.0,1508737607
+Manhiça,Manhica,-25.4,32.8,Mozambique,MZ,MOZ,Maputo,,60031.0,1508278730
+Pebane,Pebane,-17.2667,38.1667,Mozambique,MZ,MOZ,Zambézia,,58342.0,1508524941
+Chibuto,Chibuto,-24.6833,33.5333,Mozambique,MZ,MOZ,Gaza,,58012.0,1508468789
+Moatize,Moatize,-16.1167,33.7333,Mozambique,MZ,MOZ,Tete,,39073.0,1508074512
+Songo,Songo,-15.6142,32.7709,Mozambique,MZ,MOZ,Tete,,36523.0,1508318557
+Macomia,Macomia,-12.2377,40.119,Mozambique,MZ,MOZ,Cabo Delgado,,35682.0,1508378335
+Zumbo,Zumbo,-15.6167,30.45,Mozambique,MZ,MOZ,Tete,,33000.0,1508473445
+Mocímboa da Praia,Mocimboa da Praia,-11.35,40.3333,Mozambique,MZ,MOZ,Cabo Delgado,,30950.0,1508896362
+Namaacha,Namaacha,-25.9667,32.0333,Mozambique,MZ,MOZ,Maputo,,29272.0,1508141495
+Catandica,Catandica,-18.0564,33.1747,Mozambique,MZ,MOZ,Manica,,29052.0,1508992783
+Mocímboa,Mocimboa,-11.3196,40.35,Mozambique,MZ,MOZ,Cabo Delgado,,27909.0,1508815299
+Manjacaze,Manjacaze,-24.7117,33.8828,Mozambique,MZ,MOZ,Gaza,,26641.0,1508000199
+Palma,Palma,-10.7758,40.4667,Mozambique,MZ,MOZ,Cabo Delgado,,25627.0,1508033717
+Ulongué,Ulongue,-14.7167,34.3667,Mozambique,MZ,MOZ,Tete,,25309.0,1508479155
+Catembe,Catembe,-26.005,32.5597,Mozambique,MZ,MOZ,Maputo,,25000.0,1508571099
+Vilankulo,Vilankulo,-22.0,35.3167,Mozambique,MZ,MOZ,Inhambane,,24433.0,1508379289
+Macia,Macia,-25.0333,33.1,Mozambique,MZ,MOZ,Gaza,,24153.0,1508558129
+Mapai,Mapai,-22.7306,32.0583,Mozambique,MZ,MOZ,Gaza,,19932.0,1508081096
+Chinde,Chinde,-18.5833,36.4667,Mozambique,MZ,MOZ,Zambézia,,16500.0,1508587868
+Ilha de Moçambique,Ilha de Mocambique,-15.0367,40.7328,Mozambique,MZ,MOZ,Nampula,,14000.0,1508063712
+Ancuabe,Ancuabe,-12.9833,39.85,Mozambique,MZ,MOZ,Cabo Delgado,,12561.0,1508613485
+Inhassoro,Inhassoro,-21.5333,35.2,Mozambique,MZ,MOZ,Inhambane,,11297.0,1508276563
+Závora,Zavora,-24.5167,35.2,Mozambique,MZ,MOZ,Inhambane,,10000.0,1508814998
+Marrupa,Marrupa,-13.1833,37.5,Mozambique,MZ,MOZ,Niassa,,8762.0,1508890063
+Nicoadala,Nicoadala,-17.6077,36.8197,Mozambique,MZ,MOZ,Zambézia,,6945.0,1508484170
+Manica,Manica,-18.9344,32.8756,Mozambique,MZ,MOZ,Manica,,4000.0,1508848017
+Ligonha,Ligonha,-15.1757,37.74,Mozambique,MZ,MOZ,Nampula,,3500.0,1508105140
+Regedor Quissico,Regedor Quissico,-24.7257,34.766,Mozambique,MZ,MOZ,Inhambane,,1210.0,1508214411
+Massangena,Massangena,-21.5378,32.9564,Mozambique,MZ,MOZ,Gaza,,650.0,1508224482
+Panda,Panda,-24.0629,34.7303,Mozambique,MZ,MOZ,Inhambane,,602.0,1508574997
+Chiramba,Chiramba,-16.8921,34.6559,Mozambique,MZ,MOZ,Manica,,556.0,1508392455
+Espungabera,Espungabera,-20.4531,32.7725,Mozambique,MZ,MOZ,Manica,,393.0,1508256538
+Maputo,Maputo,-25.9667,32.5833,Mozambique,MZ,MOZ,Maputo,primary,1133200.0,1508074843
+Matola,Matola,-25.9667,32.4667,Mozambique,MZ,MOZ,Maputo,,1032197.0,1508768577
+Nampula,Nampula,-15.1167,39.2667,Mozambique,MZ,MOZ,Nampula,admin,743000.0,1508958445
+Beira,Beira,-19.8333,34.85,Mozambique,MZ,MOZ,Sofala,admin,530604.0,1508407369
+António Enes,Antonio Enes,-16.2333,39.9167,Mozambique,MZ,MOZ,Nampula,,347175.0,1508591443
+Chimoio,Chimoio,-19.1167,33.45,Mozambique,MZ,MOZ,Manica,admin,238976.0,1508460246
+Cidade de Nacala,Cidade de Nacala,-14.5428,40.6728,Mozambique,MZ,MOZ,Nampula,,206449.0,1508752825
+Malema,Malema,-14.9486,37.4144,Mozambique,MZ,MOZ,Nampula,,195077.0,1508782895
+Quelimane,Quelimane,-17.8764,36.8872,Mozambique,MZ,MOZ,Zambézia,admin,192876.0,1508396687
+Tete,Tete,-16.1667,33.6,Mozambique,MZ,MOZ,Tete,admin,152909.0,1508476900
+Vila Junqueiro,Vila Junqueiro,-15.4667,36.9833,Mozambique,MZ,MOZ,Zambézia,,145466.0,1508271174
+Lichinga,Lichinga,-13.3167,35.2333,Mozambique,MZ,MOZ,Niassa,admin,142253.0,1508041628
+Pemba,Pemba,-12.9667,40.55,Mozambique,MZ,MOZ,Cabo Delgado,admin,141316.0,1508872233
+Xai-Xai,Xai-Xai,-25.05,33.65,Mozambique,MZ,MOZ,Gaza,admin,116343.0,1508689070
+Maxixe,Maxixe,-23.8667,35.35,Mozambique,MZ,MOZ,Inhambane,,108824.0,1508002342
+Cuamba,Cuamba,-14.8167,36.55,Mozambique,MZ,MOZ,Niassa,,79013.0,1508862081
+Montepuez,Montepuez,-13.1167,39.0,Mozambique,MZ,MOZ,Cabo Delgado,,76139.0,1508552201
+Dondo,Dondo,-19.6167,34.75,Mozambique,MZ,MOZ,Sofala,,70817.0,1508741848
+Mocuba,Mocuba,-16.85,36.9833,Mozambique,MZ,MOZ,Zambézia,,69045.0,1508922450
+Mocuba,Mocuba,-16.8496,38.26,Mozambique,MZ,MOZ,Zambézia,,68984.0,1508699932
+Inhambane,Inhambane,-23.865,35.3833,Mozambique,MZ,MOZ,Inhambane,admin,63837.0,1508945412
+Chokwé,Chokwe,-24.5253,33.0086,Mozambique,MZ,MOZ,Gaza,,63695.0,1508737607
+Manhiça,Manhica,-25.4,32.8,Mozambique,MZ,MOZ,Maputo,,60031.0,1508278730
+Pebane,Pebane,-17.2667,38.1667,Mozambique,MZ,MOZ,Zambézia,,58342.0,1508524941
+Chibuto,Chibuto,-24.6833,33.5333,Mozambique,MZ,MOZ,Gaza,,58012.0,1508468789
+Moatize,Moatize,-16.1167,33.7333,Mozambique,MZ,MOZ,Tete,,39073.0,1508074512
+Songo,Songo,-15.6142,32.7709,Mozambique,MZ,MOZ,Tete,,36523.0,1508318557
+Macomia,Macomia,-12.2377,40.119,Mozambique,MZ,MOZ,Cabo Delgado,,35682.0,1508378335
+Zumbo,Zumbo,-15.6167,30.45,Mozambique,MZ,MOZ,Tete,,33000.0,1508473445
+Mocímboa da Praia,Mocimboa da Praia,-11.35,40.3333,Mozambique,MZ,MOZ,Cabo Delgado,,30950.0,1508896362
+Namaacha,Namaacha,-25.9667,32.0333,Mozambique,MZ,MOZ,Maputo,,29272.0,1508141495
+Catandica,Catandica,-18.0564,33.1747,Mozambique,MZ,MOZ,Manica,,29052.0,1508992783
+Mocímboa,Mocimboa,-11.3196,40.35,Mozambique,MZ,MOZ,Cabo Delgado,,27909.0,1508815299
+Manjacaze,Manjacaze,-24.7117,33.8828,Mozambique,MZ,MOZ,Gaza,,26641.0,1508000199
+Palma,Palma,-10.7758,40.4667,Mozambique,MZ,MOZ,Cabo Delgado,,25627.0,1508033717
+Ulongué,Ulongue,-14.7167,34.3667,Mozambique,MZ,MOZ,Tete,,25309.0,1508479155
+Catembe,Catembe,-26.005,32.5597,Mozambique,MZ,MOZ,Maputo,,25000.0,1508571099
+Vilankulo,Vilankulo,-22.0,35.3167,Mozambique,MZ,MOZ,Inhambane,,24433.0,1508379289
+Macia,Macia,-25.0333,33.1,Mozambique,MZ,MOZ,Gaza,,24153.0,1508558129
+Mapai,Mapai,-22.7306,32.0583,Mozambique,MZ,MOZ,Gaza,,19932.0,1508081096
+Chinde,Chinde,-18.5833,36.4667,Mozambique,MZ,MOZ,Zambézia,,16500.0,1508587868
+Ilha de Moçambique,Ilha de Mocambique,-15.0367,40.7328,Mozambique,MZ,MOZ,Nampula,,14000.0,1508063712
+Ancuabe,Ancuabe,-12.9833,39.85,Mozambique,MZ,MOZ,Cabo Delgado,,12561.0,1508613485
+Inhassoro,Inhassoro,-21.5333,35.2,Mozambique,MZ,MOZ,Inhambane,,11297.0,1508276563
+Závora,Zavora,-24.5167,35.2,Mozambique,MZ,MOZ,Inhambane,,10000.0,1508814998
+Marrupa,Marrupa,-13.1833,37.5,Mozambique,MZ,MOZ,Niassa,,8762.0,1508890063
+Nicoadala,Nicoadala,-17.6077,36.8197,Mozambique,MZ,MOZ,Zambézia,,6945.0,1508484170
+Manica,Manica,-18.9344,32.8756,Mozambique,MZ,MOZ,Manica,,4000.0,1508848017
+Ligonha,Ligonha,-15.1757,37.74,Mozambique,MZ,MOZ,Nampula,,3500.0,1508105140
+Regedor Quissico,Regedor Quissico,-24.7257,34.766,Mozambique,MZ,MOZ,Inhambane,,1210.0,1508214411
+Massangena,Massangena,-21.5378,32.9564,Mozambique,MZ,MOZ,Gaza,,650.0,1508224482
+Panda,Panda,-24.0629,34.7303,Mozambique,MZ,MOZ,Inhambane,,602.0,1508574997
+Chiramba,Chiramba,-16.8921,34.6559,Mozambique,MZ,MOZ,Manica,,556.0,1508392455
+Espungabera,Espungabera,-20.4531,32.7725,Mozambique,MZ,MOZ,Manica,,393.0,1508256538

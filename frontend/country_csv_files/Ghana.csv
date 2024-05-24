@@ -1,0 +1,173 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Kumasi,Kumasi,6.7,-1.625,Ghana,GH,GHA,Ashanti,admin,3490030.0,1288181103
+Boankra,Boankra,6.6944,-1.4028,Ghana,GH,GHA,Ashanti,,3348000.0,1288164978
+Accra,Accra,5.55,-0.2,Ghana,GH,GHA,Greater Accra,primary,2388000.0,1288299415
+Tamale,Tamale,9.4075,-0.8533,Ghana,GH,GHA,Northern,admin,1095808.0,1288890688
+Domaa-Ahenkro,Domaa-Ahenkro,7.2833,-2.8833,Ghana,GH,GHA,Bono,,1000000.0,1288459533
+Sekondi,Sekondi,4.9433,-1.704,Ghana,GH,GHA,Western,admin,286248.0,1288186231
+Sunyani,Sunyani,7.3333,-2.3333,Ghana,GH,GHA,Bono,admin,208496.0,1288679588
+Ashaiman,Ashaiman,5.7,-0.0333,Ghana,GH,GHA,Greater Accra,,208060.0,1288638865
+Obuase,Obuase,6.2,-1.6833,Ghana,GH,GHA,Ashanti,,180460.0,1288615192
+Cape Coast,Cape Coast,5.1,-1.25,Ghana,GH,GHA,Central,admin,169894.0,1288506097
+Tema,Tema,5.6667,-0.0167,Ghana,GH,GHA,Greater Accra,,161612.0,1288205885
+Medina Estates,Medina Estates,5.6833,-0.1667,Ghana,GH,GHA,Greater Accra,,137162.0,1288850745
+Koforidua,Koforidua,6.0833,-0.25,Ghana,GH,GHA,Eastern,admin,127334.0,1288961962
+Suhum,Suhum,6.0333,-0.45,Ghana,GH,GHA,Eastern,,126403.0,1288836102
+Kintampo,Kintampo,8.0522,-1.7347,Ghana,GH,GHA,Bono East,,111000.0,1288911745
+Wa,Wa,10.0667,-2.5,Ghana,GH,GHA,Upper West,admin,107214.0,1288765586
+Atebubu,Atebubu,7.75,-0.9833,Ghana,GH,GHA,Bono East,,105938.0,1288881078
+Techiman,Techiman,7.5772,-1.9292,Ghana,GH,GHA,Bono East,admin,104212.0,1288222236
+Dzolokpuita,Dzolokpuita,6.7862,0.4437,Ghana,GH,GHA,Volta,,100000.0,1288118620
+Ho,Ho,6.6119,0.4703,Ghana,GH,GHA,Volta,admin,83715.0,1288938914
+Ahenkro,Ahenkro,7.1164,0.3242,Ghana,GH,GHA,Oti,,80813.0,1288684117
+Dome,Dome,5.655,-0.235,Ghana,GH,GHA,Greater Accra,,78785.0,1288419315
+Gbawe,Gbawe,5.5767,-0.3108,Ghana,GH,GHA,Greater Accra,,74403.0,1288613578
+Konongo,Konongo,6.6167,-1.2167,Ghana,GH,GHA,Ashanti,,71238.0,1288795145
+Ejura,Ejura,7.3833,-1.3667,Ghana,GH,GHA,Ashanti,,70807.0,1288797018
+Bawku,Bawku,11.05,-0.2333,Ghana,GH,GHA,Upper East,,69527.0,1288067377
+Swedru,Swedru,5.5306,-0.7028,Ghana,GH,GHA,Central,,68216.0,1288165565
+Bolgatanga,Bolgatanga,10.7833,-0.85,Ghana,GH,GHA,Upper East,admin,66685.0,1288943371
+Aflao,Aflao,6.1468,1.1799,Ghana,GH,GHA,Volta,,66546.0,1288563374
+Berekum,Berekum,7.45,-2.5833,Ghana,GH,GHA,Bono,,62364.0,1288257467
+Nkawkaw,Nkawkaw,6.55,-0.7667,Ghana,GH,GHA,Eastern,,61785.0,1288350107
+Tafo,Tafo,6.7358,-1.6081,Ghana,GH,GHA,Ashanti,,60919.0,1288961345
+Oda,Oda,5.9236,-0.9883,Ghana,GH,GHA,Eastern,,60604.0,1288743724
+Hohoe,Hohoe,7.149,0.4746,Ghana,GH,GHA,Volta,,56202.0,1288897773
+Winneba,Winneba,5.35,-0.625,Ghana,GH,GHA,Central,,55331.0,1288886612
+Yendi,Yendi,9.4324,-0.0043,Ghana,GH,GHA,Northern,,52008.0,1288631491
+Bogoso,Bogoso,5.5686,-2.0058,Ghana,GH,GHA,Western,,50000.0,1288602735
+Begoro,Begoro,6.3833,-0.3833,Ghana,GH,GHA,Eastern,,48516.0,1288119992
+Nsawam,Nsawam,5.8,-0.35,Ghana,GH,GHA,Eastern,,44522.0,1288888871
+Mampong,Mampong,7.0667,-1.4,Ghana,GH,GHA,Ashanti,,42037.0,1288185670
+Asamankese,Asamankese,5.8667,-0.6667,Ghana,GH,GHA,Eastern,,39435.0,1288419778
+Savelugu,Savelugu,9.6167,-0.8333,Ghana,GH,GHA,Northern,,38074.0,1288849459
+Agogo,Agogo,6.8,-1.0833,Ghana,GH,GHA,Ashanti,,36797.0,1288687736
+Anloga,Anloga,5.7919,0.9003,Ghana,GH,GHA,Volta,,35933.0,1288427445
+Prestea,Prestea,5.4333,-2.15,Ghana,GH,GHA,Western,,35760.0,1288044330
+Effia-Kuma,Effia-Kuma,4.9239,-1.7622,Ghana,GH,GHA,Western,,35094.0,1288001558
+Tarkwa,Tarkwa,5.3,-1.9833,Ghana,GH,GHA,Western,,34941.0,1288746725
+Gyapekurom,Gyapekurom,7.5833,-2.7833,Ghana,GH,GHA,Bono,,34107.0,1288171372
+Elmina,Elmina,5.0833,-1.35,Ghana,GH,GHA,Central,,33576.0,1288051661
+Kpandu,Kpandu,7.0,0.3,Ghana,GH,GHA,Volta,,28334.0,1288918364
+Axim,Axim,4.8667,-2.2333,Ghana,GH,GHA,Western,,27719.0,1288413384
+Duayaw-Nkwanta,Duayaw-Nkwanta,7.1667,-2.1,Ghana,GH,GHA,Ahafo,,27476.0,1288805863
+Navrongo,Navrongo,10.8847,-1.0903,Ghana,GH,GHA,Upper East,,27306.0,1288024756
+Apam,Apam,5.2789,-0.7397,Ghana,GH,GHA,Central,,26466.0,1288261355
+Salaga,Salaga,8.55,-0.5167,Ghana,GH,GHA,Savannah,,25472.0,1288387076
+Saltpond,Saltpond,5.2,-1.0667,Ghana,GH,GHA,Central,,24689.0,1288282866
+Akwatia,Akwatia,6.05,-0.8,Ghana,GH,GHA,Eastern,,23766.0,1288226088
+Shama,Shama,5.0167,-1.6333,Ghana,GH,GHA,Western,,23699.0,1288704035
+Nyakrom,Nyakrom,5.6167,-0.7833,Ghana,GH,GHA,Central,,22911.0,1288290852
+Keta,Keta,5.9167,0.9833,Ghana,GH,GHA,Volta,,22739.0,1288925538
+Seva,Seva,5.9845,0.9414,Ghana,GH,GHA,Volta,,22739.0,1288737377
+Somanya,Somanya,6.1039,-0.015,Ghana,GH,GHA,Eastern,,20596.0,1288817361
+Peduasi,Peduasi,5.85,-0.1833,Ghana,GH,GHA,Eastern,,18701.0,1288311590
+Aburi,Aburi,5.85,-0.1833,Ghana,GH,GHA,Eastern,,18701.0,1288664364
+Mumford,Mumford,5.2625,-0.7578,Ghana,GH,GHA,Central,,18368.0,1288614778
+Bechem,Bechem,7.0833,-2.0167,Ghana,GH,GHA,Ahafo,,17677.0,1288926942
+Kade,Kade,6.0833,-0.8333,Ghana,GH,GHA,Eastern,,16542.0,1288010670
+Odumase,Odumase,7.3667,-2.3167,Ghana,GH,GHA,Bono,,16542.0,1288366074
+Nalerigu,Nalerigu,10.5333,-0.3667,Ghana,GH,GHA,North East,admin,14927.0,1288845503
+Anomabu,Anomabu,5.1667,-1.1167,Ghana,GH,GHA,Central,,14389.0,1288745249
+Akropong,Akropong,5.9742,-0.0881,Ghana,GH,GHA,Eastern,,13785.0,1288823605
+Diari,Diari,9.8452,-0.8655,Ghana,GH,GHA,Northern,,12666.0,1288997321
+Gumani,Gumani,9.45,-0.7667,Ghana,GH,GHA,Northern,,12506.0,1288021248
+Kete Krachi,Kete Krachi,7.8,-0.0167,Ghana,GH,GHA,Oti,,11788.0,1288185431
+Kibi,Kibi,6.1667,-0.55,Ghana,GH,GHA,Eastern,,11677.0,1288567078
+Kpandae,Kpandae,8.47,-0.02,Ghana,GH,GHA,Northern,,11239.0,1288068686
+Mpraeso,Mpraeso,6.58,-0.7297,Ghana,GH,GHA,Eastern,,11190.0,1288953417
+Sawla,Sawla,9.2833,-2.4167,Ghana,GH,GHA,Savannah,,10555.0,1288207822
+Akim Swedru,Akim Swedru,5.894,-1.0127,Ghana,GH,GHA,Eastern,,10379.0,1288676050
+Karaga,Karaga,9.925,-0.4297,Ghana,GH,GHA,Northern,,10000.0,1288380968
+Aboso,Aboso,5.3633,-1.9478,Ghana,GH,GHA,Western,,9945.0,1288901641
+Chamba,Chamba,8.7,-0.1333,Ghana,GH,GHA,Northern,,8600.0,1288296967
+Damongo,Damongo,9.0833,-1.8167,Ghana,GH,GHA,Savannah,admin,2014.0,1288827226
+Goaso,Goaso,6.8,-2.5167,Ghana,GH,GHA,Ahafo,admin,,1288616024
+Dambai,Dambai,8.0689,0.1792,Ghana,GH,GHA,Oti,admin,,1288521614
+Sefwi Wiawso,Sefwi Wiawso,6.2158,-2.485,Ghana,GH,GHA,Western North,admin,,1288994228
+Kumasi,Kumasi,6.7,-1.625,Ghana,GH,GHA,Ashanti,admin,3490030.0,1288181103
+Boankra,Boankra,6.6944,-1.4028,Ghana,GH,GHA,Ashanti,,3348000.0,1288164978
+Accra,Accra,5.55,-0.2,Ghana,GH,GHA,Greater Accra,primary,2388000.0,1288299415
+Tamale,Tamale,9.4075,-0.8533,Ghana,GH,GHA,Northern,admin,1095808.0,1288890688
+Domaa-Ahenkro,Domaa-Ahenkro,7.2833,-2.8833,Ghana,GH,GHA,Bono,,1000000.0,1288459533
+Sekondi,Sekondi,4.9433,-1.704,Ghana,GH,GHA,Western,admin,286248.0,1288186231
+Sunyani,Sunyani,7.3333,-2.3333,Ghana,GH,GHA,Bono,admin,208496.0,1288679588
+Ashaiman,Ashaiman,5.7,-0.0333,Ghana,GH,GHA,Greater Accra,,208060.0,1288638865
+Obuase,Obuase,6.2,-1.6833,Ghana,GH,GHA,Ashanti,,180460.0,1288615192
+Cape Coast,Cape Coast,5.1,-1.25,Ghana,GH,GHA,Central,admin,169894.0,1288506097
+Tema,Tema,5.6667,-0.0167,Ghana,GH,GHA,Greater Accra,,161612.0,1288205885
+Medina Estates,Medina Estates,5.6833,-0.1667,Ghana,GH,GHA,Greater Accra,,137162.0,1288850745
+Koforidua,Koforidua,6.0833,-0.25,Ghana,GH,GHA,Eastern,admin,127334.0,1288961962
+Suhum,Suhum,6.0333,-0.45,Ghana,GH,GHA,Eastern,,126403.0,1288836102
+Kintampo,Kintampo,8.0522,-1.7347,Ghana,GH,GHA,Bono East,,111000.0,1288911745
+Wa,Wa,10.0667,-2.5,Ghana,GH,GHA,Upper West,admin,107214.0,1288765586
+Atebubu,Atebubu,7.75,-0.9833,Ghana,GH,GHA,Bono East,,105938.0,1288881078
+Techiman,Techiman,7.5772,-1.9292,Ghana,GH,GHA,Bono East,admin,104212.0,1288222236
+Dzolokpuita,Dzolokpuita,6.7862,0.4437,Ghana,GH,GHA,Volta,,100000.0,1288118620
+Ho,Ho,6.6119,0.4703,Ghana,GH,GHA,Volta,admin,83715.0,1288938914
+Ahenkro,Ahenkro,7.1164,0.3242,Ghana,GH,GHA,Oti,,80813.0,1288684117
+Dome,Dome,5.655,-0.235,Ghana,GH,GHA,Greater Accra,,78785.0,1288419315
+Gbawe,Gbawe,5.5767,-0.3108,Ghana,GH,GHA,Greater Accra,,74403.0,1288613578
+Konongo,Konongo,6.6167,-1.2167,Ghana,GH,GHA,Ashanti,,71238.0,1288795145
+Ejura,Ejura,7.3833,-1.3667,Ghana,GH,GHA,Ashanti,,70807.0,1288797018
+Bawku,Bawku,11.05,-0.2333,Ghana,GH,GHA,Upper East,,69527.0,1288067377
+Swedru,Swedru,5.5306,-0.7028,Ghana,GH,GHA,Central,,68216.0,1288165565
+Bolgatanga,Bolgatanga,10.7833,-0.85,Ghana,GH,GHA,Upper East,admin,66685.0,1288943371
+Aflao,Aflao,6.1468,1.1799,Ghana,GH,GHA,Volta,,66546.0,1288563374
+Berekum,Berekum,7.45,-2.5833,Ghana,GH,GHA,Bono,,62364.0,1288257467
+Nkawkaw,Nkawkaw,6.55,-0.7667,Ghana,GH,GHA,Eastern,,61785.0,1288350107
+Tafo,Tafo,6.7358,-1.6081,Ghana,GH,GHA,Ashanti,,60919.0,1288961345
+Oda,Oda,5.9236,-0.9883,Ghana,GH,GHA,Eastern,,60604.0,1288743724
+Hohoe,Hohoe,7.149,0.4746,Ghana,GH,GHA,Volta,,56202.0,1288897773
+Winneba,Winneba,5.35,-0.625,Ghana,GH,GHA,Central,,55331.0,1288886612
+Yendi,Yendi,9.4324,-0.0043,Ghana,GH,GHA,Northern,,52008.0,1288631491
+Bogoso,Bogoso,5.5686,-2.0058,Ghana,GH,GHA,Western,,50000.0,1288602735
+Begoro,Begoro,6.3833,-0.3833,Ghana,GH,GHA,Eastern,,48516.0,1288119992
+Nsawam,Nsawam,5.8,-0.35,Ghana,GH,GHA,Eastern,,44522.0,1288888871
+Mampong,Mampong,7.0667,-1.4,Ghana,GH,GHA,Ashanti,,42037.0,1288185670
+Asamankese,Asamankese,5.8667,-0.6667,Ghana,GH,GHA,Eastern,,39435.0,1288419778
+Savelugu,Savelugu,9.6167,-0.8333,Ghana,GH,GHA,Northern,,38074.0,1288849459
+Agogo,Agogo,6.8,-1.0833,Ghana,GH,GHA,Ashanti,,36797.0,1288687736
+Anloga,Anloga,5.7919,0.9003,Ghana,GH,GHA,Volta,,35933.0,1288427445
+Prestea,Prestea,5.4333,-2.15,Ghana,GH,GHA,Western,,35760.0,1288044330
+Effia-Kuma,Effia-Kuma,4.9239,-1.7622,Ghana,GH,GHA,Western,,35094.0,1288001558
+Tarkwa,Tarkwa,5.3,-1.9833,Ghana,GH,GHA,Western,,34941.0,1288746725
+Gyapekurom,Gyapekurom,7.5833,-2.7833,Ghana,GH,GHA,Bono,,34107.0,1288171372
+Elmina,Elmina,5.0833,-1.35,Ghana,GH,GHA,Central,,33576.0,1288051661
+Kpandu,Kpandu,7.0,0.3,Ghana,GH,GHA,Volta,,28334.0,1288918364
+Axim,Axim,4.8667,-2.2333,Ghana,GH,GHA,Western,,27719.0,1288413384
+Duayaw-Nkwanta,Duayaw-Nkwanta,7.1667,-2.1,Ghana,GH,GHA,Ahafo,,27476.0,1288805863
+Navrongo,Navrongo,10.8847,-1.0903,Ghana,GH,GHA,Upper East,,27306.0,1288024756
+Apam,Apam,5.2789,-0.7397,Ghana,GH,GHA,Central,,26466.0,1288261355
+Salaga,Salaga,8.55,-0.5167,Ghana,GH,GHA,Savannah,,25472.0,1288387076
+Saltpond,Saltpond,5.2,-1.0667,Ghana,GH,GHA,Central,,24689.0,1288282866
+Akwatia,Akwatia,6.05,-0.8,Ghana,GH,GHA,Eastern,,23766.0,1288226088
+Shama,Shama,5.0167,-1.6333,Ghana,GH,GHA,Western,,23699.0,1288704035
+Nyakrom,Nyakrom,5.6167,-0.7833,Ghana,GH,GHA,Central,,22911.0,1288290852
+Keta,Keta,5.9167,0.9833,Ghana,GH,GHA,Volta,,22739.0,1288925538
+Seva,Seva,5.9845,0.9414,Ghana,GH,GHA,Volta,,22739.0,1288737377
+Somanya,Somanya,6.1039,-0.015,Ghana,GH,GHA,Eastern,,20596.0,1288817361
+Peduasi,Peduasi,5.85,-0.1833,Ghana,GH,GHA,Eastern,,18701.0,1288311590
+Aburi,Aburi,5.85,-0.1833,Ghana,GH,GHA,Eastern,,18701.0,1288664364
+Mumford,Mumford,5.2625,-0.7578,Ghana,GH,GHA,Central,,18368.0,1288614778
+Bechem,Bechem,7.0833,-2.0167,Ghana,GH,GHA,Ahafo,,17677.0,1288926942
+Kade,Kade,6.0833,-0.8333,Ghana,GH,GHA,Eastern,,16542.0,1288010670
+Odumase,Odumase,7.3667,-2.3167,Ghana,GH,GHA,Bono,,16542.0,1288366074
+Nalerigu,Nalerigu,10.5333,-0.3667,Ghana,GH,GHA,North East,admin,14927.0,1288845503
+Anomabu,Anomabu,5.1667,-1.1167,Ghana,GH,GHA,Central,,14389.0,1288745249
+Akropong,Akropong,5.9742,-0.0881,Ghana,GH,GHA,Eastern,,13785.0,1288823605
+Diari,Diari,9.8452,-0.8655,Ghana,GH,GHA,Northern,,12666.0,1288997321
+Gumani,Gumani,9.45,-0.7667,Ghana,GH,GHA,Northern,,12506.0,1288021248
+Kete Krachi,Kete Krachi,7.8,-0.0167,Ghana,GH,GHA,Oti,,11788.0,1288185431
+Kibi,Kibi,6.1667,-0.55,Ghana,GH,GHA,Eastern,,11677.0,1288567078
+Kpandae,Kpandae,8.47,-0.02,Ghana,GH,GHA,Northern,,11239.0,1288068686
+Mpraeso,Mpraeso,6.58,-0.7297,Ghana,GH,GHA,Eastern,,11190.0,1288953417
+Sawla,Sawla,9.2833,-2.4167,Ghana,GH,GHA,Savannah,,10555.0,1288207822
+Akim Swedru,Akim Swedru,5.894,-1.0127,Ghana,GH,GHA,Eastern,,10379.0,1288676050
+Karaga,Karaga,9.925,-0.4297,Ghana,GH,GHA,Northern,,10000.0,1288380968
+Aboso,Aboso,5.3633,-1.9478,Ghana,GH,GHA,Western,,9945.0,1288901641
+Chamba,Chamba,8.7,-0.1333,Ghana,GH,GHA,Northern,,8600.0,1288296967
+Damongo,Damongo,9.0833,-1.8167,Ghana,GH,GHA,Savannah,admin,2014.0,1288827226
+Goaso,Goaso,6.8,-2.5167,Ghana,GH,GHA,Ahafo,admin,,1288616024
+Dambai,Dambai,8.0689,0.1792,Ghana,GH,GHA,Oti,admin,,1288521614
+Sefwi Wiawso,Sefwi Wiawso,6.2158,-2.485,Ghana,GH,GHA,Western North,admin,,1288994228

@@ -1,0 +1,101 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Beirut,Beirut,33.8983,35.5057,Lebanon,LB,LBN,Beyrouth,primary,2421354.0,1422847713
+Barr Eliâs,Barr Elias,33.775,35.9,Lebanon,LB,LBN,Béqaa,,300000.0,1422386644
+Tripoli,Tripoli,34.4367,35.8344,Lebanon,LB,LBN,Liban-Nord,admin,243800.0,1422886065
+Sidon,Sidon,33.5606,35.3758,Lebanon,LB,LBN,Liban-Sud,admin,163554.0,1422897920
+El Minié,El Minie,34.447,35.8178,Lebanon,LB,LBN,Liban-Nord,,150000.0,1422845769
+Borj Hammoud,Borj Hammoud,33.8936,35.5403,Lebanon,LB,LBN,Mont-Liban,,150000.0,1422255275
+Aaley,Aaley,33.8,35.6,Lebanon,LB,LBN,Mont-Liban,minor,130000.0,1422055581
+Joünié,Jounie,33.9697,35.6156,Lebanon,LB,LBN,Mont-Liban,minor,102221.0,1422032780
+Zahlé,Zahle,33.8333,35.9167,Lebanon,LB,LBN,Béqaa,admin,100000.0,1422031285
+Baabda,Baabda,33.8333,35.5333,Lebanon,LB,LBN,Mont-Liban,admin,84900.0,1422639397
+Baalbek,Baalbek,34.0063,36.2073,Lebanon,LB,LBN,Baalbek-Hermel,admin,81052.0,1422694451
+Nabatîyé,Nabatiye,33.3833,35.45,Lebanon,LB,LBN,Nabatîyé,admin,80000.0,1422269278
+Borj el Qoblé,Borj el Qoble,33.2631,35.2389,Lebanon,LB,LBN,Liban-Sud,,61973.0,1422937881
+Tyre,Tyre,33.2708,35.1961,Lebanon,LB,LBN,Liban-Sud,minor,60000.0,1422316734
+Qabb Eliâs,Qabb Elias,33.7986,35.825,Lebanon,LB,LBN,Béqaa,,50000.0,1422087652
+El Ghâzîyé,El Ghaziye,33.5186,35.3661,Lebanon,LB,LBN,Liban-Sud,,50000.0,1422216263
+Aarsâl,Aarsal,34.1794,36.4208,Lebanon,LB,LBN,Baalbek-Hermel,,50000.0,1422612862
+Batroûn,Batroun,34.25,35.65,Lebanon,LB,LBN,Liban-Nord,minor,45000.0,1422217431
+Jbaïl,Jbail,34.1236,35.6519,Lebanon,LB,LBN,Mont-Liban,minor,40000.0,1422678909
+Chmistâr,Chmistar,33.9667,36.0167,Lebanon,LB,LBN,Baalbek-Hermel,,30000.0,1422851411
+El Fanar,El Fanar,33.8667,35.5667,Lebanon,LB,LBN,Mont-Liban,,30000.0,1422818939
+Bent Jbaïl,Bent Jbail,33.1208,35.4336,Lebanon,LB,LBN,Nabatîyé,minor,30000.0,1422323141
+Zghartā,Zgharta,34.4,35.9,Lebanon,LB,LBN,Liban-Nord,minor,30000.0,1422751344
+Qornet Chahouâne,Qornet Chahouane,33.92,35.67,Lebanon,LB,LBN,Mont-Liban,,28000.0,1422333947
+Ehden,Ehden,34.2919,35.9546,Lebanon,LB,LBN,Liban-Nord,,25000.0,1422592801
+Bcharré,Bcharre,34.2511,36.0111,Lebanon,LB,LBN,Liban-Nord,minor,24000.0,1422518205
+Majdel Aanjar,Majdel Aanjar,33.7075,35.9039,Lebanon,LB,LBN,Béqaa,,23000.0,1422228495
+El Hermel,El Hermel,34.3914,36.3958,Lebanon,LB,LBN,Baalbek-Hermel,minor,22250.0,1422119929
+Kfar Kiddé,Kfar Kidde,34.2028,35.6544,Lebanon,LB,LBN,Mont-Liban,,20000.0,1422121365
+El Bâzoûrîyé,El Bazouriye,33.2539,35.2717,Lebanon,LB,LBN,Liban-Sud,,20000.0,1422000794
+Dbaïyé,Dbaiye,33.9353,35.5897,Lebanon,LB,LBN,Mont-Liban,,18000.0,1422722338
+Baaqlîne,Baaqline,33.6797,35.5583,Lebanon,LB,LBN,Mont-Liban,,17000.0,1422382914
+Râs Baalbek,Ras Baalbek,34.2597,36.4236,Lebanon,LB,LBN,Baalbek-Hermel,,15000.0,1422859198
+Joubb Jannîne,Joubb Jannine,33.6333,35.7833,Lebanon,LB,LBN,Béqaa,minor,14728.0,1422617067
+Kahhalé,Kahhale,33.8219,35.5875,Lebanon,LB,LBN,Mont-Liban,,13000.0,1422675912
+Barja,Barja,33.6497,35.4433,Lebanon,LB,LBN,Mont-Liban,,12888.0,1422958830
+Hasroûn,Hasroun,34.2419,35.9794,Lebanon,LB,LBN,Liban-Nord,,12000.0,1422559333
+El Qâa,El Qaa,34.3436,36.4756,Lebanon,LB,LBN,Baalbek-Hermel,,12000.0,1422667021
+Chaqra,Chaqra,33.1917,35.4628,Lebanon,LB,LBN,Nabatîyé,,12000.0,1422232460
+Bteghrîne,Bteghrine,33.93,35.745,Lebanon,LB,LBN,Mont-Liban,,12000.0,1422572821
+Qoubaiyat,Qoubaiyat,34.5683,36.2764,Lebanon,LB,LBN,Aakkâr,,12000.0,1422198461
+Sarafand,Sarafand,33.4517,35.2908,Lebanon,LB,LBN,Liban-Sud,,10965.0,1422620086
+Srîfa,Srifa,33.2814,35.3964,Lebanon,LB,LBN,Liban-Sud,,10000.0,1422782357
+Chartoûn,Chartoun,33.7711,35.6858,Lebanon,LB,LBN,Mont-Liban,,10000.0,1422935329
+Qâna,Qana,33.2092,35.2992,Lebanon,LB,LBN,Liban-Sud,,10000.0,1422539070
+Amioûn,Amioun,34.3,35.8,Lebanon,LB,LBN,Liban-Nord,minor,10000.0,1422143071
+Râs el Metn,Ras el Metn,33.85,35.6667,Lebanon,LB,LBN,Mont-Liban,,10000.0,1422014908
+Ed Dâmoûr,Ed Damour,33.7333,35.45,Lebanon,LB,LBN,Mont-Liban,,10000.0,1422987773
+Kfar Aabîda,Kfar Aabida,34.2264,35.66,Lebanon,LB,LBN,Liban-Nord,,9613.0,1422225745
+Halba,Halba,34.5506,36.0781,Lebanon,LB,LBN,Aakkâr,admin,4730.0,1422962727
+Beirut,Beirut,33.8983,35.5057,Lebanon,LB,LBN,Beyrouth,primary,2421354.0,1422847713
+Barr Eliâs,Barr Elias,33.775,35.9,Lebanon,LB,LBN,Béqaa,,300000.0,1422386644
+Tripoli,Tripoli,34.4367,35.8344,Lebanon,LB,LBN,Liban-Nord,admin,243800.0,1422886065
+Sidon,Sidon,33.5606,35.3758,Lebanon,LB,LBN,Liban-Sud,admin,163554.0,1422897920
+El Minié,El Minie,34.447,35.8178,Lebanon,LB,LBN,Liban-Nord,,150000.0,1422845769
+Borj Hammoud,Borj Hammoud,33.8936,35.5403,Lebanon,LB,LBN,Mont-Liban,,150000.0,1422255275
+Aaley,Aaley,33.8,35.6,Lebanon,LB,LBN,Mont-Liban,minor,130000.0,1422055581
+Joünié,Jounie,33.9697,35.6156,Lebanon,LB,LBN,Mont-Liban,minor,102221.0,1422032780
+Zahlé,Zahle,33.8333,35.9167,Lebanon,LB,LBN,Béqaa,admin,100000.0,1422031285
+Baabda,Baabda,33.8333,35.5333,Lebanon,LB,LBN,Mont-Liban,admin,84900.0,1422639397
+Baalbek,Baalbek,34.0063,36.2073,Lebanon,LB,LBN,Baalbek-Hermel,admin,81052.0,1422694451
+Nabatîyé,Nabatiye,33.3833,35.45,Lebanon,LB,LBN,Nabatîyé,admin,80000.0,1422269278
+Borj el Qoblé,Borj el Qoble,33.2631,35.2389,Lebanon,LB,LBN,Liban-Sud,,61973.0,1422937881
+Tyre,Tyre,33.2708,35.1961,Lebanon,LB,LBN,Liban-Sud,minor,60000.0,1422316734
+Qabb Eliâs,Qabb Elias,33.7986,35.825,Lebanon,LB,LBN,Béqaa,,50000.0,1422087652
+El Ghâzîyé,El Ghaziye,33.5186,35.3661,Lebanon,LB,LBN,Liban-Sud,,50000.0,1422216263
+Aarsâl,Aarsal,34.1794,36.4208,Lebanon,LB,LBN,Baalbek-Hermel,,50000.0,1422612862
+Batroûn,Batroun,34.25,35.65,Lebanon,LB,LBN,Liban-Nord,minor,45000.0,1422217431
+Jbaïl,Jbail,34.1236,35.6519,Lebanon,LB,LBN,Mont-Liban,minor,40000.0,1422678909
+Chmistâr,Chmistar,33.9667,36.0167,Lebanon,LB,LBN,Baalbek-Hermel,,30000.0,1422851411
+El Fanar,El Fanar,33.8667,35.5667,Lebanon,LB,LBN,Mont-Liban,,30000.0,1422818939
+Bent Jbaïl,Bent Jbail,33.1208,35.4336,Lebanon,LB,LBN,Nabatîyé,minor,30000.0,1422323141
+Zghartā,Zgharta,34.4,35.9,Lebanon,LB,LBN,Liban-Nord,minor,30000.0,1422751344
+Qornet Chahouâne,Qornet Chahouane,33.92,35.67,Lebanon,LB,LBN,Mont-Liban,,28000.0,1422333947
+Ehden,Ehden,34.2919,35.9546,Lebanon,LB,LBN,Liban-Nord,,25000.0,1422592801
+Bcharré,Bcharre,34.2511,36.0111,Lebanon,LB,LBN,Liban-Nord,minor,24000.0,1422518205
+Majdel Aanjar,Majdel Aanjar,33.7075,35.9039,Lebanon,LB,LBN,Béqaa,,23000.0,1422228495
+El Hermel,El Hermel,34.3914,36.3958,Lebanon,LB,LBN,Baalbek-Hermel,minor,22250.0,1422119929
+Kfar Kiddé,Kfar Kidde,34.2028,35.6544,Lebanon,LB,LBN,Mont-Liban,,20000.0,1422121365
+El Bâzoûrîyé,El Bazouriye,33.2539,35.2717,Lebanon,LB,LBN,Liban-Sud,,20000.0,1422000794
+Dbaïyé,Dbaiye,33.9353,35.5897,Lebanon,LB,LBN,Mont-Liban,,18000.0,1422722338
+Baaqlîne,Baaqline,33.6797,35.5583,Lebanon,LB,LBN,Mont-Liban,,17000.0,1422382914
+Râs Baalbek,Ras Baalbek,34.2597,36.4236,Lebanon,LB,LBN,Baalbek-Hermel,,15000.0,1422859198
+Joubb Jannîne,Joubb Jannine,33.6333,35.7833,Lebanon,LB,LBN,Béqaa,minor,14728.0,1422617067
+Kahhalé,Kahhale,33.8219,35.5875,Lebanon,LB,LBN,Mont-Liban,,13000.0,1422675912
+Barja,Barja,33.6497,35.4433,Lebanon,LB,LBN,Mont-Liban,,12888.0,1422958830
+Hasroûn,Hasroun,34.2419,35.9794,Lebanon,LB,LBN,Liban-Nord,,12000.0,1422559333
+El Qâa,El Qaa,34.3436,36.4756,Lebanon,LB,LBN,Baalbek-Hermel,,12000.0,1422667021
+Chaqra,Chaqra,33.1917,35.4628,Lebanon,LB,LBN,Nabatîyé,,12000.0,1422232460
+Bteghrîne,Bteghrine,33.93,35.745,Lebanon,LB,LBN,Mont-Liban,,12000.0,1422572821
+Qoubaiyat,Qoubaiyat,34.5683,36.2764,Lebanon,LB,LBN,Aakkâr,,12000.0,1422198461
+Sarafand,Sarafand,33.4517,35.2908,Lebanon,LB,LBN,Liban-Sud,,10965.0,1422620086
+Srîfa,Srifa,33.2814,35.3964,Lebanon,LB,LBN,Liban-Sud,,10000.0,1422782357
+Chartoûn,Chartoun,33.7711,35.6858,Lebanon,LB,LBN,Mont-Liban,,10000.0,1422935329
+Qâna,Qana,33.2092,35.2992,Lebanon,LB,LBN,Liban-Sud,,10000.0,1422539070
+Amioûn,Amioun,34.3,35.8,Lebanon,LB,LBN,Liban-Nord,minor,10000.0,1422143071
+Râs el Metn,Ras el Metn,33.85,35.6667,Lebanon,LB,LBN,Mont-Liban,,10000.0,1422014908
+Ed Dâmoûr,Ed Damour,33.7333,35.45,Lebanon,LB,LBN,Mont-Liban,,10000.0,1422987773
+Kfar Aabîda,Kfar Aabida,34.2264,35.66,Lebanon,LB,LBN,Liban-Nord,,9613.0,1422225745
+Halba,Halba,34.5506,36.0781,Lebanon,LB,LBN,Aakkâr,admin,4730.0,1422962727

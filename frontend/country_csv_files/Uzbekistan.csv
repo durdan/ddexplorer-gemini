@@ -1,0 +1,373 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Tashkent,Tashkent,41.3111,69.2797,Uzbekistan,UZ,UZB,Toshkent,primary,2956384.0,1860331871
+Namangan,Namangan,41.0011,71.6683,Uzbekistan,UZ,UZB,Namangan,admin,626120.0,1860894033
+Andijon,Andijon,40.7833,72.3333,Uzbekistan,UZ,UZB,Andijon,admin,547800.0,1860445095
+Samarkand,Samarkand,39.6547,66.9758,Uzbekistan,UZ,UZB,Samarqand,admin,546303.0,1860388706
+Nukus,Nukus,42.4667,59.6,Uzbekistan,UZ,UZB,Qoraqalpog‘iston,admin,319583.0,1860620079
+Farg‘ona,Farg`ona,40.3864,71.7864,Uzbekistan,UZ,UZB,Farg‘ona,admin,288850.0,1860479627
+Bukhara,Bukhara,39.7667,64.4231,Uzbekistan,UZ,UZB,Buxoro,admin,280187.0,1860523678
+Qarshi,Qarshi,38.8667,65.8,Uzbekistan,UZ,UZB,Qashqadaryo,admin,274891.0,1860343319
+Qo‘qon,Qo`qon,40.5286,70.9425,Uzbekistan,UZ,UZB,Farg‘ona,,259700.0,1860403462
+Marg‘ilon,Marg`ilon,40.4711,71.7247,Uzbekistan,UZ,UZB,Farg‘ona,,215400.0,1860419224
+Jizzax,Jizzax,40.1158,67.8422,Uzbekistan,UZ,UZB,Jizzax,admin,163200.0,1860218891
+Chirchiq,Chirchiq,41.4667,69.5833,Uzbekistan,UZ,UZB,Toshkent,,159400.0,1860343195
+Urganch,Urganch,41.55,60.6333,Uzbekistan,UZ,UZB,Xorazm,admin,150000.0,1860546433
+Olmaliq,Olmaliq,40.85,69.6,Uzbekistan,UZ,UZB,Toshkent,,141894.0,1860946502
+Termiz,Termiz,37.2167,67.2833,Uzbekistan,UZ,UZB,Surxondaryo,admin,136200.0,1860617243
+Navoiy,Navoiy,40.0844,65.3792,Uzbekistan,UZ,UZB,Navoiy,admin,134100.0,1860291734
+Angren,Angren,41.0167,70.1436,Uzbekistan,UZ,UZB,Toshkent,,126962.0,1860045958
+Kogon Shahri,Kogon Shahri,39.7275,64.5547,Uzbekistan,UZ,UZB,Buxoro,minor,107566.0,1860234026
+Xiva,Xiva,41.3814,60.3611,Uzbekistan,UZ,UZB,Xorazm,minor,105300.0,1860013300
+Shahrisabz,Shahrisabz,39.05,66.8333,Uzbekistan,UZ,UZB,Qashqadaryo,,100300.0,1860513278
+Chust,Chust,40.9978,71.2403,Uzbekistan,UZ,UZB,Namangan,,100200.0,1860392637
+Urgut Shahri,Urgut Shahri,39.419,67.2612,Uzbekistan,UZ,UZB,Samarqand,minor,99675.0,1860562788
+Quvasoy,Quvasoy,40.3,71.9667,Uzbekistan,UZ,UZB,Farg‘ona,minor,96900.0,1860491009
+Kattagan,Kattagan,40.2,64.9167,Uzbekistan,UZ,UZB,Navoiy,,86745.0,1860782136
+Bekobod,Bekobod,40.2167,69.2167,Uzbekistan,UZ,UZB,Toshkent,,82082.0,1860881451
+Qŭnghirot,Qunghirot,43.0758,58.9067,Uzbekistan,UZ,UZB,Qoraqalpog‘iston,,80090.0,1860586828
+Denov,Denov,38.2667,67.9,Uzbekistan,UZ,UZB,Surxondaryo,,78300.0,1860150082
+Shahrixon,Shahrixon,40.7167,72.05,Uzbekistan,UZ,UZB,Andijon,minor,71400.0,1860958957
+Asaka,Asaka,40.6333,72.2333,Uzbekistan,UZ,UZB,Andijon,minor,62200.0,1860622196
+Yangiyŭl,Yangiyul,41.1125,69.0467,Uzbekistan,UZ,UZB,Toshkent,,61700.0,1860453808
+Parkent,Parkent,41.2944,69.6764,Uzbekistan,UZ,UZB,Toshkent,,60200.0,1860290912
+Xo‘jayli Shahri,Xo`jayli Shahri,42.4,59.45,Uzbekistan,UZ,UZB,Qoraqalpog‘iston,minor,59486.0,1860783170
+Kattaqo’rg’on Shahri,Kattaqo'rg'on Shahri,39.8989,66.2561,Uzbekistan,UZ,UZB,Samarqand,minor,58950.0,1860871064
+Guliston,Guliston,40.4833,68.7833,Uzbekistan,UZ,UZB,Sirdaryo,admin,55600.0,1860505287
+Zarafshon Shahri,Zarafshon Shahri,41.6081,64.2264,Uzbekistan,UZ,UZB,Navoiy,,54300.0,1860278868
+Tŭrtkŭl,Turtkul,41.55,61.0,Uzbekistan,UZ,UZB,Qoraqalpog‘iston,,50800.0,1860664878
+Beruniy,Beruniy,41.6833,60.75,Uzbekistan,UZ,UZB,Qoraqalpog‘iston,,50700.0,1860882371
+Quva,Quva,40.5247,72.07,Uzbekistan,UZ,UZB,Farg‘ona,minor,46400.0,1860496002
+Xonobod,Xonobod,40.8,73.0,Uzbekistan,UZ,UZB,Andijon,,42301.0,1860608604
+Oqtosh Shahri,Oqtosh Shahri,39.9269,65.9256,Uzbekistan,UZ,UZB,Samarqand,minor,41600.0,1860821760
+Kitob,Kitob,39.1336,66.8819,Uzbekistan,UZ,UZB,Qashqadaryo,,40800.0,1860210417
+Uchqŭrghon Shahri,Uchqurghon Shahri,41.1214,72.0936,Uzbekistan,UZ,UZB,Namangan,minor,40000.0,1860013712
+Xonqa,Xonqa,41.4742,60.7822,Uzbekistan,UZ,UZB,Xorazm,minor,39400.0,1860971478
+Ohangaron,Ohangaron,40.9061,69.6444,Uzbekistan,UZ,UZB,Toshkent,,37784.0,1860082477
+Qo‘ng‘irot Shahri,Qo`ng`irot Shahri,43.0497,58.8542,Uzbekistan,UZ,UZB,Qoraqalpog‘iston,minor,37100.0,1860555381
+Chimboy Shahri,Chimboy Shahri,42.9295,59.782,Uzbekistan,UZ,UZB,Qoraqalpog‘iston,minor,36917.0,1860167547
+Dashtobod,Dashtobod,40.1269,68.4944,Uzbekistan,UZ,UZB,Jizzax,,36500.0,1860941088
+Chortoq,Chortoq,41.0689,71.8153,Uzbekistan,UZ,UZB,Namangan,minor,35615.0,1860436436
+Piskent,Piskent,40.8992,69.3425,Uzbekistan,UZ,UZB,Toshkent,,34900.0,1860730854
+Paxtaobod,Paxtaobod,40.9294,72.4969,Uzbekistan,UZ,UZB,Andijon,minor,34400.0,1860865597
+Payshamba Shahri,Payshamba Shahri,40.0078,66.2372,Uzbekistan,UZ,UZB,Samarqand,minor,32568.0,1860071345
+Buloqboshi,Buloqboshi,40.6222,72.5028,Uzbekistan,UZ,UZB,Andijon,minor,32200.0,1860281423
+Kosonsoy,Kosonsoy,41.25,71.55,Uzbekistan,UZ,UZB,Namangan,minor,31217.0,1860234389
+Qo‘rg‘ontepa,Qo`rg`ontepa,40.7336,72.7583,Uzbekistan,UZ,UZB,Andijon,minor,30800.0,1860268246
+Keles,Keles,41.4033,69.2067,Uzbekistan,UZ,UZB,Toshkent,,30600.0,1860903282
+G’ijduvon Shahri,G'ijduvon Shahri,40.1,64.6667,Uzbekistan,UZ,UZB,Buxoro,minor,30486.0,1860839337
+To‘raqo‘rg‘on,To`raqo`rg`on,41.0,71.5158,Uzbekistan,UZ,UZB,Namangan,,30300.0,1860185154
+Pop,Pop,40.8736,71.1089,Uzbekistan,UZ,UZB,Namangan,,30000.0,1860055055
+Uychi,Uychi,41.0294,71.8483,Uzbekistan,UZ,UZB,Namangan,,29683.0,1860657866
+Bulung’ur Shahri,Bulung'ur Shahri,39.76,67.27,Uzbekistan,UZ,UZB,Samarqand,minor,29200.0,1860452420
+Sherobod,Sherobod,37.6667,67.0,Uzbekistan,UZ,UZB,Surxondaryo,,29100.0,1860350024
+Yangiyer,Yangiyer,40.2667,68.8167,Uzbekistan,UZ,UZB,Sirdaryo,,28593.0,1860492176
+Oltinko‘l,Oltinko`l,43.0758,58.9067,Uzbekistan,UZ,UZB,Qoraqalpog‘iston,,28300.0,1860833822
+Bo‘ka,Bo`ka,40.8136,69.2019,Uzbekistan,UZ,UZB,Toshkent,,28000.0,1860263265
+Qibray,Qibray,41.3897,69.465,Uzbekistan,UZ,UZB,Toshkent,,27750.0,1860400736
+Gurlan,Gurlan,41.85,60.4,Uzbekistan,UZ,UZB,Xorazm,minor,27300.0,1860136766
+Xovos,Xovos,40.2197,68.84,Uzbekistan,UZ,UZB,Sirdaryo,,27300.0,1860506724
+Zomin Shaharchasi,Zomin Shaharchasi,39.9631,68.3939,Uzbekistan,UZ,UZB,Jizzax,minor,27077.0,1860079464
+Haqqulobod,Haqqulobod,40.9061,72.1194,Uzbekistan,UZ,UZB,Namangan,minor,27000.0,1860543628
+Iskandar,Iskandar,41.5581,69.7047,Uzbekistan,UZ,UZB,Toshkent,,26161.0,1860285858
+Dardoq,Dardoq,40.8156,72.8311,Uzbekistan,UZ,UZB,Andijon,,26055.0,1860913698
+Poytug‘,Poytug`,40.9,72.25,Uzbekistan,UZ,UZB,Andijon,minor,26000.0,1860067682
+Oltiariq,Oltiariq,40.3917,71.4767,Uzbekistan,UZ,UZB,Farg‘ona,minor,25543.0,1860439845
+Salor,Salor,41.3833,69.3583,Uzbekistan,UZ,UZB,Toshkent,,25521.0,1860292312
+Baliqchi,Baliqchi,40.9,71.8528,Uzbekistan,UZ,UZB,Andijon,minor,25100.0,1860683125
+Sho‘rchi,Sho`rchi,38.0111,67.7875,Uzbekistan,UZ,UZB,Surxondaryo,,25000.0,1860901035
+G’allaorol Shahri,G'allaorol Shahri,40.0214,67.5975,Uzbekistan,UZ,UZB,Jizzax,minor,24700.0,1860986830
+Uchquduq Shahri,Uchquduq Shahri,42.1567,63.5556,Uzbekistan,UZ,UZB,Navoiy,minor,24200.0,1860459881
+Chinobod,Chinobod,40.8767,71.9725,Uzbekistan,UZ,UZB,Andijon,,24000.0,1860184702
+Jalolquduq,Jalolquduq,40.7194,72.6428,Uzbekistan,UZ,UZB,Andijon,,24000.0,1860303427
+Paxtakor Shahri,Paxtakor Shahri,40.3153,67.9544,Uzbekistan,UZ,UZB,Jizzax,minor,23900.0,1860664894
+Rishton,Rishton,40.3567,71.2847,Uzbekistan,UZ,UZB,Farg‘ona,minor,23706.0,1860062985
+Chinoz,Chinoz,40.9375,68.7578,Uzbekistan,UZ,UZB,Toshkent,,23700.0,1860346487
+Yangi Marg‘ilon,Yangi Marg`ilon,40.4311,71.7183,Uzbekistan,UZ,UZB,Farg‘ona,,23531.0,1860305931
+Manghit,Manghit,42.1167,60.0667,Uzbekistan,UZ,UZB,Qoraqalpog‘iston,,22949.0,1860400027
+Beshariq,Beshariq,40.4358,70.6103,Uzbekistan,UZ,UZB,Farg‘ona,minor,22800.0,1860775601
+Jarqo‘rg‘on,Jarqo`rg`on,37.5083,67.4167,Uzbekistan,UZ,UZB,Surxondaryo,,22700.0,1860148120
+Qorako‘l Shahri,Qorako`l Shahri,39.5028,63.8556,Uzbekistan,UZ,UZB,Buxoro,minor,22300.0,1860899143
+G‘azalkent,G`azalkent,41.5625,69.775,Uzbekistan,UZ,UZB,Toshkent,,21600.0,1860474160
+Nurota,Nurota,40.565,65.685,Uzbekistan,UZ,UZB,Navoiy,,21001.0,1860266981
+Karmana,Karmana,40.1422,65.3625,Uzbekistan,UZ,UZB,Navoiy,,20816.0,1860118561
+Chelak,Chelak,39.9203,66.8611,Uzbekistan,UZ,UZB,Samarqand,,20800.0,1860308280
+Yakkabog‘,Yakkabog`,38.98,66.68,Uzbekistan,UZ,UZB,Qashqadaryo,,20600.0,1860608586
+Xo‘jaobod,Xo`jaobod,40.6653,72.5667,Uzbekistan,UZ,UZB,Andijon,minor,20200.0,1860459703
+Sultonobod,Sultonobod,40.7644,72.9764,Uzbekistan,UZ,UZB,Andijon,,20000.0,1860591797
+Qorasuv,Qorasuv,40.7222,72.8872,Uzbekistan,UZ,UZB,Andijon,,19454.0,1860791531
+Krasnogorskiy,Krasnogorskiy,41.1542,69.6697,Uzbekistan,UZ,UZB,Toshkent,,19176.0,1860769739
+Shovot,Shovot,41.65,60.3,Uzbekistan,UZ,UZB,Xorazm,minor,19000.0,1860224573
+Beshkent Shahri,Beshkent Shahri,38.8167,65.65,Uzbekistan,UZ,UZB,Qashqadaryo,minor,18900.0,1860873640
+Shirin,Shirin,40.2269,69.1344,Uzbekistan,UZ,UZB,Sirdaryo,,18900.0,1860820392
+Hazorasp,Hazorasp,41.3167,61.0667,Uzbekistan,UZ,UZB,Xorazm,minor,18800.0,1860504639
+Qo’shko’pir,Qo'shko'pir,41.5333,60.35,Uzbekistan,UZ,UZB,Xorazm,minor,18700.0,1860996001
+Toshloq,Toshloq,40.4808,71.7608,Uzbekistan,UZ,UZB,Farg‘ona,minor,18600.0,1860363369
+Do’stlik Shahri,Do'stlik Shahri,40.5247,68.0358,Uzbekistan,UZ,UZB,Jizzax,minor,18300.0,1860352571
+Baxt,Baxt,40.7139,68.6933,Uzbekistan,UZ,UZB,Sirdaryo,,17500.0,1860344342
+Jomboy Shahri,Jomboy Shahri,39.6989,67.0933,Uzbekistan,UZ,UZB,Samarqand,minor,17400.0,1860586927
+G‘uzor,G`uzor,38.6208,66.2481,Uzbekistan,UZ,UZB,Qashqadaryo,minor,17253.0,1860850796
+Taxtako‘pir,Taxtako`pir,43.0225,60.2886,Uzbekistan,UZ,UZB,Qoraqalpog‘iston,minor,17100.0,1860617096
+Yangi Mirishkor,Yangi Mirishkor,38.8514,65.2778,Uzbekistan,UZ,UZB,Qashqadaryo,minor,17000.0,1860618656
+Druzhba,Druzhba,41.2222,61.3067,Uzbekistan,UZ,UZB,Xorazm,,16800.0,1860072225
+Boysun,Boysun,38.2,67.2,Uzbekistan,UZ,UZB,Surxondaryo,,16732.0,1860052863
+Burbaliq,Burbaliq,40.3247,71.3692,Uzbekistan,UZ,UZB,Farg‘ona,,16600.0,1860496270
+Do‘stobod,Do`stobod,40.8564,68.9281,Uzbekistan,UZ,UZB,Toshkent,,16200.0,1860923500
+Vodil,Vodil,40.1789,71.7297,Uzbekistan,UZ,UZB,Farg‘ona,minor,16200.0,1860396622
+Sardoba,Sardoba,40.5422,68.4125,Uzbekistan,UZ,UZB,Sirdaryo,,16000.0,1860363244
+Ishtixon Shahri,Ishtixon Shahri,39.9664,66.4861,Uzbekistan,UZ,UZB,Samarqand,minor,16000.0,1860693720
+Yaypan,Yaypan,40.3758,70.8156,Uzbekistan,UZ,UZB,Farg‘ona,minor,15984.0,1860703672
+Juma Shahri,Juma Shahri,39.7161,66.6642,Uzbekistan,UZ,UZB,Samarqand,minor,15571.0,1860861355
+Gagarin Shahri,Gagarin Shahri,40.6619,68.1722,Uzbekistan,UZ,UZB,Jizzax,minor,15200.0,1860088960
+Kimyogarlar,Kimyogarlar,39.6672,66.8461,Uzbekistan,UZ,UZB,Samarqand,,14937.0,1860415259
+Qumqo‘rg‘on,Qumqo`rg`on,37.8278,67.5972,Uzbekistan,UZ,UZB,Surxondaryo,,14900.0,1860294369
+Uzun,Uzun,38.3667,68.0056,Uzbekistan,UZ,UZB,Surxondaryo,,14600.0,1860948605
+Romitan Shahri,Romitan Shahri,39.9333,64.3833,Uzbekistan,UZ,UZB,Buxoro,minor,14300.0,1860913419
+Sariosiyo,Sariosiyo,38.4133,67.9572,Uzbekistan,UZ,UZB,Surxondaryo,,14300.0,1860882708
+O‘nhayot,O`nhayot,41.0103,71.7614,Uzbekistan,UZ,UZB,Namangan,,14000.0,1860318016
+Shofirkon Shahri,Shofirkon Shahri,40.1167,64.5,Uzbekistan,UZ,UZB,Buxoro,minor,14000.0,1860579364
+Boyovut,Boyovut,40.2822,69.0183,Uzbekistan,UZ,UZB,Sirdaryo,,13800.0,1860318919
+Toyloq Qishlog’i,Toyloq Qishlog'i,39.6014,67.0908,Uzbekistan,UZ,UZB,Samarqand,minor,13700.0,1860817167
+Sariq,Sariq,37.6722,67.2375,Uzbekistan,UZ,UZB,Surxondaryo,,13700.0,1860642236
+Marhamat,Marhamat,40.5,72.3333,Uzbekistan,UZ,UZB,Andijon,minor,13600.0,1860259161
+Mŭynoq,Muynoq,43.7667,59.0333,Uzbekistan,UZ,UZB,Qoraqalpog‘iston,,13500.0,1860204414
+Nishon Tumani,Nishon Tumani,38.6558,65.6994,Uzbekistan,UZ,UZB,Qashqadaryo,,13300.0,1860315743
+Charxin,Charxin,39.6967,66.7686,Uzbekistan,UZ,UZB,Samarqand,,13300.0,1860828377
+Ŭrtaowul,Urtaowul,41.1908,69.1494,Uzbekistan,UZ,UZB,Toshkent,,13271.0,1860578331
+Chiroqchi,Chiroqchi,39.0336,66.5739,Uzbekistan,UZ,UZB,Qashqadaryo,,13220.0,1860377999
+Bag‘dod,Bag`dod,40.4606,71.2214,Uzbekistan,UZ,UZB,Farg‘ona,,12800.0,1860308372
+Yozyovon,Yozyovon,40.6619,71.7431,Uzbekistan,UZ,UZB,Farg‘ona,minor,12800.0,1860299143
+Loyish Shaharchasi,Loyish Shaharchasi,39.8839,66.7481,Uzbekistan,UZ,UZB,Samarqand,minor,12769.0,1860150334
+Galaosiyo Shahri,Galaosiyo Shahri,39.85,64.45,Uzbekistan,UZ,UZB,Buxoro,minor,12600.0,1860860569
+Eski Arab,Eski Arab,40.3686,71.4231,Uzbekistan,UZ,UZB,Farg‘ona,,12600.0,1860690514
+Kegeyli Shahar,Kegeyli Shahar,42.7767,59.6078,Uzbekistan,UZ,UZB,Qoraqalpog‘iston,minor,12400.0,1860388394
+Vobkent Shahri,Vobkent Shahri,40.0333,64.5167,Uzbekistan,UZ,UZB,Buxoro,minor,12351.0,1860136901
+Payariq Shahri,Payariq Shahri,39.9892,66.8458,Uzbekistan,UZ,UZB,Samarqand,minor,12345.0,1860124573
+Qorao‘zak,Qorao`zak,43.0275,60.0125,Uzbekistan,UZ,UZB,Qoraqalpog‘iston,minor,12300.0,1860367424
+G’oliblar Qishlog’i,G'oliblar Qishlog'i,40.4953,67.8778,Uzbekistan,UZ,UZB,Jizzax,minor,12300.0,1860811696
+Paxtaobod,Paxtaobod,40.3453,68.1925,Uzbekistan,UZ,UZB,Sirdaryo,,12200.0,1860473254
+Kuyganyor,Kuyganyor,40.8611,72.3111,Uzbekistan,UZ,UZB,Andijon,minor,12200.0,1860676676
+Andijon,Andijon,40.6444,72.3639,Uzbekistan,UZ,UZB,Andijon,,12200.0,1860676293
+Yangiariq,Yangiariq,41.3628,60.6075,Uzbekistan,UZ,UZB,Xorazm,minor,12200.0,1860360954
+Gulbahor,Gulbahor,41.0747,69.0275,Uzbekistan,UZ,UZB,Toshkent,,12100.0,1860823540
+Oqqo‘rg‘on,Oqqo`rg`on,40.8764,69.0453,Uzbekistan,UZ,UZB,Toshkent,,11900.0,1860153212
+Qorashina,Qorashina,38.3394,66.5619,Uzbekistan,UZ,UZB,Qashqadaryo,minor,11900.0,1860549169
+Ziyodin Shaharchasi,Ziyodin Shaharchasi,40.0342,65.6547,Uzbekistan,UZ,UZB,Samarqand,minor,11610.0,1860117701
+Yangiqo‘rg‘on,Yangiqo`rg`on,41.1872,71.7333,Uzbekistan,UZ,UZB,Namangan,,11561.0,1860687497
+Dang‘ara,Dang`ara,40.5831,70.91,Uzbekistan,UZ,UZB,Farg‘ona,minor,11500.0,1860878962
+Yangirabot,Yangirabot,40.0253,65.9608,Uzbekistan,UZ,UZB,Navoiy,minor,11364.0,1860058903
+Eski Yakkabog‘,Eski Yakkabog`,38.9314,66.8389,Uzbekistan,UZ,UZB,Qashqadaryo,,10800.0,1860248125
+Tallimarjon Shahri,Tallimarjon Shahri,38.2967,65.5533,Uzbekistan,UZ,UZB,Qashqadaryo,,10800.0,1860832901
+Sharg‘un,Sharg`un,38.46,67.9669,Uzbekistan,UZ,UZB,Surxondaryo,,10716.0,1860470094
+Bog’ot,Bog'ot,41.35,60.8167,Uzbekistan,UZ,UZB,Xorazm,minor,10700.0,1860558228
+Tinchlik,Tinchlik,40.4264,71.4956,Uzbekistan,UZ,UZB,Farg‘ona,,10644.0,1860903091
+Shumanay,Shumanay,42.6333,58.9167,Uzbekistan,UZ,UZB,Qoraqalpog‘iston,,10513.0,1860689478
+Usmat Shaharchasi,Usmat Shaharchasi,39.7386,67.6433,Uzbekistan,UZ,UZB,Jizzax,minor,10500.0,1860775970
+Dehqonobod,Dehqonobod,40.5314,69.0342,Uzbekistan,UZ,UZB,Sirdaryo,,10500.0,1860018395
+Nuriston,Nuriston,38.4892,65.6464,Uzbekistan,UZ,UZB,Qashqadaryo,,10500.0,1860752520
+Qanliko‘l,Qanliko`l,42.8333,59.0,Uzbekistan,UZ,UZB,Qoraqalpog‘iston,minor,10303.0,1860774875
+Uchtepa Qishlog’i,Uchtepa Qishlog'i,40.205,67.9011,Uzbekistan,UZ,UZB,Jizzax,minor,10110.0,1860078852
+Bandixon,Bandixon,37.8614,67.3861,Uzbekistan,UZ,UZB,Surxondaryo,,10110.0,1860730095
+Jomasho‘y,Jomasho`y,40.8633,71.4597,Uzbekistan,UZ,UZB,Namangan,,10100.0,1860251898
+Shohimardon,Shohimardon,39.9833,71.8,Uzbekistan,UZ,UZB,Farg‘ona,,10100.0,1860836599
+Xishrov,Xishrov,39.6383,66.8897,Uzbekistan,UZ,UZB,Samarqand,,10000.0,1860278182
+Oyim,Oyim,40.8242,72.7414,Uzbekistan,UZ,UZB,Andijon,,10000.0,1860819147
+Qiziltepa,Qiziltepa,40.0361,64.8503,Uzbekistan,UZ,UZB,Navoiy,,9884.0,1860348538
+Ingichka,Ingichka,39.7389,65.9922,Uzbekistan,UZ,UZB,Samarqand,,9676.0,1860688085
+Nurobod Shahri,Nurobod Shahri,39.6086,66.2867,Uzbekistan,UZ,UZB,Samarqand,minor,9600.0,1860030602
+Bo‘z,Bo`z,40.6833,71.9167,Uzbekistan,UZ,UZB,Andijon,,9294.0,1860854695
+Xalqobod,Xalqobod,37.4597,66.9222,Uzbekistan,UZ,UZB,Surxondaryo,,9200.0,1860446608
+Qorovulbozor,Qorovulbozor,39.5,64.8,Uzbekistan,UZ,UZB,Buxoro,,9200.0,1860000615
+Zarbdor Shaharchasi,Zarbdor Shaharchasi,40.0747,68.1683,Uzbekistan,UZ,UZB,Jizzax,minor,9110.0,1860740472
+Dahbed,Dahbed,39.7636,66.9131,Uzbekistan,UZ,UZB,Samarqand,,9000.0,1860321921
+Qahramon,Qahramon,40.305,68.6017,Uzbekistan,UZ,UZB,Sirdaryo,,9000.0,1860810536
+Yangiobod,Yangiobod,41.1192,70.0942,Uzbekistan,UZ,UZB,Toshkent,,8900.0,1860896994
+Angor,Angor,37.4639,67.15,Uzbekistan,UZ,UZB,Surxondaryo,,8801.0,1860931614
+G‘ozg‘on,G`ozg`on,40.5944,65.4964,Uzbekistan,UZ,UZB,Navoiy,,8800.0,1860129710
+Jondor Shaharchasi,Jondor Shaharchasi,39.7333,64.1833,Uzbekistan,UZ,UZB,Buxoro,minor,8700.0,1860971461
+Qorovul,Qorovul,41.5569,60.5914,Uzbekistan,UZ,UZB,Xorazm,minor,8520.0,1860937148
+Tashkent,Tashkent,41.3111,69.2797,Uzbekistan,UZ,UZB,Toshkent,primary,2956384.0,1860331871
+Namangan,Namangan,41.0011,71.6683,Uzbekistan,UZ,UZB,Namangan,admin,626120.0,1860894033
+Andijon,Andijon,40.7833,72.3333,Uzbekistan,UZ,UZB,Andijon,admin,547800.0,1860445095
+Samarkand,Samarkand,39.6547,66.9758,Uzbekistan,UZ,UZB,Samarqand,admin,546303.0,1860388706
+Nukus,Nukus,42.4667,59.6,Uzbekistan,UZ,UZB,Qoraqalpog‘iston,admin,319583.0,1860620079
+Farg‘ona,Farg`ona,40.3864,71.7864,Uzbekistan,UZ,UZB,Farg‘ona,admin,288850.0,1860479627
+Bukhara,Bukhara,39.7667,64.4231,Uzbekistan,UZ,UZB,Buxoro,admin,280187.0,1860523678
+Qarshi,Qarshi,38.8667,65.8,Uzbekistan,UZ,UZB,Qashqadaryo,admin,274891.0,1860343319
+Qo‘qon,Qo`qon,40.5286,70.9425,Uzbekistan,UZ,UZB,Farg‘ona,,259700.0,1860403462
+Marg‘ilon,Marg`ilon,40.4711,71.7247,Uzbekistan,UZ,UZB,Farg‘ona,,215400.0,1860419224
+Jizzax,Jizzax,40.1158,67.8422,Uzbekistan,UZ,UZB,Jizzax,admin,163200.0,1860218891
+Chirchiq,Chirchiq,41.4667,69.5833,Uzbekistan,UZ,UZB,Toshkent,,159400.0,1860343195
+Urganch,Urganch,41.55,60.6333,Uzbekistan,UZ,UZB,Xorazm,admin,150000.0,1860546433
+Olmaliq,Olmaliq,40.85,69.6,Uzbekistan,UZ,UZB,Toshkent,,141894.0,1860946502
+Termiz,Termiz,37.2167,67.2833,Uzbekistan,UZ,UZB,Surxondaryo,admin,136200.0,1860617243
+Navoiy,Navoiy,40.0844,65.3792,Uzbekistan,UZ,UZB,Navoiy,admin,134100.0,1860291734
+Angren,Angren,41.0167,70.1436,Uzbekistan,UZ,UZB,Toshkent,,126962.0,1860045958
+Kogon Shahri,Kogon Shahri,39.7275,64.5547,Uzbekistan,UZ,UZB,Buxoro,minor,107566.0,1860234026
+Xiva,Xiva,41.3814,60.3611,Uzbekistan,UZ,UZB,Xorazm,minor,105300.0,1860013300
+Shahrisabz,Shahrisabz,39.05,66.8333,Uzbekistan,UZ,UZB,Qashqadaryo,,100300.0,1860513278
+Chust,Chust,40.9978,71.2403,Uzbekistan,UZ,UZB,Namangan,,100200.0,1860392637
+Urgut Shahri,Urgut Shahri,39.419,67.2612,Uzbekistan,UZ,UZB,Samarqand,minor,99675.0,1860562788
+Quvasoy,Quvasoy,40.3,71.9667,Uzbekistan,UZ,UZB,Farg‘ona,minor,96900.0,1860491009
+Kattagan,Kattagan,40.2,64.9167,Uzbekistan,UZ,UZB,Navoiy,,86745.0,1860782136
+Bekobod,Bekobod,40.2167,69.2167,Uzbekistan,UZ,UZB,Toshkent,,82082.0,1860881451
+Qŭnghirot,Qunghirot,43.0758,58.9067,Uzbekistan,UZ,UZB,Qoraqalpog‘iston,,80090.0,1860586828
+Denov,Denov,38.2667,67.9,Uzbekistan,UZ,UZB,Surxondaryo,,78300.0,1860150082
+Shahrixon,Shahrixon,40.7167,72.05,Uzbekistan,UZ,UZB,Andijon,minor,71400.0,1860958957
+Asaka,Asaka,40.6333,72.2333,Uzbekistan,UZ,UZB,Andijon,minor,62200.0,1860622196
+Yangiyŭl,Yangiyul,41.1125,69.0467,Uzbekistan,UZ,UZB,Toshkent,,61700.0,1860453808
+Parkent,Parkent,41.2944,69.6764,Uzbekistan,UZ,UZB,Toshkent,,60200.0,1860290912
+Xo‘jayli Shahri,Xo`jayli Shahri,42.4,59.45,Uzbekistan,UZ,UZB,Qoraqalpog‘iston,minor,59486.0,1860783170
+Kattaqo’rg’on Shahri,Kattaqo'rg'on Shahri,39.8989,66.2561,Uzbekistan,UZ,UZB,Samarqand,minor,58950.0,1860871064
+Guliston,Guliston,40.4833,68.7833,Uzbekistan,UZ,UZB,Sirdaryo,admin,55600.0,1860505287
+Zarafshon Shahri,Zarafshon Shahri,41.6081,64.2264,Uzbekistan,UZ,UZB,Navoiy,,54300.0,1860278868
+Tŭrtkŭl,Turtkul,41.55,61.0,Uzbekistan,UZ,UZB,Qoraqalpog‘iston,,50800.0,1860664878
+Beruniy,Beruniy,41.6833,60.75,Uzbekistan,UZ,UZB,Qoraqalpog‘iston,,50700.0,1860882371
+Quva,Quva,40.5247,72.07,Uzbekistan,UZ,UZB,Farg‘ona,minor,46400.0,1860496002
+Xonobod,Xonobod,40.8,73.0,Uzbekistan,UZ,UZB,Andijon,,42301.0,1860608604
+Oqtosh Shahri,Oqtosh Shahri,39.9269,65.9256,Uzbekistan,UZ,UZB,Samarqand,minor,41600.0,1860821760
+Kitob,Kitob,39.1336,66.8819,Uzbekistan,UZ,UZB,Qashqadaryo,,40800.0,1860210417
+Uchqŭrghon Shahri,Uchqurghon Shahri,41.1214,72.0936,Uzbekistan,UZ,UZB,Namangan,minor,40000.0,1860013712
+Xonqa,Xonqa,41.4742,60.7822,Uzbekistan,UZ,UZB,Xorazm,minor,39400.0,1860971478
+Ohangaron,Ohangaron,40.9061,69.6444,Uzbekistan,UZ,UZB,Toshkent,,37784.0,1860082477
+Qo‘ng‘irot Shahri,Qo`ng`irot Shahri,43.0497,58.8542,Uzbekistan,UZ,UZB,Qoraqalpog‘iston,minor,37100.0,1860555381
+Chimboy Shahri,Chimboy Shahri,42.9295,59.782,Uzbekistan,UZ,UZB,Qoraqalpog‘iston,minor,36917.0,1860167547
+Dashtobod,Dashtobod,40.1269,68.4944,Uzbekistan,UZ,UZB,Jizzax,,36500.0,1860941088
+Chortoq,Chortoq,41.0689,71.8153,Uzbekistan,UZ,UZB,Namangan,minor,35615.0,1860436436
+Piskent,Piskent,40.8992,69.3425,Uzbekistan,UZ,UZB,Toshkent,,34900.0,1860730854
+Paxtaobod,Paxtaobod,40.9294,72.4969,Uzbekistan,UZ,UZB,Andijon,minor,34400.0,1860865597
+Payshamba Shahri,Payshamba Shahri,40.0078,66.2372,Uzbekistan,UZ,UZB,Samarqand,minor,32568.0,1860071345
+Buloqboshi,Buloqboshi,40.6222,72.5028,Uzbekistan,UZ,UZB,Andijon,minor,32200.0,1860281423
+Kosonsoy,Kosonsoy,41.25,71.55,Uzbekistan,UZ,UZB,Namangan,minor,31217.0,1860234389
+Qo‘rg‘ontepa,Qo`rg`ontepa,40.7336,72.7583,Uzbekistan,UZ,UZB,Andijon,minor,30800.0,1860268246
+Keles,Keles,41.4033,69.2067,Uzbekistan,UZ,UZB,Toshkent,,30600.0,1860903282
+G’ijduvon Shahri,G'ijduvon Shahri,40.1,64.6667,Uzbekistan,UZ,UZB,Buxoro,minor,30486.0,1860839337
+To‘raqo‘rg‘on,To`raqo`rg`on,41.0,71.5158,Uzbekistan,UZ,UZB,Namangan,,30300.0,1860185154
+Pop,Pop,40.8736,71.1089,Uzbekistan,UZ,UZB,Namangan,,30000.0,1860055055
+Uychi,Uychi,41.0294,71.8483,Uzbekistan,UZ,UZB,Namangan,,29683.0,1860657866
+Bulung’ur Shahri,Bulung'ur Shahri,39.76,67.27,Uzbekistan,UZ,UZB,Samarqand,minor,29200.0,1860452420
+Sherobod,Sherobod,37.6667,67.0,Uzbekistan,UZ,UZB,Surxondaryo,,29100.0,1860350024
+Yangiyer,Yangiyer,40.2667,68.8167,Uzbekistan,UZ,UZB,Sirdaryo,,28593.0,1860492176
+Oltinko‘l,Oltinko`l,43.0758,58.9067,Uzbekistan,UZ,UZB,Qoraqalpog‘iston,,28300.0,1860833822
+Bo‘ka,Bo`ka,40.8136,69.2019,Uzbekistan,UZ,UZB,Toshkent,,28000.0,1860263265
+Qibray,Qibray,41.3897,69.465,Uzbekistan,UZ,UZB,Toshkent,,27750.0,1860400736
+Gurlan,Gurlan,41.85,60.4,Uzbekistan,UZ,UZB,Xorazm,minor,27300.0,1860136766
+Xovos,Xovos,40.2197,68.84,Uzbekistan,UZ,UZB,Sirdaryo,,27300.0,1860506724
+Zomin Shaharchasi,Zomin Shaharchasi,39.9631,68.3939,Uzbekistan,UZ,UZB,Jizzax,minor,27077.0,1860079464
+Haqqulobod,Haqqulobod,40.9061,72.1194,Uzbekistan,UZ,UZB,Namangan,minor,27000.0,1860543628
+Iskandar,Iskandar,41.5581,69.7047,Uzbekistan,UZ,UZB,Toshkent,,26161.0,1860285858
+Dardoq,Dardoq,40.8156,72.8311,Uzbekistan,UZ,UZB,Andijon,,26055.0,1860913698
+Poytug‘,Poytug`,40.9,72.25,Uzbekistan,UZ,UZB,Andijon,minor,26000.0,1860067682
+Oltiariq,Oltiariq,40.3917,71.4767,Uzbekistan,UZ,UZB,Farg‘ona,minor,25543.0,1860439845
+Salor,Salor,41.3833,69.3583,Uzbekistan,UZ,UZB,Toshkent,,25521.0,1860292312
+Baliqchi,Baliqchi,40.9,71.8528,Uzbekistan,UZ,UZB,Andijon,minor,25100.0,1860683125
+Sho‘rchi,Sho`rchi,38.0111,67.7875,Uzbekistan,UZ,UZB,Surxondaryo,,25000.0,1860901035
+G’allaorol Shahri,G'allaorol Shahri,40.0214,67.5975,Uzbekistan,UZ,UZB,Jizzax,minor,24700.0,1860986830
+Uchquduq Shahri,Uchquduq Shahri,42.1567,63.5556,Uzbekistan,UZ,UZB,Navoiy,minor,24200.0,1860459881
+Chinobod,Chinobod,40.8767,71.9725,Uzbekistan,UZ,UZB,Andijon,,24000.0,1860184702
+Jalolquduq,Jalolquduq,40.7194,72.6428,Uzbekistan,UZ,UZB,Andijon,,24000.0,1860303427
+Paxtakor Shahri,Paxtakor Shahri,40.3153,67.9544,Uzbekistan,UZ,UZB,Jizzax,minor,23900.0,1860664894
+Rishton,Rishton,40.3567,71.2847,Uzbekistan,UZ,UZB,Farg‘ona,minor,23706.0,1860062985
+Chinoz,Chinoz,40.9375,68.7578,Uzbekistan,UZ,UZB,Toshkent,,23700.0,1860346487
+Yangi Marg‘ilon,Yangi Marg`ilon,40.4311,71.7183,Uzbekistan,UZ,UZB,Farg‘ona,,23531.0,1860305931
+Manghit,Manghit,42.1167,60.0667,Uzbekistan,UZ,UZB,Qoraqalpog‘iston,,22949.0,1860400027
+Beshariq,Beshariq,40.4358,70.6103,Uzbekistan,UZ,UZB,Farg‘ona,minor,22800.0,1860775601
+Jarqo‘rg‘on,Jarqo`rg`on,37.5083,67.4167,Uzbekistan,UZ,UZB,Surxondaryo,,22700.0,1860148120
+Qorako‘l Shahri,Qorako`l Shahri,39.5028,63.8556,Uzbekistan,UZ,UZB,Buxoro,minor,22300.0,1860899143
+G‘azalkent,G`azalkent,41.5625,69.775,Uzbekistan,UZ,UZB,Toshkent,,21600.0,1860474160
+Nurota,Nurota,40.565,65.685,Uzbekistan,UZ,UZB,Navoiy,,21001.0,1860266981
+Karmana,Karmana,40.1422,65.3625,Uzbekistan,UZ,UZB,Navoiy,,20816.0,1860118561
+Chelak,Chelak,39.9203,66.8611,Uzbekistan,UZ,UZB,Samarqand,,20800.0,1860308280
+Yakkabog‘,Yakkabog`,38.98,66.68,Uzbekistan,UZ,UZB,Qashqadaryo,,20600.0,1860608586
+Xo‘jaobod,Xo`jaobod,40.6653,72.5667,Uzbekistan,UZ,UZB,Andijon,minor,20200.0,1860459703
+Sultonobod,Sultonobod,40.7644,72.9764,Uzbekistan,UZ,UZB,Andijon,,20000.0,1860591797
+Qorasuv,Qorasuv,40.7222,72.8872,Uzbekistan,UZ,UZB,Andijon,,19454.0,1860791531
+Krasnogorskiy,Krasnogorskiy,41.1542,69.6697,Uzbekistan,UZ,UZB,Toshkent,,19176.0,1860769739
+Shovot,Shovot,41.65,60.3,Uzbekistan,UZ,UZB,Xorazm,minor,19000.0,1860224573
+Beshkent Shahri,Beshkent Shahri,38.8167,65.65,Uzbekistan,UZ,UZB,Qashqadaryo,minor,18900.0,1860873640
+Shirin,Shirin,40.2269,69.1344,Uzbekistan,UZ,UZB,Sirdaryo,,18900.0,1860820392
+Hazorasp,Hazorasp,41.3167,61.0667,Uzbekistan,UZ,UZB,Xorazm,minor,18800.0,1860504639
+Qo’shko’pir,Qo'shko'pir,41.5333,60.35,Uzbekistan,UZ,UZB,Xorazm,minor,18700.0,1860996001
+Toshloq,Toshloq,40.4808,71.7608,Uzbekistan,UZ,UZB,Farg‘ona,minor,18600.0,1860363369
+Do’stlik Shahri,Do'stlik Shahri,40.5247,68.0358,Uzbekistan,UZ,UZB,Jizzax,minor,18300.0,1860352571
+Baxt,Baxt,40.7139,68.6933,Uzbekistan,UZ,UZB,Sirdaryo,,17500.0,1860344342
+Jomboy Shahri,Jomboy Shahri,39.6989,67.0933,Uzbekistan,UZ,UZB,Samarqand,minor,17400.0,1860586927
+G‘uzor,G`uzor,38.6208,66.2481,Uzbekistan,UZ,UZB,Qashqadaryo,minor,17253.0,1860850796
+Taxtako‘pir,Taxtako`pir,43.0225,60.2886,Uzbekistan,UZ,UZB,Qoraqalpog‘iston,minor,17100.0,1860617096
+Yangi Mirishkor,Yangi Mirishkor,38.8514,65.2778,Uzbekistan,UZ,UZB,Qashqadaryo,minor,17000.0,1860618656
+Druzhba,Druzhba,41.2222,61.3067,Uzbekistan,UZ,UZB,Xorazm,,16800.0,1860072225
+Boysun,Boysun,38.2,67.2,Uzbekistan,UZ,UZB,Surxondaryo,,16732.0,1860052863
+Burbaliq,Burbaliq,40.3247,71.3692,Uzbekistan,UZ,UZB,Farg‘ona,,16600.0,1860496270
+Do‘stobod,Do`stobod,40.8564,68.9281,Uzbekistan,UZ,UZB,Toshkent,,16200.0,1860923500
+Vodil,Vodil,40.1789,71.7297,Uzbekistan,UZ,UZB,Farg‘ona,minor,16200.0,1860396622
+Sardoba,Sardoba,40.5422,68.4125,Uzbekistan,UZ,UZB,Sirdaryo,,16000.0,1860363244
+Ishtixon Shahri,Ishtixon Shahri,39.9664,66.4861,Uzbekistan,UZ,UZB,Samarqand,minor,16000.0,1860693720
+Yaypan,Yaypan,40.3758,70.8156,Uzbekistan,UZ,UZB,Farg‘ona,minor,15984.0,1860703672
+Juma Shahri,Juma Shahri,39.7161,66.6642,Uzbekistan,UZ,UZB,Samarqand,minor,15571.0,1860861355
+Gagarin Shahri,Gagarin Shahri,40.6619,68.1722,Uzbekistan,UZ,UZB,Jizzax,minor,15200.0,1860088960
+Kimyogarlar,Kimyogarlar,39.6672,66.8461,Uzbekistan,UZ,UZB,Samarqand,,14937.0,1860415259
+Qumqo‘rg‘on,Qumqo`rg`on,37.8278,67.5972,Uzbekistan,UZ,UZB,Surxondaryo,,14900.0,1860294369
+Uzun,Uzun,38.3667,68.0056,Uzbekistan,UZ,UZB,Surxondaryo,,14600.0,1860948605
+Romitan Shahri,Romitan Shahri,39.9333,64.3833,Uzbekistan,UZ,UZB,Buxoro,minor,14300.0,1860913419
+Sariosiyo,Sariosiyo,38.4133,67.9572,Uzbekistan,UZ,UZB,Surxondaryo,,14300.0,1860882708
+O‘nhayot,O`nhayot,41.0103,71.7614,Uzbekistan,UZ,UZB,Namangan,,14000.0,1860318016
+Shofirkon Shahri,Shofirkon Shahri,40.1167,64.5,Uzbekistan,UZ,UZB,Buxoro,minor,14000.0,1860579364
+Boyovut,Boyovut,40.2822,69.0183,Uzbekistan,UZ,UZB,Sirdaryo,,13800.0,1860318919
+Toyloq Qishlog’i,Toyloq Qishlog'i,39.6014,67.0908,Uzbekistan,UZ,UZB,Samarqand,minor,13700.0,1860817167
+Sariq,Sariq,37.6722,67.2375,Uzbekistan,UZ,UZB,Surxondaryo,,13700.0,1860642236
+Marhamat,Marhamat,40.5,72.3333,Uzbekistan,UZ,UZB,Andijon,minor,13600.0,1860259161
+Mŭynoq,Muynoq,43.7667,59.0333,Uzbekistan,UZ,UZB,Qoraqalpog‘iston,,13500.0,1860204414
+Nishon Tumani,Nishon Tumani,38.6558,65.6994,Uzbekistan,UZ,UZB,Qashqadaryo,,13300.0,1860315743
+Charxin,Charxin,39.6967,66.7686,Uzbekistan,UZ,UZB,Samarqand,,13300.0,1860828377
+Ŭrtaowul,Urtaowul,41.1908,69.1494,Uzbekistan,UZ,UZB,Toshkent,,13271.0,1860578331
+Chiroqchi,Chiroqchi,39.0336,66.5739,Uzbekistan,UZ,UZB,Qashqadaryo,,13220.0,1860377999
+Bag‘dod,Bag`dod,40.4606,71.2214,Uzbekistan,UZ,UZB,Farg‘ona,,12800.0,1860308372
+Yozyovon,Yozyovon,40.6619,71.7431,Uzbekistan,UZ,UZB,Farg‘ona,minor,12800.0,1860299143
+Loyish Shaharchasi,Loyish Shaharchasi,39.8839,66.7481,Uzbekistan,UZ,UZB,Samarqand,minor,12769.0,1860150334
+Galaosiyo Shahri,Galaosiyo Shahri,39.85,64.45,Uzbekistan,UZ,UZB,Buxoro,minor,12600.0,1860860569
+Eski Arab,Eski Arab,40.3686,71.4231,Uzbekistan,UZ,UZB,Farg‘ona,,12600.0,1860690514
+Kegeyli Shahar,Kegeyli Shahar,42.7767,59.6078,Uzbekistan,UZ,UZB,Qoraqalpog‘iston,minor,12400.0,1860388394
+Vobkent Shahri,Vobkent Shahri,40.0333,64.5167,Uzbekistan,UZ,UZB,Buxoro,minor,12351.0,1860136901
+Payariq Shahri,Payariq Shahri,39.9892,66.8458,Uzbekistan,UZ,UZB,Samarqand,minor,12345.0,1860124573
+Qorao‘zak,Qorao`zak,43.0275,60.0125,Uzbekistan,UZ,UZB,Qoraqalpog‘iston,minor,12300.0,1860367424
+G’oliblar Qishlog’i,G'oliblar Qishlog'i,40.4953,67.8778,Uzbekistan,UZ,UZB,Jizzax,minor,12300.0,1860811696
+Paxtaobod,Paxtaobod,40.3453,68.1925,Uzbekistan,UZ,UZB,Sirdaryo,,12200.0,1860473254
+Kuyganyor,Kuyganyor,40.8611,72.3111,Uzbekistan,UZ,UZB,Andijon,minor,12200.0,1860676676
+Andijon,Andijon,40.6444,72.3639,Uzbekistan,UZ,UZB,Andijon,,12200.0,1860676293
+Yangiariq,Yangiariq,41.3628,60.6075,Uzbekistan,UZ,UZB,Xorazm,minor,12200.0,1860360954
+Gulbahor,Gulbahor,41.0747,69.0275,Uzbekistan,UZ,UZB,Toshkent,,12100.0,1860823540
+Oqqo‘rg‘on,Oqqo`rg`on,40.8764,69.0453,Uzbekistan,UZ,UZB,Toshkent,,11900.0,1860153212
+Qorashina,Qorashina,38.3394,66.5619,Uzbekistan,UZ,UZB,Qashqadaryo,minor,11900.0,1860549169
+Ziyodin Shaharchasi,Ziyodin Shaharchasi,40.0342,65.6547,Uzbekistan,UZ,UZB,Samarqand,minor,11610.0,1860117701
+Yangiqo‘rg‘on,Yangiqo`rg`on,41.1872,71.7333,Uzbekistan,UZ,UZB,Namangan,,11561.0,1860687497
+Dang‘ara,Dang`ara,40.5831,70.91,Uzbekistan,UZ,UZB,Farg‘ona,minor,11500.0,1860878962
+Yangirabot,Yangirabot,40.0253,65.9608,Uzbekistan,UZ,UZB,Navoiy,minor,11364.0,1860058903
+Eski Yakkabog‘,Eski Yakkabog`,38.9314,66.8389,Uzbekistan,UZ,UZB,Qashqadaryo,,10800.0,1860248125
+Tallimarjon Shahri,Tallimarjon Shahri,38.2967,65.5533,Uzbekistan,UZ,UZB,Qashqadaryo,,10800.0,1860832901
+Sharg‘un,Sharg`un,38.46,67.9669,Uzbekistan,UZ,UZB,Surxondaryo,,10716.0,1860470094
+Bog’ot,Bog'ot,41.35,60.8167,Uzbekistan,UZ,UZB,Xorazm,minor,10700.0,1860558228
+Tinchlik,Tinchlik,40.4264,71.4956,Uzbekistan,UZ,UZB,Farg‘ona,,10644.0,1860903091
+Shumanay,Shumanay,42.6333,58.9167,Uzbekistan,UZ,UZB,Qoraqalpog‘iston,,10513.0,1860689478
+Usmat Shaharchasi,Usmat Shaharchasi,39.7386,67.6433,Uzbekistan,UZ,UZB,Jizzax,minor,10500.0,1860775970
+Dehqonobod,Dehqonobod,40.5314,69.0342,Uzbekistan,UZ,UZB,Sirdaryo,,10500.0,1860018395
+Nuriston,Nuriston,38.4892,65.6464,Uzbekistan,UZ,UZB,Qashqadaryo,,10500.0,1860752520
+Qanliko‘l,Qanliko`l,42.8333,59.0,Uzbekistan,UZ,UZB,Qoraqalpog‘iston,minor,10303.0,1860774875
+Uchtepa Qishlog’i,Uchtepa Qishlog'i,40.205,67.9011,Uzbekistan,UZ,UZB,Jizzax,minor,10110.0,1860078852
+Bandixon,Bandixon,37.8614,67.3861,Uzbekistan,UZ,UZB,Surxondaryo,,10110.0,1860730095
+Jomasho‘y,Jomasho`y,40.8633,71.4597,Uzbekistan,UZ,UZB,Namangan,,10100.0,1860251898
+Shohimardon,Shohimardon,39.9833,71.8,Uzbekistan,UZ,UZB,Farg‘ona,,10100.0,1860836599
+Xishrov,Xishrov,39.6383,66.8897,Uzbekistan,UZ,UZB,Samarqand,,10000.0,1860278182
+Oyim,Oyim,40.8242,72.7414,Uzbekistan,UZ,UZB,Andijon,,10000.0,1860819147
+Qiziltepa,Qiziltepa,40.0361,64.8503,Uzbekistan,UZ,UZB,Navoiy,,9884.0,1860348538
+Ingichka,Ingichka,39.7389,65.9922,Uzbekistan,UZ,UZB,Samarqand,,9676.0,1860688085
+Nurobod Shahri,Nurobod Shahri,39.6086,66.2867,Uzbekistan,UZ,UZB,Samarqand,minor,9600.0,1860030602
+Bo‘z,Bo`z,40.6833,71.9167,Uzbekistan,UZ,UZB,Andijon,,9294.0,1860854695
+Xalqobod,Xalqobod,37.4597,66.9222,Uzbekistan,UZ,UZB,Surxondaryo,,9200.0,1860446608
+Qorovulbozor,Qorovulbozor,39.5,64.8,Uzbekistan,UZ,UZB,Buxoro,,9200.0,1860000615
+Zarbdor Shaharchasi,Zarbdor Shaharchasi,40.0747,68.1683,Uzbekistan,UZ,UZB,Jizzax,minor,9110.0,1860740472
+Dahbed,Dahbed,39.7636,66.9131,Uzbekistan,UZ,UZB,Samarqand,,9000.0,1860321921
+Qahramon,Qahramon,40.305,68.6017,Uzbekistan,UZ,UZB,Sirdaryo,,9000.0,1860810536
+Yangiobod,Yangiobod,41.1192,70.0942,Uzbekistan,UZ,UZB,Toshkent,,8900.0,1860896994
+Angor,Angor,37.4639,67.15,Uzbekistan,UZ,UZB,Surxondaryo,,8801.0,1860931614
+G‘ozg‘on,G`ozg`on,40.5944,65.4964,Uzbekistan,UZ,UZB,Navoiy,,8800.0,1860129710
+Jondor Shaharchasi,Jondor Shaharchasi,39.7333,64.1833,Uzbekistan,UZ,UZB,Buxoro,minor,8700.0,1860971461
+Qorovul,Qorovul,41.5569,60.5914,Uzbekistan,UZ,UZB,Xorazm,minor,8520.0,1860937148

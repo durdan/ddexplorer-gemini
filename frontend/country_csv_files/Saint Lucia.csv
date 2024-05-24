@@ -1,0 +1,11 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Castries,Castries,14.0167,-60.9833,Saint Lucia,LC,LCA,Castries,primary,70000.0,1662922505
+Gros Islet,Gros Islet,14.081,-60.953,Saint Lucia,LC,LCA,Gros-Islet,,21660.0,1662587230
+Micoud,Micoud,13.819,-60.9,Saint Lucia,LC,LCA,Micoud,,16620.0,1662284739
+Vieux Fort,Vieux Fort,13.728,-60.954,Saint Lucia,LC,LCA,Vieux-Fort,,15750.0,1662173284
+Bisee,Bisee,14.0243,-60.9744,Saint Lucia,LC,LCA,Castries,,12980.0,1662015000
+Castries,Castries,14.0167,-60.9833,Saint Lucia,LC,LCA,Castries,primary,70000.0,1662922505
+Gros Islet,Gros Islet,14.081,-60.953,Saint Lucia,LC,LCA,Gros-Islet,,21660.0,1662587230
+Micoud,Micoud,13.819,-60.9,Saint Lucia,LC,LCA,Micoud,,16620.0,1662284739
+Vieux Fort,Vieux Fort,13.728,-60.954,Saint Lucia,LC,LCA,Vieux-Fort,,15750.0,1662173284
+Bisee,Bisee,14.0243,-60.9744,Saint Lucia,LC,LCA,Castries,,12980.0,1662015000

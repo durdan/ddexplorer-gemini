@@ -1,0 +1,19 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Mutsamudu,Mutsamudu,-12.1675,44.3939,Comoros,KM,COM,Anjouan,admin,30000.0,1174036583
+Ouani,Ouani,-12.135,44.4275,Comoros,KM,COM,Anjouan,,22501.0,1174574251
+Mandza,Mandza,-11.4167,43.3,Comoros,KM,COM,Grande Comore,,21000.0,1174892176
+Fomboni,Fomboni,-12.28,43.7425,Comoros,KM,COM,Mohéli,admin,18277.0,1174539766
+Moroni,Moroni,-11.699,43.256,Comoros,KM,COM,Grande Comore,primary,17267.0,1174793581
+Domoni,Domoni,-12.2586,44.5303,Comoros,KM,COM,Anjouan,,16276.0,1174938041
+Adda-Douéni,Adda-Doueni,-12.3,44.5,Comoros,KM,COM,Anjouan,,10858.0,1174212129
+Kourani,Kourani,-11.8511,43.4261,Comoros,KM,COM,Grande Comore,,10000.0,1174935601
+Bazimini,Bazimini,-12.1833,44.45,Comoros,KM,COM,Anjouan,,8952.0,1174603336
+Mutsamudu,Mutsamudu,-12.1675,44.3939,Comoros,KM,COM,Anjouan,admin,30000.0,1174036583
+Ouani,Ouani,-12.135,44.4275,Comoros,KM,COM,Anjouan,,22501.0,1174574251
+Mandza,Mandza,-11.4167,43.3,Comoros,KM,COM,Grande Comore,,21000.0,1174892176
+Fomboni,Fomboni,-12.28,43.7425,Comoros,KM,COM,Mohéli,admin,18277.0,1174539766
+Moroni,Moroni,-11.699,43.256,Comoros,KM,COM,Grande Comore,primary,17267.0,1174793581
+Domoni,Domoni,-12.2586,44.5303,Comoros,KM,COM,Anjouan,,16276.0,1174938041
+Adda-Douéni,Adda-Doueni,-12.3,44.5,Comoros,KM,COM,Anjouan,,10858.0,1174212129
+Kourani,Kourani,-11.8511,43.4261,Comoros,KM,COM,Grande Comore,,10000.0,1174935601
+Bazimini,Bazimini,-12.1833,44.45,Comoros,KM,COM,Anjouan,,8952.0,1174603336

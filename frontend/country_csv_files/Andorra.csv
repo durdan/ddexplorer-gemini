@@ -1,0 +1,15 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Andorra la Vella,Andorra la Vella,42.5,1.5,Andorra,AD,AND,Andorra la Vella,primary,22615.0,1020828846
+Escaldes-Engordany,Escaldes-Engordany,42.5089,1.5408,Andorra,AD,AND,Escaldes-Engordany,admin,14917.0,1020008674
+Encamp,Encamp,42.5361,1.5828,Andorra,AD,AND,Encamp,admin,12155.0,1020417470
+La Massana,La Massana,42.5444,1.5144,Andorra,AD,AND,La Massana,admin,11113.0,1020543453
+Sant Julià de Lòria,Sant Julia de Loria,42.465,1.4911,Andorra,AD,AND,Sant Julià de Lòria,admin,9694.0,1020885733
+Canillo,Canillo,42.5667,1.6,Andorra,AD,AND,Canillo,admin,5160.0,1020594179
+Ordino,Ordino,42.555,1.5331,Andorra,AD,AND,Ordino,admin,4858.0,1020655238
+Andorra la Vella,Andorra la Vella,42.5,1.5,Andorra,AD,AND,Andorra la Vella,primary,22615.0,1020828846
+Escaldes-Engordany,Escaldes-Engordany,42.5089,1.5408,Andorra,AD,AND,Escaldes-Engordany,admin,14917.0,1020008674
+Encamp,Encamp,42.5361,1.5828,Andorra,AD,AND,Encamp,admin,12155.0,1020417470
+La Massana,La Massana,42.5444,1.5144,Andorra,AD,AND,La Massana,admin,11113.0,1020543453
+Sant Julià de Lòria,Sant Julia de Loria,42.465,1.4911,Andorra,AD,AND,Sant Julià de Lòria,admin,9694.0,1020885733
+Canillo,Canillo,42.5667,1.6,Andorra,AD,AND,Canillo,admin,5160.0,1020594179
+Ordino,Ordino,42.555,1.5331,Andorra,AD,AND,Ordino,admin,4858.0,1020655238

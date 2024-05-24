@@ -1,0 +1,47 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Hong Kong,Hong Kong,22.3,114.2,Hong Kong,HK,HKG,,primary,7450000.0,1344982653
+Kowloon,Kowloon,22.3167,114.1833,Hong Kong,HK,HKG,,,2108419.0,1344538284
+Sha Tin,Sha Tin,22.3802,114.1898,Hong Kong,HK,HKG,,,640000.0,1344745541
+Kowloon City,Kowloon City,22.3282,114.1916,Hong Kong,HK,HKG,,,418732.0,1344000061
+Sham Shui Po,Sham Shui Po,22.3307,114.1622,Hong Kong,HK,HKG,,,405869.0,1344000058
+Tin Shui Wai,Tin Shui Wai,22.46,114.002,Hong Kong,HK,HKG,,,286232.0,1344389641
+Central District,Central District,22.2867,114.155,Hong Kong,HK,HKG,,,235953.0,1344000057
+Tsing Yi Town,Tsing Yi Town,22.3456,114.1,Hong Kong,HK,HKG,,,191500.0,1344057832
+Lam Tin,Lam Tin,22.3094,114.2361,Hong Kong,HK,HKG,,,131000.0,1344141583
+San Tung Chung Hang,San Tung Chung Hang,22.2869,113.9436,Hong Kong,HK,HKG,,,116022.0,1344851698
+Kennedy Town,Kennedy Town,22.28,114.125,Hong Kong,HK,HKG,,,54000.0,1344000050
+Kwai Chung,Kwai Chung,22.3674,114.1273,Hong Kong,HK,HKG,,,38674.0,1344773013
+Pak Tin Pa,Pak Tin Pa,22.3364,114.1667,Hong Kong,HK,HKG,,,21902.0,1344000101
+Cheung Chau,Cheung Chau,22.2106,114.0289,Hong Kong,HK,HKG,,,19769.0,1344565945
+Choi Hung,Choi Hung,22.335,114.2067,Hong Kong,HK,HKG,,,18435.0,1344000072
+Shek Tong Tsui,Shek Tong Tsui,22.2871,114.1357,Hong Kong,HK,HKG,,,17170.0,1344000053
+Wang Tau Hom,Wang Tau Hom,22.3408,114.1871,Hong Kong,HK,HKG,,,17116.0,1344000105
+Shek Wai Kok,Shek Wai Kok,22.3753,114.1237,Hong Kong,HK,HKG,,,16605.0,1344833550
+Tung Tau Tsuen,Tung Tau Tsuen,22.3334,114.1924,Hong Kong,HK,HKG,,,15562.0,1344000062
+Sha Kok Mei,Sha Kok Mei,22.3784,114.1941,Hong Kong,HK,HKG,,,14522.0,1344631625
+Sai Wan Ho,Sai Wan Ho,22.2877,114.1365,Hong Kong,HK,HKG,,,12985.0,1344000086
+Sai Kung Tuk,Sai Kung Tuk,22.3814,114.2733,Hong Kong,HK,HKG,,,11927.0,1344932135
+Wan Tau Tong,Wan Tau Tong,22.4423,114.167,Hong Kong,HK,HKG,,,10860.0,1344475815
+Hong Kong,Hong Kong,22.3,114.2,Hong Kong,HK,HKG,,primary,7450000.0,1344982653
+Kowloon,Kowloon,22.3167,114.1833,Hong Kong,HK,HKG,,,2108419.0,1344538284
+Sha Tin,Sha Tin,22.3802,114.1898,Hong Kong,HK,HKG,,,640000.0,1344745541
+Kowloon City,Kowloon City,22.3282,114.1916,Hong Kong,HK,HKG,,,418732.0,1344000061
+Sham Shui Po,Sham Shui Po,22.3307,114.1622,Hong Kong,HK,HKG,,,405869.0,1344000058
+Tin Shui Wai,Tin Shui Wai,22.46,114.002,Hong Kong,HK,HKG,,,286232.0,1344389641
+Central District,Central District,22.2867,114.155,Hong Kong,HK,HKG,,,235953.0,1344000057
+Tsing Yi Town,Tsing Yi Town,22.3456,114.1,Hong Kong,HK,HKG,,,191500.0,1344057832
+Lam Tin,Lam Tin,22.3094,114.2361,Hong Kong,HK,HKG,,,131000.0,1344141583
+San Tung Chung Hang,San Tung Chung Hang,22.2869,113.9436,Hong Kong,HK,HKG,,,116022.0,1344851698
+Kennedy Town,Kennedy Town,22.28,114.125,Hong Kong,HK,HKG,,,54000.0,1344000050
+Kwai Chung,Kwai Chung,22.3674,114.1273,Hong Kong,HK,HKG,,,38674.0,1344773013
+Pak Tin Pa,Pak Tin Pa,22.3364,114.1667,Hong Kong,HK,HKG,,,21902.0,1344000101
+Cheung Chau,Cheung Chau,22.2106,114.0289,Hong Kong,HK,HKG,,,19769.0,1344565945
+Choi Hung,Choi Hung,22.335,114.2067,Hong Kong,HK,HKG,,,18435.0,1344000072
+Shek Tong Tsui,Shek Tong Tsui,22.2871,114.1357,Hong Kong,HK,HKG,,,17170.0,1344000053
+Wang Tau Hom,Wang Tau Hom,22.3408,114.1871,Hong Kong,HK,HKG,,,17116.0,1344000105
+Shek Wai Kok,Shek Wai Kok,22.3753,114.1237,Hong Kong,HK,HKG,,,16605.0,1344833550
+Tung Tau Tsuen,Tung Tau Tsuen,22.3334,114.1924,Hong Kong,HK,HKG,,,15562.0,1344000062
+Sha Kok Mei,Sha Kok Mei,22.3784,114.1941,Hong Kong,HK,HKG,,,14522.0,1344631625
+Sai Wan Ho,Sai Wan Ho,22.2877,114.1365,Hong Kong,HK,HKG,,,12985.0,1344000086
+Sai Kung Tuk,Sai Kung Tuk,22.3814,114.2733,Hong Kong,HK,HKG,,,11927.0,1344932135
+Wan Tau Tong,Wan Tau Tong,22.4423,114.167,Hong Kong,HK,HKG,,,10860.0,1344475815

@@ -1,0 +1,15 @@
+# backend/pyproject.toml
+
+[tool.poetry]
+name = "backend"
+version = "0.1.0"
+description = "Backend Flask application for Gemini-Powered Travel Assistant"
+authors = ["Your Name <your@email.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+flask = "^2.1.0"
+# Add other dependencies as needed
+
+[tool.poetry.dev-dependencies]
+# Add development dependencies as needed

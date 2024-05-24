@@ -1,0 +1,63 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Masqaţ,Masqat,23.5889,58.4083,Oman,OM,OMN,Masqaţ,,1720000.0,1512001294
+Muscat,Muscat,23.6139,58.5922,Oman,OM,OMN,Masqaţ,primary,1421409.0,1512035506
+Bawshar,Bawshar,23.5333,58.3833,Oman,OM,OMN,Masqaţ,,383257.0,1512506161
+Şalālah,Salalah,17.0197,54.0897,Oman,OM,OMN,Z̧ufār,admin,331949.0,1512995148
+As Sīb,As Sib,23.6703,58.1891,Oman,OM,OMN,Masqaţ,,237816.0,1512461161
+Maţraḩ,Matrah,23.6167,58.5667,Oman,OM,OMN,Masqaţ,,214901.0,1512325823
+As Suwayq,As Suwayq,23.8494,57.4386,Oman,OM,OMN,Shamāl al Bāţinah,,170000.0,1512745539
+Aş Şuwayḩirah as Sāḩil,As Suwayhirah as Sahil,24.362,56.7344,Oman,OM,OMN,Shamāl al Bāţinah,,151349.0,1512145575
+Ar Rustāq,Ar Rustaq,23.3908,57.4244,Oman,OM,OMN,Janūb al Bāţinah,admin,120000.0,1512376854
+Al Muḑaybī,Al Mudaybi,22.5667,58.1167,Oman,OM,OMN,Shamāl ash Sharqīyah,,115040.0,1512883829
+‘Ibrī,`Ibri,23.2325,56.4973,Oman,OM,OMN,Az̧ Z̧āhirah,admin,101640.0,1512077267
+Bahlā’,Bahla',22.968,57.298,Oman,OM,OMN,Ad Dākhilīyah,,85000.0,1512321924
+Nizwá,Nizwa,22.9333,57.5333,Oman,OM,OMN,Ad Dākhilīyah,admin,83544.0,1512180300
+Samā’il,Sama'il,23.3,57.9833,Oman,OM,OMN,Ad Dākhilīyah,,80538.0,1512936108
+Al ‘Āmirāt,Al `Amirat,23.5242,58.4989,Oman,OM,OMN,Masqaţ,,70000.0,1512675854
+Al Buraymī,Al Buraymi,24.2592,55.7839,Oman,OM,OMN,Al Buraymī,admin,67963.0,1512959921
+Qurayyāt,Qurayyat,23.32,58.908,Oman,OM,OMN,Masqaţ,,63133.0,1512111751
+Al Madrah Samā’il,Al Madrah Sama'il,23.3103,57.9455,Oman,OM,OMN,Ad Dākhilīyah,,47718.0,1512000205
+Shināş,Shinas,24.75,56.4667,Oman,OM,OMN,Shamāl al Bāţinah,,43312.0,1512941410
+Izkī,Izki,22.9339,57.775,Oman,OM,OMN,Ad Dākhilīyah,,35173.0,1512293504
+Ibrā’,Ibra',22.6833,58.55,Oman,OM,OMN,Shamāl ash Sharqīyah,admin,35000.0,1512341564
+Nakhal,Nakhal,23.395,57.829,Oman,OM,OMN,Janūb al Bāţinah,,28088.0,1512392286
+Ḑank,Dank,23.55,56.25,Oman,OM,OMN,Az̧ Z̧āhirah,,23466.0,1512330290
+Ţāqah,Taqah,17.0372,54.4036,Oman,OM,OMN,Z̧ufār,,18218.0,1512705781
+Khaşab,Khasab,26.1833,56.25,Oman,OM,OMN,Musandam,admin,17777.0,1512236141
+Fanjā’,Fanja',23.4675,58.1061,Oman,OM,OMN,Ad Dākhilīyah,,10396.0,1512768698
+Al Mazyūnah,Al Mazyunah,17.8486,52.62,Oman,OM,OMN,Z̧ufār,minor,10000.0,1512004977
+Mirbāţ,Mirbat,16.9886,54.6922,Oman,OM,OMN,Z̧ufār,,1120.0,1512455360
+Şūr,Sur,22.5667,59.5289,Oman,OM,OMN,Janūb ash Sharqīyah,admin,,1512350600
+Haymā’,Hayma',19.9569,56.2758,Oman,OM,OMN,Al Wusţá,admin,,1512927824
+Şuḩār,Suhar,24.342,56.7299,Oman,OM,OMN,Shamāl al Bāţinah,admin,,1512602960
+Masqaţ,Masqat,23.5889,58.4083,Oman,OM,OMN,Masqaţ,,1720000.0,1512001294
+Muscat,Muscat,23.6139,58.5922,Oman,OM,OMN,Masqaţ,primary,1421409.0,1512035506
+Bawshar,Bawshar,23.5333,58.3833,Oman,OM,OMN,Masqaţ,,383257.0,1512506161
+Şalālah,Salalah,17.0197,54.0897,Oman,OM,OMN,Z̧ufār,admin,331949.0,1512995148
+As Sīb,As Sib,23.6703,58.1891,Oman,OM,OMN,Masqaţ,,237816.0,1512461161
+Maţraḩ,Matrah,23.6167,58.5667,Oman,OM,OMN,Masqaţ,,214901.0,1512325823
+As Suwayq,As Suwayq,23.8494,57.4386,Oman,OM,OMN,Shamāl al Bāţinah,,170000.0,1512745539
+Aş Şuwayḩirah as Sāḩil,As Suwayhirah as Sahil,24.362,56.7344,Oman,OM,OMN,Shamāl al Bāţinah,,151349.0,1512145575
+Ar Rustāq,Ar Rustaq,23.3908,57.4244,Oman,OM,OMN,Janūb al Bāţinah,admin,120000.0,1512376854
+Al Muḑaybī,Al Mudaybi,22.5667,58.1167,Oman,OM,OMN,Shamāl ash Sharqīyah,,115040.0,1512883829
+‘Ibrī,`Ibri,23.2325,56.4973,Oman,OM,OMN,Az̧ Z̧āhirah,admin,101640.0,1512077267
+Bahlā’,Bahla',22.968,57.298,Oman,OM,OMN,Ad Dākhilīyah,,85000.0,1512321924
+Nizwá,Nizwa,22.9333,57.5333,Oman,OM,OMN,Ad Dākhilīyah,admin,83544.0,1512180300
+Samā’il,Sama'il,23.3,57.9833,Oman,OM,OMN,Ad Dākhilīyah,,80538.0,1512936108
+Al ‘Āmirāt,Al `Amirat,23.5242,58.4989,Oman,OM,OMN,Masqaţ,,70000.0,1512675854
+Al Buraymī,Al Buraymi,24.2592,55.7839,Oman,OM,OMN,Al Buraymī,admin,67963.0,1512959921
+Qurayyāt,Qurayyat,23.32,58.908,Oman,OM,OMN,Masqaţ,,63133.0,1512111751
+Al Madrah Samā’il,Al Madrah Sama'il,23.3103,57.9455,Oman,OM,OMN,Ad Dākhilīyah,,47718.0,1512000205
+Shināş,Shinas,24.75,56.4667,Oman,OM,OMN,Shamāl al Bāţinah,,43312.0,1512941410
+Izkī,Izki,22.9339,57.775,Oman,OM,OMN,Ad Dākhilīyah,,35173.0,1512293504
+Ibrā’,Ibra',22.6833,58.55,Oman,OM,OMN,Shamāl ash Sharqīyah,admin,35000.0,1512341564
+Nakhal,Nakhal,23.395,57.829,Oman,OM,OMN,Janūb al Bāţinah,,28088.0,1512392286
+Ḑank,Dank,23.55,56.25,Oman,OM,OMN,Az̧ Z̧āhirah,,23466.0,1512330290
+Ţāqah,Taqah,17.0372,54.4036,Oman,OM,OMN,Z̧ufār,,18218.0,1512705781
+Khaşab,Khasab,26.1833,56.25,Oman,OM,OMN,Musandam,admin,17777.0,1512236141
+Fanjā’,Fanja',23.4675,58.1061,Oman,OM,OMN,Ad Dākhilīyah,,10396.0,1512768698
+Al Mazyūnah,Al Mazyunah,17.8486,52.62,Oman,OM,OMN,Z̧ufār,minor,10000.0,1512004977
+Mirbāţ,Mirbat,16.9886,54.6922,Oman,OM,OMN,Z̧ufār,,1120.0,1512455360
+Şūr,Sur,22.5667,59.5289,Oman,OM,OMN,Janūb ash Sharqīyah,admin,,1512350600
+Haymā’,Hayma',19.9569,56.2758,Oman,OM,OMN,Al Wusţá,admin,,1512927824
+Şuḩār,Suhar,24.342,56.7299,Oman,OM,OMN,Shamāl al Bāţinah,admin,,1512602960

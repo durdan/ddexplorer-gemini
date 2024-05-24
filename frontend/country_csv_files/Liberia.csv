@@ -1,0 +1,45 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Monrovia,Monrovia,6.3133,-10.8014,Liberia,LR,LBR,Montserrado,primary,1021762.0,1430477826
+New Kru Town,New Kru Town,6.3733,-10.7928,Liberia,LR,LBR,Montserrado,,84399.0,1430152542
+Upper Buchanan,Upper Buchanan,5.9161,-10.0525,Liberia,LR,LBR,Grand Bassa,,48315.0,1430177860
+Ganta,Ganta,7.2375,-8.9814,Liberia,LR,LBR,Nimba,,41106.0,1430766691
+Buchanan,Buchanan,5.8808,-10.0467,Liberia,LR,LBR,Grand Bassa,admin,34270.0,1430478203
+Gbarnga,Gbarnga,6.998,-9.473,Liberia,LR,LBR,Bong,admin,34046.0,1430269323
+Kakata,Kakata,6.53,-10.3517,Liberia,LR,LBR,Margibi,admin,33945.0,1430656307
+Voinjama,Voinjama,8.4167,-9.75,Liberia,LR,LBR,Lofa,admin,26594.0,1430858471
+Harbel,Harbel,6.2833,-10.35,Liberia,LR,LBR,Margibi,,25309.0,1430289576
+Zwedru,Zwedru,6.0667,-8.1333,Liberia,LR,LBR,Grand Gedeh,admin,23903.0,1430130578
+Foya Tangia,Foya Tangia,8.2713,-10.2283,Liberia,LR,LBR,Lofa,,20569.0,1430908591
+Harper,Harper,4.3667,-7.7167,Liberia,LR,LBR,Maryland,admin,17837.0,1430540258
+Greenville,Greenville,5.0167,-9.0333,Liberia,LR,LBR,Sinoe,admin,16434.0,1430362799
+Tubmanburg,Tubmanburg,6.8667,-10.8167,Liberia,LR,LBR,Bomi,admin,13114.0,1430503114
+Saclepea,Saclepea,7.1167,-8.8333,Liberia,LR,LBR,Nimba,,12117.0,1430824666
+Sanniquellie,Sanniquellie,7.3622,-8.7061,Liberia,LR,LBR,Nimba,admin,11415.0,1430949102
+Bensonville,Bensonville,6.4456,-10.6097,Liberia,LR,LBR,Montserrado,admin,4089.0,1430964557
+Robertsport,Robertsport,6.75,-11.3667,Liberia,LR,LBR,Grand Cape Mount,admin,3933.0,1430885010
+Fish Town,Fish Town,5.1964,-7.8756,Liberia,LR,LBR,River Gee,admin,3328.0,1430204172
+Bopolu,Bopolu,7.0667,-10.4875,Liberia,LR,LBR,Gbarpolu,admin,2908.0,1430414456
+Barclayville,Barclayville,4.6797,-8.2339,Liberia,LR,LBR,Grand Kru,admin,2733.0,1430129873
+Cestos City,Cestos City,5.4667,-9.5833,Liberia,LR,LBR,River Cess,admin,2578.0,1430708587
+Monrovia,Monrovia,6.3133,-10.8014,Liberia,LR,LBR,Montserrado,primary,1021762.0,1430477826
+New Kru Town,New Kru Town,6.3733,-10.7928,Liberia,LR,LBR,Montserrado,,84399.0,1430152542
+Upper Buchanan,Upper Buchanan,5.9161,-10.0525,Liberia,LR,LBR,Grand Bassa,,48315.0,1430177860
+Ganta,Ganta,7.2375,-8.9814,Liberia,LR,LBR,Nimba,,41106.0,1430766691
+Buchanan,Buchanan,5.8808,-10.0467,Liberia,LR,LBR,Grand Bassa,admin,34270.0,1430478203
+Gbarnga,Gbarnga,6.998,-9.473,Liberia,LR,LBR,Bong,admin,34046.0,1430269323
+Kakata,Kakata,6.53,-10.3517,Liberia,LR,LBR,Margibi,admin,33945.0,1430656307
+Voinjama,Voinjama,8.4167,-9.75,Liberia,LR,LBR,Lofa,admin,26594.0,1430858471
+Harbel,Harbel,6.2833,-10.35,Liberia,LR,LBR,Margibi,,25309.0,1430289576
+Zwedru,Zwedru,6.0667,-8.1333,Liberia,LR,LBR,Grand Gedeh,admin,23903.0,1430130578
+Foya Tangia,Foya Tangia,8.2713,-10.2283,Liberia,LR,LBR,Lofa,,20569.0,1430908591
+Harper,Harper,4.3667,-7.7167,Liberia,LR,LBR,Maryland,admin,17837.0,1430540258
+Greenville,Greenville,5.0167,-9.0333,Liberia,LR,LBR,Sinoe,admin,16434.0,1430362799
+Tubmanburg,Tubmanburg,6.8667,-10.8167,Liberia,LR,LBR,Bomi,admin,13114.0,1430503114
+Saclepea,Saclepea,7.1167,-8.8333,Liberia,LR,LBR,Nimba,,12117.0,1430824666
+Sanniquellie,Sanniquellie,7.3622,-8.7061,Liberia,LR,LBR,Nimba,admin,11415.0,1430949102
+Bensonville,Bensonville,6.4456,-10.6097,Liberia,LR,LBR,Montserrado,admin,4089.0,1430964557
+Robertsport,Robertsport,6.75,-11.3667,Liberia,LR,LBR,Grand Cape Mount,admin,3933.0,1430885010
+Fish Town,Fish Town,5.1964,-7.8756,Liberia,LR,LBR,River Gee,admin,3328.0,1430204172
+Bopolu,Bopolu,7.0667,-10.4875,Liberia,LR,LBR,Gbarpolu,admin,2908.0,1430414456
+Barclayville,Barclayville,4.6797,-8.2339,Liberia,LR,LBR,Grand Kru,admin,2733.0,1430129873
+Cestos City,Cestos City,5.4667,-9.5833,Liberia,LR,LBR,River Cess,admin,2578.0,1430708587

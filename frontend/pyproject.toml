@@ -1,0 +1,22 @@
+# frontend/pyproject.toml
+
+[tool.poetry]
+name = "frontend"
+version = "0.1.0"
+description = "Frontend Streamlit application for Gemini-Powered Travel Assistant"
+authors = ["Your Name <your@email.com>"]
+
+[tool.poetry.dependencies]
+python = ">3.9.7,<4.0.0"
+streamlit = "^1.30.0"
+requests = "^2.26.0"
+altair = "^4.1.0"
+openai = "^1.28.0"
+joblib = "^1.4.2"
+geopy = "^2.4.1"
+googlemaps = "^4.10.0"
+mysql-connector-python = "^8.4.0"
+flask = "^3.0.3"
+
+[tool.poetry.dev-dependencies]
+# Add development dependencies as needed

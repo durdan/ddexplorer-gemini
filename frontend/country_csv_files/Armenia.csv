@@ -1,0 +1,73 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Yerevan,Yerevan,40.1814,44.5144,Armenia,AM,ARM,Yerevan,primary,1075800.0,1051074169
+Gyumri,Gyumri,40.7894,43.8475,Armenia,AM,ARM,Shirak,admin,121976.0,1051341374
+Vanadzor,Vanadzor,40.8128,44.4883,Armenia,AM,ARM,Lorri,admin,90525.0,1051691929
+Ejmiatsin,Ejmiatsin,40.1728,44.2925,Armenia,AM,ARM,Armavir,,57500.0,1051214432
+Hrazdan,Hrazdan,40.5,44.7667,Armenia,AM,ARM,Kotayk’,admin,52808.0,1051566733
+Abovyan,Abovyan,40.2739,44.6256,Armenia,AM,ARM,Kotayk’,,44400.0,1051509043
+Kapan,Kapan,39.2011,46.415,Armenia,AM,ARM,Syunik’,admin,43190.0,1051527958
+Armavir,Armavir,40.15,44.04,Armenia,AM,ARM,Armavir,admin,38635.0,1051878002
+Charentsavan,Charentsavan,40.4097,44.6431,Armenia,AM,ARM,Kotayk’,,25039.0,1051304472
+Stepanavan,Stepanavan,41.0096,44.3841,Armenia,AM,ARM,Lorri,,23782.0,1051221961
+Sevan,Sevan,40.555,44.9536,Armenia,AM,ARM,Geghark’unik’,,23200.0,1051586680
+Ashtarak,Ashtarak,40.2975,44.3617,Armenia,AM,ARM,Aragatsotn,admin,21600.0,1051714712
+Masis,Masis,40.0633,44.4408,Armenia,AM,ARM,Ararat,,21376.0,1051588635
+Artashat,Artashat,39.9539,44.5506,Armenia,AM,ARM,Ararat,admin,21300.0,1051969157
+Ararat,Ararat,39.8303,44.7025,Armenia,AM,ARM,Ararat,,20800.0,1051804328
+Gavarr,Gavarr,40.3589,45.1267,Armenia,AM,ARM,Geghark’unik’,admin,20765.0,1051983153
+Goris,Goris,39.5078,46.3386,Armenia,AM,ARM,Syunik’,,20591.0,1051724931
+Ijevan,Ijevan,40.8792,45.1472,Armenia,AM,ARM,Tavush,admin,20509.0,1051007129
+Artik,Artik,40.6167,43.95,Armenia,AM,ARM,Shirak,,19543.0,1051915203
+Artik,Artik,40.6172,43.9758,Armenia,AM,ARM,Shirak,,19534.0,1051264283
+Dilijan,Dilijan,40.7408,44.8631,Armenia,AM,ARM,Tavush,,16600.0,1051278149
+Spitak,Spitak,40.8372,44.2675,Armenia,AM,ARM,Lorri,,15000.0,1051088654
+Sisian,Sisian,39.5208,46.0322,Armenia,AM,ARM,Syunik’,,14894.0,1051297901
+Vedi,Vedi,39.9106,44.7278,Armenia,AM,ARM,Ararat,,13600.0,1051497874
+Alaverdi,Alaverdi,41.1333,44.65,Armenia,AM,ARM,Lorri,,13000.0,1051787137
+Vardenis,Vardenis,40.1806,45.72,Armenia,AM,ARM,Geghark’unik’,,12363.0,1051776950
+Martuni,Martuni,40.14,45.3064,Armenia,AM,ARM,Geghark’unik’,,11987.0,1051260753
+Yeghvard,Yeghvard,40.3217,44.4814,Armenia,AM,ARM,Kotayk’,,10656.0,1051779287
+Vardenik,Vardenik,40.1331,45.4367,Armenia,AM,ARM,Geghark’unik’,,9880.0,1051146271
+Metsamor,Metsamor,40.1428,44.1164,Armenia,AM,ARM,Armavir,,9870.0,1051651063
+Berd,Berd,40.8808,45.3917,Armenia,AM,ARM,Tavush,,9864.0,1051965968
+Byureghavan,Byureghavan,40.3147,44.5936,Armenia,AM,ARM,Kotayk’,,9513.0,1051696950
+Nor Hachn,Nor Hachn,40.3019,44.5831,Armenia,AM,ARM,Kotayk’,,9307.0,1051802790
+Tashir,Tashir,41.1244,44.2819,Armenia,AM,ARM,Lorri,,8700.0,1051680734
+Nerk’in Getashen,Nerk'in Getashen,40.1467,45.2642,Armenia,AM,ARM,Geghark’unik’,,8553.0,1051445812
+Yeghegnadzor,Yeghegnadzor,39.7611,45.3333,Armenia,AM,ARM,Vayots’ Dzor,admin,7633.0,1051234787
+Yerevan,Yerevan,40.1814,44.5144,Armenia,AM,ARM,Yerevan,primary,1075800.0,1051074169
+Gyumri,Gyumri,40.7894,43.8475,Armenia,AM,ARM,Shirak,admin,121976.0,1051341374
+Vanadzor,Vanadzor,40.8128,44.4883,Armenia,AM,ARM,Lorri,admin,90525.0,1051691929
+Ejmiatsin,Ejmiatsin,40.1728,44.2925,Armenia,AM,ARM,Armavir,,57500.0,1051214432
+Hrazdan,Hrazdan,40.5,44.7667,Armenia,AM,ARM,Kotayk’,admin,52808.0,1051566733
+Abovyan,Abovyan,40.2739,44.6256,Armenia,AM,ARM,Kotayk’,,44400.0,1051509043
+Kapan,Kapan,39.2011,46.415,Armenia,AM,ARM,Syunik’,admin,43190.0,1051527958
+Armavir,Armavir,40.15,44.04,Armenia,AM,ARM,Armavir,admin,38635.0,1051878002
+Charentsavan,Charentsavan,40.4097,44.6431,Armenia,AM,ARM,Kotayk’,,25039.0,1051304472
+Stepanavan,Stepanavan,41.0096,44.3841,Armenia,AM,ARM,Lorri,,23782.0,1051221961
+Sevan,Sevan,40.555,44.9536,Armenia,AM,ARM,Geghark’unik’,,23200.0,1051586680
+Ashtarak,Ashtarak,40.2975,44.3617,Armenia,AM,ARM,Aragatsotn,admin,21600.0,1051714712
+Masis,Masis,40.0633,44.4408,Armenia,AM,ARM,Ararat,,21376.0,1051588635
+Artashat,Artashat,39.9539,44.5506,Armenia,AM,ARM,Ararat,admin,21300.0,1051969157
+Ararat,Ararat,39.8303,44.7025,Armenia,AM,ARM,Ararat,,20800.0,1051804328
+Gavarr,Gavarr,40.3589,45.1267,Armenia,AM,ARM,Geghark’unik’,admin,20765.0,1051983153
+Goris,Goris,39.5078,46.3386,Armenia,AM,ARM,Syunik’,,20591.0,1051724931
+Ijevan,Ijevan,40.8792,45.1472,Armenia,AM,ARM,Tavush,admin,20509.0,1051007129
+Artik,Artik,40.6167,43.95,Armenia,AM,ARM,Shirak,,19543.0,1051915203
+Artik,Artik,40.6172,43.9758,Armenia,AM,ARM,Shirak,,19534.0,1051264283
+Dilijan,Dilijan,40.7408,44.8631,Armenia,AM,ARM,Tavush,,16600.0,1051278149
+Spitak,Spitak,40.8372,44.2675,Armenia,AM,ARM,Lorri,,15000.0,1051088654
+Sisian,Sisian,39.5208,46.0322,Armenia,AM,ARM,Syunik’,,14894.0,1051297901
+Vedi,Vedi,39.9106,44.7278,Armenia,AM,ARM,Ararat,,13600.0,1051497874
+Alaverdi,Alaverdi,41.1333,44.65,Armenia,AM,ARM,Lorri,,13000.0,1051787137
+Vardenis,Vardenis,40.1806,45.72,Armenia,AM,ARM,Geghark’unik’,,12363.0,1051776950
+Martuni,Martuni,40.14,45.3064,Armenia,AM,ARM,Geghark’unik’,,11987.0,1051260753
+Yeghvard,Yeghvard,40.3217,44.4814,Armenia,AM,ARM,Kotayk’,,10656.0,1051779287
+Vardenik,Vardenik,40.1331,45.4367,Armenia,AM,ARM,Geghark’unik’,,9880.0,1051146271
+Metsamor,Metsamor,40.1428,44.1164,Armenia,AM,ARM,Armavir,,9870.0,1051651063
+Berd,Berd,40.8808,45.3917,Armenia,AM,ARM,Tavush,,9864.0,1051965968
+Byureghavan,Byureghavan,40.3147,44.5936,Armenia,AM,ARM,Kotayk’,,9513.0,1051696950
+Nor Hachn,Nor Hachn,40.3019,44.5831,Armenia,AM,ARM,Kotayk’,,9307.0,1051802790
+Tashir,Tashir,41.1244,44.2819,Armenia,AM,ARM,Lorri,,8700.0,1051680734
+Nerk’in Getashen,Nerk'in Getashen,40.1467,45.2642,Armenia,AM,ARM,Geghark’unik’,,8553.0,1051445812
+Yeghegnadzor,Yeghegnadzor,39.7611,45.3333,Armenia,AM,ARM,Vayots’ Dzor,admin,7633.0,1051234787

@@ -1,0 +1,117 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Chisinau,Chisinau,47.0228,28.8353,Moldova,MD,MDA,Chişinău,primary,702300.0,1498011437
+Tiraspol,Tiraspol,46.8403,29.6433,Moldova,MD,MDA,Stînga Nistrului,admin,133807.0,1498104958
+Bălţi,Balti,47.7667,27.9167,Moldova,MD,MDA,Bălţi,admin,97930.0,1498172131
+Bender,Bender,46.8333,29.4833,Moldova,MD,MDA,Bender,admin,76158.0,1498257678
+Rîbniţa,Ribnita,47.7667,29.0,Moldova,MD,MDA,Stînga Nistrului,,56988.0,1498197530
+Ungheni,Ungheni,47.2167,27.8167,Moldova,MD,MDA,Ungheni,admin,30804.0,1498687533
+Cahul,Cahul,45.9167,28.1836,Moldova,MD,MDA,Cahul,admin,30018.0,1498020356
+Dubăsari,Dubasari,47.2667,29.1667,Moldova,MD,MDA,Stînga Nistrului,,28500.0,1498583082
+Soroca,Soroca,48.1667,28.3,Moldova,MD,MDA,Soroca,admin,22196.0,1498912060
+Orhei,Orhei,47.3833,28.8167,Moldova,MD,MDA,Orhei,admin,21065.0,1498680500
+Comrat,Comrat,46.3167,28.6667,Moldova,MD,MDA,Găgăuzia,admin,20113.0,1498677351
+Slobozia,Slobozia,46.7333,29.7,Moldova,MD,MDA,Stînga Nistrului,,20000.0,1498228098
+Straşeni,Straseni,47.1333,28.6167,Moldova,MD,MDA,Străşeni,admin,18376.0,1498773145
+Durleşti,Durlesti,47.0333,28.95,Moldova,MD,MDA,Chişinău,,17210.0,1498757203
+Ceadîr-Lunga,Ceadir-Lunga,46.05,28.8333,Moldova,MD,MDA,Găgăuzia,,16605.0,1498057941
+Codru,Codru,46.9753,28.8194,Moldova,MD,MDA,Chişinău,,15934.0,1498544482
+Edineţ,Edinet,48.1667,27.3167,Moldova,MD,MDA,Edineţ,admin,15520.0,1498114952
+Drochia,Drochia,48.0333,27.75,Moldova,MD,MDA,Drochia,admin,13150.0,1498968635
+Căuşeni,Causeni,46.6333,29.4,Moldova,MD,MDA,Căuşeni,admin,12874.0,1498826686
+Ialoveni,Ialoveni,46.95,28.7833,Moldova,MD,MDA,Ialoveni,admin,12515.0,1498897259
+Hînceşti,Hincesti,46.8167,28.5833,Moldova,MD,MDA,Hînceşti,admin,12491.0,1498402212
+Sîngerei,Singerei,47.6333,28.15,Moldova,MD,MDA,Sîngerei,admin,12465.0,1498521430
+Taraclia,Taraclia,45.9,28.6689,Moldova,MD,MDA,Taraclia,admin,12355.0,1498129687
+Vulcăneşti,Vulcanesti,45.6833,28.4028,Moldova,MD,MDA,Găgăuzia,,12185.0,1498275011
+Făleşti,Falesti,47.5722,27.7139,Moldova,MD,MDA,Făleşti,admin,12074.0,1498180648
+Floreşti,Floresti,47.8933,28.3014,Moldova,MD,MDA,Floreşti,admin,11998.0,1498297203
+Cimişlia,Cimislia,46.5167,28.7833,Moldova,MD,MDA,Cimişlia,admin,11997.0,1498766980
+Congaz,Congaz,46.1083,28.5972,Moldova,MD,MDA,Găgăuzia,,11123.0,1498367811
+Rezina,Rezina,47.7333,28.95,Moldova,MD,MDA,Rezina,admin,11032.0,1498876065
+Costeşti,Costesti,46.8678,28.7689,Moldova,MD,MDA,Ialoveni,,10907.0,1498958182
+Anenii Noi,Anenii Noi,46.8833,29.2167,Moldova,MD,MDA,Anenii Noi,admin,10872.0,1498650298
+Călăraşi,Calarasi,47.25,28.3,Moldova,MD,MDA,Călăraşi,admin,10808.0,1498598747
+Cricova,Cricova,47.1333,28.8667,Moldova,MD,MDA,Chişinău,,10669.0,1498628577
+Dnestrovsc,Dnestrovsc,46.6167,29.9167,Moldova,MD,MDA,Stînga Nistrului,,10436.0,1498610361
+Truşeni,Truseni,47.0667,28.6833,Moldova,MD,MDA,Chişinău,,10380.0,1498415834
+Băcioi,Bacioi,46.9122,28.8839,Moldova,MD,MDA,Chişinău,,10175.0,1498931344
+Sîngera,Singera,46.9139,28.9708,Moldova,MD,MDA,Chişinău,,9966.0,1498679513
+Borogani,Borogani,46.3667,28.5167,Moldova,MD,MDA,Cantemir,,9562.0,1498462266
+Grigoriopol,Grigoriopol,47.1503,29.2925,Moldova,MD,MDA,Stînga Nistrului,,9381.0,1498783401
+Rîşcani,Riscani,47.9572,27.5539,Moldova,MD,MDA,Rîşcani,admin,9259.0,1498650340
+Copceac,Copceac,45.85,28.6944,Moldova,MD,MDA,Găgăuzia,,9138.0,1498642964
+Peresecina,Peresecina,47.25,28.7667,Moldova,MD,MDA,Orhei,,9122.0,1498929769
+Chiţcani,Chitcani,46.7833,29.6167,Moldova,MD,MDA,Stînga Nistrului,,9000.0,1498000217
+Camenca,Camenca,48.0167,28.7167,Moldova,MD,MDA,Stînga Nistrului,,8871.0,1498446889
+Stăuceni,Stauceni,47.0875,28.8703,Moldova,MD,MDA,Chişinău,,8694.0,1498710305
+Glodeni,Glodeni,47.7667,27.5167,Moldova,MD,MDA,Glodeni,admin,8676.0,1498553213
+Basarabeasca,Basarabeasca,46.3336,28.9614,Moldova,MD,MDA,Basarabeasca,admin,8471.0,1498894118
+Nisporeni,Nisporeni,47.0833,28.1833,Moldova,MD,MDA,Nisporeni,admin,7986.0,1498953988
+Leova,Leova,46.4833,28.25,Moldova,MD,MDA,Leova,admin,7443.0,1498085636
+Briceni,Briceni,48.3611,27.0839,Moldova,MD,MDA,Briceni,admin,7314.0,1498970287
+Teleneşti,Telenesti,47.5028,28.3667,Moldova,MD,MDA,Teleneşti,admin,7227.0,1498811064
+Donduşeni,Donduseni,48.2167,27.5833,Moldova,MD,MDA,Donduşeni,admin,7101.0,1498280582
+Ştefan Vodă,Stefan Voda,46.5153,29.6631,Moldova,MD,MDA,Ştefan Vodă,admin,7078.0,1498766864
+Criuleni,Criuleni,47.2167,29.1667,Moldova,MD,MDA,Criuleni,admin,6708.0,1498171854
+Şoldăneşti,Soldanesti,47.8167,28.8,Moldova,MD,MDA,Şoldăneşti,admin,5883.0,1498087659
+Cantemir,Cantemir,46.2667,28.2167,Moldova,MD,MDA,Cantemir,admin,3429.0,1498973808
+Ocniţa,Ocnita,48.3853,27.4392,Moldova,MD,MDA,Ocniţa,admin,3133.0,1498334915
+Cocieri,Cocieri,47.3,29.1167,Moldova,MD,MDA,Dubăsari,admin,,1498580757
+Chisinau,Chisinau,47.0228,28.8353,Moldova,MD,MDA,Chişinău,primary,702300.0,1498011437
+Tiraspol,Tiraspol,46.8403,29.6433,Moldova,MD,MDA,Stînga Nistrului,admin,133807.0,1498104958
+Bălţi,Balti,47.7667,27.9167,Moldova,MD,MDA,Bălţi,admin,97930.0,1498172131
+Bender,Bender,46.8333,29.4833,Moldova,MD,MDA,Bender,admin,76158.0,1498257678
+Rîbniţa,Ribnita,47.7667,29.0,Moldova,MD,MDA,Stînga Nistrului,,56988.0,1498197530
+Ungheni,Ungheni,47.2167,27.8167,Moldova,MD,MDA,Ungheni,admin,30804.0,1498687533
+Cahul,Cahul,45.9167,28.1836,Moldova,MD,MDA,Cahul,admin,30018.0,1498020356
+Dubăsari,Dubasari,47.2667,29.1667,Moldova,MD,MDA,Stînga Nistrului,,28500.0,1498583082
+Soroca,Soroca,48.1667,28.3,Moldova,MD,MDA,Soroca,admin,22196.0,1498912060
+Orhei,Orhei,47.3833,28.8167,Moldova,MD,MDA,Orhei,admin,21065.0,1498680500
+Comrat,Comrat,46.3167,28.6667,Moldova,MD,MDA,Găgăuzia,admin,20113.0,1498677351
+Slobozia,Slobozia,46.7333,29.7,Moldova,MD,MDA,Stînga Nistrului,,20000.0,1498228098
+Straşeni,Straseni,47.1333,28.6167,Moldova,MD,MDA,Străşeni,admin,18376.0,1498773145
+Durleşti,Durlesti,47.0333,28.95,Moldova,MD,MDA,Chişinău,,17210.0,1498757203
+Ceadîr-Lunga,Ceadir-Lunga,46.05,28.8333,Moldova,MD,MDA,Găgăuzia,,16605.0,1498057941
+Codru,Codru,46.9753,28.8194,Moldova,MD,MDA,Chişinău,,15934.0,1498544482
+Edineţ,Edinet,48.1667,27.3167,Moldova,MD,MDA,Edineţ,admin,15520.0,1498114952
+Drochia,Drochia,48.0333,27.75,Moldova,MD,MDA,Drochia,admin,13150.0,1498968635
+Căuşeni,Causeni,46.6333,29.4,Moldova,MD,MDA,Căuşeni,admin,12874.0,1498826686
+Ialoveni,Ialoveni,46.95,28.7833,Moldova,MD,MDA,Ialoveni,admin,12515.0,1498897259
+Hînceşti,Hincesti,46.8167,28.5833,Moldova,MD,MDA,Hînceşti,admin,12491.0,1498402212
+Sîngerei,Singerei,47.6333,28.15,Moldova,MD,MDA,Sîngerei,admin,12465.0,1498521430
+Taraclia,Taraclia,45.9,28.6689,Moldova,MD,MDA,Taraclia,admin,12355.0,1498129687
+Vulcăneşti,Vulcanesti,45.6833,28.4028,Moldova,MD,MDA,Găgăuzia,,12185.0,1498275011
+Făleşti,Falesti,47.5722,27.7139,Moldova,MD,MDA,Făleşti,admin,12074.0,1498180648
+Floreşti,Floresti,47.8933,28.3014,Moldova,MD,MDA,Floreşti,admin,11998.0,1498297203
+Cimişlia,Cimislia,46.5167,28.7833,Moldova,MD,MDA,Cimişlia,admin,11997.0,1498766980
+Congaz,Congaz,46.1083,28.5972,Moldova,MD,MDA,Găgăuzia,,11123.0,1498367811
+Rezina,Rezina,47.7333,28.95,Moldova,MD,MDA,Rezina,admin,11032.0,1498876065
+Costeşti,Costesti,46.8678,28.7689,Moldova,MD,MDA,Ialoveni,,10907.0,1498958182
+Anenii Noi,Anenii Noi,46.8833,29.2167,Moldova,MD,MDA,Anenii Noi,admin,10872.0,1498650298
+Călăraşi,Calarasi,47.25,28.3,Moldova,MD,MDA,Călăraşi,admin,10808.0,1498598747
+Cricova,Cricova,47.1333,28.8667,Moldova,MD,MDA,Chişinău,,10669.0,1498628577
+Dnestrovsc,Dnestrovsc,46.6167,29.9167,Moldova,MD,MDA,Stînga Nistrului,,10436.0,1498610361
+Truşeni,Truseni,47.0667,28.6833,Moldova,MD,MDA,Chişinău,,10380.0,1498415834
+Băcioi,Bacioi,46.9122,28.8839,Moldova,MD,MDA,Chişinău,,10175.0,1498931344
+Sîngera,Singera,46.9139,28.9708,Moldova,MD,MDA,Chişinău,,9966.0,1498679513
+Borogani,Borogani,46.3667,28.5167,Moldova,MD,MDA,Cantemir,,9562.0,1498462266
+Grigoriopol,Grigoriopol,47.1503,29.2925,Moldova,MD,MDA,Stînga Nistrului,,9381.0,1498783401
+Rîşcani,Riscani,47.9572,27.5539,Moldova,MD,MDA,Rîşcani,admin,9259.0,1498650340
+Copceac,Copceac,45.85,28.6944,Moldova,MD,MDA,Găgăuzia,,9138.0,1498642964
+Peresecina,Peresecina,47.25,28.7667,Moldova,MD,MDA,Orhei,,9122.0,1498929769
+Chiţcani,Chitcani,46.7833,29.6167,Moldova,MD,MDA,Stînga Nistrului,,9000.0,1498000217
+Camenca,Camenca,48.0167,28.7167,Moldova,MD,MDA,Stînga Nistrului,,8871.0,1498446889
+Stăuceni,Stauceni,47.0875,28.8703,Moldova,MD,MDA,Chişinău,,8694.0,1498710305
+Glodeni,Glodeni,47.7667,27.5167,Moldova,MD,MDA,Glodeni,admin,8676.0,1498553213
+Basarabeasca,Basarabeasca,46.3336,28.9614,Moldova,MD,MDA,Basarabeasca,admin,8471.0,1498894118
+Nisporeni,Nisporeni,47.0833,28.1833,Moldova,MD,MDA,Nisporeni,admin,7986.0,1498953988
+Leova,Leova,46.4833,28.25,Moldova,MD,MDA,Leova,admin,7443.0,1498085636
+Briceni,Briceni,48.3611,27.0839,Moldova,MD,MDA,Briceni,admin,7314.0,1498970287
+Teleneşti,Telenesti,47.5028,28.3667,Moldova,MD,MDA,Teleneşti,admin,7227.0,1498811064
+Donduşeni,Donduseni,48.2167,27.5833,Moldova,MD,MDA,Donduşeni,admin,7101.0,1498280582
+Ştefan Vodă,Stefan Voda,46.5153,29.6631,Moldova,MD,MDA,Ştefan Vodă,admin,7078.0,1498766864
+Criuleni,Criuleni,47.2167,29.1667,Moldova,MD,MDA,Criuleni,admin,6708.0,1498171854
+Şoldăneşti,Soldanesti,47.8167,28.8,Moldova,MD,MDA,Şoldăneşti,admin,5883.0,1498087659
+Cantemir,Cantemir,46.2667,28.2167,Moldova,MD,MDA,Cantemir,admin,3429.0,1498973808
+Ocniţa,Ocnita,48.3853,27.4392,Moldova,MD,MDA,Ocniţa,admin,3133.0,1498334915
+Cocieri,Cocieri,47.3,29.1167,Moldova,MD,MDA,Dubăsari,admin,,1498580757

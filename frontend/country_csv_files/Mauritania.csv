@@ -1,0 +1,49 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Nouakchott,Nouakchott,18.0858,-15.9785,Mauritania,MR,MRT,Nouakchott Ouest,primary,1077169.0,1478414984
+Arafat,Arafat,18.0464,-15.9719,Mauritania,MR,MRT,Nouakchott Sud,admin,175969.0,1478174698
+Dar Naim,Dar Naim,18.0333,-15.9667,Mauritania,MR,MRT,Nouakchott Nord,admin,144043.0,1478696248
+Nouadhibou,Nouadhibou,20.9333,-17.0333,Mauritania,MR,MRT,Dakhlet Nouadhibou,admin,118000.0,1478176283
+Kiffa,Kiffa,16.63,-11.4,Mauritania,MR,MRT,Assaba,admin,110714.0,1478465771
+Rosso,Rosso,16.5128,-15.805,Mauritania,MR,MRT,Trarza,admin,51026.0,1478524903
+Kaédi,Kaedi,16.1506,-13.5056,Mauritania,MR,MRT,Gorgol,admin,49152.0,1478607377
+Zouerate,Zouerate,22.7333,-12.4667,Mauritania,MR,MRT,Tiris Zemmour,admin,44649.0,1478799785
+Ksar,Ksar,18.1022,-15.955,Mauritania,MR,MRT,Nouakchott Ouest,,43531.0,1478489289
+Sélibaby,Selibaby,15.1592,-12.1833,Mauritania,MR,MRT,Guidimaka,admin,26420.0,1478575433
+Aioun,Aioun,16.6667,-9.6167,Mauritania,MR,MRT,Hodh el Gharbi,admin,24199.0,1478255260
+Atar,Atar,20.5167,-13.05,Mauritania,MR,MRT,Adrar,admin,24021.0,1478064510
+Guérou,Guerou,16.8167,-11.8333,Mauritania,MR,MRT,Assaba,,22323.0,1478121598
+Néma,Nema,16.6167,-7.25,Mauritania,MR,MRT,Hodh ech Chargui,admin,21979.0,1478009046
+Timbedgha,Timbedgha,16.25,-8.1667,Mauritania,MR,MRT,Hodh ech Chargui,,17832.0,1478847634
+Tidjikja,Tidjikja,18.55,-11.4333,Mauritania,MR,MRT,Tagant,admin,15532.0,1478594780
+Aleg,Aleg,17.05,-13.9167,Mauritania,MR,MRT,Brakna,admin,15521.0,1478173139
+Boutilimit,Boutilimit,17.5504,-14.7,Mauritania,MR,MRT,Trarza,,14142.0,1478235368
+Akjoujt,Akjoujt,19.75,-14.3833,Mauritania,MR,MRT,Inchiri,admin,11235.0,1478247793
+Bogué,Bogue,16.5904,-14.27,Mauritania,MR,MRT,Brakna,,10415.0,1478095096
+Fdérik,Fderik,22.6783,-12.7114,Mauritania,MR,MRT,Tiris Zemmour,,4715.0,1478557883
+Bîr Mogreïn,Bir Mogrein,25.2167,-11.6167,Mauritania,MR,MRT,Tiris Zemmour,,3897.0,1478537499
+Chegga,Chegga,25.3733,-5.7873,Mauritania,MR,MRT,Tiris Zemmour,,10.0,1478632134
+Tevragh Zeina,Tevragh Zeina,18.0994,-15.9761,Mauritania,MR,MRT,Nouakchott Ouest,admin,,1478902195
+Nouakchott,Nouakchott,18.0858,-15.9785,Mauritania,MR,MRT,Nouakchott Ouest,primary,1077169.0,1478414984
+Arafat,Arafat,18.0464,-15.9719,Mauritania,MR,MRT,Nouakchott Sud,admin,175969.0,1478174698
+Dar Naim,Dar Naim,18.0333,-15.9667,Mauritania,MR,MRT,Nouakchott Nord,admin,144043.0,1478696248
+Nouadhibou,Nouadhibou,20.9333,-17.0333,Mauritania,MR,MRT,Dakhlet Nouadhibou,admin,118000.0,1478176283
+Kiffa,Kiffa,16.63,-11.4,Mauritania,MR,MRT,Assaba,admin,110714.0,1478465771
+Rosso,Rosso,16.5128,-15.805,Mauritania,MR,MRT,Trarza,admin,51026.0,1478524903
+Kaédi,Kaedi,16.1506,-13.5056,Mauritania,MR,MRT,Gorgol,admin,49152.0,1478607377
+Zouerate,Zouerate,22.7333,-12.4667,Mauritania,MR,MRT,Tiris Zemmour,admin,44649.0,1478799785
+Ksar,Ksar,18.1022,-15.955,Mauritania,MR,MRT,Nouakchott Ouest,,43531.0,1478489289
+Sélibaby,Selibaby,15.1592,-12.1833,Mauritania,MR,MRT,Guidimaka,admin,26420.0,1478575433
+Aioun,Aioun,16.6667,-9.6167,Mauritania,MR,MRT,Hodh el Gharbi,admin,24199.0,1478255260
+Atar,Atar,20.5167,-13.05,Mauritania,MR,MRT,Adrar,admin,24021.0,1478064510
+Guérou,Guerou,16.8167,-11.8333,Mauritania,MR,MRT,Assaba,,22323.0,1478121598
+Néma,Nema,16.6167,-7.25,Mauritania,MR,MRT,Hodh ech Chargui,admin,21979.0,1478009046
+Timbedgha,Timbedgha,16.25,-8.1667,Mauritania,MR,MRT,Hodh ech Chargui,,17832.0,1478847634
+Tidjikja,Tidjikja,18.55,-11.4333,Mauritania,MR,MRT,Tagant,admin,15532.0,1478594780
+Aleg,Aleg,17.05,-13.9167,Mauritania,MR,MRT,Brakna,admin,15521.0,1478173139
+Boutilimit,Boutilimit,17.5504,-14.7,Mauritania,MR,MRT,Trarza,,14142.0,1478235368
+Akjoujt,Akjoujt,19.75,-14.3833,Mauritania,MR,MRT,Inchiri,admin,11235.0,1478247793
+Bogué,Bogue,16.5904,-14.27,Mauritania,MR,MRT,Brakna,,10415.0,1478095096
+Fdérik,Fderik,22.6783,-12.7114,Mauritania,MR,MRT,Tiris Zemmour,,4715.0,1478557883
+Bîr Mogreïn,Bir Mogrein,25.2167,-11.6167,Mauritania,MR,MRT,Tiris Zemmour,,3897.0,1478537499
+Chegga,Chegga,25.3733,-5.7873,Mauritania,MR,MRT,Tiris Zemmour,,10.0,1478632134
+Tevragh Zeina,Tevragh Zeina,18.0994,-15.9761,Mauritania,MR,MRT,Nouakchott Ouest,admin,,1478902195

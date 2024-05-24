@@ -1,0 +1,291 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Addis Ababa,Addis Ababa,9.03,38.74,Ethiopia,ET,ETH,Ādīs Ābeba,primary,3041002.0,1231824991
+Ērer Sātā,Erer Sata,9.5667,41.3833,Ethiopia,ET,ETH,Sumalē,,649000.0,1231563638
+Shashemenē,Shashemene,7.2,38.6,Ethiopia,ET,ETH,Oromīya,,408368.0,1231110370
+K’ebrī Dehar,K'ebri Dehar,6.7333,44.2667,Ethiopia,ET,ETH,Sumalē,,363000.0,1231393469
+Nazrēt,Nazret,8.5414,39.2689,Ethiopia,ET,ETH,Oromīya,,324000.0,1231826873
+Mekele,Mekele,13.4969,39.4769,Ethiopia,ET,ETH,Tigray,admin,323700.0,1231468531
+Godē,Gode,5.9527,43.5516,Ethiopia,ET,ETH,Sumalē,,320782.0,1231128743
+Āwasa,Awasa,7.05,38.4667,Ethiopia,ET,ETH,YeDebub Bihēroch Bihēreseboch na Hizboch,admin,300100.0,1231663122
+Dire Dawa,Dire Dawa,9.6,41.8667,Ethiopia,ET,ETH,Dirē Dawa,admin,277000.0,1231089714
+Bahir Dar,Bahir Dar,11.6,37.3833,Ethiopia,ET,ETH,Āmara,admin,243300.0,1231784118
+Sodo,Sodo,6.855,37.7808,Ethiopia,ET,ETH,YeDebub Bihēroch Bihēreseboch na Hizboch,,213467.0,1231130720
+Ārba Minch’,Arba Minch',6.0333,37.55,Ethiopia,ET,ETH,YeDebub Bihēroch Bihēreseboch na Hizboch,,192043.0,1231302134
+Desē,Dese,11.1333,39.6333,Ethiopia,ET,ETH,Āmara,,187900.0,1231359719
+Hosa’ina,Hosa'ina,7.55,37.85,Ethiopia,ET,ETH,YeDebub Bihēroch Bihēreseboch na Hizboch,,179761.0,1231400775
+K’ebrī Beyah,K'ebri Beyah,9.0833,43.0833,Ethiopia,ET,ETH,Sumalē,,165518.0,1231877186
+Jijiga,Jijiga,9.35,42.8,Ethiopia,ET,ETH,Sumalē,admin,159300.0,1231737909
+Dīla,Dila,6.4083,38.3083,Ethiopia,ET,ETH,YeDebub Bihēroch Bihēreseboch na Hizboch,,151682.0,1231393325
+Nek’emtē,Nek'emte,9.0833,36.55,Ethiopia,ET,ETH,Oromīya,,148613.0,1231437227
+Debre Birhan,Debre Birhan,9.6833,39.5333,Ethiopia,ET,ETH,Āmara,,139724.0,1231777741
+Debre Mark’os,Debre Mark'os,10.3333,37.7167,Ethiopia,ET,ETH,Āmara,,133810.0,1231943444
+Ferfer,Ferfer,5.0833,45.0833,Ethiopia,ET,ETH,Sumalē,,133521.0,1231764818
+Āwarē,Aware,8.2667,44.15,Ethiopia,ET,ETH,Sumalē,,132149.0,1231934049
+Harar,Harar,9.3111,42.1278,Ethiopia,ET,ETH,Hārerī Hizb,admin,129000.0,1231785978
+Kombolcha,Kombolcha,11.0867,39.7367,Ethiopia,ET,ETH,Āmara,,125654.0,1231476399
+Jīma,Jima,7.6667,36.8333,Ethiopia,ET,ETH,Oromīya,,120960.0,1231214366
+Debre Tabor,Debre Tabor,11.85,38.0167,Ethiopia,ET,ETH,Āmara,,119176.0,1231557860
+Harshin,Harshin,9.2167,43.5878,Ethiopia,ET,ETH,Sumalē,,117187.0,1231946994
+Ādīgrat,Adigrat,14.2667,39.45,Ethiopia,ET,ETH,Tigray,,116193.0,1231492773
+Babīlē,Babile,9.2167,42.3333,Ethiopia,ET,ETH,Oromīya,,100000.0,1231924903
+Debre Zeyit,Debre Zeyit,8.75,38.9833,Ethiopia,ET,ETH,Oromīya,,99928.0,1231675489
+Weldiya,Weldiya,11.8306,39.6,Ethiopia,ET,ETH,Āmara,,98911.0,1231023092
+Gambēla,Gambela,8.25,34.5833,Ethiopia,ET,ETH,Gambēla Hizboch,admin,97643.0,1231698892
+Shirē,Shire,14.1,38.2833,Ethiopia,ET,ETH,Tigray,,95491.0,1231526396
+Mīzan Teferī,Mizan Teferi,7.0,35.5833,Ethiopia,ET,ETH,YeDebub Bihēroch Bihēreseboch na Hizboch,,91437.0,1231330466
+Denan,Denan,6.5,43.5,Ethiopia,ET,ETH,Sumalē,,87380.0,1231663674
+Yabēlo,Yabelo,4.8833,38.0833,Ethiopia,ET,ETH,Oromīya,,86400.0,1231019846
+Ādwa,Adwa,14.1667,38.9,Ethiopia,ET,ETH,Tigray,,85644.0,1231086312
+Warder,Warder,6.9667,45.35,Ethiopia,ET,ETH,Sumalē,,85400.0,1231158948
+Gonder,Gonder,12.6075,37.4592,Ethiopia,ET,ETH,Āmara,,80886.0,1231234833
+Ādīgala,Adigala,10.4236,42.2333,Ethiopia,ET,ETH,Sumalē,,80440.0,1231021572
+Togoch’alē,Togoch'ale,9.6014,43.3361,Ethiopia,ET,ETH,Sumalē,,70450.0,1231990748
+Bodītī,Boditi,6.8667,37.8667,Ethiopia,ET,ETH,YeDebub Bihēroch Bihēreseboch na Hizboch,,67861.0,1231974220
+Āsela,Asela,7.95,39.1167,Ethiopia,ET,ETH,Oromīya,,67269.0,1231347519
+Āksum,Aksum,14.1208,38.7278,Ethiopia,ET,ETH,Tigray,,66800.0,1231573651
+Mota,Mota,11.0833,37.8667,Ethiopia,ET,ETH,Āmara,,56156.0,1231135838
+Bonga,Bonga,7.2667,36.2333,Ethiopia,ET,ETH,YeDebub M‘irab Ītyop’iya Hizboch,admin,56045.0,1231409607
+Finote Selam,Finote Selam,10.7,37.2667,Ethiopia,ET,ETH,Āmara,,55567.0,1231472850
+Dangila,Dangila,11.2667,36.8333,Ethiopia,ET,ETH,Āmara,,53225.0,1231000015
+Metema,Metema,12.9667,36.2,Ethiopia,ET,ETH,Āmara,,50581.0,1231471612
+Semera,Semera,11.7922,41.0086,Ethiopia,ET,ETH,Āfar,admin,50000.0,1231617820
+Mojo,Mojo,8.65,39.0833,Ethiopia,ET,ETH,Oromīya,,49521.0,1231772257
+Sebeta,Sebeta,8.9111,38.6214,Ethiopia,ET,ETH,Oromīya,,49331.0,1231560096
+Goba,Goba,7.0,39.9833,Ethiopia,ET,ETH,Oromīya,,49309.0,1231837780
+Hāgere Hiywet,Hagere Hiywet,8.9833,37.85,Ethiopia,ET,ETH,Oromīya,,48171.0,1231809487
+Robē,Robe,7.1167,40.0,Ethiopia,ET,ETH,Oromīya,,44382.0,1231266151
+Yirga ‘Alem,Yirga `Alem,6.75,38.4167,Ethiopia,ET,ETH,YeDebub Bihēroch Bihēreseboch na Hizboch,,43815.0,1231817240
+Mersa,Mersa,11.6667,39.6583,Ethiopia,ET,ETH,Āmara,,41253.0,1231844606
+Giyon,Giyon,8.5333,37.9667,Ethiopia,ET,ETH,Oromīya,,37878.0,1231961383
+Mek’ī,Mek'i,8.15,38.8167,Ethiopia,ET,ETH,Oromīya,,36597.0,1231135266
+Bedēsa,Bedesa,6.883,37.9329,Ethiopia,ET,ETH,YeDebub Bihēroch Bihēreseboch na Hizboch,,35294.0,1231807796
+Ābīy Ādī,Abiy Adi,13.6231,39.0017,Ethiopia,ET,ETH,Tigray,,34176.0,1231200318
+Āzezo,Azezo,12.5586,37.4308,Ethiopia,ET,ETH,Āmara,,33719.0,1231317573
+Butajīra,Butajira,8.1208,38.3792,Ethiopia,ET,ETH,YeDebub Bihēroch Bihēreseboch na Hizboch,,33406.0,1231050211
+Ālamat’ā,Alamat'a,12.4167,39.55,Ethiopia,ET,ETH,Tigray,,33214.0,1231954520
+Āreka,Areka,7.071,37.7076,Ethiopia,ET,ETH,YeDebub Bihēroch Bihēreseboch na Hizboch,,31408.0,1231646056
+Gīmbī,Gimbi,9.1667,35.8333,Ethiopia,ET,ETH,Oromīya,,30981.0,1231550284
+Dolo Odo,Dolo Odo,4.1667,42.0667,Ethiopia,ET,ETH,Sumalē,,30970.0,1231046394
+Chagne,Chagne,10.95,36.5,Ethiopia,ET,ETH,Āmara,,30938.0,1231473183
+Jinka,Jinka,5.7833,36.5667,Ethiopia,ET,ETH,YeDebub Bihēroch Bihēreseboch na Hizboch,,30249.0,1231671120
+Wik’ro,Wik'ro,13.7833,39.6,Ethiopia,ET,ETH,Tigray,,30210.0,1231223279
+Degeh Bur,Degeh Bur,8.2167,43.5667,Ethiopia,ET,ETH,Sumalē,,30027.0,1231855349
+Dembī Dolo,Dembi Dolo,8.5353,34.8003,Ethiopia,ET,ETH,Oromīya,,29448.0,1231620291
+Welk’īt’ē,Welk'it'e,8.2833,37.7833,Ethiopia,ET,ETH,YeDebub Bihēroch Bihēreseboch na Hizboch,,28866.0,1231083511
+Metu,Metu,8.3,35.5833,Ethiopia,ET,ETH,Oromīya,,28782.0,1231361169
+Shakīso,Shakiso,5.75,38.9167,Ethiopia,ET,ETH,Oromīya,,28260.0,1231345308
+Fichē,Fiche,9.8,38.7333,Ethiopia,ET,ETH,Oromīya,,27493.0,1231384026
+K’olīto,K'olito,7.3122,38.0892,Ethiopia,ET,ETH,YeDebub Bihēroch Bihēreseboch na Hizboch,,27359.0,1231294595
+Werota,Werota,11.9167,37.7,Ethiopia,ET,ETH,Āmara,,26317.0,1231170165
+Genet,Genet,9.05,38.5,Ethiopia,ET,ETH,Oromīya,,25593.0,1231301779
+Āgaro,Agaro,7.8558,36.5858,Ethiopia,ET,ETH,Oromīya,,25458.0,1231182793
+Burē,Bure,10.7,37.0667,Ethiopia,ET,ETH,Āmara,,25084.0,1231106866
+Moyalē,Moyale,3.527,39.056,Ethiopia,ET,ETH,Oromīya,,25000.0,1231227722
+Kobo,Kobo,12.15,39.6333,Ethiopia,ET,ETH,Āmara,,24867.0,1231442396
+Ādīs Zemen,Adis Zemen,12.1167,37.7833,Ethiopia,ET,ETH,Āmara,,24849.0,1231619970
+Dodola,Dodola,6.9833,39.1833,Ethiopia,ET,ETH,Oromīya,,24767.0,1231390840
+Gelemso,Gelemso,8.8167,40.5167,Ethiopia,ET,ETH,Oromīya,,24200.0,1231438273
+Maychew,Maychew,12.7833,39.5333,Ethiopia,ET,ETH,Tigray,,23419.0,1231612323
+Asaita,Asaita,11.5667,41.4333,Ethiopia,ET,ETH,Āfar,,22718.0,1231171609
+Sek’ot’a,Sek'ot'a,12.6253,39.035,Ethiopia,ET,ETH,Āmara,,22346.0,1231550759
+Himora,Himora,14.2861,36.6097,Ethiopia,ET,ETH,Tigray,,21653.0,1231449720
+Mī’ēso,Mi'eso,9.2333,40.75,Ethiopia,ET,ETH,Oromīya,,21348.0,1231730193
+Metahāra,Metahara,8.9,39.9167,Ethiopia,ET,ETH,Oromīya,,21348.0,1231766002
+Ādēt,Adet,11.2667,37.4833,Ethiopia,ET,ETH,Āmara,,21117.0,1231929103
+Injibara,Injibara,10.95,36.9333,Ethiopia,ET,ETH,Āmara,,21065.0,1231853157
+Welench’ītī,Welench'iti,8.6667,39.4333,Ethiopia,ET,ETH,Oromīya,,20984.0,1231349696
+Debark’,Debark',13.1333,37.9,Ethiopia,ET,ETH,Āmara,,20839.0,1231894156
+Batī,Bati,11.1833,40.0167,Ethiopia,ET,ETH,Āmara,,20536.0,1231243570
+Āsosa,Asosa,10.0667,34.5167,Ethiopia,ET,ETH,Bīnshangul Gumuz,admin,20226.0,1231491184
+Bichena,Bichena,10.45,38.2,Ethiopia,ET,ETH,Āmara,,19916.0,1231640166
+Nejo,Nejo,9.5,35.5,Ethiopia,ET,ETH,Oromīya,,19887.0,1231617295
+Gebre Guracha,Gebre Guracha,9.8,38.4,Ethiopia,ET,ETH,Oromīya,,19830.0,1231514161
+Aysha,Aysha,10.75,42.5667,Ethiopia,ET,ETH,Sumalē,,19570.0,1231232970
+Bedelē,Bedele,8.45,36.35,Ethiopia,ET,ETH,Oromīya,,19517.0,1231583728
+Āsasa,Asasa,7.1,39.1944,Ethiopia,ET,ETH,Oromīya,,19506.0,1231640244
+Kemisē,Kemise,10.7167,39.8667,Ethiopia,ET,ETH,Āmara,,19420.0,1231665461
+Ābomsa,Abomsa,8.5833,39.85,Ethiopia,ET,ETH,Oromīya,,19208.0,1231331780
+Nefas Mewch’a,Nefas Mewch'a,11.7333,38.4667,Ethiopia,ET,ETH,Āmara,,18691.0,1231652571
+Bedēsa,Bedesa,8.9,40.7833,Ethiopia,ET,ETH,Oromīya,,18187.0,1231037182
+Lalībela,Lalibela,12.0317,39.0411,Ethiopia,ET,ETH,Āmara,,17367.0,1231020267
+Gīnīr,Ginir,7.1333,40.7,Ethiopia,ET,ETH,Oromīya,,17102.0,1231167016
+Cheraro,Cheraro,14.3958,37.7731,Ethiopia,ET,ETH,Tigray,,17045.0,1231449470
+Huruta,Huruta,8.15,39.35,Ethiopia,ET,ETH,Oromīya,,16922.0,1231839518
+Korem,Korem,12.5,39.5167,Ethiopia,ET,ETH,Tigray,,16856.0,1231332352
+Dēra,Dera,8.3333,39.3167,Ethiopia,ET,ETH,Oromīya,,16731.0,1231378383
+Bek’ojī,Bek'oji,7.5833,39.3333,Ethiopia,ET,ETH,Oromīya,,16730.0,1231921614
+Hīrna,Hirna,9.2167,41.1,Ethiopia,ET,ETH,Oromīya,,16726.0,1231773847
+Dejen,Dejen,10.1667,38.1333,Ethiopia,ET,ETH,Āmara,,15483.0,1231136097
+Funyan Bīra,Funyan Bira,9.35,42.4,Ethiopia,ET,ETH,Oromīya,,15478.0,1231640828
+Dembecha,Dembecha,10.55,37.4833,Ethiopia,ET,ETH,Āmara,,15008.0,1231138306
+Shambu,Shambu,9.5667,37.1,Ethiopia,ET,ETH,Oromīya,,14995.0,1231819871
+Āfdem,Afdem,9.4667,41.0,Ethiopia,ET,ETH,Sumalē,,14789.0,1231882057
+Kelafo,Kelafo,5.5889,44.2056,Ethiopia,ET,ETH,Sumalē,,14242.0,1231044866
+Gesuba,Gesuba,6.7242,37.5567,Ethiopia,ET,ETH,YeDebub Bihēroch Bihēreseboch na Hizboch,,13927.0,1231778594
+Debre Werk’,Debre Werk',10.6667,38.1667,Ethiopia,ET,ETH,Āmara,,13908.0,1231572143
+‘Alem T’ēna,`Alem T'ena,8.3,38.95,Ethiopia,ET,ETH,Oromīya,,13529.0,1231008148
+Ādīs ‘Alem,Adis `Alem,9.0333,38.4,Ethiopia,ET,ETH,Oromīya,,13423.0,1231598304
+Shīnīlē,Shinile,9.6667,41.8333,Ethiopia,ET,ETH,Sumalē,,13132.0,1231940232
+Kofelē,Kofele,7.0,38.75,Ethiopia,ET,ETH,Oromīya,,13127.0,1231392237
+Dabat,Dabat,12.9842,37.765,Ethiopia,ET,ETH,Āmara,,12574.0,1231841967
+Kwīhā,Kwiha,13.4769,39.545,Ethiopia,ET,ETH,Tigray,,12543.0,1231541994
+Sendafa,Sendafa,9.15,39.0333,Ethiopia,ET,ETH,Oromīya,,12298.0,1231004037
+Dolo Bay,Dolo Bay,4.1833,42.0833,Ethiopia,ET,ETH,Sumalē,,11810.0,1231539120
+Negēlē,Negele,5.3167,39.5833,Ethiopia,ET,ETH,Oromīya,,11772.0,1231215294
+Fīnch’a’ā,Finch'a'a,9.9,37.45,Ethiopia,ET,ETH,Oromīya,,11134.0,1231348007
+Āwash,Awash,8.9944,40.1667,Ethiopia,ET,ETH,Āfar,,11053.0,1231768288
+Chencha,Chencha,6.25,37.5667,Ethiopia,ET,ETH,YeDebub Bihēroch Bihēreseboch na Hizboch,,10488.0,1231948389
+Kele,Kele,6.0833,38.0333,Ethiopia,ET,ETH,Oromīya,,10084.0,1231687475
+Were Īlu,Were Ilu,10.6,39.4333,Ethiopia,ET,ETH,Āmara,,10062.0,1231595190
+Sagurē,Sagure,7.75,39.15,Ethiopia,ET,ETH,Oromīya,,9960.0,1231246746
+Mēga,Mega,4.0167,38.25,Ethiopia,ET,ETH,Oromīya,,9370.0,1231972849
+Gorē,Gore,8.149,35.537,Ethiopia,ET,ETH,Oromīya,,9352.0,1231481918
+Shendē,Shende,10.6333,36.9333,Ethiopia,ET,ETH,Āmara,,9293.0,1231251281
+Bīkē,Bike,9.5297,41.1969,Ethiopia,ET,ETH,Sumalē,,9197.0,1231520658
+Intich’o,Intich'o,14.2667,39.15,Ethiopia,ET,ETH,Tigray,,9048.0,1231591819
+Ādamī Tulu,Adami Tulu,7.8667,38.7,Ethiopia,ET,ETH,Oromīya,,9034.0,1231102446
+Addis Ababa,Addis Ababa,9.03,38.74,Ethiopia,ET,ETH,Ādīs Ābeba,primary,3041002.0,1231824991
+Ērer Sātā,Erer Sata,9.5667,41.3833,Ethiopia,ET,ETH,Sumalē,,649000.0,1231563638
+Shashemenē,Shashemene,7.2,38.6,Ethiopia,ET,ETH,Oromīya,,408368.0,1231110370
+K’ebrī Dehar,K'ebri Dehar,6.7333,44.2667,Ethiopia,ET,ETH,Sumalē,,363000.0,1231393469
+Nazrēt,Nazret,8.5414,39.2689,Ethiopia,ET,ETH,Oromīya,,324000.0,1231826873
+Mekele,Mekele,13.4969,39.4769,Ethiopia,ET,ETH,Tigray,admin,323700.0,1231468531
+Godē,Gode,5.9527,43.5516,Ethiopia,ET,ETH,Sumalē,,320782.0,1231128743
+Āwasa,Awasa,7.05,38.4667,Ethiopia,ET,ETH,YeDebub Bihēroch Bihēreseboch na Hizboch,admin,300100.0,1231663122
+Dire Dawa,Dire Dawa,9.6,41.8667,Ethiopia,ET,ETH,Dirē Dawa,admin,277000.0,1231089714
+Bahir Dar,Bahir Dar,11.6,37.3833,Ethiopia,ET,ETH,Āmara,admin,243300.0,1231784118
+Sodo,Sodo,6.855,37.7808,Ethiopia,ET,ETH,YeDebub Bihēroch Bihēreseboch na Hizboch,,213467.0,1231130720
+Ārba Minch’,Arba Minch',6.0333,37.55,Ethiopia,ET,ETH,YeDebub Bihēroch Bihēreseboch na Hizboch,,192043.0,1231302134
+Desē,Dese,11.1333,39.6333,Ethiopia,ET,ETH,Āmara,,187900.0,1231359719
+Hosa’ina,Hosa'ina,7.55,37.85,Ethiopia,ET,ETH,YeDebub Bihēroch Bihēreseboch na Hizboch,,179761.0,1231400775
+K’ebrī Beyah,K'ebri Beyah,9.0833,43.0833,Ethiopia,ET,ETH,Sumalē,,165518.0,1231877186
+Jijiga,Jijiga,9.35,42.8,Ethiopia,ET,ETH,Sumalē,admin,159300.0,1231737909
+Dīla,Dila,6.4083,38.3083,Ethiopia,ET,ETH,YeDebub Bihēroch Bihēreseboch na Hizboch,,151682.0,1231393325
+Nek’emtē,Nek'emte,9.0833,36.55,Ethiopia,ET,ETH,Oromīya,,148613.0,1231437227
+Debre Birhan,Debre Birhan,9.6833,39.5333,Ethiopia,ET,ETH,Āmara,,139724.0,1231777741
+Debre Mark’os,Debre Mark'os,10.3333,37.7167,Ethiopia,ET,ETH,Āmara,,133810.0,1231943444
+Ferfer,Ferfer,5.0833,45.0833,Ethiopia,ET,ETH,Sumalē,,133521.0,1231764818
+Āwarē,Aware,8.2667,44.15,Ethiopia,ET,ETH,Sumalē,,132149.0,1231934049
+Harar,Harar,9.3111,42.1278,Ethiopia,ET,ETH,Hārerī Hizb,admin,129000.0,1231785978
+Kombolcha,Kombolcha,11.0867,39.7367,Ethiopia,ET,ETH,Āmara,,125654.0,1231476399
+Jīma,Jima,7.6667,36.8333,Ethiopia,ET,ETH,Oromīya,,120960.0,1231214366
+Debre Tabor,Debre Tabor,11.85,38.0167,Ethiopia,ET,ETH,Āmara,,119176.0,1231557860
+Harshin,Harshin,9.2167,43.5878,Ethiopia,ET,ETH,Sumalē,,117187.0,1231946994
+Ādīgrat,Adigrat,14.2667,39.45,Ethiopia,ET,ETH,Tigray,,116193.0,1231492773
+Babīlē,Babile,9.2167,42.3333,Ethiopia,ET,ETH,Oromīya,,100000.0,1231924903
+Debre Zeyit,Debre Zeyit,8.75,38.9833,Ethiopia,ET,ETH,Oromīya,,99928.0,1231675489
+Weldiya,Weldiya,11.8306,39.6,Ethiopia,ET,ETH,Āmara,,98911.0,1231023092
+Gambēla,Gambela,8.25,34.5833,Ethiopia,ET,ETH,Gambēla Hizboch,admin,97643.0,1231698892
+Shirē,Shire,14.1,38.2833,Ethiopia,ET,ETH,Tigray,,95491.0,1231526396
+Mīzan Teferī,Mizan Teferi,7.0,35.5833,Ethiopia,ET,ETH,YeDebub Bihēroch Bihēreseboch na Hizboch,,91437.0,1231330466
+Denan,Denan,6.5,43.5,Ethiopia,ET,ETH,Sumalē,,87380.0,1231663674
+Yabēlo,Yabelo,4.8833,38.0833,Ethiopia,ET,ETH,Oromīya,,86400.0,1231019846
+Ādwa,Adwa,14.1667,38.9,Ethiopia,ET,ETH,Tigray,,85644.0,1231086312
+Warder,Warder,6.9667,45.35,Ethiopia,ET,ETH,Sumalē,,85400.0,1231158948
+Gonder,Gonder,12.6075,37.4592,Ethiopia,ET,ETH,Āmara,,80886.0,1231234833
+Ādīgala,Adigala,10.4236,42.2333,Ethiopia,ET,ETH,Sumalē,,80440.0,1231021572
+Togoch’alē,Togoch'ale,9.6014,43.3361,Ethiopia,ET,ETH,Sumalē,,70450.0,1231990748
+Bodītī,Boditi,6.8667,37.8667,Ethiopia,ET,ETH,YeDebub Bihēroch Bihēreseboch na Hizboch,,67861.0,1231974220
+Āsela,Asela,7.95,39.1167,Ethiopia,ET,ETH,Oromīya,,67269.0,1231347519
+Āksum,Aksum,14.1208,38.7278,Ethiopia,ET,ETH,Tigray,,66800.0,1231573651
+Mota,Mota,11.0833,37.8667,Ethiopia,ET,ETH,Āmara,,56156.0,1231135838
+Bonga,Bonga,7.2667,36.2333,Ethiopia,ET,ETH,YeDebub M‘irab Ītyop’iya Hizboch,admin,56045.0,1231409607
+Finote Selam,Finote Selam,10.7,37.2667,Ethiopia,ET,ETH,Āmara,,55567.0,1231472850
+Dangila,Dangila,11.2667,36.8333,Ethiopia,ET,ETH,Āmara,,53225.0,1231000015
+Metema,Metema,12.9667,36.2,Ethiopia,ET,ETH,Āmara,,50581.0,1231471612
+Semera,Semera,11.7922,41.0086,Ethiopia,ET,ETH,Āfar,admin,50000.0,1231617820
+Mojo,Mojo,8.65,39.0833,Ethiopia,ET,ETH,Oromīya,,49521.0,1231772257
+Sebeta,Sebeta,8.9111,38.6214,Ethiopia,ET,ETH,Oromīya,,49331.0,1231560096
+Goba,Goba,7.0,39.9833,Ethiopia,ET,ETH,Oromīya,,49309.0,1231837780
+Hāgere Hiywet,Hagere Hiywet,8.9833,37.85,Ethiopia,ET,ETH,Oromīya,,48171.0,1231809487
+Robē,Robe,7.1167,40.0,Ethiopia,ET,ETH,Oromīya,,44382.0,1231266151
+Yirga ‘Alem,Yirga `Alem,6.75,38.4167,Ethiopia,ET,ETH,YeDebub Bihēroch Bihēreseboch na Hizboch,,43815.0,1231817240
+Mersa,Mersa,11.6667,39.6583,Ethiopia,ET,ETH,Āmara,,41253.0,1231844606
+Giyon,Giyon,8.5333,37.9667,Ethiopia,ET,ETH,Oromīya,,37878.0,1231961383
+Mek’ī,Mek'i,8.15,38.8167,Ethiopia,ET,ETH,Oromīya,,36597.0,1231135266
+Bedēsa,Bedesa,6.883,37.9329,Ethiopia,ET,ETH,YeDebub Bihēroch Bihēreseboch na Hizboch,,35294.0,1231807796
+Ābīy Ādī,Abiy Adi,13.6231,39.0017,Ethiopia,ET,ETH,Tigray,,34176.0,1231200318
+Āzezo,Azezo,12.5586,37.4308,Ethiopia,ET,ETH,Āmara,,33719.0,1231317573
+Butajīra,Butajira,8.1208,38.3792,Ethiopia,ET,ETH,YeDebub Bihēroch Bihēreseboch na Hizboch,,33406.0,1231050211
+Ālamat’ā,Alamat'a,12.4167,39.55,Ethiopia,ET,ETH,Tigray,,33214.0,1231954520
+Āreka,Areka,7.071,37.7076,Ethiopia,ET,ETH,YeDebub Bihēroch Bihēreseboch na Hizboch,,31408.0,1231646056
+Gīmbī,Gimbi,9.1667,35.8333,Ethiopia,ET,ETH,Oromīya,,30981.0,1231550284
+Dolo Odo,Dolo Odo,4.1667,42.0667,Ethiopia,ET,ETH,Sumalē,,30970.0,1231046394
+Chagne,Chagne,10.95,36.5,Ethiopia,ET,ETH,Āmara,,30938.0,1231473183
+Jinka,Jinka,5.7833,36.5667,Ethiopia,ET,ETH,YeDebub Bihēroch Bihēreseboch na Hizboch,,30249.0,1231671120
+Wik’ro,Wik'ro,13.7833,39.6,Ethiopia,ET,ETH,Tigray,,30210.0,1231223279
+Degeh Bur,Degeh Bur,8.2167,43.5667,Ethiopia,ET,ETH,Sumalē,,30027.0,1231855349
+Dembī Dolo,Dembi Dolo,8.5353,34.8003,Ethiopia,ET,ETH,Oromīya,,29448.0,1231620291
+Welk’īt’ē,Welk'it'e,8.2833,37.7833,Ethiopia,ET,ETH,YeDebub Bihēroch Bihēreseboch na Hizboch,,28866.0,1231083511
+Metu,Metu,8.3,35.5833,Ethiopia,ET,ETH,Oromīya,,28782.0,1231361169
+Shakīso,Shakiso,5.75,38.9167,Ethiopia,ET,ETH,Oromīya,,28260.0,1231345308
+Fichē,Fiche,9.8,38.7333,Ethiopia,ET,ETH,Oromīya,,27493.0,1231384026
+K’olīto,K'olito,7.3122,38.0892,Ethiopia,ET,ETH,YeDebub Bihēroch Bihēreseboch na Hizboch,,27359.0,1231294595
+Werota,Werota,11.9167,37.7,Ethiopia,ET,ETH,Āmara,,26317.0,1231170165
+Genet,Genet,9.05,38.5,Ethiopia,ET,ETH,Oromīya,,25593.0,1231301779
+Āgaro,Agaro,7.8558,36.5858,Ethiopia,ET,ETH,Oromīya,,25458.0,1231182793
+Burē,Bure,10.7,37.0667,Ethiopia,ET,ETH,Āmara,,25084.0,1231106866
+Moyalē,Moyale,3.527,39.056,Ethiopia,ET,ETH,Oromīya,,25000.0,1231227722
+Kobo,Kobo,12.15,39.6333,Ethiopia,ET,ETH,Āmara,,24867.0,1231442396
+Ādīs Zemen,Adis Zemen,12.1167,37.7833,Ethiopia,ET,ETH,Āmara,,24849.0,1231619970
+Dodola,Dodola,6.9833,39.1833,Ethiopia,ET,ETH,Oromīya,,24767.0,1231390840
+Gelemso,Gelemso,8.8167,40.5167,Ethiopia,ET,ETH,Oromīya,,24200.0,1231438273
+Maychew,Maychew,12.7833,39.5333,Ethiopia,ET,ETH,Tigray,,23419.0,1231612323
+Asaita,Asaita,11.5667,41.4333,Ethiopia,ET,ETH,Āfar,,22718.0,1231171609
+Sek’ot’a,Sek'ot'a,12.6253,39.035,Ethiopia,ET,ETH,Āmara,,22346.0,1231550759
+Himora,Himora,14.2861,36.6097,Ethiopia,ET,ETH,Tigray,,21653.0,1231449720
+Mī’ēso,Mi'eso,9.2333,40.75,Ethiopia,ET,ETH,Oromīya,,21348.0,1231730193
+Metahāra,Metahara,8.9,39.9167,Ethiopia,ET,ETH,Oromīya,,21348.0,1231766002
+Ādēt,Adet,11.2667,37.4833,Ethiopia,ET,ETH,Āmara,,21117.0,1231929103
+Injibara,Injibara,10.95,36.9333,Ethiopia,ET,ETH,Āmara,,21065.0,1231853157
+Welench’ītī,Welench'iti,8.6667,39.4333,Ethiopia,ET,ETH,Oromīya,,20984.0,1231349696
+Debark’,Debark',13.1333,37.9,Ethiopia,ET,ETH,Āmara,,20839.0,1231894156
+Batī,Bati,11.1833,40.0167,Ethiopia,ET,ETH,Āmara,,20536.0,1231243570
+Āsosa,Asosa,10.0667,34.5167,Ethiopia,ET,ETH,Bīnshangul Gumuz,admin,20226.0,1231491184
+Bichena,Bichena,10.45,38.2,Ethiopia,ET,ETH,Āmara,,19916.0,1231640166
+Nejo,Nejo,9.5,35.5,Ethiopia,ET,ETH,Oromīya,,19887.0,1231617295
+Gebre Guracha,Gebre Guracha,9.8,38.4,Ethiopia,ET,ETH,Oromīya,,19830.0,1231514161
+Aysha,Aysha,10.75,42.5667,Ethiopia,ET,ETH,Sumalē,,19570.0,1231232970
+Bedelē,Bedele,8.45,36.35,Ethiopia,ET,ETH,Oromīya,,19517.0,1231583728
+Āsasa,Asasa,7.1,39.1944,Ethiopia,ET,ETH,Oromīya,,19506.0,1231640244
+Kemisē,Kemise,10.7167,39.8667,Ethiopia,ET,ETH,Āmara,,19420.0,1231665461
+Ābomsa,Abomsa,8.5833,39.85,Ethiopia,ET,ETH,Oromīya,,19208.0,1231331780
+Nefas Mewch’a,Nefas Mewch'a,11.7333,38.4667,Ethiopia,ET,ETH,Āmara,,18691.0,1231652571
+Bedēsa,Bedesa,8.9,40.7833,Ethiopia,ET,ETH,Oromīya,,18187.0,1231037182
+Lalībela,Lalibela,12.0317,39.0411,Ethiopia,ET,ETH,Āmara,,17367.0,1231020267
+Gīnīr,Ginir,7.1333,40.7,Ethiopia,ET,ETH,Oromīya,,17102.0,1231167016
+Cheraro,Cheraro,14.3958,37.7731,Ethiopia,ET,ETH,Tigray,,17045.0,1231449470
+Huruta,Huruta,8.15,39.35,Ethiopia,ET,ETH,Oromīya,,16922.0,1231839518
+Korem,Korem,12.5,39.5167,Ethiopia,ET,ETH,Tigray,,16856.0,1231332352
+Dēra,Dera,8.3333,39.3167,Ethiopia,ET,ETH,Oromīya,,16731.0,1231378383
+Bek’ojī,Bek'oji,7.5833,39.3333,Ethiopia,ET,ETH,Oromīya,,16730.0,1231921614
+Hīrna,Hirna,9.2167,41.1,Ethiopia,ET,ETH,Oromīya,,16726.0,1231773847
+Dejen,Dejen,10.1667,38.1333,Ethiopia,ET,ETH,Āmara,,15483.0,1231136097
+Funyan Bīra,Funyan Bira,9.35,42.4,Ethiopia,ET,ETH,Oromīya,,15478.0,1231640828
+Dembecha,Dembecha,10.55,37.4833,Ethiopia,ET,ETH,Āmara,,15008.0,1231138306
+Shambu,Shambu,9.5667,37.1,Ethiopia,ET,ETH,Oromīya,,14995.0,1231819871
+Āfdem,Afdem,9.4667,41.0,Ethiopia,ET,ETH,Sumalē,,14789.0,1231882057
+Kelafo,Kelafo,5.5889,44.2056,Ethiopia,ET,ETH,Sumalē,,14242.0,1231044866
+Gesuba,Gesuba,6.7242,37.5567,Ethiopia,ET,ETH,YeDebub Bihēroch Bihēreseboch na Hizboch,,13927.0,1231778594
+Debre Werk’,Debre Werk',10.6667,38.1667,Ethiopia,ET,ETH,Āmara,,13908.0,1231572143
+‘Alem T’ēna,`Alem T'ena,8.3,38.95,Ethiopia,ET,ETH,Oromīya,,13529.0,1231008148
+Ādīs ‘Alem,Adis `Alem,9.0333,38.4,Ethiopia,ET,ETH,Oromīya,,13423.0,1231598304
+Shīnīlē,Shinile,9.6667,41.8333,Ethiopia,ET,ETH,Sumalē,,13132.0,1231940232
+Kofelē,Kofele,7.0,38.75,Ethiopia,ET,ETH,Oromīya,,13127.0,1231392237
+Dabat,Dabat,12.9842,37.765,Ethiopia,ET,ETH,Āmara,,12574.0,1231841967
+Kwīhā,Kwiha,13.4769,39.545,Ethiopia,ET,ETH,Tigray,,12543.0,1231541994
+Sendafa,Sendafa,9.15,39.0333,Ethiopia,ET,ETH,Oromīya,,12298.0,1231004037
+Dolo Bay,Dolo Bay,4.1833,42.0833,Ethiopia,ET,ETH,Sumalē,,11810.0,1231539120
+Negēlē,Negele,5.3167,39.5833,Ethiopia,ET,ETH,Oromīya,,11772.0,1231215294
+Fīnch’a’ā,Finch'a'a,9.9,37.45,Ethiopia,ET,ETH,Oromīya,,11134.0,1231348007
+Āwash,Awash,8.9944,40.1667,Ethiopia,ET,ETH,Āfar,,11053.0,1231768288
+Chencha,Chencha,6.25,37.5667,Ethiopia,ET,ETH,YeDebub Bihēroch Bihēreseboch na Hizboch,,10488.0,1231948389
+Kele,Kele,6.0833,38.0333,Ethiopia,ET,ETH,Oromīya,,10084.0,1231687475
+Were Īlu,Were Ilu,10.6,39.4333,Ethiopia,ET,ETH,Āmara,,10062.0,1231595190
+Sagurē,Sagure,7.75,39.15,Ethiopia,ET,ETH,Oromīya,,9960.0,1231246746
+Mēga,Mega,4.0167,38.25,Ethiopia,ET,ETH,Oromīya,,9370.0,1231972849
+Gorē,Gore,8.149,35.537,Ethiopia,ET,ETH,Oromīya,,9352.0,1231481918
+Shendē,Shende,10.6333,36.9333,Ethiopia,ET,ETH,Āmara,,9293.0,1231251281
+Bīkē,Bike,9.5297,41.1969,Ethiopia,ET,ETH,Sumalē,,9197.0,1231520658
+Intich’o,Intich'o,14.2667,39.15,Ethiopia,ET,ETH,Tigray,,9048.0,1231591819
+Ādamī Tulu,Adami Tulu,7.8667,38.7,Ethiopia,ET,ETH,Oromīya,,9034.0,1231102446

@@ -1,0 +1,61 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Niamey,Niamey,13.515,2.1175,Niger,NE,NER,Niamey,primary,1026848.0,1562932886
+Maradi,Maradi,13.4833,7.1,Niger,NE,NER,Maradi,admin,267249.0,1562200314
+Zinder,Zinder,13.8053,8.9883,Niger,NE,NER,Zinder,admin,235605.0,1562758258
+Tahoua,Tahoua,14.8903,5.2642,Niger,NE,NER,Tahoua,admin,117826.0,1562214493
+Agadez,Agadez,16.9959,7.9828,Niger,NE,NER,Agadez,admin,117770.0,1562789067
+Sabara Bangou,Sabara Bangou,15.1177,1.996,Niger,NE,NER,Tillabéri,,111490.0,1562582841
+Arlit,Arlit,18.7333,7.3833,Niger,NE,NER,Agadez,minor,78651.0,1562695011
+Birnin Konni,Birnin Konni,13.7904,5.2599,Niger,NE,NER,Tahoua,minor,65252.0,1562868655
+Matamey,Matamey,13.4,8.6,Niger,NE,NER,Zinder,,64988.0,1562731904
+Dosso,Dosso,13.0444,3.1947,Niger,NE,NER,Dosso,admin,58671.0,1562574611
+Kouré,Koure,13.3106,2.576,Niger,NE,NER,Tillabéri,,46249.0,1562503170
+Gaya,Gaya,11.8878,3.4467,Niger,NE,NER,Dosso,minor,45465.0,1562298335
+Ayorou,Ayorou,14.735,0.92,Niger,NE,NER,Tillabéri,,33527.0,1562787330
+Kollo,Kollo,13.0167,1.8833,Niger,NE,NER,Tillabéri,,32829.0,1562112321
+Diffa,Diffa,13.3171,12.6089,Niger,NE,NER,Diffa,admin,30988.0,1562050464
+Madaoua,Madaoua,14.0762,5.9586,Niger,NE,NER,Tahoua,minor,24804.0,1562237869
+Dabaga,Dabaga,17.2667,8.1,Niger,NE,NER,Agadez,,23969.0,1562964626
+Tillabéri,Tillaberi,14.212,1.4531,Niger,NE,NER,Tillabéri,admin,19262.0,1562317955
+Nguigmi,Nguigmi,14.2532,13.1108,Niger,NE,NER,Diffa,minor,17897.0,1562214324
+Guidan Roumdji,Guidan Roumdji,13.6575,6.6958,Niger,NE,NER,Maradi,minor,17525.0,1562532711
+Baléyara,Baleyara,13.784,2.95,Niger,NE,NER,Tillabéri,,16063.0,1562876747
+Gouré,Goure,13.9874,10.27,Niger,NE,NER,Zinder,minor,14639.0,1562482102
+Galmi,Galmi,13.966,5.675,Niger,NE,NER,Tahoua,,13888.0,1562080549
+Tounfafi,Tounfafi,14.0464,5.9812,Niger,NE,NER,Tahoua,,9530.0,1562992849
+Bandio,Bandio,13.8888,1.0896,Niger,NE,NER,Tillabéri,,9237.0,1562066091
+Kawara,Kawara,14.0706,5.6715,Niger,NE,NER,Tahoua,,9064.0,1562281421
+Toulou,Toulou,14.1688,5.199,Niger,NE,NER,Tahoua,,8785.0,1562294550
+Gidan Idèr,Gidan Ider,14.0131,5.3185,Niger,NE,NER,Tahoua,,8582.0,1562080119
+Takiéta,Takieta,13.6806,8.5292,Niger,NE,NER,Zinder,,8554.0,1562878014
+Djado,Djado,21.015,12.3075,Niger,NE,NER,Agadez,,10.0,1562138807
+Niamey,Niamey,13.515,2.1175,Niger,NE,NER,Niamey,primary,1026848.0,1562932886
+Maradi,Maradi,13.4833,7.1,Niger,NE,NER,Maradi,admin,267249.0,1562200314
+Zinder,Zinder,13.8053,8.9883,Niger,NE,NER,Zinder,admin,235605.0,1562758258
+Tahoua,Tahoua,14.8903,5.2642,Niger,NE,NER,Tahoua,admin,117826.0,1562214493
+Agadez,Agadez,16.9959,7.9828,Niger,NE,NER,Agadez,admin,117770.0,1562789067
+Sabara Bangou,Sabara Bangou,15.1177,1.996,Niger,NE,NER,Tillabéri,,111490.0,1562582841
+Arlit,Arlit,18.7333,7.3833,Niger,NE,NER,Agadez,minor,78651.0,1562695011
+Birnin Konni,Birnin Konni,13.7904,5.2599,Niger,NE,NER,Tahoua,minor,65252.0,1562868655
+Matamey,Matamey,13.4,8.6,Niger,NE,NER,Zinder,,64988.0,1562731904
+Dosso,Dosso,13.0444,3.1947,Niger,NE,NER,Dosso,admin,58671.0,1562574611
+Kouré,Koure,13.3106,2.576,Niger,NE,NER,Tillabéri,,46249.0,1562503170
+Gaya,Gaya,11.8878,3.4467,Niger,NE,NER,Dosso,minor,45465.0,1562298335
+Ayorou,Ayorou,14.735,0.92,Niger,NE,NER,Tillabéri,,33527.0,1562787330
+Kollo,Kollo,13.0167,1.8833,Niger,NE,NER,Tillabéri,,32829.0,1562112321
+Diffa,Diffa,13.3171,12.6089,Niger,NE,NER,Diffa,admin,30988.0,1562050464
+Madaoua,Madaoua,14.0762,5.9586,Niger,NE,NER,Tahoua,minor,24804.0,1562237869
+Dabaga,Dabaga,17.2667,8.1,Niger,NE,NER,Agadez,,23969.0,1562964626
+Tillabéri,Tillaberi,14.212,1.4531,Niger,NE,NER,Tillabéri,admin,19262.0,1562317955
+Nguigmi,Nguigmi,14.2532,13.1108,Niger,NE,NER,Diffa,minor,17897.0,1562214324
+Guidan Roumdji,Guidan Roumdji,13.6575,6.6958,Niger,NE,NER,Maradi,minor,17525.0,1562532711
+Baléyara,Baleyara,13.784,2.95,Niger,NE,NER,Tillabéri,,16063.0,1562876747
+Gouré,Goure,13.9874,10.27,Niger,NE,NER,Zinder,minor,14639.0,1562482102
+Galmi,Galmi,13.966,5.675,Niger,NE,NER,Tahoua,,13888.0,1562080549
+Tounfafi,Tounfafi,14.0464,5.9812,Niger,NE,NER,Tahoua,,9530.0,1562992849
+Bandio,Bandio,13.8888,1.0896,Niger,NE,NER,Tillabéri,,9237.0,1562066091
+Kawara,Kawara,14.0706,5.6715,Niger,NE,NER,Tahoua,,9064.0,1562281421
+Toulou,Toulou,14.1688,5.199,Niger,NE,NER,Tahoua,,8785.0,1562294550
+Gidan Idèr,Gidan Ider,14.0131,5.3185,Niger,NE,NER,Tahoua,,8582.0,1562080119
+Takiéta,Takieta,13.6806,8.5292,Niger,NE,NER,Zinder,,8554.0,1562878014
+Djado,Djado,21.015,12.3075,Niger,NE,NER,Agadez,,10.0,1562138807

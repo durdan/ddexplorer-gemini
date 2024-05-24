@@ -1,0 +1,141 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Kuala Lumpur,Kuala Lumpur,3.1478,101.6953,Malaysia,MY,MYS,Kuala Lumpur,primary,8911000.0,1458988644
+Seberang Jaya,Seberang Jaya,5.4083,100.3695,Malaysia,MY,MYS,Pulau Pinang,,946092.0,1458417183
+Klang,Klang,3.0333,101.45,Malaysia,MY,MYS,Selangor,,878000.0,1458509635
+Ipoh,Ipoh,4.5972,101.075,Malaysia,MY,MYS,Perak,admin,866772.0,1458423505
+George Town,George Town,5.4144,100.3292,Malaysia,MY,MYS,Pulau Pinang,admin,708127.0,1458236750
+Petaling Jaya,Petaling Jaya,3.0972,101.6444,Malaysia,MY,MYS,Selangor,,638516.0,1458989343
+Kuantan,Kuantan,3.8167,103.3333,Malaysia,MY,MYS,Pahang,admin,607778.0,1458763489
+Shah Alam,Shah Alam,3.0722,101.5167,Malaysia,MY,MYS,Selangor,admin,584340.0,1458194263
+Sungai Petani,Sungai Petani,5.65,100.5,Malaysia,MY,MYS,Kedah,,544851.0,1458639918
+Johor Bahru,Johor Bahru,1.4556,103.7611,Malaysia,MY,MYS,Johor,admin,497097.0,1458747615
+Kota Bharu,Kota Bharu,6.1333,102.25,Malaysia,MY,MYS,Kelantan,admin,491237.0,1458150101
+Melaka,Melaka,2.1944,102.2486,Malaysia,MY,MYS,Melaka,admin,455300.0,1458467506
+Kota Kinabalu,Kota Kinabalu,5.975,116.0725,Malaysia,MY,MYS,Sabah,admin,452058.0,1458441859
+Seremban,Seremban,2.7222,101.9417,Malaysia,MY,MYS,Negeri Sembilan,admin,419536.0,1458051507
+Sandakan,Sandakan,5.8333,118.1167,Malaysia,MY,MYS,Sabah,,396290.0,1458405180
+Kuching,Kuching,1.5575,110.3439,Malaysia,MY,MYS,Sarawak,admin,325132.0,1458462262
+Kluang,Kluang,2.0336,103.3194,Malaysia,MY,MYS,Johor,,323762.0,1458692921
+Muar,Muar,2.05,102.5667,Malaysia,MY,MYS,Johor,,314776.0,1458170112
+Pasir Gudang,Pasir Gudang,1.5028,103.9356,Malaysia,MY,MYS,Johor,,312499.0,1458548800
+Kuala Terengganu,Kuala Terengganu,5.3292,103.1361,Malaysia,MY,MYS,Terengganu,admin,255109.0,1458475563
+Sibu,Sibu,2.2878,111.8308,Malaysia,MY,MYS,Sarawak,,247995.0,1458970454
+Taiping,Taiping,4.85,100.7333,Malaysia,MY,MYS,Perak,,245182.0,1458446120
+Kajang,Kajang,2.9931,101.7889,Malaysia,MY,MYS,Selangor,,236240.0,1458690147
+Miri,Miri,4.3925,113.9861,Malaysia,MY,MYS,Sarawak,,234541.0,1458079883
+Teluk Intan,Teluk Intan,4.0333,101.0167,Malaysia,MY,MYS,Perak,,232800.0,1458126062
+Kulai,Kulai,1.6667,103.6,Malaysia,MY,MYS,Johor,,230000.0,1458153941
+Alor Setar,Alor Setar,6.1183,100.3694,Malaysia,MY,MYS,Kedah,admin,217000.0,1458273978
+Bukit Mertajam,Bukit Mertajam,5.3655,100.4607,Malaysia,MY,MYS,Pulau Pinang,,210000.0,1458619046
+Lahad Datu,Lahad Datu,5.03,118.34,Malaysia,MY,MYS,Sabah,,199830.0,1458472057
+Segamat,Segamat,2.5111,102.8139,Malaysia,MY,MYS,Johor,,197762.0,1458022258
+Tumpat,Tumpat,6.1667,102.1667,Malaysia,MY,MYS,Kelantan,minor,183100.0,1458905603
+Keningau,Keningau,5.3333,116.1667,Malaysia,MY,MYS,Sabah,,173130.0,1458700775
+Batu Pahat,Batu Pahat,1.8522,102.9372,Malaysia,MY,MYS,Johor,,140000.0,1458310769
+Batu Gajah,Batu Gajah,4.4667,101.05,Malaysia,MY,MYS,Perak,,133422.0,1458671961
+Tuaran,Tuaran,6.1833,116.2333,Malaysia,MY,MYS,Sabah,,128200.0,1458562692
+Bayan Lepas,Bayan Lepas,5.2833,100.2667,Malaysia,MY,MYS,Pulau Pinang,,122654.0,1458488654
+Port Dickson,Port Dickson,2.5167,101.8,Malaysia,MY,MYS,Negeri Sembilan,,119300.0,1458349611
+Bintulu,Bintulu,3.1733,113.0433,Malaysia,MY,MYS,Sarawak,,114058.0,1458164361
+Tawau,Tawau,4.2583,117.8944,Malaysia,MY,MYS,Sabah,,113809.0,1458745722
+Simanggang,Simanggang,1.2353,111.4697,Malaysia,MY,MYS,Sarawak,,102092.0,1458892132
+Labuan,Labuan,5.3,115.22,Malaysia,MY,MYS,Labuan,admin,95120.0,1458460967
+Raub,Raub,3.7952,101.856,Malaysia,MY,MYS,Pahang,,91731.0,1458881822
+Marudi,Marudi,4.1833,114.3167,Malaysia,MY,MYS,Sarawak,,90100.0,1458038564
+Cukai,Cukai,4.2332,103.4479,Malaysia,MY,MYS,Terengganu,,82425.0,1458033606
+Butterworth,Butterworth,5.3942,100.3664,Malaysia,MY,MYS,Pulau Pinang,,80378.0,1458469233
+Putrajaya,Putrajaya,2.93,101.69,Malaysia,MY,MYS,Putrajaya,primary,67964.0,1458000206
+Taman Senai,Taman Senai,1.5833,103.6333,Malaysia,MY,MYS,Johor,,67440.0,1458142462
+Taman Johor Jaya,Taman Johor Jaya,1.5333,103.8167,Malaysia,MY,MYS,Johor,,66000.0,1458837224
+Machang,Machang,5.7608,102.2158,Malaysia,MY,MYS,Kelantan,,56937.0,1458948946
+Limbang,Limbang,4.7592,115.0067,Malaysia,MY,MYS,Sarawak,,56900.0,1458405498
+Sarikei,Sarikei,2.1256,111.5219,Malaysia,MY,MYS,Sarawak,,56228.0,1458988350
+Tangkak,Tangkak,2.2667,102.55,Malaysia,MY,MYS,Johor,,52014.0,1458970376
+Kangar,Kangar,6.4333,100.2,Malaysia,MY,MYS,Perlis,admin,48898.0,1458939333
+Rengam,Rengam,1.8833,103.4,Malaysia,MY,MYS,Johor,,47510.0,1458801146
+Lawas,Lawas,4.8333,115.4,Malaysia,MY,MYS,Sarawak,,46200.0,1458655014
+Cameron Highlands,Cameron Highlands,4.5,101.5,Malaysia,MY,MYS,Pahang,,43700.0,1458039687
+Bukit Gambir,Bukit Gambir,2.2167,102.6667,Malaysia,MY,MYS,Johor,,40000.0,1458592084
+Kampung Baharu Nilai,Kampung Baharu Nilai,2.8167,101.8,Malaysia,MY,MYS,Negeri Sembilan,,38612.0,1458945059
+Long Lama,Long Lama,3.7644,114.4039,Malaysia,MY,MYS,Sarawak,,37082.0,1458314812
+Simpang Renggam,Simpang Renggam,1.8333,103.3167,Malaysia,MY,MYS,Johor,,34701.0,1458888646
+Kuah,Kuah,6.3167,99.85,Malaysia,MY,MYS,Kedah,,30000.0,1458485956
+Kudat,Kudat,6.8833,116.8333,Malaysia,MY,MYS,Sabah,,29025.0,1458364098
+Lubok Antu,Lubok Antu,1.05,111.8333,Malaysia,MY,MYS,Sarawak,,27984.0,1458036872
+Parit Buntar,Parit Buntar,5.1167,100.5,Malaysia,MY,MYS,Perak,,26328.0,1458515879
+Bidur,Bidur,4.1167,101.2833,Malaysia,MY,MYS,Perak,,25000.0,1458028952
+Membakut,Membakut,5.4667,115.7833,Malaysia,MY,MYS,Sabah,,21900.0,1458057986
+Kuala Lipis,Kuala Lipis,4.184,102.042,Malaysia,MY,MYS,Pahang,,20000.0,1458124212
+Perai,Perai,5.3779,100.3992,Malaysia,MY,MYS,Pulau Pinang,,14433.0,1458507737
+Beaufort,Beaufort,5.3458,115.7446,Malaysia,MY,MYS,Sabah,,12742.0,1458309122
+Padang Besar,Padang Besar,6.6626,100.3217,Malaysia,MY,MYS,Perlis,,10000.0,1458304939
+Kuala Lumpur,Kuala Lumpur,3.1478,101.6953,Malaysia,MY,MYS,Kuala Lumpur,primary,8911000.0,1458988644
+Seberang Jaya,Seberang Jaya,5.4083,100.3695,Malaysia,MY,MYS,Pulau Pinang,,946092.0,1458417183
+Klang,Klang,3.0333,101.45,Malaysia,MY,MYS,Selangor,,878000.0,1458509635
+Ipoh,Ipoh,4.5972,101.075,Malaysia,MY,MYS,Perak,admin,866772.0,1458423505
+George Town,George Town,5.4144,100.3292,Malaysia,MY,MYS,Pulau Pinang,admin,708127.0,1458236750
+Petaling Jaya,Petaling Jaya,3.0972,101.6444,Malaysia,MY,MYS,Selangor,,638516.0,1458989343
+Kuantan,Kuantan,3.8167,103.3333,Malaysia,MY,MYS,Pahang,admin,607778.0,1458763489
+Shah Alam,Shah Alam,3.0722,101.5167,Malaysia,MY,MYS,Selangor,admin,584340.0,1458194263
+Sungai Petani,Sungai Petani,5.65,100.5,Malaysia,MY,MYS,Kedah,,544851.0,1458639918
+Johor Bahru,Johor Bahru,1.4556,103.7611,Malaysia,MY,MYS,Johor,admin,497097.0,1458747615
+Kota Bharu,Kota Bharu,6.1333,102.25,Malaysia,MY,MYS,Kelantan,admin,491237.0,1458150101
+Melaka,Melaka,2.1944,102.2486,Malaysia,MY,MYS,Melaka,admin,455300.0,1458467506
+Kota Kinabalu,Kota Kinabalu,5.975,116.0725,Malaysia,MY,MYS,Sabah,admin,452058.0,1458441859
+Seremban,Seremban,2.7222,101.9417,Malaysia,MY,MYS,Negeri Sembilan,admin,419536.0,1458051507
+Sandakan,Sandakan,5.8333,118.1167,Malaysia,MY,MYS,Sabah,,396290.0,1458405180
+Kuching,Kuching,1.5575,110.3439,Malaysia,MY,MYS,Sarawak,admin,325132.0,1458462262
+Kluang,Kluang,2.0336,103.3194,Malaysia,MY,MYS,Johor,,323762.0,1458692921
+Muar,Muar,2.05,102.5667,Malaysia,MY,MYS,Johor,,314776.0,1458170112
+Pasir Gudang,Pasir Gudang,1.5028,103.9356,Malaysia,MY,MYS,Johor,,312499.0,1458548800
+Kuala Terengganu,Kuala Terengganu,5.3292,103.1361,Malaysia,MY,MYS,Terengganu,admin,255109.0,1458475563
+Sibu,Sibu,2.2878,111.8308,Malaysia,MY,MYS,Sarawak,,247995.0,1458970454
+Taiping,Taiping,4.85,100.7333,Malaysia,MY,MYS,Perak,,245182.0,1458446120
+Kajang,Kajang,2.9931,101.7889,Malaysia,MY,MYS,Selangor,,236240.0,1458690147
+Miri,Miri,4.3925,113.9861,Malaysia,MY,MYS,Sarawak,,234541.0,1458079883
+Teluk Intan,Teluk Intan,4.0333,101.0167,Malaysia,MY,MYS,Perak,,232800.0,1458126062
+Kulai,Kulai,1.6667,103.6,Malaysia,MY,MYS,Johor,,230000.0,1458153941
+Alor Setar,Alor Setar,6.1183,100.3694,Malaysia,MY,MYS,Kedah,admin,217000.0,1458273978
+Bukit Mertajam,Bukit Mertajam,5.3655,100.4607,Malaysia,MY,MYS,Pulau Pinang,,210000.0,1458619046
+Lahad Datu,Lahad Datu,5.03,118.34,Malaysia,MY,MYS,Sabah,,199830.0,1458472057
+Segamat,Segamat,2.5111,102.8139,Malaysia,MY,MYS,Johor,,197762.0,1458022258
+Tumpat,Tumpat,6.1667,102.1667,Malaysia,MY,MYS,Kelantan,minor,183100.0,1458905603
+Keningau,Keningau,5.3333,116.1667,Malaysia,MY,MYS,Sabah,,173130.0,1458700775
+Batu Pahat,Batu Pahat,1.8522,102.9372,Malaysia,MY,MYS,Johor,,140000.0,1458310769
+Batu Gajah,Batu Gajah,4.4667,101.05,Malaysia,MY,MYS,Perak,,133422.0,1458671961
+Tuaran,Tuaran,6.1833,116.2333,Malaysia,MY,MYS,Sabah,,128200.0,1458562692
+Bayan Lepas,Bayan Lepas,5.2833,100.2667,Malaysia,MY,MYS,Pulau Pinang,,122654.0,1458488654
+Port Dickson,Port Dickson,2.5167,101.8,Malaysia,MY,MYS,Negeri Sembilan,,119300.0,1458349611
+Bintulu,Bintulu,3.1733,113.0433,Malaysia,MY,MYS,Sarawak,,114058.0,1458164361
+Tawau,Tawau,4.2583,117.8944,Malaysia,MY,MYS,Sabah,,113809.0,1458745722
+Simanggang,Simanggang,1.2353,111.4697,Malaysia,MY,MYS,Sarawak,,102092.0,1458892132
+Labuan,Labuan,5.3,115.22,Malaysia,MY,MYS,Labuan,admin,95120.0,1458460967
+Raub,Raub,3.7952,101.856,Malaysia,MY,MYS,Pahang,,91731.0,1458881822
+Marudi,Marudi,4.1833,114.3167,Malaysia,MY,MYS,Sarawak,,90100.0,1458038564
+Cukai,Cukai,4.2332,103.4479,Malaysia,MY,MYS,Terengganu,,82425.0,1458033606
+Butterworth,Butterworth,5.3942,100.3664,Malaysia,MY,MYS,Pulau Pinang,,80378.0,1458469233
+Putrajaya,Putrajaya,2.93,101.69,Malaysia,MY,MYS,Putrajaya,primary,67964.0,1458000206
+Taman Senai,Taman Senai,1.5833,103.6333,Malaysia,MY,MYS,Johor,,67440.0,1458142462
+Taman Johor Jaya,Taman Johor Jaya,1.5333,103.8167,Malaysia,MY,MYS,Johor,,66000.0,1458837224
+Machang,Machang,5.7608,102.2158,Malaysia,MY,MYS,Kelantan,,56937.0,1458948946
+Limbang,Limbang,4.7592,115.0067,Malaysia,MY,MYS,Sarawak,,56900.0,1458405498
+Sarikei,Sarikei,2.1256,111.5219,Malaysia,MY,MYS,Sarawak,,56228.0,1458988350
+Tangkak,Tangkak,2.2667,102.55,Malaysia,MY,MYS,Johor,,52014.0,1458970376
+Kangar,Kangar,6.4333,100.2,Malaysia,MY,MYS,Perlis,admin,48898.0,1458939333
+Rengam,Rengam,1.8833,103.4,Malaysia,MY,MYS,Johor,,47510.0,1458801146
+Lawas,Lawas,4.8333,115.4,Malaysia,MY,MYS,Sarawak,,46200.0,1458655014
+Cameron Highlands,Cameron Highlands,4.5,101.5,Malaysia,MY,MYS,Pahang,,43700.0,1458039687
+Bukit Gambir,Bukit Gambir,2.2167,102.6667,Malaysia,MY,MYS,Johor,,40000.0,1458592084
+Kampung Baharu Nilai,Kampung Baharu Nilai,2.8167,101.8,Malaysia,MY,MYS,Negeri Sembilan,,38612.0,1458945059
+Long Lama,Long Lama,3.7644,114.4039,Malaysia,MY,MYS,Sarawak,,37082.0,1458314812
+Simpang Renggam,Simpang Renggam,1.8333,103.3167,Malaysia,MY,MYS,Johor,,34701.0,1458888646
+Kuah,Kuah,6.3167,99.85,Malaysia,MY,MYS,Kedah,,30000.0,1458485956
+Kudat,Kudat,6.8833,116.8333,Malaysia,MY,MYS,Sabah,,29025.0,1458364098
+Lubok Antu,Lubok Antu,1.05,111.8333,Malaysia,MY,MYS,Sarawak,,27984.0,1458036872
+Parit Buntar,Parit Buntar,5.1167,100.5,Malaysia,MY,MYS,Perak,,26328.0,1458515879
+Bidur,Bidur,4.1167,101.2833,Malaysia,MY,MYS,Perak,,25000.0,1458028952
+Membakut,Membakut,5.4667,115.7833,Malaysia,MY,MYS,Sabah,,21900.0,1458057986
+Kuala Lipis,Kuala Lipis,4.184,102.042,Malaysia,MY,MYS,Pahang,,20000.0,1458124212
+Perai,Perai,5.3779,100.3992,Malaysia,MY,MYS,Pulau Pinang,,14433.0,1458507737
+Beaufort,Beaufort,5.3458,115.7446,Malaysia,MY,MYS,Sabah,,12742.0,1458309122
+Padang Besar,Padang Besar,6.6626,100.3217,Malaysia,MY,MYS,Perlis,,10000.0,1458304939

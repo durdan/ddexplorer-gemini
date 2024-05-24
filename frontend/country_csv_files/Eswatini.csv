@@ -1,0 +1,17 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Manzini,Manzini,-26.4833,31.3667,Eswatini,SZ,SWZ,Manzini,admin,110508.0,1748177431
+Mbabane,Mbabane,-26.3167,31.1333,Eswatini,SZ,SWZ,Hhohho,primary,60691.0,1748811945
+Siteki,Siteki,-26.45,31.95,Eswatini,SZ,SWZ,Lubombo,admin,6381.0,1748933140
+Lobamba,Lobamba,-26.4465,31.2064,Eswatini,SZ,SWZ,Hhohho,primary,5800.0,1748963140
+Piggs Peak,Piggs Peak,-25.961,31.247,Eswatini,SZ,SWZ,Hhohho,,5750.0,1748284923
+Lavumisa,Lavumisa,-27.3167,31.9,Eswatini,SZ,SWZ,Shiselweni,,3695.0,1748490870
+Hlatikulu,Hlatikulu,-26.9667,31.3167,Eswatini,SZ,SWZ,Shiselweni,,2748.0,1748564468
+Nhlangano,Nhlangano,-27.1167,31.2,Eswatini,SZ,SWZ,Shiselweni,admin,,1748301792
+Manzini,Manzini,-26.4833,31.3667,Eswatini,SZ,SWZ,Manzini,admin,110508.0,1748177431
+Mbabane,Mbabane,-26.3167,31.1333,Eswatini,SZ,SWZ,Hhohho,primary,60691.0,1748811945
+Siteki,Siteki,-26.45,31.95,Eswatini,SZ,SWZ,Lubombo,admin,6381.0,1748933140
+Lobamba,Lobamba,-26.4465,31.2064,Eswatini,SZ,SWZ,Hhohho,primary,5800.0,1748963140
+Piggs Peak,Piggs Peak,-25.961,31.247,Eswatini,SZ,SWZ,Hhohho,,5750.0,1748284923
+Lavumisa,Lavumisa,-27.3167,31.9,Eswatini,SZ,SWZ,Shiselweni,,3695.0,1748490870
+Hlatikulu,Hlatikulu,-26.9667,31.3167,Eswatini,SZ,SWZ,Shiselweni,,2748.0,1748564468
+Nhlangano,Nhlangano,-27.1167,31.2,Eswatini,SZ,SWZ,Shiselweni,admin,,1748301792

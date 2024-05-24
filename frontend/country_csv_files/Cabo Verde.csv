@@ -1,0 +1,47 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Mindelo,Mindelo,16.886,-24.988,Cabo Verde,CV,CPV,São Vicente,admin,70468.0,1132180389
+Praia,Praia,14.918,-23.509,Cabo Verde,CV,CPV,Praia,primary,61644.0,1132398770
+São Filipe,Sao Filipe,14.895,-24.498,Cabo Verde,CV,CPV,São Filipe,admin,22227.0,1132693257
+Ribeira Grande,Ribeira Grande,17.183,-25.065,Cabo Verde,CV,CPV,Ribeira Grande,admin,18890.0,1132061543
+Tarrafal,Tarrafal,15.278,-23.752,Cabo Verde,CV,CPV,Tarrafal,admin,18561.0,1132834308
+Porto Novo,Porto Novo,17.019,-25.064,Cabo Verde,CV,CPV,Porto Novo,admin,18028.0,1132233840
+Assomada,Assomada,15.096,-23.667,Cabo Verde,CV,CPV,Santa Catarina,admin,12026.0,1132845019
+Pedra Badejo,Pedra Badejo,15.137,-23.534,Cabo Verde,CV,CPV,Santa Cruz,admin,9530.0,1132841923
+Sal Rei,Sal Rei,16.177,-22.918,Cabo Verde,CV,CPV,Boa Vista,admin,6357.0,1132420232
+Espargos,Espargos,16.756,-22.946,Cabo Verde,CV,CPV,Sal,admin,6173.0,1132760152
+Tarrafal,Tarrafal,16.566,-24.357,Cabo Verde,CV,CPV,Tarrafal de São Nicolau,admin,5237.0,1132502171
+Ponta do Sol,Ponta do Sol,17.202,-25.093,Cabo Verde,CV,CPV,Ribeira Grande,admin,4738.0,1132137257
+Calheta de São Miguel,Calheta de Sao Miguel,15.186,-23.593,Cabo Verde,CV,CPV,São Miguel,admin,4123.0,1132750609
+Porto Inglês,Porto Ingles,15.138,-23.211,Cabo Verde,CV,CPV,Maio,admin,3056.0,1132346974
+São Domingos,Sao Domingos,15.028,-23.563,Cabo Verde,CV,CPV,São Domingos,admin,2818.0,1132246964
+Cidade Velha,Cidade Velha,14.916,-23.606,Cabo Verde,CV,CPV,Ribeira Grande de Santiago,admin,2148.0,1132073400
+Picos,Picos,15.083,-23.632,Cabo Verde,CV,CPV,São Salvador do Mundo,admin,,1132670996
+João Teves,Joao Teves,15.068,-23.589,Cabo Verde,CV,CPV,São Lourenço dos Órgãos,admin,,1132758433
+Igreja,Igreja,15.0339,-24.325,Cabo Verde,CV,CPV,Mosteiros,admin,,1132174768
+Ribeira Brava,Ribeira Brava,16.615,-24.299,Cabo Verde,CV,CPV,Ribeira Brava,admin,,1132498214
+Nova Sintra,Nova Sintra,14.871,-24.696,Cabo Verde,CV,CPV,Brava,admin,,1132634480
+Pombas,Pombas,17.149,-25.015,Cabo Verde,CV,CPV,Paul,admin,,1132720315
+Cova Figueira,Cova Figueira,14.89,-24.294,Cabo Verde,CV,CPV,Santa Catarina do Fogo,admin,,1132510430
+Mindelo,Mindelo,16.886,-24.988,Cabo Verde,CV,CPV,São Vicente,admin,70468.0,1132180389
+Praia,Praia,14.918,-23.509,Cabo Verde,CV,CPV,Praia,primary,61644.0,1132398770
+São Filipe,Sao Filipe,14.895,-24.498,Cabo Verde,CV,CPV,São Filipe,admin,22227.0,1132693257
+Ribeira Grande,Ribeira Grande,17.183,-25.065,Cabo Verde,CV,CPV,Ribeira Grande,admin,18890.0,1132061543
+Tarrafal,Tarrafal,15.278,-23.752,Cabo Verde,CV,CPV,Tarrafal,admin,18561.0,1132834308
+Porto Novo,Porto Novo,17.019,-25.064,Cabo Verde,CV,CPV,Porto Novo,admin,18028.0,1132233840
+Assomada,Assomada,15.096,-23.667,Cabo Verde,CV,CPV,Santa Catarina,admin,12026.0,1132845019
+Pedra Badejo,Pedra Badejo,15.137,-23.534,Cabo Verde,CV,CPV,Santa Cruz,admin,9530.0,1132841923
+Sal Rei,Sal Rei,16.177,-22.918,Cabo Verde,CV,CPV,Boa Vista,admin,6357.0,1132420232
+Espargos,Espargos,16.756,-22.946,Cabo Verde,CV,CPV,Sal,admin,6173.0,1132760152
+Tarrafal,Tarrafal,16.566,-24.357,Cabo Verde,CV,CPV,Tarrafal de São Nicolau,admin,5237.0,1132502171
+Ponta do Sol,Ponta do Sol,17.202,-25.093,Cabo Verde,CV,CPV,Ribeira Grande,admin,4738.0,1132137257
+Calheta de São Miguel,Calheta de Sao Miguel,15.186,-23.593,Cabo Verde,CV,CPV,São Miguel,admin,4123.0,1132750609
+Porto Inglês,Porto Ingles,15.138,-23.211,Cabo Verde,CV,CPV,Maio,admin,3056.0,1132346974
+São Domingos,Sao Domingos,15.028,-23.563,Cabo Verde,CV,CPV,São Domingos,admin,2818.0,1132246964
+Cidade Velha,Cidade Velha,14.916,-23.606,Cabo Verde,CV,CPV,Ribeira Grande de Santiago,admin,2148.0,1132073400
+Picos,Picos,15.083,-23.632,Cabo Verde,CV,CPV,São Salvador do Mundo,admin,,1132670996
+João Teves,Joao Teves,15.068,-23.589,Cabo Verde,CV,CPV,São Lourenço dos Órgãos,admin,,1132758433
+Igreja,Igreja,15.0339,-24.325,Cabo Verde,CV,CPV,Mosteiros,admin,,1132174768
+Ribeira Brava,Ribeira Brava,16.615,-24.299,Cabo Verde,CV,CPV,Ribeira Brava,admin,,1132498214
+Nova Sintra,Nova Sintra,14.871,-24.696,Cabo Verde,CV,CPV,Brava,admin,,1132634480
+Pombas,Pombas,17.149,-25.015,Cabo Verde,CV,CPV,Paul,admin,,1132720315
+Cova Figueira,Cova Figueira,14.89,-24.294,Cabo Verde,CV,CPV,Santa Catarina do Fogo,admin,,1132510430

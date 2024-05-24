@@ -1,0 +1,5 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Nuku‘alofa,Nuku`alofa,-21.1333,-175.2,Tonga,TO,TON,Tongatapu,primary,23221.0,1776737461
+Neiafu,Neiafu,-18.6508,-173.9831,Tonga,TO,TON,Vava‘u,,3845.0,1776829745
+Nuku‘alofa,Nuku`alofa,-21.1333,-175.2,Tonga,TO,TON,Tongatapu,primary,23221.0,1776737461
+Neiafu,Neiafu,-18.6508,-173.9831,Tonga,TO,TON,Vava‘u,,3845.0,1776829745

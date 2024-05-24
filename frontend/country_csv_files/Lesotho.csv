@@ -1,0 +1,55 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Maseru,Maseru,-29.31,27.48,Lesotho,LS,LSO,Maseru,primary,343541.0,1426977668
+Teyateyaneng,Teyateyaneng,-29.1511,27.7425,Lesotho,LS,LSO,Berea,admin,75115.0,1426159118
+Mafeteng,Mafeteng,-29.8167,27.25,Lesotho,LS,LSO,Mafeteng,admin,57059.0,1426506047
+Leribe,Leribe,-28.8734,28.0416,Lesotho,LS,LSO,Leribe,admin,38558.0,1426721246
+Maputsoe,Maputsoe,-28.895,27.907,Lesotho,LS,LSO,Leribe,,32117.0,1426999579
+Mazenod,Mazenod,-29.4642,27.4969,Lesotho,LS,LSO,Maseru,,27553.0,1426996323
+Ratau,Ratau,-29.3828,27.7892,Lesotho,LS,LSO,Maseru,,26582.0,1426355442
+Mohale’s Hoek,Mohale's Hoek,-30.15,27.4667,Lesotho,LS,LSO,Mohale’s Hoek,admin,24992.0,1426343192
+Qiloane,Qiloane,-29.3625,27.6319,Lesotho,LS,LSO,Maseru,,24093.0,1426291915
+Mapoteng,Mapoteng,-29.1097,27.9739,Lesotho,LS,LSO,Berea,,23926.0,1426371012
+Senekane,Senekane,-29.2525,27.7433,Lesotho,LS,LSO,Berea,,22262.0,1426773784
+Kueneng,Kueneng,-29.0161,27.9981,Lesotho,LS,LSO,Berea,,21887.0,1426216569
+Maghalleen,Maghalleen,-30.0942,27.4189,Lesotho,LS,LSO,Mohale’s Hoek,,21869.0,1426440371
+Pitseng,Pitseng,-29.0097,28.2575,Lesotho,LS,LSO,Leribe,,18948.0,1426276649
+Siloe,Siloe,-29.9836,27.2792,Lesotho,LS,LSO,Mohale’s Hoek,,18261.0,1426116869
+Peka,Peka,-28.9667,27.7667,Lesotho,LS,LSO,Leribe,,17161.0,1426883047
+Quthing,Quthing,-30.4001,27.7002,Lesotho,LS,LSO,Quthing,admin,15000.0,1426618526
+Nako,Nako,-29.6481,27.7336,Lesotho,LS,LSO,Maseru,,13146.0,1426816465
+Ramabitsa,Ramabitsa,-29.7625,27.6139,Lesotho,LS,LSO,Maseru,,12234.0,1426883500
+Nyakosoba,Nyakosoba,-29.5047,27.8692,Lesotho,LS,LSO,Maseru,,10893.0,1426143192
+Rasebetsane,Rasebetsane,-29.8992,27.6628,Lesotho,LS,LSO,Mafeteng,,10519.0,1426189375
+Butha-Buthe,Butha-Buthe,-28.7833,28.2333,Lesotho,LS,LSO,Butha-Buthe,admin,10000.0,1426574356
+Mohlanapeng,Mohlanapeng,-29.6975,28.6947,Lesotho,LS,LSO,Thaba-Tseka,,9882.0,1426075936
+Seforong,Seforong,-30.1028,28.1864,Lesotho,LS,LSO,Quthing,,9720.0,1426821523
+Mokhotlong,Mokhotlong,-29.2885,29.0656,Lesotho,LS,LSO,Mokhotlong,admin,8809.0,1426785819
+Thaba-Tseka,Thaba-Tseka,-29.5333,28.6,Lesotho,LS,LSO,Thaba-Tseka,admin,5423.0,1426611266
+Qacha’s Nek,Qacha's Nek,-30.1167,28.6833,Lesotho,LS,LSO,Qacha’s Nek,admin,,1426361264
+Maseru,Maseru,-29.31,27.48,Lesotho,LS,LSO,Maseru,primary,343541.0,1426977668
+Teyateyaneng,Teyateyaneng,-29.1511,27.7425,Lesotho,LS,LSO,Berea,admin,75115.0,1426159118
+Mafeteng,Mafeteng,-29.8167,27.25,Lesotho,LS,LSO,Mafeteng,admin,57059.0,1426506047
+Leribe,Leribe,-28.8734,28.0416,Lesotho,LS,LSO,Leribe,admin,38558.0,1426721246
+Maputsoe,Maputsoe,-28.895,27.907,Lesotho,LS,LSO,Leribe,,32117.0,1426999579
+Mazenod,Mazenod,-29.4642,27.4969,Lesotho,LS,LSO,Maseru,,27553.0,1426996323
+Ratau,Ratau,-29.3828,27.7892,Lesotho,LS,LSO,Maseru,,26582.0,1426355442
+Mohale’s Hoek,Mohale's Hoek,-30.15,27.4667,Lesotho,LS,LSO,Mohale’s Hoek,admin,24992.0,1426343192
+Qiloane,Qiloane,-29.3625,27.6319,Lesotho,LS,LSO,Maseru,,24093.0,1426291915
+Mapoteng,Mapoteng,-29.1097,27.9739,Lesotho,LS,LSO,Berea,,23926.0,1426371012
+Senekane,Senekane,-29.2525,27.7433,Lesotho,LS,LSO,Berea,,22262.0,1426773784
+Kueneng,Kueneng,-29.0161,27.9981,Lesotho,LS,LSO,Berea,,21887.0,1426216569
+Maghalleen,Maghalleen,-30.0942,27.4189,Lesotho,LS,LSO,Mohale’s Hoek,,21869.0,1426440371
+Pitseng,Pitseng,-29.0097,28.2575,Lesotho,LS,LSO,Leribe,,18948.0,1426276649
+Siloe,Siloe,-29.9836,27.2792,Lesotho,LS,LSO,Mohale’s Hoek,,18261.0,1426116869
+Peka,Peka,-28.9667,27.7667,Lesotho,LS,LSO,Leribe,,17161.0,1426883047
+Quthing,Quthing,-30.4001,27.7002,Lesotho,LS,LSO,Quthing,admin,15000.0,1426618526
+Nako,Nako,-29.6481,27.7336,Lesotho,LS,LSO,Maseru,,13146.0,1426816465
+Ramabitsa,Ramabitsa,-29.7625,27.6139,Lesotho,LS,LSO,Maseru,,12234.0,1426883500
+Nyakosoba,Nyakosoba,-29.5047,27.8692,Lesotho,LS,LSO,Maseru,,10893.0,1426143192
+Rasebetsane,Rasebetsane,-29.8992,27.6628,Lesotho,LS,LSO,Mafeteng,,10519.0,1426189375
+Butha-Buthe,Butha-Buthe,-28.7833,28.2333,Lesotho,LS,LSO,Butha-Buthe,admin,10000.0,1426574356
+Mohlanapeng,Mohlanapeng,-29.6975,28.6947,Lesotho,LS,LSO,Thaba-Tseka,,9882.0,1426075936
+Seforong,Seforong,-30.1028,28.1864,Lesotho,LS,LSO,Quthing,,9720.0,1426821523
+Mokhotlong,Mokhotlong,-29.2885,29.0656,Lesotho,LS,LSO,Mokhotlong,admin,8809.0,1426785819
+Thaba-Tseka,Thaba-Tseka,-29.5333,28.6,Lesotho,LS,LSO,Thaba-Tseka,admin,5423.0,1426611266
+Qacha’s Nek,Qacha's Nek,-30.1167,28.6833,Lesotho,LS,LSO,Qacha’s Nek,admin,,1426361264

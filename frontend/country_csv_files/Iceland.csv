@@ -1,0 +1,25 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Reykjavík,Reykjavik,64.1467,-21.94,Iceland,IS,ISL,Reykjavík,primary,139875.0,1352327190
+Kópavogur,Kopavogur,64.1108,-21.9094,Iceland,IS,ISL,Kópavogur,,39810.0,1352411842
+Hafnarfjörður,Hafnarfjordhur,64.02,-21.97,Iceland,IS,ISL,Hafnarfjörður,,30568.0,1352845977
+Akureyri,Akureyri,65.6833,-18.1,Iceland,IS,ISL,Akureyri,,19893.0,1352098424
+Garðabær,Gardhabaer,64.0902,-21.9264,Iceland,IS,ISL,Garðabær,,18891.0,1352650773
+Selfoss,Selfoss,63.9333,-21.0,Iceland,IS,ISL,Sveitarfélagið Árborg,,9624.0,1352214400
+Ísafjörður,Isafjordhur,66.0758,-23.1267,Iceland,IS,ISL,Ísafjarðarbær,,2620.0,1352563432
+Sauðárkrókur,Saudharkrokur,65.7461,-19.6394,Iceland,IS,ISL,Skagafjörður,,2614.0,1352929836
+Höfn,Hofn,64.254,-15.212,Iceland,IS,ISL,Sveitarfélagið Hornafjörður,,2389.0,1352857630
+Egilsstaðir,Egilsstadhir,65.2833,-14.3833,Iceland,IS,ISL,Múlaþing,,2332.0,1352699507
+Borgarnes,Borgarnes,64.5333,-21.9167,Iceland,IS,ISL,Borgarbyggð,,1962.0,1352063842
+Keflavík,Keflavik,64.0167,-22.5667,Iceland,IS,ISL,Reykjanesbær,,314.0,1352901945
+Reykjavík,Reykjavik,64.1467,-21.94,Iceland,IS,ISL,Reykjavík,primary,139875.0,1352327190
+Kópavogur,Kopavogur,64.1108,-21.9094,Iceland,IS,ISL,Kópavogur,,39810.0,1352411842
+Hafnarfjörður,Hafnarfjordhur,64.02,-21.97,Iceland,IS,ISL,Hafnarfjörður,,30568.0,1352845977
+Akureyri,Akureyri,65.6833,-18.1,Iceland,IS,ISL,Akureyri,,19893.0,1352098424
+Garðabær,Gardhabaer,64.0902,-21.9264,Iceland,IS,ISL,Garðabær,,18891.0,1352650773
+Selfoss,Selfoss,63.9333,-21.0,Iceland,IS,ISL,Sveitarfélagið Árborg,,9624.0,1352214400
+Ísafjörður,Isafjordhur,66.0758,-23.1267,Iceland,IS,ISL,Ísafjarðarbær,,2620.0,1352563432
+Sauðárkrókur,Saudharkrokur,65.7461,-19.6394,Iceland,IS,ISL,Skagafjörður,,2614.0,1352929836
+Höfn,Hofn,64.254,-15.212,Iceland,IS,ISL,Sveitarfélagið Hornafjörður,,2389.0,1352857630
+Egilsstaðir,Egilsstadhir,65.2833,-14.3833,Iceland,IS,ISL,Múlaþing,,2332.0,1352699507
+Borgarnes,Borgarnes,64.5333,-21.9167,Iceland,IS,ISL,Borgarbyggð,,1962.0,1352063842
+Keflavík,Keflavik,64.0167,-22.5667,Iceland,IS,ISL,Reykjanesbær,,314.0,1352901945

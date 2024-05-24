@@ -1,0 +1,7 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Koror,Koror,7.3419,134.4792,Palau,PW,PLW,Koror,,8744.0,1585174728
+Melekeok,Melekeok,7.5006,134.6241,Palau,PW,PLW,Melekeok,,271.0,1585892017
+Ngerulmud,Ngerulmud,7.5006,134.6242,Palau,PW,PLW,Melekeok,primary,271.0,1585525081
+Koror,Koror,7.3419,134.4792,Palau,PW,PLW,Koror,,8744.0,1585174728
+Melekeok,Melekeok,7.5006,134.6241,Palau,PW,PLW,Melekeok,,271.0,1585892017
+Ngerulmud,Ngerulmud,7.5006,134.6242,Palau,PW,PLW,Melekeok,primary,271.0,1585525081

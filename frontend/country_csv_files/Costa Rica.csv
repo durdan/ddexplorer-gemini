@@ -1,0 +1,209 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+San José,San Jose,9.9325,-84.08,Costa Rica,CR,CRI,San José,primary,1543000.0,1188749877
+San Marcos,San Marcos,10.6204,-84.512,Costa Rica,CR,CRI,Alajuela,,163745.0,1188000770
+San Ramón,San Ramon,10.2182,-84.5992,Costa Rica,CR,CRI,Alajuela,,80566.0,1188012869
+Puerto Limón,Puerto Limon,10.0022,-83.084,Costa Rica,CR,CRI,Limón,admin,60710.0,1188214393
+Sarapiquí,Sarapiqui,10.4853,-83.9362,Costa Rica,CR,CRI,Heredia,,57147.0,1188413717
+Mora,Mora,10.0088,-84.0216,Costa Rica,CR,CRI,Heredia,,56919.0,1188001388
+Santa Cruz,Santa Cruz,10.2358,-85.6408,Costa Rica,CR,CRI,Guanacaste,,55104.0,1188628183
+Liberia,Liberia,10.6333,-85.4333,Costa Rica,CR,CRI,Guanacaste,admin,53382.0,1188743090
+Nicoya,Nicoya,10.1024,-85.4431,Costa Rica,CR,CRI,Guanacaste,,50825.0,1188473245
+Alajuela,Alajuela,10.164,-84.2645,Costa Rica,CR,CRI,Alajuela,admin,48326.0,1188394508
+San Rafael,San Rafael,10.0417,-84.075,Costa Rica,CR,CRI,Heredia,,45965.0,1188978329
+San Isidro,San Isidro,9.3403,-83.7338,Costa Rica,CR,CRI,San José,,45327.0,1188493240
+Naranjo,Naranjo,10.1053,-84.3885,Costa Rica,CR,CRI,Alajuela,,42713.0,1188055345
+Quesada,Quesada,10.3441,-84.4199,Costa Rica,CR,CRI,Alajuela,,42060.0,1188199888
+Palmares,Palmares,10.0466,-84.4373,Costa Rica,CR,CRI,Alajuela,,41805.0,1188588183
+Puntarenas,Puntarenas,9.9667,-84.8333,Costa Rica,CR,CRI,Puntarenas,admin,41528.0,1188639267
+Guácimo,Guacimo,10.2025,-83.6223,Costa Rica,CR,CRI,Limón,,41266.0,1188400409
+Santo Domingo,Santo Domingo,9.988,-84.0686,Costa Rica,CR,CRI,Heredia,,40072.0,1188708621
+Coto Brus,Coto Brus,8.889,-82.9092,Costa Rica,CR,CRI,Puntarenas,,38453.0,1188593631
+Matina,Matina,10.0099,-83.3096,Costa Rica,CR,CRI,Limón,,37721.0,1188640480
+Guápiles,Guapiles,10.207,-83.8581,Costa Rica,CR,CRI,Limón,,36469.0,1188786301
+Cariari,Cariari,10.4349,-83.6851,Costa Rica,CR,CRI,Limón,,34176.0,1188001355
+Desamparados,Desamparados,9.8967,-84.0706,Costa Rica,CR,CRI,San José,,33866.0,1188280055
+La Uruca,La Uruca,9.9575,-84.1327,Costa Rica,CR,CRI,San José,,31728.0,1188598269
+Siquirres,Siquirres,10.0901,-83.5016,Costa Rica,CR,CRI,Limón,,31637.0,1188355031
+San Vicente,San Vicente,9.9636,-84.0454,Costa Rica,CR,CRI,San José,,30998.0,1188615727
+Buenos Aires,Buenos Aires,9.1985,-83.2816,Costa Rica,CR,CRI,Puntarenas,,29454.0,1188382290
+Poás,Poas,10.106,-84.2475,Costa Rica,CR,CRI,Alajuela,,29199.0,1188859935
+Curridabat,Curridabat,9.916,-84.0348,Costa Rica,CR,CRI,San José,,28817.0,1188145799
+Esparza,Esparza,9.9959,-84.6467,Costa Rica,CR,CRI,Puntarenas,,28644.0,1188812694
+San Pablo,San Pablo,9.9918,-84.0937,Costa Rica,CR,CRI,Heredia,,27671.0,1188253448
+Purral,Purral,9.9594,-84.0165,Costa Rica,CR,CRI,San José,,27464.0,1188161276
+Turrialba,Turrialba,9.8897,-83.6807,Costa Rica,CR,CRI,Cartago,,26680.0,1188199997
+Cañas,Canas,10.4457,-85.0992,Costa Rica,CR,CRI,Guanacaste,,26201.0,1188753368
+Desamparados,Desamparados,10.0315,-84.1877,Costa Rica,CR,CRI,Alajuela,,26109.0,1188458855
+San Juan,San Juan,9.9609,-84.0731,Costa Rica,CR,CRI,San José,,25866.0,1188421709
+Horquetas,Horquetas,10.3195,-83.9647,Costa Rica,CR,CRI,Heredia,,24331.0,1188000133
+Rita,Rita,10.4337,-83.753,Costa Rica,CR,CRI,Limón,,24041.0,1188000230
+San Pedro,San Pedro,9.9332,-84.047,Costa Rica,CR,CRI,San José,,23977.0,1188342624
+San Rafael Abajo,San Rafael Abajo,9.8943,-84.0837,Costa Rica,CR,CRI,San José,,23283.0,1188603380
+Cartago,Cartago,9.8667,-83.9167,Costa Rica,CR,CRI,Cartago,admin,22775.0,1188911724
+Guadalupe,Guadalupe,9.9494,-84.0512,Costa Rica,CR,CRI,San José,,20663.0,1188603819
+San Isidro,San Isidro,10.0299,-84.0431,Costa Rica,CR,CRI,Heredia,,20633.0,1188832612
+Paraíso,Paraiso,9.8432,-83.8463,Costa Rica,CR,CRI,Cartago,,20601.0,1188699728
+Sartalillo,Sartalillo,9.9759,-84.0232,Costa Rica,CR,CRI,Cartago,,20349.0,1188001617
+Aguas Zarcas,Aguas Zarcas,10.4223,-84.3554,Costa Rica,CR,CRI,Alajuela,,20239.0,1188992281
+San Francisco,San Francisco,9.9083,-84.0582,Costa Rica,CR,CRI,San José,,20209.0,1188068837
+Puerto Viejo,Puerto Viejo,10.5737,-83.9548,Costa Rica,CR,CRI,Heredia,,20184.0,1188508084
+Guácima,Guacima,9.9613,-84.2588,Costa Rica,CR,CRI,Alajuela,,20183.0,1188224134
+Quepos,Quepos,9.4571,-84.1387,Costa Rica,CR,CRI,Puntarenas,,19858.0,1188443023
+Bagaces,Bagaces,10.5157,-85.2478,Costa Rica,CR,CRI,Guanacaste,,19536.0,1188033610
+San Juan de Dios,San Juan de Dios,9.88,-84.0914,Costa Rica,CR,CRI,San José,,19481.0,1188722628
+Heredia,Heredia,9.9985,-84.1169,Costa Rica,CR,CRI,Heredia,admin,18988.0,1188210837
+Zapote,Zapote,9.9203,-84.0592,Costa Rica,CR,CRI,San José,,18679.0,1188568386
+Abangaritos,Abangaritos,10.2492,-85.0268,Costa Rica,CR,CRI,Puntarenas,,18039.0,1188357414
+Colón,Colon,9.9096,-84.262,Costa Rica,CR,CRI,San José,,17411.0,1188235947
+Pital,Pital,10.6024,-84.2474,Costa Rica,CR,CRI,Alajuela,,17318.0,1188091027
+Roxana,Roxana,10.3586,-83.6738,Costa Rica,CR,CRI,Limón,,16790.0,1188274720
+San Isidro,San Isidro,9.9737,-83.9861,Costa Rica,CR,CRI,San José,,16625.0,1188070945
+Batán,Batan,10.1041,-83.3529,Costa Rica,CR,CRI,Limón,,16532.0,1188331157
+Upala,Upala,10.8645,-84.9942,Costa Rica,CR,CRI,Alajuela,,16139.0,1188635884
+Parrita,Parrita,9.5471,-84.3464,Costa Rica,CR,CRI,Puntarenas,,16115.0,1188507189
+Pozos,Pozos,9.9536,-84.1926,Costa Rica,CR,CRI,San José,,15585.0,1188000058
+Fortuna,Fortuna,10.4483,-84.6421,Costa Rica,CR,CRI,Alajuela,,15383.0,1188145328
+San Rafael Arriba,San Rafael Arriba,9.8778,-84.0708,Costa Rica,CR,CRI,San José,,15262.0,1188271296
+Florencia,Florencia,10.3665,-84.4814,Costa Rica,CR,CRI,Alajuela,,15149.0,1188578028
+Sardinal,Sardinal,10.5343,-85.6955,Costa Rica,CR,CRI,Guanacaste,,14912.0,1188475127
+Grecia,Grecia,10.0693,-84.3136,Costa Rica,CR,CRI,Alajuela,,14859.0,1188985866
+San Vito,San Vito,8.84,-82.9784,Costa Rica,CR,CRI,Puntarenas,,14834.0,1188392681
+Copalchí,Copalchi,9.8473,-84.0834,Costa Rica,CR,CRI,Cartago,,13676.0,1188649164
+Los Chiles,Los Chiles,10.9639,-84.599,Costa Rica,CR,CRI,Alajuela,,13262.0,1188974834
+Santa Ana,Santa Ana,9.932,-84.176,Costa Rica,CR,CRI,San José,,12956.0,1188252548
+Matinilla,Matinilla,9.9246,-84.0713,Costa Rica,CR,CRI,San José,,12936.0,1188724391
+Puerto Jiménez,Puerto Jimenez,8.5338,-83.461,Costa Rica,CR,CRI,Puntarenas,,12836.0,1188020392
+Santiago,Santiago,9.8291,-84.3044,Costa Rica,CR,CRI,San José,,12600.0,1188768291
+Alajuelita,Alajuelita,9.9035,-84.0996,Costa Rica,CR,CRI,San José,,11988.0,1188793732
+Escazú,Escazu,9.916,-84.1459,Costa Rica,CR,CRI,San José,,11984.0,1188889337
+Patarrá,Patarra,9.8637,-84.0248,Costa Rica,CR,CRI,San José,,11921.0,1188875771
+Sixaola,Sixaola,9.5579,-82.6698,Costa Rica,CR,CRI,Limón,,11847.0,1188537249
+Jacó,Jaco,9.62,-84.6044,Costa Rica,CR,CRI,Puntarenas,,11685.0,1188795142
+San Josecito,San Josecito,10.0126,-84.1119,Costa Rica,CR,CRI,Heredia,,11579.0,1188695402
+Golfito,Golfito,8.6526,-83.1733,Costa Rica,CR,CRI,Puntarenas,,11284.0,1188695145
+Nandayure,Nandayure,9.9014,-85.3036,Costa Rica,CR,CRI,Guanacaste,,11121.0,1188253070
+Río Cuarto,Rio Cuarto,10.4076,-84.2135,Costa Rica,CR,CRI,Alajuela,,11074.0,1188906648
+Sabalito,Sabalito,8.8828,-82.8314,Costa Rica,CR,CRI,Puntarenas,,10984.0,1188952077
+Río Segundo,Rio Segundo,10.0013,-84.1937,Costa Rica,CR,CRI,Alajuela,,10794.0,1188990744
+Puente de Piedra,Puente de Piedra,10.0298,-84.3332,Costa Rica,CR,CRI,Alajuela,,10556.0,1188813185
+La Virgen,La Virgen,10.4312,-84.0772,Costa Rica,CR,CRI,Heredia,,10521.0,1188953313
+San Josecito,San Josecito,9.8885,-84.1055,Costa Rica,CR,CRI,San José,,10506.0,1188452639
+Jiménez,Jimenez,10.1797,-83.7382,Costa Rica,CR,CRI,Limón,,10501.0,1188944993
+San Marcos,San Marcos,9.6703,-84.0092,Costa Rica,CR,CRI,San José,,9993.0,1188432245
+San Antonio,San Antonio,9.9781,-84.1879,Costa Rica,CR,CRI,Alajuela,,9942.0,1188109339
+Dulce Nombre de Jesús,Dulce Nombre de Jesus,10.0838,-83.981,Costa Rica,CR,CRI,San José,,9744.0,1188000426
+Orotina,Orotina,9.9024,-84.525,Costa Rica,CR,CRI,Alajuela,,9664.0,1188644309
+Venecia,Venecia,10.3357,-84.2859,Costa Rica,CR,CRI,Alajuela,,9638.0,1188167757
+Canoas,Canoas,8.5333,-82.8333,Costa Rica,CR,CRI,Puntarenas,,9543.0,1188828441
+Tres Ríos,Tres Rios,9.9072,-83.9865,Costa Rica,CR,CRI,Cartago,,9331.0,1188655041
+Carrillos,Carrillos,10.0369,-84.274,Costa Rica,CR,CRI,Alajuela,,9228.0,1188308366
+La Cruz,La Cruz,11.0845,-85.6436,Costa Rica,CR,CRI,Guanacaste,,9195.0,1188840021
+San Ignacio,San Ignacio,9.7997,-84.163,Costa Rica,CR,CRI,San José,,9016.0,1188539770
+Pacuarito,Pacuarito,10.1093,-83.4091,Costa Rica,CR,CRI,Limón,,8756.0,1188497482
+Río Jiménez,Rio Jimenez,10.2556,-83.5629,Costa Rica,CR,CRI,Limón,,8742.0,1188994272
+Tilarán,Tilaran,10.4709,-84.9674,Costa Rica,CR,CRI,Guanacaste,,8677.0,1188878981
+Ciudad Cortés,Ciudad Cortes,9.0221,-83.5751,Costa Rica,CR,CRI,Puntarenas,,7969.0,1188296792
+San José,San Jose,9.9325,-84.08,Costa Rica,CR,CRI,San José,primary,1543000.0,1188749877
+San Marcos,San Marcos,10.6204,-84.512,Costa Rica,CR,CRI,Alajuela,,163745.0,1188000770
+San Ramón,San Ramon,10.2182,-84.5992,Costa Rica,CR,CRI,Alajuela,,80566.0,1188012869
+Puerto Limón,Puerto Limon,10.0022,-83.084,Costa Rica,CR,CRI,Limón,admin,60710.0,1188214393
+Sarapiquí,Sarapiqui,10.4853,-83.9362,Costa Rica,CR,CRI,Heredia,,57147.0,1188413717
+Mora,Mora,10.0088,-84.0216,Costa Rica,CR,CRI,Heredia,,56919.0,1188001388
+Santa Cruz,Santa Cruz,10.2358,-85.6408,Costa Rica,CR,CRI,Guanacaste,,55104.0,1188628183
+Liberia,Liberia,10.6333,-85.4333,Costa Rica,CR,CRI,Guanacaste,admin,53382.0,1188743090
+Nicoya,Nicoya,10.1024,-85.4431,Costa Rica,CR,CRI,Guanacaste,,50825.0,1188473245
+Alajuela,Alajuela,10.164,-84.2645,Costa Rica,CR,CRI,Alajuela,admin,48326.0,1188394508
+San Rafael,San Rafael,10.0417,-84.075,Costa Rica,CR,CRI,Heredia,,45965.0,1188978329
+San Isidro,San Isidro,9.3403,-83.7338,Costa Rica,CR,CRI,San José,,45327.0,1188493240
+Naranjo,Naranjo,10.1053,-84.3885,Costa Rica,CR,CRI,Alajuela,,42713.0,1188055345
+Quesada,Quesada,10.3441,-84.4199,Costa Rica,CR,CRI,Alajuela,,42060.0,1188199888
+Palmares,Palmares,10.0466,-84.4373,Costa Rica,CR,CRI,Alajuela,,41805.0,1188588183
+Puntarenas,Puntarenas,9.9667,-84.8333,Costa Rica,CR,CRI,Puntarenas,admin,41528.0,1188639267
+Guácimo,Guacimo,10.2025,-83.6223,Costa Rica,CR,CRI,Limón,,41266.0,1188400409
+Santo Domingo,Santo Domingo,9.988,-84.0686,Costa Rica,CR,CRI,Heredia,,40072.0,1188708621
+Coto Brus,Coto Brus,8.889,-82.9092,Costa Rica,CR,CRI,Puntarenas,,38453.0,1188593631
+Matina,Matina,10.0099,-83.3096,Costa Rica,CR,CRI,Limón,,37721.0,1188640480
+Guápiles,Guapiles,10.207,-83.8581,Costa Rica,CR,CRI,Limón,,36469.0,1188786301
+Cariari,Cariari,10.4349,-83.6851,Costa Rica,CR,CRI,Limón,,34176.0,1188001355
+Desamparados,Desamparados,9.8967,-84.0706,Costa Rica,CR,CRI,San José,,33866.0,1188280055
+La Uruca,La Uruca,9.9575,-84.1327,Costa Rica,CR,CRI,San José,,31728.0,1188598269
+Siquirres,Siquirres,10.0901,-83.5016,Costa Rica,CR,CRI,Limón,,31637.0,1188355031
+San Vicente,San Vicente,9.9636,-84.0454,Costa Rica,CR,CRI,San José,,30998.0,1188615727
+Buenos Aires,Buenos Aires,9.1985,-83.2816,Costa Rica,CR,CRI,Puntarenas,,29454.0,1188382290
+Poás,Poas,10.106,-84.2475,Costa Rica,CR,CRI,Alajuela,,29199.0,1188859935
+Curridabat,Curridabat,9.916,-84.0348,Costa Rica,CR,CRI,San José,,28817.0,1188145799
+Esparza,Esparza,9.9959,-84.6467,Costa Rica,CR,CRI,Puntarenas,,28644.0,1188812694
+San Pablo,San Pablo,9.9918,-84.0937,Costa Rica,CR,CRI,Heredia,,27671.0,1188253448
+Purral,Purral,9.9594,-84.0165,Costa Rica,CR,CRI,San José,,27464.0,1188161276
+Turrialba,Turrialba,9.8897,-83.6807,Costa Rica,CR,CRI,Cartago,,26680.0,1188199997
+Cañas,Canas,10.4457,-85.0992,Costa Rica,CR,CRI,Guanacaste,,26201.0,1188753368
+Desamparados,Desamparados,10.0315,-84.1877,Costa Rica,CR,CRI,Alajuela,,26109.0,1188458855
+San Juan,San Juan,9.9609,-84.0731,Costa Rica,CR,CRI,San José,,25866.0,1188421709
+Horquetas,Horquetas,10.3195,-83.9647,Costa Rica,CR,CRI,Heredia,,24331.0,1188000133
+Rita,Rita,10.4337,-83.753,Costa Rica,CR,CRI,Limón,,24041.0,1188000230
+San Pedro,San Pedro,9.9332,-84.047,Costa Rica,CR,CRI,San José,,23977.0,1188342624
+San Rafael Abajo,San Rafael Abajo,9.8943,-84.0837,Costa Rica,CR,CRI,San José,,23283.0,1188603380
+Cartago,Cartago,9.8667,-83.9167,Costa Rica,CR,CRI,Cartago,admin,22775.0,1188911724
+Guadalupe,Guadalupe,9.9494,-84.0512,Costa Rica,CR,CRI,San José,,20663.0,1188603819
+San Isidro,San Isidro,10.0299,-84.0431,Costa Rica,CR,CRI,Heredia,,20633.0,1188832612
+Paraíso,Paraiso,9.8432,-83.8463,Costa Rica,CR,CRI,Cartago,,20601.0,1188699728
+Sartalillo,Sartalillo,9.9759,-84.0232,Costa Rica,CR,CRI,Cartago,,20349.0,1188001617
+Aguas Zarcas,Aguas Zarcas,10.4223,-84.3554,Costa Rica,CR,CRI,Alajuela,,20239.0,1188992281
+San Francisco,San Francisco,9.9083,-84.0582,Costa Rica,CR,CRI,San José,,20209.0,1188068837
+Puerto Viejo,Puerto Viejo,10.5737,-83.9548,Costa Rica,CR,CRI,Heredia,,20184.0,1188508084
+Guácima,Guacima,9.9613,-84.2588,Costa Rica,CR,CRI,Alajuela,,20183.0,1188224134
+Quepos,Quepos,9.4571,-84.1387,Costa Rica,CR,CRI,Puntarenas,,19858.0,1188443023
+Bagaces,Bagaces,10.5157,-85.2478,Costa Rica,CR,CRI,Guanacaste,,19536.0,1188033610
+San Juan de Dios,San Juan de Dios,9.88,-84.0914,Costa Rica,CR,CRI,San José,,19481.0,1188722628
+Heredia,Heredia,9.9985,-84.1169,Costa Rica,CR,CRI,Heredia,admin,18988.0,1188210837
+Zapote,Zapote,9.9203,-84.0592,Costa Rica,CR,CRI,San José,,18679.0,1188568386
+Abangaritos,Abangaritos,10.2492,-85.0268,Costa Rica,CR,CRI,Puntarenas,,18039.0,1188357414
+Colón,Colon,9.9096,-84.262,Costa Rica,CR,CRI,San José,,17411.0,1188235947
+Pital,Pital,10.6024,-84.2474,Costa Rica,CR,CRI,Alajuela,,17318.0,1188091027
+Roxana,Roxana,10.3586,-83.6738,Costa Rica,CR,CRI,Limón,,16790.0,1188274720
+San Isidro,San Isidro,9.9737,-83.9861,Costa Rica,CR,CRI,San José,,16625.0,1188070945
+Batán,Batan,10.1041,-83.3529,Costa Rica,CR,CRI,Limón,,16532.0,1188331157
+Upala,Upala,10.8645,-84.9942,Costa Rica,CR,CRI,Alajuela,,16139.0,1188635884
+Parrita,Parrita,9.5471,-84.3464,Costa Rica,CR,CRI,Puntarenas,,16115.0,1188507189
+Pozos,Pozos,9.9536,-84.1926,Costa Rica,CR,CRI,San José,,15585.0,1188000058
+Fortuna,Fortuna,10.4483,-84.6421,Costa Rica,CR,CRI,Alajuela,,15383.0,1188145328
+San Rafael Arriba,San Rafael Arriba,9.8778,-84.0708,Costa Rica,CR,CRI,San José,,15262.0,1188271296
+Florencia,Florencia,10.3665,-84.4814,Costa Rica,CR,CRI,Alajuela,,15149.0,1188578028
+Sardinal,Sardinal,10.5343,-85.6955,Costa Rica,CR,CRI,Guanacaste,,14912.0,1188475127
+Grecia,Grecia,10.0693,-84.3136,Costa Rica,CR,CRI,Alajuela,,14859.0,1188985866
+San Vito,San Vito,8.84,-82.9784,Costa Rica,CR,CRI,Puntarenas,,14834.0,1188392681
+Copalchí,Copalchi,9.8473,-84.0834,Costa Rica,CR,CRI,Cartago,,13676.0,1188649164
+Los Chiles,Los Chiles,10.9639,-84.599,Costa Rica,CR,CRI,Alajuela,,13262.0,1188974834
+Santa Ana,Santa Ana,9.932,-84.176,Costa Rica,CR,CRI,San José,,12956.0,1188252548
+Matinilla,Matinilla,9.9246,-84.0713,Costa Rica,CR,CRI,San José,,12936.0,1188724391
+Puerto Jiménez,Puerto Jimenez,8.5338,-83.461,Costa Rica,CR,CRI,Puntarenas,,12836.0,1188020392
+Santiago,Santiago,9.8291,-84.3044,Costa Rica,CR,CRI,San José,,12600.0,1188768291
+Alajuelita,Alajuelita,9.9035,-84.0996,Costa Rica,CR,CRI,San José,,11988.0,1188793732
+Escazú,Escazu,9.916,-84.1459,Costa Rica,CR,CRI,San José,,11984.0,1188889337
+Patarrá,Patarra,9.8637,-84.0248,Costa Rica,CR,CRI,San José,,11921.0,1188875771
+Sixaola,Sixaola,9.5579,-82.6698,Costa Rica,CR,CRI,Limón,,11847.0,1188537249
+Jacó,Jaco,9.62,-84.6044,Costa Rica,CR,CRI,Puntarenas,,11685.0,1188795142
+San Josecito,San Josecito,10.0126,-84.1119,Costa Rica,CR,CRI,Heredia,,11579.0,1188695402
+Golfito,Golfito,8.6526,-83.1733,Costa Rica,CR,CRI,Puntarenas,,11284.0,1188695145
+Nandayure,Nandayure,9.9014,-85.3036,Costa Rica,CR,CRI,Guanacaste,,11121.0,1188253070
+Río Cuarto,Rio Cuarto,10.4076,-84.2135,Costa Rica,CR,CRI,Alajuela,,11074.0,1188906648
+Sabalito,Sabalito,8.8828,-82.8314,Costa Rica,CR,CRI,Puntarenas,,10984.0,1188952077
+Río Segundo,Rio Segundo,10.0013,-84.1937,Costa Rica,CR,CRI,Alajuela,,10794.0,1188990744
+Puente de Piedra,Puente de Piedra,10.0298,-84.3332,Costa Rica,CR,CRI,Alajuela,,10556.0,1188813185
+La Virgen,La Virgen,10.4312,-84.0772,Costa Rica,CR,CRI,Heredia,,10521.0,1188953313
+San Josecito,San Josecito,9.8885,-84.1055,Costa Rica,CR,CRI,San José,,10506.0,1188452639
+Jiménez,Jimenez,10.1797,-83.7382,Costa Rica,CR,CRI,Limón,,10501.0,1188944993
+San Marcos,San Marcos,9.6703,-84.0092,Costa Rica,CR,CRI,San José,,9993.0,1188432245
+San Antonio,San Antonio,9.9781,-84.1879,Costa Rica,CR,CRI,Alajuela,,9942.0,1188109339
+Dulce Nombre de Jesús,Dulce Nombre de Jesus,10.0838,-83.981,Costa Rica,CR,CRI,San José,,9744.0,1188000426
+Orotina,Orotina,9.9024,-84.525,Costa Rica,CR,CRI,Alajuela,,9664.0,1188644309
+Venecia,Venecia,10.3357,-84.2859,Costa Rica,CR,CRI,Alajuela,,9638.0,1188167757
+Canoas,Canoas,8.5333,-82.8333,Costa Rica,CR,CRI,Puntarenas,,9543.0,1188828441
+Tres Ríos,Tres Rios,9.9072,-83.9865,Costa Rica,CR,CRI,Cartago,,9331.0,1188655041
+Carrillos,Carrillos,10.0369,-84.274,Costa Rica,CR,CRI,Alajuela,,9228.0,1188308366
+La Cruz,La Cruz,11.0845,-85.6436,Costa Rica,CR,CRI,Guanacaste,,9195.0,1188840021
+San Ignacio,San Ignacio,9.7997,-84.163,Costa Rica,CR,CRI,San José,,9016.0,1188539770
+Pacuarito,Pacuarito,10.1093,-83.4091,Costa Rica,CR,CRI,Limón,,8756.0,1188497482
+Río Jiménez,Rio Jimenez,10.2556,-83.5629,Costa Rica,CR,CRI,Limón,,8742.0,1188994272
+Tilarán,Tilaran,10.4709,-84.9674,Costa Rica,CR,CRI,Guanacaste,,8677.0,1188878981
+Ciudad Cortés,Ciudad Cortes,9.0221,-83.5751,Costa Rica,CR,CRI,Puntarenas,,7969.0,1188296792

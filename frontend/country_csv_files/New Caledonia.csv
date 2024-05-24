@@ -1,0 +1,13 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Nouméa,Noumea,-22.2758,166.458,New Caledonia,NC,NCL,Province Sud,primary,182341.0,1540958092
+Dumbéa,Dumbea,-22.15,166.45,New Caledonia,NC,NCL,Province Sud,,35873.0,1540079351
+Mont-Dore,Mont-Dore,-22.2157,166.4665,New Caledonia,NC,NCL,Province Sud,,27620.0,1540939524
+Païta,Paita,-22.1337,166.3505,New Caledonia,NC,NCL,Province Sud,,24563.0,1540983323
+Koné,Kone,-21.059,164.8518,New Caledonia,NC,NCL,Province Nord,admin,8144.0,1540397627
+Wé,We,-20.9167,167.2653,New Caledonia,NC,NCL,Province Îles,admin,,1540672599
+Nouméa,Noumea,-22.2758,166.458,New Caledonia,NC,NCL,Province Sud,primary,182341.0,1540958092
+Dumbéa,Dumbea,-22.15,166.45,New Caledonia,NC,NCL,Province Sud,,35873.0,1540079351
+Mont-Dore,Mont-Dore,-22.2157,166.4665,New Caledonia,NC,NCL,Province Sud,,27620.0,1540939524
+Païta,Paita,-22.1337,166.3505,New Caledonia,NC,NCL,Province Sud,,24563.0,1540983323
+Koné,Kone,-21.059,164.8518,New Caledonia,NC,NCL,Province Nord,admin,8144.0,1540397627
+Wé,We,-20.9167,167.2653,New Caledonia,NC,NCL,Province Îles,admin,,1540672599

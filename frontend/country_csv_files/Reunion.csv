@@ -1,0 +1,5 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Saint-Denis,Saint-Denis,-20.8789,55.4481,Reunion,RE,REU,,primary,315080.0,1638024662
+Saint-Benoît,Saint-Benoit,-21.0339,55.7128,Reunion,RE,REU,,,35310.0,1638823449
+Saint-Denis,Saint-Denis,-20.8789,55.4481,Reunion,RE,REU,,primary,315080.0,1638024662
+Saint-Benoît,Saint-Benoit,-21.0339,55.7128,Reunion,RE,REU,,,35310.0,1638823449

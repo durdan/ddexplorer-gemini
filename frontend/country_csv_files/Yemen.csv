@@ -1,0 +1,95 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Sanaa,Sanaa,15.3483,44.2064,Yemen,YE,YEM,Amānat al ‘Āşimah,primary,2957000.0,1887750814
+Ta‘izz,Ta`izz,13.5789,44.0219,Yemen,YE,YEM,Ta‘izz,admin,615467.0,1887324526
+Al Ḩudaydah,Al Hudaydah,14.8022,42.9511,Yemen,YE,YEM,Al Ḩudaydah,admin,548433.0,1887984890
+Aden,Aden,12.8,45.0333,Yemen,YE,YEM,‘Adan,admin,507355.0,1887867886
+Ibb,Ibb,13.9667,44.1667,Yemen,YE,YEM,Ibb,admin,350864.0,1887321491
+Ibb,Ibb,13.9759,44.1709,Yemen,YE,YEM,Ibb,,234837.0,1887036494
+Dhamār,Dhamar,14.55,44.4017,Yemen,YE,YEM,Dhamār,admin,160114.0,1887135215
+Al Mukallā,Al Mukalla,14.5333,49.1333,Yemen,YE,YEM,Ḩaḑramawt,admin,144137.0,1887202594
+Al Manşūrah,Al Mansurah,12.8531,44.9722,Yemen,YE,YEM,‘Adan,minor,114931.0,1887579179
+Tarīm,Tarim,16.05,49.0,Yemen,YE,YEM,Ḩaḑramawt,minor,105552.0,1887801013
+Ash Shaykh ‘Uthmān,Ash Shaykh `Uthman,12.8864,45.0156,Yemen,YE,YEM,‘Adan,minor,105248.0,1887195126
+Zinjibār,Zinjibar,13.1283,45.3803,Yemen,YE,YEM,Abyan,admin,70801.0,1887645956
+Şa‘dah,Sa`dah,16.94,43.7592,Yemen,YE,YEM,Şa‘dah,admin,70203.0,1887513055
+Say’ūn,Say'un,15.943,48.7873,Yemen,YE,YEM,Ḩaḑramawt,minor,68747.0,1887142998
+Ash Shiḩr,Ash Shihr,14.7608,49.6069,Yemen,YE,YEM,Ḩaḑramawt,minor,68313.0,1887657562
+At Tawāhī,At Tawahi,12.7833,44.9833,Yemen,YE,YEM,‘Adan,minor,52984.0,1887058366
+Zabīd,Zabid,14.2,43.3167,Yemen,YE,YEM,Al Ḩudaydah,minor,50781.0,1887877995
+Al Ma‘allā’,Al Ma`alla',12.7897,45.0064,Yemen,YE,YEM,‘Adan,minor,49891.0,1887620650
+Ḩajjah,Hajjah,15.695,43.5975,Yemen,YE,YEM,Ḩajjah,admin,46568.0,1887522445
+Bājil,Bajil,15.0583,43.285,Yemen,YE,YEM,Al Ḩudaydah,minor,46005.0,1887795650
+Radā‘,Rada`,14.4151,44.8371,Yemen,YE,YEM,Al Bayḑā’,minor,45233.0,1887090855
+Bayt al Faqīh,Bayt al Faqih,14.5161,43.3244,Yemen,YE,YEM,Al Ḩudaydah,minor,41652.0,1887465006
+Al Qā‘idah,Al Qa`idah,13.7569,44.1392,Yemen,YE,YEM,Ibb,,39254.0,1887959673
+Al Bayḑā’,Al Bayda',13.979,45.574,Yemen,YE,YEM,Al Bayḑā’,admin,37821.0,1887788283
+Ataq,Ataq,14.5364,46.8331,Yemen,YE,YEM,Shabwah,admin,37315.0,1887172893
+Yarīm,Yarim,14.2972,44.3803,Yemen,YE,YEM,Ibb,minor,34805.0,1887851991
+Laḩij,Lahij,13.05,44.8833,Yemen,YE,YEM,Laḩij,admin,30661.0,1887871834
+Al Madad,Al Madad,13.7167,44.7333,Yemen,YE,YEM,Aḑ Ḑāli‘,,29853.0,1887543762
+Ja‘ār,Ja`ar,13.2231,45.3056,Yemen,YE,YEM,Abyan,minor,29495.0,1887726452
+Ma‘bar,Ma`bar,14.794,44.2935,Yemen,YE,YEM,Dhamār,minor,24707.0,1887814519
+Aḑ Ḑabyah,Ad Dabyah,13.6967,44.7308,Yemen,YE,YEM,Aḑ Ḑāli‘,,21783.0,1887145945
+Aḑ Ḑāli‘,Ad Dali`,13.6957,44.7314,Yemen,YE,YEM,Aḑ Ḑāli‘,admin,21783.0,1887607369
+Marib,Marib,15.4606,45.3261,Yemen,YE,YEM,Ma’rib,admin,16794.0,1887153216
+Ad Dīs,Ad Dis,14.8833,49.8667,Yemen,YE,YEM,Ḩaḑramawt,,16614.0,1887279052
+Az Zaydīyah,Az Zaydiyah,15.3292,43.0094,Yemen,YE,YEM,Al Ḩudaydah,minor,16246.0,1887436812
+Al Ḩazm,Al Hazm,16.1642,44.7767,Yemen,YE,YEM,Al Jawf,admin,16044.0,1887549671
+Dammāj,Dammaj,16.8939,43.8022,Yemen,YE,YEM,Şa‘dah,,15626.0,1887597627
+Jiblah,Jiblah,13.9167,44.15,Yemen,YE,YEM,Ibb,minor,15431.0,1887050093
+Khamir,Khamir,15.9889,43.9589,Yemen,YE,YEM,‘Amrān,minor,15333.0,1887000562
+Mocha,Mocha,13.3203,43.25,Yemen,YE,YEM,Ta‘izz,minor,14562.0,1887487308
+Raydah,Raydah,15.8233,44.0386,Yemen,YE,YEM,‘Amrān,minor,13971.0,1887086285
+Shibām,Shibam,15.9269,48.6267,Yemen,YE,YEM,Ḩaḑramawt,,13316.0,1887765734
+Al Ghayz̧ah,Al Ghayzah,16.2106,52.1711,Yemen,YE,YEM,Al Mahrah,admin,10948.0,1887000479
+Al Maḩwīt,Al Mahwit,15.4694,43.5453,Yemen,YE,YEM,Al Maḩwīt,admin,10593.0,1887764813
+Ḩadībū,Hadibu,12.65,54.0167,Yemen,YE,YEM,Arkhabīl Suquţrá,admin,8545.0,1887452377
+‘Amrān,`Amran,15.6594,43.9439,Yemen,YE,YEM,‘Amrān,admin,,1887433410
+Al Jabīn,Al Jabin,14.704,43.599,Yemen,YE,YEM,Raymah,admin,,1887910100
+Sanaa,Sanaa,15.3483,44.2064,Yemen,YE,YEM,Amānat al ‘Āşimah,primary,2957000.0,1887750814
+Ta‘izz,Ta`izz,13.5789,44.0219,Yemen,YE,YEM,Ta‘izz,admin,615467.0,1887324526
+Al Ḩudaydah,Al Hudaydah,14.8022,42.9511,Yemen,YE,YEM,Al Ḩudaydah,admin,548433.0,1887984890
+Aden,Aden,12.8,45.0333,Yemen,YE,YEM,‘Adan,admin,507355.0,1887867886
+Ibb,Ibb,13.9667,44.1667,Yemen,YE,YEM,Ibb,admin,350864.0,1887321491
+Ibb,Ibb,13.9759,44.1709,Yemen,YE,YEM,Ibb,,234837.0,1887036494
+Dhamār,Dhamar,14.55,44.4017,Yemen,YE,YEM,Dhamār,admin,160114.0,1887135215
+Al Mukallā,Al Mukalla,14.5333,49.1333,Yemen,YE,YEM,Ḩaḑramawt,admin,144137.0,1887202594
+Al Manşūrah,Al Mansurah,12.8531,44.9722,Yemen,YE,YEM,‘Adan,minor,114931.0,1887579179
+Tarīm,Tarim,16.05,49.0,Yemen,YE,YEM,Ḩaḑramawt,minor,105552.0,1887801013
+Ash Shaykh ‘Uthmān,Ash Shaykh `Uthman,12.8864,45.0156,Yemen,YE,YEM,‘Adan,minor,105248.0,1887195126
+Zinjibār,Zinjibar,13.1283,45.3803,Yemen,YE,YEM,Abyan,admin,70801.0,1887645956
+Şa‘dah,Sa`dah,16.94,43.7592,Yemen,YE,YEM,Şa‘dah,admin,70203.0,1887513055
+Say’ūn,Say'un,15.943,48.7873,Yemen,YE,YEM,Ḩaḑramawt,minor,68747.0,1887142998
+Ash Shiḩr,Ash Shihr,14.7608,49.6069,Yemen,YE,YEM,Ḩaḑramawt,minor,68313.0,1887657562
+At Tawāhī,At Tawahi,12.7833,44.9833,Yemen,YE,YEM,‘Adan,minor,52984.0,1887058366
+Zabīd,Zabid,14.2,43.3167,Yemen,YE,YEM,Al Ḩudaydah,minor,50781.0,1887877995
+Al Ma‘allā’,Al Ma`alla',12.7897,45.0064,Yemen,YE,YEM,‘Adan,minor,49891.0,1887620650
+Ḩajjah,Hajjah,15.695,43.5975,Yemen,YE,YEM,Ḩajjah,admin,46568.0,1887522445
+Bājil,Bajil,15.0583,43.285,Yemen,YE,YEM,Al Ḩudaydah,minor,46005.0,1887795650
+Radā‘,Rada`,14.4151,44.8371,Yemen,YE,YEM,Al Bayḑā’,minor,45233.0,1887090855
+Bayt al Faqīh,Bayt al Faqih,14.5161,43.3244,Yemen,YE,YEM,Al Ḩudaydah,minor,41652.0,1887465006
+Al Qā‘idah,Al Qa`idah,13.7569,44.1392,Yemen,YE,YEM,Ibb,,39254.0,1887959673
+Al Bayḑā’,Al Bayda',13.979,45.574,Yemen,YE,YEM,Al Bayḑā’,admin,37821.0,1887788283
+Ataq,Ataq,14.5364,46.8331,Yemen,YE,YEM,Shabwah,admin,37315.0,1887172893
+Yarīm,Yarim,14.2972,44.3803,Yemen,YE,YEM,Ibb,minor,34805.0,1887851991
+Laḩij,Lahij,13.05,44.8833,Yemen,YE,YEM,Laḩij,admin,30661.0,1887871834
+Al Madad,Al Madad,13.7167,44.7333,Yemen,YE,YEM,Aḑ Ḑāli‘,,29853.0,1887543762
+Ja‘ār,Ja`ar,13.2231,45.3056,Yemen,YE,YEM,Abyan,minor,29495.0,1887726452
+Ma‘bar,Ma`bar,14.794,44.2935,Yemen,YE,YEM,Dhamār,minor,24707.0,1887814519
+Aḑ Ḑabyah,Ad Dabyah,13.6967,44.7308,Yemen,YE,YEM,Aḑ Ḑāli‘,,21783.0,1887145945
+Aḑ Ḑāli‘,Ad Dali`,13.6957,44.7314,Yemen,YE,YEM,Aḑ Ḑāli‘,admin,21783.0,1887607369
+Marib,Marib,15.4606,45.3261,Yemen,YE,YEM,Ma’rib,admin,16794.0,1887153216
+Ad Dīs,Ad Dis,14.8833,49.8667,Yemen,YE,YEM,Ḩaḑramawt,,16614.0,1887279052
+Az Zaydīyah,Az Zaydiyah,15.3292,43.0094,Yemen,YE,YEM,Al Ḩudaydah,minor,16246.0,1887436812
+Al Ḩazm,Al Hazm,16.1642,44.7767,Yemen,YE,YEM,Al Jawf,admin,16044.0,1887549671
+Dammāj,Dammaj,16.8939,43.8022,Yemen,YE,YEM,Şa‘dah,,15626.0,1887597627
+Jiblah,Jiblah,13.9167,44.15,Yemen,YE,YEM,Ibb,minor,15431.0,1887050093
+Khamir,Khamir,15.9889,43.9589,Yemen,YE,YEM,‘Amrān,minor,15333.0,1887000562
+Mocha,Mocha,13.3203,43.25,Yemen,YE,YEM,Ta‘izz,minor,14562.0,1887487308
+Raydah,Raydah,15.8233,44.0386,Yemen,YE,YEM,‘Amrān,minor,13971.0,1887086285
+Shibām,Shibam,15.9269,48.6267,Yemen,YE,YEM,Ḩaḑramawt,,13316.0,1887765734
+Al Ghayz̧ah,Al Ghayzah,16.2106,52.1711,Yemen,YE,YEM,Al Mahrah,admin,10948.0,1887000479
+Al Maḩwīt,Al Mahwit,15.4694,43.5453,Yemen,YE,YEM,Al Maḩwīt,admin,10593.0,1887764813
+Ḩadībū,Hadibu,12.65,54.0167,Yemen,YE,YEM,Arkhabīl Suquţrá,admin,8545.0,1887452377
+‘Amrān,`Amran,15.6594,43.9439,Yemen,YE,YEM,‘Amrān,admin,,1887433410
+Al Jabīn,Al Jabin,14.704,43.599,Yemen,YE,YEM,Raymah,admin,,1887910100

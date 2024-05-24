@@ -1,0 +1,7 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Kralendijk,Kralendijk,12.1444,-68.2656,"Bonaire, Sint Eustatius, and Saba",BQ,BES,Bonaire,admin,10620.0,1528693863
+Oranjestad,Oranjestad,17.4833,-62.9833,"Bonaire, Sint Eustatius, and Saba",BQ,BES,Sint Eustatius,admin,1038.0,1528346417
+The Bottom,The Bottom,17.6261,-63.2492,"Bonaire, Sint Eustatius, and Saba",BQ,BES,Saba,admin,462.0,1528203421
+Kralendijk,Kralendijk,12.1444,-68.2656,"Bonaire, Sint Eustatius, and Saba",BQ,BES,Bonaire,admin,10620.0,1528693863
+Oranjestad,Oranjestad,17.4833,-62.9833,"Bonaire, Sint Eustatius, and Saba",BQ,BES,Sint Eustatius,admin,1038.0,1528346417
+The Bottom,The Bottom,17.6261,-63.2492,"Bonaire, Sint Eustatius, and Saba",BQ,BES,Saba,admin,462.0,1528203421

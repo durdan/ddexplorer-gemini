@@ -1,0 +1,11 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Weno,Weno,7.4417,151.8583,"Micronesia, Federated States of",FM,FSM,Chuuk,admin,13856.0,1583964118
+Palikir,Palikir,6.9172,158.1589,"Micronesia, Federated States of",FM,FSM,Pohnpei,primary,6227.0,1583008885
+Kolonia,Kolonia,6.9639,158.2081,"Micronesia, Federated States of",FM,FSM,Pohnpei,admin,6074.0,1583881416
+Colonia,Colonia,9.5167,138.1333,"Micronesia, Federated States of",FM,FSM,Yap,admin,3126.0,1583511563
+Tofol,Tofol,5.3258,163.0086,"Micronesia, Federated States of",FM,FSM,Kosrae,admin,2591.0,1583000000
+Weno,Weno,7.4417,151.8583,"Micronesia, Federated States of",FM,FSM,Chuuk,admin,13856.0,1583964118
+Palikir,Palikir,6.9172,158.1589,"Micronesia, Federated States of",FM,FSM,Pohnpei,primary,6227.0,1583008885
+Kolonia,Kolonia,6.9639,158.2081,"Micronesia, Federated States of",FM,FSM,Pohnpei,admin,6074.0,1583881416
+Colonia,Colonia,9.5167,138.1333,"Micronesia, Federated States of",FM,FSM,Yap,admin,3126.0,1583511563
+Tofol,Tofol,5.3258,163.0086,"Micronesia, Federated States of",FM,FSM,Kosrae,admin,2591.0,1583000000

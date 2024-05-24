@@ -1,0 +1,5 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Saint David’s,Saint David's,12.0444,-61.6806,Grenada,GD,GRD,Saint David,,12486.0,1308183777
+Saint George’s,Saint George's,12.05,-61.75,Grenada,GD,GRD,Saint George,primary,4315.0,1308891766
+Saint David’s,Saint David's,12.0444,-61.6806,Grenada,GD,GRD,Saint David,,12486.0,1308183777
+Saint George’s,Saint George's,12.05,-61.75,Grenada,GD,GRD,Saint George,primary,4315.0,1308891766

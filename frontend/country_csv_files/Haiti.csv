@@ -1,0 +1,249 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Port-au-Prince,Port-au-Prince,18.5333,-72.3333,Haiti,HT,HTI,Ouest,primary,987310.0,1332401940
+Carrefour,Carrefour,18.5344,-72.4094,Haiti,HT,HTI,Ouest,,511345.0,1332000098
+Pétion-Ville,Petion-Ville,18.5128,-72.2864,Haiti,HT,HTI,Ouest,,359615.0,1332051873
+Gonaïves,Gonaives,19.4456,-72.6883,Haiti,HT,HTI,Artibonite,admin,324043.0,1332384588
+Croix-des-Bouquets,Croix-des-Bouquets,18.5761,-72.2269,Haiti,HT,HTI,Ouest,,284812.0,1332000065
+Delmas,Delmas,18.55,-72.3,Haiti,HT,HTI,Ouest,,284079.0,1332257532
+Cap-Haïtien,Cap-Haitien,19.76,-72.2,Haiti,HT,HTI,Nord,admin,190289.0,1332333795
+Petite Rivière de l’Artibonite,Petite Riviere de l'Artibonite,19.1333,-72.4833,Haiti,HT,HTI,Artibonite,,170740.0,1332451568
+Saint-Marc,Saint-Marc,19.1167,-72.7,Haiti,HT,HTI,Artibonite,,160181.0,1332084366
+Jean-Rabel,Jean-Rabel,19.85,-73.2,Haiti,HT,HTI,Nord-Ouest,,148416.0,1332096865
+Jacmel,Jacmel,18.2353,-72.5367,Haiti,HT,HTI,Sud-Est,admin,137966.0,1332314393
+Arcahaie,Arcahaie,18.7667,-72.5167,Haiti,HT,HTI,Ouest,,130306.0,1332347269
+Tabarre,Tabarre,18.5833,-72.2667,Haiti,HT,HTI,Ouest,,130283.0,1332354236
+Dessalines,Dessalines,19.2833,-72.5,Haiti,HT,HTI,Artibonite,,127529.0,1332184774
+Port-de-Paix,Port-de-Paix,19.95,-72.8333,Haiti,HT,HTI,Nord-Ouest,admin,121220.0,1332536650
+Aquin,Aquin,18.2833,-73.4,Haiti,HT,HTI,Sud,,104216.0,1332922439
+Hinche,Hinche,19.15,-72.0167,Haiti,HT,HTI,Centre,admin,102745.0,1332748356
+Saint-Michel de l’Atalaye,Saint-Michel de l'Atalaye,19.3667,-72.3333,Haiti,HT,HTI,Artibonite,,95216.0,1332572826
+Léogâne,Leogane,18.5108,-72.6339,Haiti,HT,HTI,Ouest,,90000.0,1332045113
+Les Cayes,Les Cayes,18.2,-73.75,Haiti,HT,HTI,Sud,admin,86780.0,1332587854
+Ganthier,Ganthier,18.5333,-72.0667,Haiti,HT,HTI,Ouest,,71261.0,1332549888
+Saint-Louis du Nord,Saint-Louis du Nord,19.9333,-72.7167,Haiti,HT,HTI,Nord-Ouest,,69592.0,1332427646
+Limonade,Limonade,19.6667,-72.1167,Haiti,HT,HTI,Nord,,69256.0,1332450528
+Limbé,Limbe,19.7056,-72.4147,Haiti,HT,HTI,Nord,,69256.0,1332168406
+Torbeck,Torbeck,18.1667,-73.8167,Haiti,HT,HTI,Sud,,69189.0,1332470480
+Anse à Galets,Anse a Galets,18.8333,-72.8667,Haiti,HT,HTI,Ouest,,62559.0,1332098898
+Bainet,Bainet,18.1833,-72.75,Haiti,HT,HTI,Sud-Est,,62300.0,1332091731
+Cabaret,Cabaret,18.7333,-72.4167,Haiti,HT,HTI,Ouest,,62063.0,1332584199
+Belladère,Belladere,18.8667,-71.7667,Haiti,HT,HTI,Centre,,60239.0,1332473025
+Saint-Louis du Sud,Saint-Louis du Sud,18.2667,-73.55,Haiti,HT,HTI,Sud,,59042.0,1332867263
+Miragoâne,Miragoane,18.4458,-73.09,Haiti,HT,HTI,Nippes,admin,56864.0,1332665283
+Acul du Nord,Acul du Nord,19.6833,-72.3167,Haiti,HT,HTI,Nord,,55908.0,1332452359
+Cornillon,Cornillon,18.6667,-71.95,Haiti,HT,HTI,Ouest,,54254.0,1332866584
+Thomazeau,Thomazeau,18.65,-72.1,Haiti,HT,HTI,Ouest,,52017.0,1332648470
+Belle-Anse,Belle-Anse,18.2333,-72.0667,Haiti,HT,HTI,Sud-Est,,51707.0,1332150277
+Cerca la Source,Cerca la Source,19.1667,-71.7833,Haiti,HT,HTI,Centre,,51410.0,1332542335
+Marigot,Marigot,18.2333,-72.3167,Haiti,HT,HTI,Sud-Est,,50734.0,1332275185
+Bas Limbé,Bas Limbe,19.8,-72.3833,Haiti,HT,HTI,Nord,,50456.0,1332588396
+Plaisance,Plaisance,19.6,-72.4667,Haiti,HT,HTI,Nord,,50367.0,1332601700
+Verrettes,Verrettes,19.05,-72.4667,Haiti,HT,HTI,Artibonite,,48724.0,1332111444
+Boucan Carré,Boucan Carre,18.9667,-72.2,Haiti,HT,HTI,Centre,,48700.0,1332163231
+Borgne,Borgne,19.85,-72.5333,Haiti,HT,HTI,Nord,,46886.0,1332215529
+Cavaillon,Cavaillon,18.3,-73.65,Haiti,HT,HTI,Sud,,46037.0,1332637613
+Camp Perrin,Camp Perrin,18.3167,-73.8667,Haiti,HT,HTI,Sud,,46000.0,1332737224
+Casale,Casale,18.799,-72.3854,Haiti,HT,HTI,Ouest,,43943.0,1332190060
+Anse Rouge,Anse Rouge,19.6333,-73.05,Haiti,HT,HTI,Artibonite,,43395.0,1332665513
+Maïssade,Maissade,19.1667,-72.1333,Haiti,HT,HTI,Centre,,43138.0,1332767571
+Thomassique,Thomassique,19.0833,-71.8333,Haiti,HT,HTI,Centre,,42557.0,1332374782
+Pilate,Pilate,19.6667,-72.55,Haiti,HT,HTI,Nord,,40445.0,1332272986
+Fonds Verrettes,Fonds Verrettes,18.3833,-71.85,Haiti,HT,HTI,Ouest,,40224.0,1332183174
+L’Asile,L'Asile,18.3833,-73.4167,Haiti,HT,HTI,Nippes,,40000.0,1332348189
+Les Abricots,Les Abricots,18.6333,-74.3,Haiti,HT,HTI,Grand’Anse,,37675.0,1332706374
+Trou du Nord,Trou du Nord,19.6333,-72.0167,Haiti,HT,HTI,Nord-Est,,37405.0,1332162005
+Port-Margot,Port-Margot,19.75,-72.4333,Haiti,HT,HTI,Nord,,36937.0,1332999568
+Anse d’Hainault,Anse d'Hainault,18.5,-74.45,Haiti,HT,HTI,Grand’Anse,,36401.0,1332108128
+La Vallée de Jacmel,La Vallee de Jacmel,18.2667,-72.6667,Haiti,HT,HTI,Sud-Est,,36188.0,1332561469
+Petit-Trou de Nippes,Petit-Trou de Nippes,18.5333,-73.5167,Haiti,HT,HTI,Nippes,,36143.0,1332845900
+Pestel,Pestel,18.5333,-73.8,Haiti,HT,HTI,Grand’Anse,,36138.0,1332521684
+Bombardopolis,Bombardopolis,19.7,-73.3333,Haiti,HT,HTI,Nord-Ouest,,36028.0,1332445868
+Ville Bonheur,Ville Bonheur,18.8167,-72.2,Haiti,HT,HTI,Centre,,34885.0,1332904368
+Anse-à-Veau,Anse-a-Veau,18.5167,-73.35,Haiti,HT,HTI,Nippes,,34613.0,1332029379
+Fort Liberté,Fort Liberte,19.6678,-71.8397,Haiti,HT,HTI,Nord-Est,admin,34434.0,1332603160
+Bassin Bleu,Bassin Bleu,19.7833,-72.8,Haiti,HT,HTI,Nord-Ouest,,33926.0,1332244969
+Côtes de Fer,Cotes de Fer,18.1833,-73.0,Haiti,HT,HTI,Sud-Est,,33577.0,1332390901
+Saintard,Saintard,18.824,-72.55,Haiti,HT,HTI,Ouest,,32906.0,1332903429
+Milot,Milot,19.6047,-72.2186,Haiti,HT,HTI,Nord,,31992.0,1332342808
+Baradères,Baraderes,18.4825,-73.6386,Haiti,HT,HTI,Nippes,,31689.0,1332944244
+Ennery,Ennery,19.4833,-72.4833,Haiti,HT,HTI,Artibonite,,31285.0,1332338598
+Chantal,Chantal,18.2,-73.8833,Haiti,HT,HTI,Sud,,31030.0,1332205204
+Jérémie,Jeremie,18.65,-74.1167,Haiti,HT,HTI,Grand’Anse,admin,30917.0,1332612037
+Anse-à-Foleur,Anse-a-Foleur,19.9,-72.6167,Haiti,HT,HTI,Nord-Ouest,,30217.0,1332252871
+Anse à Pitre,Anse a Pitre,18.05,-71.75,Haiti,HT,HTI,Sud-Est,,30146.0,1332458305
+Les Palmes,Les Palmes,18.3333,-72.85,Haiti,HT,HTI,Sud-Est,,30000.0,1332456322
+Petite Rivière de Nippes,Petite Riviere de Nippes,18.4833,-73.25,Haiti,HT,HTI,Nippes,,29815.0,1332459442
+Savanette,Savanette,18.6833,-72.05,Haiti,HT,HTI,Ouest,,29717.0,1332721450
+Pignon,Pignon,19.3333,-72.1167,Haiti,HT,HTI,Nord,,29327.0,1332052953
+La Source,La Source,18.15,-73.8833,Haiti,HT,HTI,Sud,,29180.0,1332280307
+Arniquet,Arniquet,18.15,-73.8833,Haiti,HT,HTI,Sud,,29180.0,1332082768
+Roseaux,Roseaux,18.6,-74.0167,Haiti,HT,HTI,Grand’Anse,,28811.0,1332874884
+Plaine du Nord,Plaine du Nord,19.6833,-72.2667,Haiti,HT,HTI,Nord,,28544.0,1332818460
+Les Anglais,Les Anglais,18.3,-74.2167,Haiti,HT,HTI,Sud,,27182.0,1332210562
+Dame-Marie,Dame-Marie,18.5667,-74.4167,Haiti,HT,HTI,Grand’Anse,,27127.0,1332046251
+Gressier,Gressier,18.55,-72.5167,Haiti,HT,HTI,Ouest,,25947.0,1332282683
+Dondon,Dondon,19.5333,-72.2333,Haiti,HT,HTI,Nord,,25846.0,1332640840
+Chardonnières,Chardonnieres,18.2667,-74.1667,Haiti,HT,HTI,Sud,,25240.0,1332544802
+Mombin Crochu,Mombin Crochu,19.3667,-71.9833,Haiti,HT,HTI,Nord-Est,,25113.0,1332692300
+Moron,Moron,18.56,-74.2579,Haiti,HT,HTI,Grand’Anse,,24713.0,1332216244
+Les Irois,Les Irois,18.4,-74.45,Haiti,HT,HTI,Grand’Anse,,24374.0,1332919321
+Thiotte,Thiotte,18.25,-71.85,Haiti,HT,HTI,Sud-Est,,23041.0,1332831508
+Pointe à Raquettes,Pointe a Raquettes,18.7833,-73.0667,Haiti,HT,HTI,Ouest,,22886.0,1332151637
+Corail,Corail,18.5667,-73.8833,Haiti,HT,HTI,Grand’Anse,,22021.0,1332320384
+Maniche,Maniche,18.35,-73.7667,Haiti,HT,HTI,Sud,,21766.0,1332014296
+Sainte-Suzanne,Sainte-Suzanne,19.5833,-72.0833,Haiti,HT,HTI,Nord-Est,,21617.0,1332623138
+Terrier Rouge,Terrier Rouge,19.6333,-71.95,Haiti,HT,HTI,Nord-Est,,21328.0,1332922844
+Tiburon,Tiburon,18.3333,-74.4,Haiti,HT,HTI,Sud,,21170.0,1332432700
+Arnaud,Arnaud,18.45,-73.3833,Haiti,HT,HTI,Nippes,,20718.0,1332859176
+Les Côteaux,Les Coteaux,18.2,-74.0333,Haiti,HT,HTI,Sud,,19372.0,1332769679
+Quartier Morin,Quartier Morin,19.7,-72.15,Haiti,HT,HTI,Nord,,19241.0,1332258724
+Fond des Blancs,Fond des Blancs,18.2833,-73.1333,Haiti,HT,HTI,Sud,,19010.0,1332189993
+Liancourt,Liancourt,19.1356,-72.5333,Haiti,HT,HTI,Artibonite,,18574.0,1332300804
+Montrouis,Montrouis,18.9506,-72.7044,Haiti,HT,HTI,Ouest,,18419.0,1332947082
+Ranquitte,Ranquitte,19.4167,-72.0833,Haiti,HT,HTI,Nord,,18197.0,1332218380
+Chapelle,Chapelle,19.4167,-72.55,Haiti,HT,HTI,Artibonite,,18092.0,1332599769
+Cerca Carvajal,Cerca Carvajal,19.2667,-71.95,Haiti,HT,HTI,Centre,,17571.0,1332505200
+Vallières,Vallieres,19.4333,-71.9167,Haiti,HT,HTI,Nord-Est,,17470.0,1332923713
+Bahon,Bahon,19.4696,-72.1147,Haiti,HT,HTI,Nord,,17417.0,1332943637
+Baie de Henne,Baie de Henne,19.6667,-73.2,Haiti,HT,HTI,Nord-Ouest,,17277.0,1332831627
+Port-à-Piment,Port-a-Piment,18.25,-74.1,Haiti,HT,HTI,Sud,,17207.0,1332528731
+Mont-Organisé,Mont-Organise,19.4,-71.7833,Haiti,HT,HTI,Nord-Est,,17189.0,1332250944
+Terre Neuve,Terre Neuve,19.6,-72.7833,Haiti,HT,HTI,Artibonite,,17045.0,1332504723
+Chambellan,Chambellan,18.5667,-74.3167,Haiti,HT,HTI,Grand’Anse,,16883.0,1332814208
+Laferrière,Laferriere,18.5667,-74.3167,Haiti,HT,HTI,Grand’Anse,,16883.0,1332767477
+Roche-à-Bateau,Roche-a-Bateau,18.1833,-74.0,Haiti,HT,HTI,Sud,,16727.0,1332821683
+Capotille,Capotille,19.45,-71.7,Haiti,HT,HTI,Nord-Est,,15086.0,1332991129
+Grande Saline,Grande Saline,19.25,-72.7833,Haiti,HT,HTI,Artibonite,,14940.0,1332897755
+Ferrier,Ferrier,19.6167,-71.7833,Haiti,HT,HTI,Nord-Est,,14642.0,1332033044
+Beaumont,Beaumont,18.4833,-73.9667,Haiti,HT,HTI,Grand’Anse,,12486.0,1332335707
+Petit-Goâve,Petit-Goave,18.4314,-72.8669,Haiti,HT,HTI,Ouest,,12000.0,1332487207
+Perches,Perches,19.5167,-71.9167,Haiti,HT,HTI,Nord-Est,,11556.0,1332584583
+Grand Gosier,Grand Gosier,18.1833,-71.9167,Haiti,HT,HTI,Sud-Est,,10852.0,1332068080
+Carice,Carice,19.3833,-71.8333,Haiti,HT,HTI,Nord-Est,,10180.0,1332044879
+Pont Sondé,Pont Sonde,19.1493,-72.6147,Haiti,HT,HTI,Artibonite,,10000.0,1332034051
+La Pointe,La Pointe,19.95,-72.7833,Haiti,HT,HTI,Nord-Ouest,,9930.0,1332411349
+Chansolme,Chansolme,19.8833,-72.8333,Haiti,HT,HTI,Nord-Ouest,,9561.0,1332378565
+Port-au-Prince,Port-au-Prince,18.5333,-72.3333,Haiti,HT,HTI,Ouest,primary,987310.0,1332401940
+Carrefour,Carrefour,18.5344,-72.4094,Haiti,HT,HTI,Ouest,,511345.0,1332000098
+Pétion-Ville,Petion-Ville,18.5128,-72.2864,Haiti,HT,HTI,Ouest,,359615.0,1332051873
+Gonaïves,Gonaives,19.4456,-72.6883,Haiti,HT,HTI,Artibonite,admin,324043.0,1332384588
+Croix-des-Bouquets,Croix-des-Bouquets,18.5761,-72.2269,Haiti,HT,HTI,Ouest,,284812.0,1332000065
+Delmas,Delmas,18.55,-72.3,Haiti,HT,HTI,Ouest,,284079.0,1332257532
+Cap-Haïtien,Cap-Haitien,19.76,-72.2,Haiti,HT,HTI,Nord,admin,190289.0,1332333795
+Petite Rivière de l’Artibonite,Petite Riviere de l'Artibonite,19.1333,-72.4833,Haiti,HT,HTI,Artibonite,,170740.0,1332451568
+Saint-Marc,Saint-Marc,19.1167,-72.7,Haiti,HT,HTI,Artibonite,,160181.0,1332084366
+Jean-Rabel,Jean-Rabel,19.85,-73.2,Haiti,HT,HTI,Nord-Ouest,,148416.0,1332096865
+Jacmel,Jacmel,18.2353,-72.5367,Haiti,HT,HTI,Sud-Est,admin,137966.0,1332314393
+Arcahaie,Arcahaie,18.7667,-72.5167,Haiti,HT,HTI,Ouest,,130306.0,1332347269
+Tabarre,Tabarre,18.5833,-72.2667,Haiti,HT,HTI,Ouest,,130283.0,1332354236
+Dessalines,Dessalines,19.2833,-72.5,Haiti,HT,HTI,Artibonite,,127529.0,1332184774
+Port-de-Paix,Port-de-Paix,19.95,-72.8333,Haiti,HT,HTI,Nord-Ouest,admin,121220.0,1332536650
+Aquin,Aquin,18.2833,-73.4,Haiti,HT,HTI,Sud,,104216.0,1332922439
+Hinche,Hinche,19.15,-72.0167,Haiti,HT,HTI,Centre,admin,102745.0,1332748356
+Saint-Michel de l’Atalaye,Saint-Michel de l'Atalaye,19.3667,-72.3333,Haiti,HT,HTI,Artibonite,,95216.0,1332572826
+Léogâne,Leogane,18.5108,-72.6339,Haiti,HT,HTI,Ouest,,90000.0,1332045113
+Les Cayes,Les Cayes,18.2,-73.75,Haiti,HT,HTI,Sud,admin,86780.0,1332587854
+Ganthier,Ganthier,18.5333,-72.0667,Haiti,HT,HTI,Ouest,,71261.0,1332549888
+Saint-Louis du Nord,Saint-Louis du Nord,19.9333,-72.7167,Haiti,HT,HTI,Nord-Ouest,,69592.0,1332427646
+Limonade,Limonade,19.6667,-72.1167,Haiti,HT,HTI,Nord,,69256.0,1332450528
+Limbé,Limbe,19.7056,-72.4147,Haiti,HT,HTI,Nord,,69256.0,1332168406
+Torbeck,Torbeck,18.1667,-73.8167,Haiti,HT,HTI,Sud,,69189.0,1332470480
+Anse à Galets,Anse a Galets,18.8333,-72.8667,Haiti,HT,HTI,Ouest,,62559.0,1332098898
+Bainet,Bainet,18.1833,-72.75,Haiti,HT,HTI,Sud-Est,,62300.0,1332091731
+Cabaret,Cabaret,18.7333,-72.4167,Haiti,HT,HTI,Ouest,,62063.0,1332584199
+Belladère,Belladere,18.8667,-71.7667,Haiti,HT,HTI,Centre,,60239.0,1332473025
+Saint-Louis du Sud,Saint-Louis du Sud,18.2667,-73.55,Haiti,HT,HTI,Sud,,59042.0,1332867263
+Miragoâne,Miragoane,18.4458,-73.09,Haiti,HT,HTI,Nippes,admin,56864.0,1332665283
+Acul du Nord,Acul du Nord,19.6833,-72.3167,Haiti,HT,HTI,Nord,,55908.0,1332452359
+Cornillon,Cornillon,18.6667,-71.95,Haiti,HT,HTI,Ouest,,54254.0,1332866584
+Thomazeau,Thomazeau,18.65,-72.1,Haiti,HT,HTI,Ouest,,52017.0,1332648470
+Belle-Anse,Belle-Anse,18.2333,-72.0667,Haiti,HT,HTI,Sud-Est,,51707.0,1332150277
+Cerca la Source,Cerca la Source,19.1667,-71.7833,Haiti,HT,HTI,Centre,,51410.0,1332542335
+Marigot,Marigot,18.2333,-72.3167,Haiti,HT,HTI,Sud-Est,,50734.0,1332275185
+Bas Limbé,Bas Limbe,19.8,-72.3833,Haiti,HT,HTI,Nord,,50456.0,1332588396
+Plaisance,Plaisance,19.6,-72.4667,Haiti,HT,HTI,Nord,,50367.0,1332601700
+Verrettes,Verrettes,19.05,-72.4667,Haiti,HT,HTI,Artibonite,,48724.0,1332111444
+Boucan Carré,Boucan Carre,18.9667,-72.2,Haiti,HT,HTI,Centre,,48700.0,1332163231
+Borgne,Borgne,19.85,-72.5333,Haiti,HT,HTI,Nord,,46886.0,1332215529
+Cavaillon,Cavaillon,18.3,-73.65,Haiti,HT,HTI,Sud,,46037.0,1332637613
+Camp Perrin,Camp Perrin,18.3167,-73.8667,Haiti,HT,HTI,Sud,,46000.0,1332737224
+Casale,Casale,18.799,-72.3854,Haiti,HT,HTI,Ouest,,43943.0,1332190060
+Anse Rouge,Anse Rouge,19.6333,-73.05,Haiti,HT,HTI,Artibonite,,43395.0,1332665513
+Maïssade,Maissade,19.1667,-72.1333,Haiti,HT,HTI,Centre,,43138.0,1332767571
+Thomassique,Thomassique,19.0833,-71.8333,Haiti,HT,HTI,Centre,,42557.0,1332374782
+Pilate,Pilate,19.6667,-72.55,Haiti,HT,HTI,Nord,,40445.0,1332272986
+Fonds Verrettes,Fonds Verrettes,18.3833,-71.85,Haiti,HT,HTI,Ouest,,40224.0,1332183174
+L’Asile,L'Asile,18.3833,-73.4167,Haiti,HT,HTI,Nippes,,40000.0,1332348189
+Les Abricots,Les Abricots,18.6333,-74.3,Haiti,HT,HTI,Grand’Anse,,37675.0,1332706374
+Trou du Nord,Trou du Nord,19.6333,-72.0167,Haiti,HT,HTI,Nord-Est,,37405.0,1332162005
+Port-Margot,Port-Margot,19.75,-72.4333,Haiti,HT,HTI,Nord,,36937.0,1332999568
+Anse d’Hainault,Anse d'Hainault,18.5,-74.45,Haiti,HT,HTI,Grand’Anse,,36401.0,1332108128
+La Vallée de Jacmel,La Vallee de Jacmel,18.2667,-72.6667,Haiti,HT,HTI,Sud-Est,,36188.0,1332561469
+Petit-Trou de Nippes,Petit-Trou de Nippes,18.5333,-73.5167,Haiti,HT,HTI,Nippes,,36143.0,1332845900
+Pestel,Pestel,18.5333,-73.8,Haiti,HT,HTI,Grand’Anse,,36138.0,1332521684
+Bombardopolis,Bombardopolis,19.7,-73.3333,Haiti,HT,HTI,Nord-Ouest,,36028.0,1332445868
+Ville Bonheur,Ville Bonheur,18.8167,-72.2,Haiti,HT,HTI,Centre,,34885.0,1332904368
+Anse-à-Veau,Anse-a-Veau,18.5167,-73.35,Haiti,HT,HTI,Nippes,,34613.0,1332029379
+Fort Liberté,Fort Liberte,19.6678,-71.8397,Haiti,HT,HTI,Nord-Est,admin,34434.0,1332603160
+Bassin Bleu,Bassin Bleu,19.7833,-72.8,Haiti,HT,HTI,Nord-Ouest,,33926.0,1332244969
+Côtes de Fer,Cotes de Fer,18.1833,-73.0,Haiti,HT,HTI,Sud-Est,,33577.0,1332390901
+Saintard,Saintard,18.824,-72.55,Haiti,HT,HTI,Ouest,,32906.0,1332903429
+Milot,Milot,19.6047,-72.2186,Haiti,HT,HTI,Nord,,31992.0,1332342808
+Baradères,Baraderes,18.4825,-73.6386,Haiti,HT,HTI,Nippes,,31689.0,1332944244
+Ennery,Ennery,19.4833,-72.4833,Haiti,HT,HTI,Artibonite,,31285.0,1332338598
+Chantal,Chantal,18.2,-73.8833,Haiti,HT,HTI,Sud,,31030.0,1332205204
+Jérémie,Jeremie,18.65,-74.1167,Haiti,HT,HTI,Grand’Anse,admin,30917.0,1332612037
+Anse-à-Foleur,Anse-a-Foleur,19.9,-72.6167,Haiti,HT,HTI,Nord-Ouest,,30217.0,1332252871
+Anse à Pitre,Anse a Pitre,18.05,-71.75,Haiti,HT,HTI,Sud-Est,,30146.0,1332458305
+Les Palmes,Les Palmes,18.3333,-72.85,Haiti,HT,HTI,Sud-Est,,30000.0,1332456322
+Petite Rivière de Nippes,Petite Riviere de Nippes,18.4833,-73.25,Haiti,HT,HTI,Nippes,,29815.0,1332459442
+Savanette,Savanette,18.6833,-72.05,Haiti,HT,HTI,Ouest,,29717.0,1332721450
+Pignon,Pignon,19.3333,-72.1167,Haiti,HT,HTI,Nord,,29327.0,1332052953
+La Source,La Source,18.15,-73.8833,Haiti,HT,HTI,Sud,,29180.0,1332280307
+Arniquet,Arniquet,18.15,-73.8833,Haiti,HT,HTI,Sud,,29180.0,1332082768
+Roseaux,Roseaux,18.6,-74.0167,Haiti,HT,HTI,Grand’Anse,,28811.0,1332874884
+Plaine du Nord,Plaine du Nord,19.6833,-72.2667,Haiti,HT,HTI,Nord,,28544.0,1332818460
+Les Anglais,Les Anglais,18.3,-74.2167,Haiti,HT,HTI,Sud,,27182.0,1332210562
+Dame-Marie,Dame-Marie,18.5667,-74.4167,Haiti,HT,HTI,Grand’Anse,,27127.0,1332046251
+Gressier,Gressier,18.55,-72.5167,Haiti,HT,HTI,Ouest,,25947.0,1332282683
+Dondon,Dondon,19.5333,-72.2333,Haiti,HT,HTI,Nord,,25846.0,1332640840
+Chardonnières,Chardonnieres,18.2667,-74.1667,Haiti,HT,HTI,Sud,,25240.0,1332544802
+Mombin Crochu,Mombin Crochu,19.3667,-71.9833,Haiti,HT,HTI,Nord-Est,,25113.0,1332692300
+Moron,Moron,18.56,-74.2579,Haiti,HT,HTI,Grand’Anse,,24713.0,1332216244
+Les Irois,Les Irois,18.4,-74.45,Haiti,HT,HTI,Grand’Anse,,24374.0,1332919321
+Thiotte,Thiotte,18.25,-71.85,Haiti,HT,HTI,Sud-Est,,23041.0,1332831508
+Pointe à Raquettes,Pointe a Raquettes,18.7833,-73.0667,Haiti,HT,HTI,Ouest,,22886.0,1332151637
+Corail,Corail,18.5667,-73.8833,Haiti,HT,HTI,Grand’Anse,,22021.0,1332320384
+Maniche,Maniche,18.35,-73.7667,Haiti,HT,HTI,Sud,,21766.0,1332014296
+Sainte-Suzanne,Sainte-Suzanne,19.5833,-72.0833,Haiti,HT,HTI,Nord-Est,,21617.0,1332623138
+Terrier Rouge,Terrier Rouge,19.6333,-71.95,Haiti,HT,HTI,Nord-Est,,21328.0,1332922844
+Tiburon,Tiburon,18.3333,-74.4,Haiti,HT,HTI,Sud,,21170.0,1332432700
+Arnaud,Arnaud,18.45,-73.3833,Haiti,HT,HTI,Nippes,,20718.0,1332859176
+Les Côteaux,Les Coteaux,18.2,-74.0333,Haiti,HT,HTI,Sud,,19372.0,1332769679
+Quartier Morin,Quartier Morin,19.7,-72.15,Haiti,HT,HTI,Nord,,19241.0,1332258724
+Fond des Blancs,Fond des Blancs,18.2833,-73.1333,Haiti,HT,HTI,Sud,,19010.0,1332189993
+Liancourt,Liancourt,19.1356,-72.5333,Haiti,HT,HTI,Artibonite,,18574.0,1332300804
+Montrouis,Montrouis,18.9506,-72.7044,Haiti,HT,HTI,Ouest,,18419.0,1332947082
+Ranquitte,Ranquitte,19.4167,-72.0833,Haiti,HT,HTI,Nord,,18197.0,1332218380
+Chapelle,Chapelle,19.4167,-72.55,Haiti,HT,HTI,Artibonite,,18092.0,1332599769
+Cerca Carvajal,Cerca Carvajal,19.2667,-71.95,Haiti,HT,HTI,Centre,,17571.0,1332505200
+Vallières,Vallieres,19.4333,-71.9167,Haiti,HT,HTI,Nord-Est,,17470.0,1332923713
+Bahon,Bahon,19.4696,-72.1147,Haiti,HT,HTI,Nord,,17417.0,1332943637
+Baie de Henne,Baie de Henne,19.6667,-73.2,Haiti,HT,HTI,Nord-Ouest,,17277.0,1332831627
+Port-à-Piment,Port-a-Piment,18.25,-74.1,Haiti,HT,HTI,Sud,,17207.0,1332528731
+Mont-Organisé,Mont-Organise,19.4,-71.7833,Haiti,HT,HTI,Nord-Est,,17189.0,1332250944
+Terre Neuve,Terre Neuve,19.6,-72.7833,Haiti,HT,HTI,Artibonite,,17045.0,1332504723
+Chambellan,Chambellan,18.5667,-74.3167,Haiti,HT,HTI,Grand’Anse,,16883.0,1332814208
+Laferrière,Laferriere,18.5667,-74.3167,Haiti,HT,HTI,Grand’Anse,,16883.0,1332767477
+Roche-à-Bateau,Roche-a-Bateau,18.1833,-74.0,Haiti,HT,HTI,Sud,,16727.0,1332821683
+Capotille,Capotille,19.45,-71.7,Haiti,HT,HTI,Nord-Est,,15086.0,1332991129
+Grande Saline,Grande Saline,19.25,-72.7833,Haiti,HT,HTI,Artibonite,,14940.0,1332897755
+Ferrier,Ferrier,19.6167,-71.7833,Haiti,HT,HTI,Nord-Est,,14642.0,1332033044
+Beaumont,Beaumont,18.4833,-73.9667,Haiti,HT,HTI,Grand’Anse,,12486.0,1332335707
+Petit-Goâve,Petit-Goave,18.4314,-72.8669,Haiti,HT,HTI,Ouest,,12000.0,1332487207
+Perches,Perches,19.5167,-71.9167,Haiti,HT,HTI,Nord-Est,,11556.0,1332584583
+Grand Gosier,Grand Gosier,18.1833,-71.9167,Haiti,HT,HTI,Sud-Est,,10852.0,1332068080
+Carice,Carice,19.3833,-71.8333,Haiti,HT,HTI,Nord-Est,,10180.0,1332044879
+Pont Sondé,Pont Sonde,19.1493,-72.6147,Haiti,HT,HTI,Artibonite,,10000.0,1332034051
+La Pointe,La Pointe,19.95,-72.7833,Haiti,HT,HTI,Nord-Ouest,,9930.0,1332411349
+Chansolme,Chansolme,19.8833,-72.8333,Haiti,HT,HTI,Nord-Ouest,,9561.0,1332378565

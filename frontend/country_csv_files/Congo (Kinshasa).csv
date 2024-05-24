@@ -1,0 +1,249 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Kinshasa,Kinshasa,-4.3219,15.3119,Congo (Kinshasa),CD,COD,Kinshasa,primary,12836000.0,1180000363
+Mbuji-Mayi,Mbuji-Mayi,-6.15,23.6,Congo (Kinshasa),CD,COD,Kasaï Oriental,admin,2892000.0,1180399586
+Kananga,Kananga,-5.897,22.4488,Congo (Kinshasa),CD,COD,Kasaï Central,admin,1971704.0,1180172460
+Lubumbashi,Lubumbashi,-11.6647,27.4794,Congo (Kinshasa),CD,COD,Haut-Katanga,admin,1786397.0,1180506234
+Katako-Kombe,Katako-Kombe,-3.4,24.42,Congo (Kinshasa),CD,COD,Sankuru,,1488922.0,1180033898
+Mbandaka,Mbandaka,0.0478,18.2558,Congo (Kinshasa),CD,COD,Équateur,admin,1187837.0,1180720887
+Bukavu,Bukavu,-2.5,28.8667,Congo (Kinshasa),CD,COD,Sud-Kivu,admin,1133000.0,1180475821
+Kisangani,Kisangani,0.5167,25.2,Congo (Kinshasa),CD,COD,Tshopo,admin,1040000.0,1180478201
+Kibanseke Première,Kibanseke Premiere,-4.4419,15.395,Congo (Kinshasa),CD,COD,Kinshasa,,946372.0,1180763985
+Bunia,Bunia,1.5667,30.25,Congo (Kinshasa),CD,COD,Ituri,admin,900666.0,1180006418
+Tshikapa,Tshikapa,-6.4167,20.8,Congo (Kinshasa),CD,COD,Kasaï,admin,732000.0,1180581239
+Uvira,Uvira,-3.4,29.15,Congo (Kinshasa),CD,COD,Sud-Kivu,,590000.0,1180205443
+Likasi,Likasi,-10.9833,26.7333,Congo (Kinshasa),CD,COD,Haut-Katanga,,495000.0,1180978192
+Kolwezi,Kolwezi,-10.7167,25.4667,Congo (Kinshasa),CD,COD,Lualaba,admin,480000.0,1180380965
+Kikwit,Kikwit,-5.0386,18.8181,Congo (Kinshasa),CD,COD,Kwilu,,458000.0,1180518247
+Ndjili,Ndjili,-4.4089,15.3775,Congo (Kinshasa),CD,COD,Kinshasa,,442138.0,1180965012
+Kisenzi,Kisenzi,-4.4094,15.3425,Congo (Kinshasa),CD,COD,Kinshasa,,386151.0,1180795720
+Matadi,Matadi,-5.8167,13.4833,Congo (Kinshasa),CD,COD,Kongo Central,admin,337000.0,1180529604
+Goma,Goma,-1.6794,29.2336,Congo (Kinshasa),CD,COD,Nord-Kivu,admin,249862.0,1180805022
+Kabinda,Kabinda,-6.13,24.48,Congo (Kinshasa),CD,COD,Lomami,admin,244000.0,1180751831
+Beni,Beni,0.5,29.4667,Congo (Kinshasa),CD,COD,Nord-Kivu,,231952.0,1180325051
+Butembo,Butembo,0.15,29.2833,Congo (Kinshasa),CD,COD,Nord-Kivu,,217625.0,1180446432
+Gbadolite,Gbadolite,4.2833,21.0167,Congo (Kinshasa),CD,COD,Nord-Ubangi,admin,198839.0,1180674224
+Mwene-Ditu,Mwene-Ditu,-7.0,23.45,Congo (Kinshasa),CD,COD,Lomami,,195622.0,1180134137
+Isiro,Isiro,2.7833,27.6167,Congo (Kinshasa),CD,COD,Haut-Uélé,admin,182900.0,1180183850
+Kindu,Kindu,-2.95,25.95,Congo (Kinshasa),CD,COD,Maniema,admin,172321.0,1180106925
+Boma,Boma,-5.85,13.05,Congo (Kinshasa),CD,COD,Kongo Central,,162521.0,1180611452
+Kamina,Kamina,-8.7386,24.9906,Congo (Kinshasa),CD,COD,Haut-Lomami,admin,156761.0,1180363197
+Moanda,Moanda,-5.9342,12.3494,Congo (Kinshasa),CD,COD,Kongo Central,,153915.0,1180108441
+Kalemie,Kalemie,-5.9128,29.1906,Congo (Kinshasa),CD,COD,Tanganyika,admin,146974.0,1180574233
+Wamba,Wamba,2.1442,27.9929,Congo (Kinshasa),CD,COD,Haut-Uélé,,146871.0,1180866253
+Gandajika,Gandajika,-6.75,23.9667,Congo (Kinshasa),CD,COD,Lomami,,146217.0,1180466776
+Bandundu,Bandundu,-3.3167,17.3667,Congo (Kinshasa),CD,COD,Kwilu,admin,143435.0,1180219776
+Nsele,Nsele,-4.3744,15.4947,Congo (Kinshasa),CD,COD,Kinshasa,,140929.0,1180786924
+Gemena,Gemena,3.25,19.7667,Congo (Kinshasa),CD,COD,Sud-Ubangi,admin,138527.0,1180000163
+Kipushi,Kipushi,-11.7625,27.25,Congo (Kinshasa),CD,COD,Haut-Katanga,,132861.0,1180810333
+Baraka,Baraka,-4.1041,29.094,Congo (Kinshasa),CD,COD,Sud-Kivu,,120000.0,1180665112
+Ilebo,Ilebo,-4.3167,20.6,Congo (Kinshasa),CD,COD,Kasaï,,107093.0,1180788280
+Kongolo,Kongolo,-5.4,27.0,Congo (Kinshasa),CD,COD,Tanganyika,,105202.0,1180814807
+Bumba,Bumba,2.1844,22.4703,Congo (Kinshasa),CD,COD,Mongala,,103328.0,1180549980
+Mbanza-Ngungu,Mbanza-Ngungu,-5.25,14.8667,Congo (Kinshasa),CD,COD,Kongo Central,,100000.0,1180474388
+Lingwala,Lingwala,-4.3203,15.2983,Congo (Kinshasa),CD,COD,Kinshasa,,94635.0,1180733209
+Luvungi,Luvungi,-2.86,29.03,Congo (Kinshasa),CD,COD,Sud-Kivu,,85000.0,1180967802
+Tshilenge,Tshilenge,-6.25,23.7667,Congo (Kinshasa),CD,COD,Kasaï Oriental,,84651.0,1180504718
+Lisala,Lisala,2.1486,21.5136,Congo (Kinshasa),CD,COD,Mongala,admin,79235.0,1180477995
+Lodja,Lodja,-3.5242,23.5964,Congo (Kinshasa),CD,COD,Sankuru,,68244.0,1180001261
+Binga,Binga,2.4,20.42,Congo (Kinshasa),CD,COD,Mongala,,64639.0,1180236070
+Kasongo,Kasongo,-4.45,26.65,Congo (Kinshasa),CD,COD,Maniema,,63000.0,1180000473
+Idiofa,Idiofa,-4.9668,19.591,Congo (Kinshasa),CD,COD,Kwilu,,61056.0,1180986517
+Bakwa-Kalonji,Bakwa-Kalonji,-4.35,20.72,Congo (Kinshasa),CD,COD,Kasaï,,58092.0,1180566859
+Bulungu,Bulungu,-4.55,18.6,Congo (Kinshasa),CD,COD,Kwilu,,57168.0,1180342743
+Buta,Buta,2.8,24.7333,Congo (Kinshasa),CD,COD,Bas-Uélé,admin,55313.0,1180712204
+Mbulungu,Mbulungu,-6.0667,21.9,Congo (Kinshasa),CD,COD,Kasaï Central,,54424.0,1180152255
+Zongo,Zongo,4.3433,18.5928,Congo (Kinshasa),CD,COD,Sud-Ubangi,,53743.0,1180165321
+Hyosha,Hyosha,0.6975,29.5197,Congo (Kinshasa),CD,COD,Nord-Kivu,,52921.0,1180671131
+Dungu,Dungu,3.6167,28.5667,Congo (Kinshasa),CD,COD,Haut-Uélé,,52000.0,1180164137
+Mulongo,Mulongo,-7.8333,27.0,Congo (Kinshasa),CD,COD,Haut-Lomami,,51603.0,1180171787
+Mweka,Mweka,-4.85,21.5667,Congo (Kinshasa),CD,COD,Kasaï,,50675.0,1180140663
+Kahemba,Kahemba,-7.2829,19.0,Congo (Kinshasa),CD,COD,Kwango,,50000.0,1180689417
+Kalima,Kalima,-2.5667,26.6167,Congo (Kinshasa),CD,COD,Maniema,,48337.0,1180335450
+Basoko,Basoko,1.2333,23.6,Congo (Kinshasa),CD,COD,Tshopo,,47970.0,1180509801
+Kasumbalesa,Kasumbalesa,-12.2564,27.8028,Congo (Kinshasa),CD,COD,Haut-Katanga,,47213.0,1180637799
+Manono,Manono,-7.2947,27.4545,Congo (Kinshasa),CD,COD,Tanganyika,,46111.0,1180968800
+Inongo,Inongo,-1.95,18.2667,Congo (Kinshasa),CD,COD,Mai-Ndombe,admin,45159.0,1180194164
+Lubao,Lubao,-5.385,25.745,Congo (Kinshasa),CD,COD,Lomami,,43068.0,1180891619
+Bukama,Bukama,-9.2,25.8333,Congo (Kinshasa),CD,COD,Haut-Lomami,,42718.0,1180047354
+Nyunzu,Nyunzu,-5.95,28.0333,Congo (Kinshasa),CD,COD,Tanganyika,,42589.0,1180921995
+Kenge,Kenge,-4.8056,17.0417,Congo (Kinshasa),CD,COD,Kwango,admin,41612.0,1180158365
+Lusambo,Lusambo,-4.9729,23.4368,Congo (Kinshasa),CD,COD,Sankuru,admin,41416.0,1180127290
+Luebo,Luebo,-5.35,21.4167,Congo (Kinshasa),CD,COD,Kasaï,,40115.0,1180012250
+Dibaya-Lubwe,Dibaya-Lubwe,-4.15,19.8667,Congo (Kinshasa),CD,COD,Kwilu,,38933.0,1180208280
+Tshela,Tshela,-4.9667,12.9333,Congo (Kinshasa),CD,COD,Kongo Central,,38845.0,1180377922
+Aketi,Aketi,2.7333,23.75,Congo (Kinshasa),CD,COD,Bas-Uélé,,38588.0,1180273302
+Mangai,Mangai,-4.0499,19.5333,Congo (Kinshasa),CD,COD,Kwilu,,37188.0,1180224936
+Kampene,Kampene,-3.5968,26.6658,Congo (Kinshasa),CD,COD,Maniema,,37034.0,1180064621
+Kambove,Kambove,-10.8764,26.5969,Congo (Kinshasa),CD,COD,Haut-Katanga,,36702.0,1180986023
+Kaniama,Kaniama,-7.5696,24.17,Congo (Kinshasa),CD,COD,Haut-Lomami,,36481.0,1180770775
+Boende,Boende,-0.281,20.876,Congo (Kinshasa),CD,COD,Tshuapa,admin,36158.0,1180688906
+Yangambi,Yangambi,0.7675,24.4414,Congo (Kinshasa),CD,COD,Tshopo,,35531.0,1180077706
+Fungurume,Fungurume,-10.6167,26.3,Congo (Kinshasa),CD,COD,Lualaba,,34104.0,1180430603
+Mushie,Mushie,-3.0167,16.9167,Congo (Kinshasa),CD,COD,Mai-Ndombe,,33062.0,1180240809
+Businga,Businga,3.3397,20.87,Congo (Kinshasa),CD,COD,Nord-Ubangi,,32584.0,1180719970
+Masi-Manimba,Masi-Manimba,-4.779,17.9077,Congo (Kinshasa),CD,COD,Kwilu,,31802.0,1180044488
+Bolobo,Bolobo,-2.1667,16.2333,Congo (Kinshasa),CD,COD,Mai-Ndombe,,31366.0,1180723089
+Kanyobagonga,Kanyobagonga,-0.702,29.1726,Congo (Kinshasa),CD,COD,Nord-Kivu,,30000.0,1180879458
+Kabalo,Kabalo,-6.05,26.9167,Congo (Kinshasa),CD,COD,Tanganyika,,29833.0,1180905835
+Djugu,Djugu,1.9184,30.5019,Congo (Kinshasa),CD,COD,Ituri,,28061.0,1180240354
+Kasangulu,Kasangulu,-4.5911,15.1703,Congo (Kinshasa),CD,COD,Kongo Central,,27961.0,1180582533
+Libenge,Libenge,3.6508,18.6375,Congo (Kinshasa),CD,COD,Sud-Ubangi,,27053.0,1180325896
+Lukula,Lukula,-5.4,12.9333,Congo (Kinshasa),CD,COD,Kongo Central,,26878.0,1180668976
+Aru,Aru,2.8617,30.8333,Congo (Kinshasa),CD,COD,Ituri,,26290.0,1180698715
+Demba,Demba,-5.5,22.2667,Congo (Kinshasa),CD,COD,Kasaï Central,,25384.0,1180021198
+Drodro,Drodro,1.7667,30.5333,Congo (Kinshasa),CD,COD,Ituri,,25000.0,1180800758
+Pepa,Pepa,-7.7106,29.776,Congo (Kinshasa),CD,COD,Tanganyika,,24767.0,1180195737
+Pweto,Pweto,-8.4667,28.9,Congo (Kinshasa),CD,COD,Haut-Katanga,,24767.0,1180628499
+Watsa,Watsa,3.0372,29.5355,Congo (Kinshasa),CD,COD,Haut-Uélé,,24516.0,1180367451
+Gungu,Gungu,-5.7333,19.3167,Congo (Kinshasa),CD,COD,Kwilu,,23893.0,1180524206
+Kasongo-Lunda,Kasongo-Lunda,-6.4783,16.8166,Congo (Kinshasa),CD,COD,Kwango,,23820.0,1180706751
+Basankusu,Basankusu,1.2222,19.8028,Congo (Kinshasa),CD,COD,Équateur,,23764.0,1180515335
+Oshwe,Oshwe,-3.4188,19.4334,Congo (Kinshasa),CD,COD,Mai-Ndombe,,22576.0,1180864578
+Bondo,Bondo,3.8167,23.6833,Congo (Kinshasa),CD,COD,Bas-Uélé,,19601.0,1180786691
+Kinzau-Vuete,Kinzau-Vuete,-5.4967,13.2893,Congo (Kinshasa),CD,COD,Kongo Central,,18676.0,1180000185
+Doruma,Doruma,4.7333,27.7,Congo (Kinshasa),CD,COD,Haut-Uélé,,18000.0,1180085699
+Sake,Sake,-1.5741,29.0413,Congo (Kinshasa),CD,COD,Nord-Kivu,,17151.0,1180647480
+Bosobolo,Bosobolo,4.1833,19.9,Congo (Kinshasa),CD,COD,Nord-Ubangi,,16397.0,1180318544
+Kiri,Kiri,-1.4955,18.9277,Congo (Kinshasa),CD,COD,Mai-Ndombe,,14612.0,1180133436
+Kamituga,Kamituga,-3.06,28.18,Congo (Kinshasa),CD,COD,Sud-Kivu,,13995.0,1180593231
+Luozi,Luozi,-4.948,14.133,Congo (Kinshasa),CD,COD,Kongo Central,,13855.0,1180949635
+Yakoma,Yakoma,4.0982,22.4432,Congo (Kinshasa),CD,COD,Nord-Ubangi,,12210.0,1180632342
+Kasaji,Kasaji,-10.3662,23.45,Congo (Kinshasa),CD,COD,Lualaba,,11969.0,1180795640
+Poko,Poko,3.15,26.8833,Congo (Kinshasa),CD,COD,Bas-Uélé,,11253.0,1180049667
+Kimpese,Kimpese,-5.5631,14.4458,Congo (Kinshasa),CD,COD,Kongo Central,,10578.0,1180273961
+Moba,Moba,-7.0398,29.7661,Congo (Kinshasa),CD,COD,Tanganyika,,10006.0,1180776583
+Dilolo,Dilolo,-10.4667,22.4667,Congo (Kinshasa),CD,COD,Lualaba,,7854.0,1180154207
+Bongandanga,Bongandanga,1.51,21.05,Congo (Kinshasa),CD,COD,Mongala,,4625.0,1180746434
+Mangbwalu,Mangbwalu,1.9352,30.0462,Congo (Kinshasa),CD,COD,Ituri,,2819.0,1180299514
+Mwenga,Mwenga,-3.0382,28.4325,Congo (Kinshasa),CD,COD,Sud-Kivu,,2216.0,1180606289
+Lubutu,Lubutu,-0.7431,26.5833,Congo (Kinshasa),CD,COD,Maniema,,1313.0,1180330836
+Buluko,Buluko,-0.757,28.528,Congo (Kinshasa),CD,COD,Nord-Kivu,,1192.0,1180000569
+Luanza,Luanza,-8.6996,28.7,Congo (Kinshasa),CD,COD,Haut-Katanga,,861.0,1180293709
+Dibaya,Dibaya,-6.5095,22.87,Congo (Kinshasa),CD,COD,Kasaï Central,,603.0,1180985189
+Ikela,Ikela,-1.1833,23.2667,Congo (Kinshasa),CD,COD,Tshuapa,,291.0,1180365335
+Lusanga,Lusanga,-5.5808,16.5143,Congo (Kinshasa),CD,COD,Kwango,,177.0,1180423801
+Bafwasende,Bafwasende,1.0103,27.1617,Congo (Kinshasa),CD,COD,Tshopo,,149.0,1180841746
+Kinshasa,Kinshasa,-4.3219,15.3119,Congo (Kinshasa),CD,COD,Kinshasa,primary,12836000.0,1180000363
+Mbuji-Mayi,Mbuji-Mayi,-6.15,23.6,Congo (Kinshasa),CD,COD,Kasaï Oriental,admin,2892000.0,1180399586
+Kananga,Kananga,-5.897,22.4488,Congo (Kinshasa),CD,COD,Kasaï Central,admin,1971704.0,1180172460
+Lubumbashi,Lubumbashi,-11.6647,27.4794,Congo (Kinshasa),CD,COD,Haut-Katanga,admin,1786397.0,1180506234
+Katako-Kombe,Katako-Kombe,-3.4,24.42,Congo (Kinshasa),CD,COD,Sankuru,,1488922.0,1180033898
+Mbandaka,Mbandaka,0.0478,18.2558,Congo (Kinshasa),CD,COD,Équateur,admin,1187837.0,1180720887
+Bukavu,Bukavu,-2.5,28.8667,Congo (Kinshasa),CD,COD,Sud-Kivu,admin,1133000.0,1180475821
+Kisangani,Kisangani,0.5167,25.2,Congo (Kinshasa),CD,COD,Tshopo,admin,1040000.0,1180478201
+Kibanseke Première,Kibanseke Premiere,-4.4419,15.395,Congo (Kinshasa),CD,COD,Kinshasa,,946372.0,1180763985
+Bunia,Bunia,1.5667,30.25,Congo (Kinshasa),CD,COD,Ituri,admin,900666.0,1180006418
+Tshikapa,Tshikapa,-6.4167,20.8,Congo (Kinshasa),CD,COD,Kasaï,admin,732000.0,1180581239
+Uvira,Uvira,-3.4,29.15,Congo (Kinshasa),CD,COD,Sud-Kivu,,590000.0,1180205443
+Likasi,Likasi,-10.9833,26.7333,Congo (Kinshasa),CD,COD,Haut-Katanga,,495000.0,1180978192
+Kolwezi,Kolwezi,-10.7167,25.4667,Congo (Kinshasa),CD,COD,Lualaba,admin,480000.0,1180380965
+Kikwit,Kikwit,-5.0386,18.8181,Congo (Kinshasa),CD,COD,Kwilu,,458000.0,1180518247
+Ndjili,Ndjili,-4.4089,15.3775,Congo (Kinshasa),CD,COD,Kinshasa,,442138.0,1180965012
+Kisenzi,Kisenzi,-4.4094,15.3425,Congo (Kinshasa),CD,COD,Kinshasa,,386151.0,1180795720
+Matadi,Matadi,-5.8167,13.4833,Congo (Kinshasa),CD,COD,Kongo Central,admin,337000.0,1180529604
+Goma,Goma,-1.6794,29.2336,Congo (Kinshasa),CD,COD,Nord-Kivu,admin,249862.0,1180805022
+Kabinda,Kabinda,-6.13,24.48,Congo (Kinshasa),CD,COD,Lomami,admin,244000.0,1180751831
+Beni,Beni,0.5,29.4667,Congo (Kinshasa),CD,COD,Nord-Kivu,,231952.0,1180325051
+Butembo,Butembo,0.15,29.2833,Congo (Kinshasa),CD,COD,Nord-Kivu,,217625.0,1180446432
+Gbadolite,Gbadolite,4.2833,21.0167,Congo (Kinshasa),CD,COD,Nord-Ubangi,admin,198839.0,1180674224
+Mwene-Ditu,Mwene-Ditu,-7.0,23.45,Congo (Kinshasa),CD,COD,Lomami,,195622.0,1180134137
+Isiro,Isiro,2.7833,27.6167,Congo (Kinshasa),CD,COD,Haut-Uélé,admin,182900.0,1180183850
+Kindu,Kindu,-2.95,25.95,Congo (Kinshasa),CD,COD,Maniema,admin,172321.0,1180106925
+Boma,Boma,-5.85,13.05,Congo (Kinshasa),CD,COD,Kongo Central,,162521.0,1180611452
+Kamina,Kamina,-8.7386,24.9906,Congo (Kinshasa),CD,COD,Haut-Lomami,admin,156761.0,1180363197
+Moanda,Moanda,-5.9342,12.3494,Congo (Kinshasa),CD,COD,Kongo Central,,153915.0,1180108441
+Kalemie,Kalemie,-5.9128,29.1906,Congo (Kinshasa),CD,COD,Tanganyika,admin,146974.0,1180574233
+Wamba,Wamba,2.1442,27.9929,Congo (Kinshasa),CD,COD,Haut-Uélé,,146871.0,1180866253
+Gandajika,Gandajika,-6.75,23.9667,Congo (Kinshasa),CD,COD,Lomami,,146217.0,1180466776
+Bandundu,Bandundu,-3.3167,17.3667,Congo (Kinshasa),CD,COD,Kwilu,admin,143435.0,1180219776
+Nsele,Nsele,-4.3744,15.4947,Congo (Kinshasa),CD,COD,Kinshasa,,140929.0,1180786924
+Gemena,Gemena,3.25,19.7667,Congo (Kinshasa),CD,COD,Sud-Ubangi,admin,138527.0,1180000163
+Kipushi,Kipushi,-11.7625,27.25,Congo (Kinshasa),CD,COD,Haut-Katanga,,132861.0,1180810333
+Baraka,Baraka,-4.1041,29.094,Congo (Kinshasa),CD,COD,Sud-Kivu,,120000.0,1180665112
+Ilebo,Ilebo,-4.3167,20.6,Congo (Kinshasa),CD,COD,Kasaï,,107093.0,1180788280
+Kongolo,Kongolo,-5.4,27.0,Congo (Kinshasa),CD,COD,Tanganyika,,105202.0,1180814807
+Bumba,Bumba,2.1844,22.4703,Congo (Kinshasa),CD,COD,Mongala,,103328.0,1180549980
+Mbanza-Ngungu,Mbanza-Ngungu,-5.25,14.8667,Congo (Kinshasa),CD,COD,Kongo Central,,100000.0,1180474388
+Lingwala,Lingwala,-4.3203,15.2983,Congo (Kinshasa),CD,COD,Kinshasa,,94635.0,1180733209
+Luvungi,Luvungi,-2.86,29.03,Congo (Kinshasa),CD,COD,Sud-Kivu,,85000.0,1180967802
+Tshilenge,Tshilenge,-6.25,23.7667,Congo (Kinshasa),CD,COD,Kasaï Oriental,,84651.0,1180504718
+Lisala,Lisala,2.1486,21.5136,Congo (Kinshasa),CD,COD,Mongala,admin,79235.0,1180477995
+Lodja,Lodja,-3.5242,23.5964,Congo (Kinshasa),CD,COD,Sankuru,,68244.0,1180001261
+Binga,Binga,2.4,20.42,Congo (Kinshasa),CD,COD,Mongala,,64639.0,1180236070
+Kasongo,Kasongo,-4.45,26.65,Congo (Kinshasa),CD,COD,Maniema,,63000.0,1180000473
+Idiofa,Idiofa,-4.9668,19.591,Congo (Kinshasa),CD,COD,Kwilu,,61056.0,1180986517
+Bakwa-Kalonji,Bakwa-Kalonji,-4.35,20.72,Congo (Kinshasa),CD,COD,Kasaï,,58092.0,1180566859
+Bulungu,Bulungu,-4.55,18.6,Congo (Kinshasa),CD,COD,Kwilu,,57168.0,1180342743
+Buta,Buta,2.8,24.7333,Congo (Kinshasa),CD,COD,Bas-Uélé,admin,55313.0,1180712204
+Mbulungu,Mbulungu,-6.0667,21.9,Congo (Kinshasa),CD,COD,Kasaï Central,,54424.0,1180152255
+Zongo,Zongo,4.3433,18.5928,Congo (Kinshasa),CD,COD,Sud-Ubangi,,53743.0,1180165321
+Hyosha,Hyosha,0.6975,29.5197,Congo (Kinshasa),CD,COD,Nord-Kivu,,52921.0,1180671131
+Dungu,Dungu,3.6167,28.5667,Congo (Kinshasa),CD,COD,Haut-Uélé,,52000.0,1180164137
+Mulongo,Mulongo,-7.8333,27.0,Congo (Kinshasa),CD,COD,Haut-Lomami,,51603.0,1180171787
+Mweka,Mweka,-4.85,21.5667,Congo (Kinshasa),CD,COD,Kasaï,,50675.0,1180140663
+Kahemba,Kahemba,-7.2829,19.0,Congo (Kinshasa),CD,COD,Kwango,,50000.0,1180689417
+Kalima,Kalima,-2.5667,26.6167,Congo (Kinshasa),CD,COD,Maniema,,48337.0,1180335450
+Basoko,Basoko,1.2333,23.6,Congo (Kinshasa),CD,COD,Tshopo,,47970.0,1180509801
+Kasumbalesa,Kasumbalesa,-12.2564,27.8028,Congo (Kinshasa),CD,COD,Haut-Katanga,,47213.0,1180637799
+Manono,Manono,-7.2947,27.4545,Congo (Kinshasa),CD,COD,Tanganyika,,46111.0,1180968800
+Inongo,Inongo,-1.95,18.2667,Congo (Kinshasa),CD,COD,Mai-Ndombe,admin,45159.0,1180194164
+Lubao,Lubao,-5.385,25.745,Congo (Kinshasa),CD,COD,Lomami,,43068.0,1180891619
+Bukama,Bukama,-9.2,25.8333,Congo (Kinshasa),CD,COD,Haut-Lomami,,42718.0,1180047354
+Nyunzu,Nyunzu,-5.95,28.0333,Congo (Kinshasa),CD,COD,Tanganyika,,42589.0,1180921995
+Kenge,Kenge,-4.8056,17.0417,Congo (Kinshasa),CD,COD,Kwango,admin,41612.0,1180158365
+Lusambo,Lusambo,-4.9729,23.4368,Congo (Kinshasa),CD,COD,Sankuru,admin,41416.0,1180127290
+Luebo,Luebo,-5.35,21.4167,Congo (Kinshasa),CD,COD,Kasaï,,40115.0,1180012250
+Dibaya-Lubwe,Dibaya-Lubwe,-4.15,19.8667,Congo (Kinshasa),CD,COD,Kwilu,,38933.0,1180208280
+Tshela,Tshela,-4.9667,12.9333,Congo (Kinshasa),CD,COD,Kongo Central,,38845.0,1180377922
+Aketi,Aketi,2.7333,23.75,Congo (Kinshasa),CD,COD,Bas-Uélé,,38588.0,1180273302
+Mangai,Mangai,-4.0499,19.5333,Congo (Kinshasa),CD,COD,Kwilu,,37188.0,1180224936
+Kampene,Kampene,-3.5968,26.6658,Congo (Kinshasa),CD,COD,Maniema,,37034.0,1180064621
+Kambove,Kambove,-10.8764,26.5969,Congo (Kinshasa),CD,COD,Haut-Katanga,,36702.0,1180986023
+Kaniama,Kaniama,-7.5696,24.17,Congo (Kinshasa),CD,COD,Haut-Lomami,,36481.0,1180770775
+Boende,Boende,-0.281,20.876,Congo (Kinshasa),CD,COD,Tshuapa,admin,36158.0,1180688906
+Yangambi,Yangambi,0.7675,24.4414,Congo (Kinshasa),CD,COD,Tshopo,,35531.0,1180077706
+Fungurume,Fungurume,-10.6167,26.3,Congo (Kinshasa),CD,COD,Lualaba,,34104.0,1180430603
+Mushie,Mushie,-3.0167,16.9167,Congo (Kinshasa),CD,COD,Mai-Ndombe,,33062.0,1180240809
+Businga,Businga,3.3397,20.87,Congo (Kinshasa),CD,COD,Nord-Ubangi,,32584.0,1180719970
+Masi-Manimba,Masi-Manimba,-4.779,17.9077,Congo (Kinshasa),CD,COD,Kwilu,,31802.0,1180044488
+Bolobo,Bolobo,-2.1667,16.2333,Congo (Kinshasa),CD,COD,Mai-Ndombe,,31366.0,1180723089
+Kanyobagonga,Kanyobagonga,-0.702,29.1726,Congo (Kinshasa),CD,COD,Nord-Kivu,,30000.0,1180879458
+Kabalo,Kabalo,-6.05,26.9167,Congo (Kinshasa),CD,COD,Tanganyika,,29833.0,1180905835
+Djugu,Djugu,1.9184,30.5019,Congo (Kinshasa),CD,COD,Ituri,,28061.0,1180240354
+Kasangulu,Kasangulu,-4.5911,15.1703,Congo (Kinshasa),CD,COD,Kongo Central,,27961.0,1180582533
+Libenge,Libenge,3.6508,18.6375,Congo (Kinshasa),CD,COD,Sud-Ubangi,,27053.0,1180325896
+Lukula,Lukula,-5.4,12.9333,Congo (Kinshasa),CD,COD,Kongo Central,,26878.0,1180668976
+Aru,Aru,2.8617,30.8333,Congo (Kinshasa),CD,COD,Ituri,,26290.0,1180698715
+Demba,Demba,-5.5,22.2667,Congo (Kinshasa),CD,COD,Kasaï Central,,25384.0,1180021198
+Drodro,Drodro,1.7667,30.5333,Congo (Kinshasa),CD,COD,Ituri,,25000.0,1180800758
+Pepa,Pepa,-7.7106,29.776,Congo (Kinshasa),CD,COD,Tanganyika,,24767.0,1180195737
+Pweto,Pweto,-8.4667,28.9,Congo (Kinshasa),CD,COD,Haut-Katanga,,24767.0,1180628499
+Watsa,Watsa,3.0372,29.5355,Congo (Kinshasa),CD,COD,Haut-Uélé,,24516.0,1180367451
+Gungu,Gungu,-5.7333,19.3167,Congo (Kinshasa),CD,COD,Kwilu,,23893.0,1180524206
+Kasongo-Lunda,Kasongo-Lunda,-6.4783,16.8166,Congo (Kinshasa),CD,COD,Kwango,,23820.0,1180706751
+Basankusu,Basankusu,1.2222,19.8028,Congo (Kinshasa),CD,COD,Équateur,,23764.0,1180515335
+Oshwe,Oshwe,-3.4188,19.4334,Congo (Kinshasa),CD,COD,Mai-Ndombe,,22576.0,1180864578
+Bondo,Bondo,3.8167,23.6833,Congo (Kinshasa),CD,COD,Bas-Uélé,,19601.0,1180786691
+Kinzau-Vuete,Kinzau-Vuete,-5.4967,13.2893,Congo (Kinshasa),CD,COD,Kongo Central,,18676.0,1180000185
+Doruma,Doruma,4.7333,27.7,Congo (Kinshasa),CD,COD,Haut-Uélé,,18000.0,1180085699
+Sake,Sake,-1.5741,29.0413,Congo (Kinshasa),CD,COD,Nord-Kivu,,17151.0,1180647480
+Bosobolo,Bosobolo,4.1833,19.9,Congo (Kinshasa),CD,COD,Nord-Ubangi,,16397.0,1180318544
+Kiri,Kiri,-1.4955,18.9277,Congo (Kinshasa),CD,COD,Mai-Ndombe,,14612.0,1180133436
+Kamituga,Kamituga,-3.06,28.18,Congo (Kinshasa),CD,COD,Sud-Kivu,,13995.0,1180593231
+Luozi,Luozi,-4.948,14.133,Congo (Kinshasa),CD,COD,Kongo Central,,13855.0,1180949635
+Yakoma,Yakoma,4.0982,22.4432,Congo (Kinshasa),CD,COD,Nord-Ubangi,,12210.0,1180632342
+Kasaji,Kasaji,-10.3662,23.45,Congo (Kinshasa),CD,COD,Lualaba,,11969.0,1180795640
+Poko,Poko,3.15,26.8833,Congo (Kinshasa),CD,COD,Bas-Uélé,,11253.0,1180049667
+Kimpese,Kimpese,-5.5631,14.4458,Congo (Kinshasa),CD,COD,Kongo Central,,10578.0,1180273961
+Moba,Moba,-7.0398,29.7661,Congo (Kinshasa),CD,COD,Tanganyika,,10006.0,1180776583
+Dilolo,Dilolo,-10.4667,22.4667,Congo (Kinshasa),CD,COD,Lualaba,,7854.0,1180154207
+Bongandanga,Bongandanga,1.51,21.05,Congo (Kinshasa),CD,COD,Mongala,,4625.0,1180746434
+Mangbwalu,Mangbwalu,1.9352,30.0462,Congo (Kinshasa),CD,COD,Ituri,,2819.0,1180299514
+Mwenga,Mwenga,-3.0382,28.4325,Congo (Kinshasa),CD,COD,Sud-Kivu,,2216.0,1180606289
+Lubutu,Lubutu,-0.7431,26.5833,Congo (Kinshasa),CD,COD,Maniema,,1313.0,1180330836
+Buluko,Buluko,-0.757,28.528,Congo (Kinshasa),CD,COD,Nord-Kivu,,1192.0,1180000569
+Luanza,Luanza,-8.6996,28.7,Congo (Kinshasa),CD,COD,Haut-Katanga,,861.0,1180293709
+Dibaya,Dibaya,-6.5095,22.87,Congo (Kinshasa),CD,COD,Kasaï Central,,603.0,1180985189
+Ikela,Ikela,-1.1833,23.2667,Congo (Kinshasa),CD,COD,Tshuapa,,291.0,1180365335
+Lusanga,Lusanga,-5.5808,16.5143,Congo (Kinshasa),CD,COD,Kwango,,177.0,1180423801
+Bafwasende,Bafwasende,1.0103,27.1617,Congo (Kinshasa),CD,COD,Tshopo,,149.0,1180841746

@@ -1,0 +1,15 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+São Tomé,Sao Tome,0.3361,6.7306,Sao Tome and Principe,ST,STP,Água Grande,primary,65468.0,1678301324
+Santana,Santana,0.2583,6.7417,Sao Tome and Principe,ST,STP,Cantagalo,admin,10290.0,1678081464
+Neves,Neves,0.3592,6.5517,Sao Tome and Principe,ST,STP,Lembá,admin,10068.0,1678563060
+Guadalupe,Guadalupe,0.38,6.6381,Sao Tome and Principe,ST,STP,Lobata,admin,7604.0,1678998597
+Trindade,Trindade,0.3,6.6833,Sao Tome and Principe,ST,STP,Mé-Zóchi,admin,6636.0,1678096936
+São João dos Angolares,Sao Joao dos Angolares,0.1333,6.65,Sao Tome and Principe,ST,STP,Caué,admin,3605.0,1678826533
+Santo António,Santo Antonio,1.6367,7.4178,Sao Tome and Principe,ST,STP,Príncipe,admin,1300.0,1678729743
+São Tomé,Sao Tome,0.3361,6.7306,Sao Tome and Principe,ST,STP,Água Grande,primary,65468.0,1678301324
+Santana,Santana,0.2583,6.7417,Sao Tome and Principe,ST,STP,Cantagalo,admin,10290.0,1678081464
+Neves,Neves,0.3592,6.5517,Sao Tome and Principe,ST,STP,Lembá,admin,10068.0,1678563060
+Guadalupe,Guadalupe,0.38,6.6381,Sao Tome and Principe,ST,STP,Lobata,admin,7604.0,1678998597
+Trindade,Trindade,0.3,6.6833,Sao Tome and Principe,ST,STP,Mé-Zóchi,admin,6636.0,1678096936
+São João dos Angolares,Sao Joao dos Angolares,0.1333,6.65,Sao Tome and Principe,ST,STP,Caué,admin,3605.0,1678826533
+Santo António,Santo Antonio,1.6367,7.4178,Sao Tome and Principe,ST,STP,Príncipe,admin,1300.0,1678729743

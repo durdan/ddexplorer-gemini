@@ -1,0 +1,285 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Luanda,Luanda,-8.8383,13.2344,Angola,AO,AGO,Luanda,primary,9051000.0,1024949724
+Cacuaco,Cacuaco,-8.8053,13.2444,Angola,AO,AGO,Luanda,,1279488.0,1024559448
+Cazenga,Cazenga,-8.8214,13.2911,Angola,AO,AGO,Luanda,,1045722.0,1024791607
+Lubango,Lubango,-14.9167,13.5,Angola,AO,AGO,Huíla,admin,776249.0,1024669127
+Cabinda,Cabinda,-5.56,12.19,Angola,AO,AGO,Cabinda,admin,739182.0,1024474012
+Huambo,Huambo,-12.7767,15.7347,Angola,AO,AGO,Huambo,admin,665564.0,1024079828
+Malanje,Malanje,-9.5333,16.35,Angola,AO,AGO,Malanje,admin,604215.0,1024774947
+Benguela,Benguela,-12.55,13.4167,Angola,AO,AGO,Benguela,admin,512886.0,1024141961
+Belas,Belas,-8.9983,13.265,Angola,AO,AGO,Luanda,,500000.0,1024196826
+Talatona,Talatona,-8.9167,13.1833,Angola,AO,AGO,Luanda,,500000.0,1024988332
+Lobito,Lobito,-12.3667,13.5333,Angola,AO,AGO,Benguela,,393079.0,1024128946
+Saurimo,Saurimo,-9.65,20.4,Angola,AO,AGO,Lunda-Sul,admin,393000.0,1024326839
+Cubal,Cubal,-13.0333,14.25,Angola,AO,AGO,Benguela,,357618.0,1024580158
+Luena,Luena,-11.7918,19.9062,Angola,AO,AGO,Moxico,admin,357413.0,1024283760
+Cuito,Cuito,-12.3833,16.9333,Angola,AO,AGO,Bié,admin,355423.0,1024939858
+Uíge,Uige,-7.6167,15.05,Angola,AO,AGO,Uíge,admin,322531.0,1024666275
+Menongue,Menongue,-14.6556,17.6842,Angola,AO,AGO,Cuando Cubango,admin,320914.0,1024725650
+Vila Teixeira da Silva,Vila Teixeira da Silva,-12.1958,15.8556,Angola,AO,AGO,Huambo,,294494.0,1024863343
+Sumbe,Sumbe,-11.2053,13.8417,Angola,AO,AGO,Cuanza-Sul,admin,279968.0,1024297937
+Gabela,Gabela,-10.85,14.3667,Angola,AO,AGO,Cuanza-Sul,,271843.0,1024159015
+Ndulo,Ndulo,-11.4833,15.8333,Angola,AO,AGO,Huambo,,258161.0,1024783572
+Moçâmedes,Mocamedes,-15.1953,12.1508,Angola,AO,AGO,Namibe,admin,255000.0,1024785067
+Ganda,Ganda,-13.0167,14.6333,Angola,AO,AGO,Benguela,,235486.0,1024320952
+Uacu Cungo,Uacu Cungo,-11.3583,15.1194,Angola,AO,AGO,Cuanza-Sul,,225520.0,1024677127
+Barra do Dande,Barra do Dande,-8.4728,13.3731,Angola,AO,AGO,Bengo,,222528.0,1024937810
+Soio,Soio,-6.1333,12.3667,Angola,AO,AGO,Zaire,,200920.0,1024903782
+Tchitato,Tchitato,-7.3667,20.8333,Angola,AO,AGO,Lunda-Norte,,195136.0,1024883433
+Chibia,Chibia,-15.1833,13.7,Angola,AO,AGO,Huíla,,190670.0,1024017930
+Ucu Seles,Ucu Seles,-11.4047,14.3006,Angola,AO,AGO,Cuanza-Sul,,187127.0,1024868244
+Cuango,Cuango,-9.1444,18.0464,Angola,AO,AGO,Lunda-Norte,,183767.0,1024514740
+Mbanza Kongo,Mbanza Kongo,-6.2678,14.2481,Angola,AO,AGO,Zaire,admin,180329.0,1024532464
+Caluquembe,Caluquembe,-13.7833,14.6833,Angola,AO,AGO,Huíla,,179931.0,1024346445
+Dundo,Dundo,-7.3801,20.8351,Angola,AO,AGO,Lunda-Norte,admin,177604.0,1024121799
+Catumbela,Catumbela,-12.4339,13.5433,Angola,AO,AGO,Benguela,,175805.0,1024821574
+Cazanga,Cazanga,-9.3,14.95,Angola,AO,AGO,Cuanza-Norte,,171743.0,1024657411
+Caluquembe,Caluquembe,-13.9208,14.5347,Angola,AO,AGO,Huíla,,169420.0,1024240126
+Catape,Catape,-13.7667,15.0833,Angola,AO,AGO,Huíla,,167820.0,1024321158
+Ebo,Ebo,-11.0,14.6667,Angola,AO,AGO,Cuanza-Sul,,165129.0,1024334702
+Bocoio,Bocoio,-12.45,14.15,Angola,AO,AGO,Benguela,,164685.0,1024922883
+Quibala,Quibala,-10.7333,14.9833,Angola,AO,AGO,Cuanza-Sul,,163991.0,1024007950
+Ndalatando,Ndalatando,-9.3,14.9167,Angola,AO,AGO,Cuanza-Norte,admin,161584.0,1024645515
+Quipungo,Quipungo,-14.8167,14.55,Angola,AO,AGO,Huíla,,158918.0,1024929138
+Camacupa,Camacupa,-12.0256,17.4686,Angola,AO,AGO,Bié,,154928.0,1024037086
+Lucapa,Lucapa,-8.4228,20.7392,Angola,AO,AGO,Lunda-Norte,,154305.0,1024056286
+Maquela do Zombo,Maquela do Zombo,-6.05,15.1167,Angola,AO,AGO,Uíge,,146908.0,1024582197
+Namacunde,Namacunde,-17.3,15.85,Angola,AO,AGO,Cunene,,142047.0,1024843393
+Negage,Negage,-7.7667,15.2667,Angola,AO,AGO,Uíge,,137559.0,1024978551
+Porto Amboim,Porto Amboim,-10.7183,13.75,Angola,AO,AGO,Cuanza-Sul,,137000.0,1024818756
+Quimbele,Quimbele,-6.5167,16.2167,Angola,AO,AGO,Uíge,,136496.0,1024357792
+Londuimbali,Londuimbali,-12.2419,15.3133,Angola,AO,AGO,Huambo,,134254.0,1024280825
+Chicomba,Chicomba,-14.1333,14.9167,Angola,AO,AGO,Huíla,,131807.0,1024892795
+Chinguar,Chinguar,-12.55,16.3333,Angola,AO,AGO,Bié,,129370.0,1024191137
+Catabola,Catabola,-12.1167,17.3,Angola,AO,AGO,Bié,,126631.0,1024994288
+Ondjiva,Ondjiva,-17.0667,15.7333,Angola,AO,AGO,Cunene,admin,121537.0,1024504085
+Catchiungo,Catchiungo,-12.5667,16.2333,Angola,AO,AGO,Huambo,,120677.0,1024414170
+Cassongue,Cassongue,-11.8333,15.0,Angola,AO,AGO,Cuanza-Sul,,117000.0,1024511668
+Quilengues,Quilengues,-14.0814,14.0931,Angola,AO,AGO,Huíla,,113825.0,1024895987
+Mungo,Mungo,-11.6667,16.1667,Angola,AO,AGO,Huambo,,113417.0,1024065318
+Balombo,Balombo,-12.35,14.7667,Angola,AO,AGO,Benguela,,108965.0,1024251027
+Baía Farta,Baia Farta,-12.6072,13.1944,Angola,AO,AGO,Benguela,,107841.0,1024743438
+Ndjamba,Ndjamba,-14.7,16.0667,Angola,AO,AGO,Huíla,,105090.0,1024911597
+Quilenda,Quilenda,-10.6333,14.3333,Angola,AO,AGO,Cuanza-Sul,,97648.0,1024011632
+Caimbambo,Caimbambo,-12.9,14.0833,Angola,AO,AGO,Benguela,,90838.0,1024891825
+Cambambe,Cambambe,-9.7586,14.5122,Angola,AO,AGO,Cuanza-Norte,,90766.0,1024312565
+Luau,Luau,-10.7044,22.2283,Angola,AO,AGO,Moxico,,90000.0,1024699465
+Conda,Conda,-11.1667,14.5,Angola,AO,AGO,Cuanza-Sul,,89479.0,1024402215
+Humpata,Humpata,-15.0,13.3333,Angola,AO,AGO,Huíla,,89144.0,1024063224
+Chongoroi,Chongoroi,-13.5667,13.95,Angola,AO,AGO,Benguela,,87278.0,1024105319
+Longonjo,Longonjo,-12.9067,15.1864,Angola,AO,AGO,Huambo,,86795.0,1024081092
+Calandala,Calandala,-9.0667,17.9,Angola,AO,AGO,Lunda-Norte,,80415.0,1024525047
+Kuvango,Kuvango,-14.4667,16.3,Angola,AO,AGO,Huíla,,78543.0,1024458480
+Chitembo,Chitembo,-13.5167,16.7667,Angola,AO,AGO,Bié,,78156.0,1024103269
+Chitemo,Chitemo,-13.4872,17.1919,Angola,AO,AGO,Bié,,78156.0,1024290778
+Caxito,Caxito,-8.58,13.6642,Angola,AO,AGO,Bengo,admin,77276.0,1024050171
+Cunhinga,Cunhinga,-12.2333,16.7833,Angola,AO,AGO,Bié,,73826.0,1024704961
+Dondo,Dondo,-9.6942,14.4228,Angola,AO,AGO,Cuanza-Norte,,71715.0,1024323066
+Xangongo,Xangongo,-16.7467,14.9747,Angola,AO,AGO,Cunene,,70568.0,1024323582
+Cahama,Cahama,-16.2833,14.3167,Angola,AO,AGO,Cunene,,70061.0,1024638606
+Cuímba,Cuimba,-6.1178,14.6172,Angola,AO,AGO,Zaire,,69194.0,1024304233
+Sanza Pombo,Sanza Pombo,-7.3333,16.0,Angola,AO,AGO,Uíge,,68391.0,1024770580
+Xá Muteba,Xa Muteba,-9.5167,17.8167,Angola,AO,AGO,Lunda-Norte,,68114.0,1024707533
+Damba,Damba,-6.8833,15.0167,Angola,AO,AGO,Uíge,,66472.0,1024463978
+Chipindo,Chipindo,-13.8244,15.8,Angola,AO,AGO,Huíla,,64714.0,1024089157
+Camabatela,Camabatela,-8.1833,15.3667,Angola,AO,AGO,Cuanza-Norte,,61769.0,1024701540
+Sungo,Sungo,-11.2333,14.3167,Angola,AO,AGO,Cuanza-Sul,,61682.0,1024019988
+Nambuangongo,Nambuangongo,-8.0167,14.2,Angola,AO,AGO,Bengo,,60883.0,1024536521
+Calulo,Calulo,-10.0007,14.901,Angola,AO,AGO,Cuanza-Sul,,60709.0,1024545873
+Capenda Camulemba,Capenda Camulemba,-9.4233,18.4328,Angola,AO,AGO,Lunda-Norte,,58285.0,1024864144
+Cuvelai,Cuvelai,-15.6667,15.8,Angola,AO,AGO,Cunene,,57398.0,1024585667
+Nova Esperança,Nova Esperanca,-6.7333,15.9,Angola,AO,AGO,Uíge,,57248.0,1024795482
+Cuemba,Cuemba,-12.15,18.0833,Angola,AO,AGO,Bié,,56963.0,1024686026
+Porto Alexandre,PortoAlexandre,-15.8,11.85,Angola,AO,AGO,Namibe,,55494.0,1024489244
+Ucuma,Ucuma,-12.85,15.0667,Angola,AO,AGO,Huambo,,55054.0,1024023900
+Luquembo,Luquembo,-10.7333,17.8833,Angola,AO,AGO,Malanje,,54880.0,1024564888
+Cangola,Cangola,-7.9667,15.8667,Angola,AO,AGO,Uíge,,53720.0,1024204807
+Cambundi Catembo,Cambundi Catembo,-10.0756,17.5569,Angola,AO,AGO,Malanje,,53600.0,1024471573
+Cangandala,Cangandala,-9.7833,16.4333,Angola,AO,AGO,Malanje,,52220.0,1024477783
+Cacongo,Cacongo,-5.2333,12.1333,Angola,AO,AGO,Cabinda,,48801.0,1024356360
+Tombôco,Tomboco,-6.8,13.3,Angola,AO,AGO,Zaire,,46025.0,1024009732
+Mucaba,Mucaba,-7.1667,14.9333,Angola,AO,AGO,Uíge,,43974.0,1024000008
+Cuchi,Cuchi,-14.65,16.9,Angola,AO,AGO,Cuando Cubango,,42974.0,1024135358
+Cuito Cuanavale,Cuito Cuanavale,-15.1667,19.1667,Angola,AO,AGO,Cuando Cubango,,40829.0,1024195525
+Cacuso,Cacuso,-8.2333,15.35,Angola,AO,AGO,Cuanza-Norte,,39302.0,1024893780
+Puri,Puri,-7.6833,15.6,Angola,AO,AGO,Uíge,,37910.0,1024000079
+Quilevo,Quilevo,-7.6167,15.05,Angola,AO,AGO,Uíge,,34297.0,1024896848
+Golungo Alto,Golungo Alto,-9.1333,14.7667,Angola,AO,AGO,Cuanza-Norte,,33834.0,1024406694
+Muconda,Muconda,-10.6,21.3167,Angola,AO,AGO,Lunda-Sul,,33264.0,1024646532
+Bembe,Bembe,-7.1,14.45,Angola,AO,AGO,Uíge,,32955.0,1024112632
+Massango,Massango,-11.3167,14.9333,Angola,AO,AGO,Cuanza-Sul,,32918.0,1024770645
+Buco Zau,Buco Zau,-4.95,12.6167,Angola,AO,AGO,Cabinda,,32792.0,1024523085
+Virei,Virei,-15.7167,12.95,Angola,AO,AGO,Namibe,,32445.0,1024726045
+Cacolo,Cacolo,-10.1333,19.2667,Angola,AO,AGO,Lunda-Sul,,31895.0,1024592975
+Tchindjendje,Tchindjendje,-12.8167,14.9333,Angola,AO,AGO,Huambo,,30443.0,1024902504
+Mucari,Mucari,-9.4667,16.9167,Angola,AO,AGO,Malanje,,30112.0,1024127704
+Dala,Dala,-11.0342,20.2036,Angola,AO,AGO,Lunda-Sul,,29991.0,1024514204
+Marimba,Marimba,-8.3667,17.0167,Angola,AO,AGO,Malanje,,26180.0,1024422457
+Nóqui,Noqui,-5.8681,13.4325,Angola,AO,AGO,Zaire,,23880.0,1024465001
+Ambriz,Ambriz,-7.85,13.1167,Angola,AO,AGO,Bengo,,22712.0,1024609563
+Lucala,Lucala,-9.6333,14.0667,Angola,AO,AGO,Bengo,,22674.0,1024404685
+Samba Cango,Samba Cango,-9.1,15.55,Angola,AO,AGO,Malanje,,21918.0,1024281729
+Caombo,Caombo,-8.7,16.5167,Angola,AO,AGO,Malanje,,21511.0,1024957584
+Quirima,Quirima,-10.9,18.0833,Angola,AO,AGO,Malanje,,21134.0,1024880976
+Alto-Cuilo,Alto-Cuilo,-10.05,19.5167,Angola,AO,AGO,Lunda-Sul,,21004.0,1024029875
+Cuilo,Cuilo,-8.2371,19.5238,Angola,AO,AGO,Lunda-Norte,,21004.0,1024170131
+Quela,Quela,-9.3833,17.05,Angola,AO,AGO,Malanje,,20949.0,1024948229
+Luacano,Luacano,-11.2167,21.65,Angola,AO,AGO,Moxico,,20755.0,1024333482
+Lubalo,Lubalo,-9.15,19.2833,Angola,AO,AGO,Lunda-Norte,,20631.0,1024568664
+Quibaxi,Quibaxi,-8.5,14.5833,Angola,AO,AGO,Bengo,,18176.0,1024593185
+Ambiula,Ambiula,-7.4333,14.65,Angola,AO,AGO,Uíge,,18118.0,1024070190
+Quimavango,Quimavango,-7.62,13.03,Angola,AO,AGO,Zaire,,15741.0,1024629174
+Bolongongo,Bolongongo,-8.4667,15.25,Angola,AO,AGO,Cuanza-Norte,,13019.0,1024319966
+Cunda diá Baze,Cunda dia Baze,-8.9167,17.0667,Angola,AO,AGO,Malanje,,12620.0,1024847614
+Nzeto,Nzeto,-7.2333,12.8667,Angola,AO,AGO,Zaire,,11633.0,1024025450
+Songo,Songo,-7.3496,14.85,Angola,AO,AGO,Uíge,,10579.0,1024923411
+Bibala,Bibala,-14.7667,13.35,Angola,AO,AGO,Namibe,,10500.0,1024136533
+Banga,Banga,-8.7333,15.1667,Angola,AO,AGO,Cuanza-Norte,,10354.0,1024994846
+Quiculungo,Quiculungo,-8.5167,15.3167,Angola,AO,AGO,Cuanza-Norte,,9732.0,1024301079
+Chibemba,Chibemba,-15.7355,13.8905,Angola,AO,AGO,Huíla,,1502.0,1024009942
+Bala Cangamba,Bala Cangamba,-13.6833,19.8667,Angola,AO,AGO,Moxico,,1307.0,1024668438
+Calenga,Calenga,-11.3196,16.2,Angola,AO,AGO,Bié,,531.0,1024822780
+Tchitado,Tchitado,-17.3167,13.9167,Angola,AO,AGO,Cunene,,500.0,1024158837
+Cazombo,Cazombo,-11.9058,22.9217,Angola,AO,AGO,Moxico,,298.0,1024334740
+Luanda,Luanda,-8.8383,13.2344,Angola,AO,AGO,Luanda,primary,9051000.0,1024949724
+Cacuaco,Cacuaco,-8.8053,13.2444,Angola,AO,AGO,Luanda,,1279488.0,1024559448
+Cazenga,Cazenga,-8.8214,13.2911,Angola,AO,AGO,Luanda,,1045722.0,1024791607
+Lubango,Lubango,-14.9167,13.5,Angola,AO,AGO,Huíla,admin,776249.0,1024669127
+Cabinda,Cabinda,-5.56,12.19,Angola,AO,AGO,Cabinda,admin,739182.0,1024474012
+Huambo,Huambo,-12.7767,15.7347,Angola,AO,AGO,Huambo,admin,665564.0,1024079828
+Malanje,Malanje,-9.5333,16.35,Angola,AO,AGO,Malanje,admin,604215.0,1024774947
+Benguela,Benguela,-12.55,13.4167,Angola,AO,AGO,Benguela,admin,512886.0,1024141961
+Belas,Belas,-8.9983,13.265,Angola,AO,AGO,Luanda,,500000.0,1024196826
+Talatona,Talatona,-8.9167,13.1833,Angola,AO,AGO,Luanda,,500000.0,1024988332
+Lobito,Lobito,-12.3667,13.5333,Angola,AO,AGO,Benguela,,393079.0,1024128946
+Saurimo,Saurimo,-9.65,20.4,Angola,AO,AGO,Lunda-Sul,admin,393000.0,1024326839
+Cubal,Cubal,-13.0333,14.25,Angola,AO,AGO,Benguela,,357618.0,1024580158
+Luena,Luena,-11.7918,19.9062,Angola,AO,AGO,Moxico,admin,357413.0,1024283760
+Cuito,Cuito,-12.3833,16.9333,Angola,AO,AGO,Bié,admin,355423.0,1024939858
+Uíge,Uige,-7.6167,15.05,Angola,AO,AGO,Uíge,admin,322531.0,1024666275
+Menongue,Menongue,-14.6556,17.6842,Angola,AO,AGO,Cuando Cubango,admin,320914.0,1024725650
+Vila Teixeira da Silva,Vila Teixeira da Silva,-12.1958,15.8556,Angola,AO,AGO,Huambo,,294494.0,1024863343
+Sumbe,Sumbe,-11.2053,13.8417,Angola,AO,AGO,Cuanza-Sul,admin,279968.0,1024297937
+Gabela,Gabela,-10.85,14.3667,Angola,AO,AGO,Cuanza-Sul,,271843.0,1024159015
+Ndulo,Ndulo,-11.4833,15.8333,Angola,AO,AGO,Huambo,,258161.0,1024783572
+Moçâmedes,Mocamedes,-15.1953,12.1508,Angola,AO,AGO,Namibe,admin,255000.0,1024785067
+Ganda,Ganda,-13.0167,14.6333,Angola,AO,AGO,Benguela,,235486.0,1024320952
+Uacu Cungo,Uacu Cungo,-11.3583,15.1194,Angola,AO,AGO,Cuanza-Sul,,225520.0,1024677127
+Barra do Dande,Barra do Dande,-8.4728,13.3731,Angola,AO,AGO,Bengo,,222528.0,1024937810
+Soio,Soio,-6.1333,12.3667,Angola,AO,AGO,Zaire,,200920.0,1024903782
+Tchitato,Tchitato,-7.3667,20.8333,Angola,AO,AGO,Lunda-Norte,,195136.0,1024883433
+Chibia,Chibia,-15.1833,13.7,Angola,AO,AGO,Huíla,,190670.0,1024017930
+Ucu Seles,Ucu Seles,-11.4047,14.3006,Angola,AO,AGO,Cuanza-Sul,,187127.0,1024868244
+Cuango,Cuango,-9.1444,18.0464,Angola,AO,AGO,Lunda-Norte,,183767.0,1024514740
+Mbanza Kongo,Mbanza Kongo,-6.2678,14.2481,Angola,AO,AGO,Zaire,admin,180329.0,1024532464
+Caluquembe,Caluquembe,-13.7833,14.6833,Angola,AO,AGO,Huíla,,179931.0,1024346445
+Dundo,Dundo,-7.3801,20.8351,Angola,AO,AGO,Lunda-Norte,admin,177604.0,1024121799
+Catumbela,Catumbela,-12.4339,13.5433,Angola,AO,AGO,Benguela,,175805.0,1024821574
+Cazanga,Cazanga,-9.3,14.95,Angola,AO,AGO,Cuanza-Norte,,171743.0,1024657411
+Caluquembe,Caluquembe,-13.9208,14.5347,Angola,AO,AGO,Huíla,,169420.0,1024240126
+Catape,Catape,-13.7667,15.0833,Angola,AO,AGO,Huíla,,167820.0,1024321158
+Ebo,Ebo,-11.0,14.6667,Angola,AO,AGO,Cuanza-Sul,,165129.0,1024334702
+Bocoio,Bocoio,-12.45,14.15,Angola,AO,AGO,Benguela,,164685.0,1024922883
+Quibala,Quibala,-10.7333,14.9833,Angola,AO,AGO,Cuanza-Sul,,163991.0,1024007950
+Ndalatando,Ndalatando,-9.3,14.9167,Angola,AO,AGO,Cuanza-Norte,admin,161584.0,1024645515
+Quipungo,Quipungo,-14.8167,14.55,Angola,AO,AGO,Huíla,,158918.0,1024929138
+Camacupa,Camacupa,-12.0256,17.4686,Angola,AO,AGO,Bié,,154928.0,1024037086
+Lucapa,Lucapa,-8.4228,20.7392,Angola,AO,AGO,Lunda-Norte,,154305.0,1024056286
+Maquela do Zombo,Maquela do Zombo,-6.05,15.1167,Angola,AO,AGO,Uíge,,146908.0,1024582197
+Namacunde,Namacunde,-17.3,15.85,Angola,AO,AGO,Cunene,,142047.0,1024843393
+Negage,Negage,-7.7667,15.2667,Angola,AO,AGO,Uíge,,137559.0,1024978551
+Porto Amboim,Porto Amboim,-10.7183,13.75,Angola,AO,AGO,Cuanza-Sul,,137000.0,1024818756
+Quimbele,Quimbele,-6.5167,16.2167,Angola,AO,AGO,Uíge,,136496.0,1024357792
+Londuimbali,Londuimbali,-12.2419,15.3133,Angola,AO,AGO,Huambo,,134254.0,1024280825
+Chicomba,Chicomba,-14.1333,14.9167,Angola,AO,AGO,Huíla,,131807.0,1024892795
+Chinguar,Chinguar,-12.55,16.3333,Angola,AO,AGO,Bié,,129370.0,1024191137
+Catabola,Catabola,-12.1167,17.3,Angola,AO,AGO,Bié,,126631.0,1024994288
+Ondjiva,Ondjiva,-17.0667,15.7333,Angola,AO,AGO,Cunene,admin,121537.0,1024504085
+Catchiungo,Catchiungo,-12.5667,16.2333,Angola,AO,AGO,Huambo,,120677.0,1024414170
+Cassongue,Cassongue,-11.8333,15.0,Angola,AO,AGO,Cuanza-Sul,,117000.0,1024511668
+Quilengues,Quilengues,-14.0814,14.0931,Angola,AO,AGO,Huíla,,113825.0,1024895987
+Mungo,Mungo,-11.6667,16.1667,Angola,AO,AGO,Huambo,,113417.0,1024065318
+Balombo,Balombo,-12.35,14.7667,Angola,AO,AGO,Benguela,,108965.0,1024251027
+Baía Farta,Baia Farta,-12.6072,13.1944,Angola,AO,AGO,Benguela,,107841.0,1024743438
+Ndjamba,Ndjamba,-14.7,16.0667,Angola,AO,AGO,Huíla,,105090.0,1024911597
+Quilenda,Quilenda,-10.6333,14.3333,Angola,AO,AGO,Cuanza-Sul,,97648.0,1024011632
+Caimbambo,Caimbambo,-12.9,14.0833,Angola,AO,AGO,Benguela,,90838.0,1024891825
+Cambambe,Cambambe,-9.7586,14.5122,Angola,AO,AGO,Cuanza-Norte,,90766.0,1024312565
+Luau,Luau,-10.7044,22.2283,Angola,AO,AGO,Moxico,,90000.0,1024699465
+Conda,Conda,-11.1667,14.5,Angola,AO,AGO,Cuanza-Sul,,89479.0,1024402215
+Humpata,Humpata,-15.0,13.3333,Angola,AO,AGO,Huíla,,89144.0,1024063224
+Chongoroi,Chongoroi,-13.5667,13.95,Angola,AO,AGO,Benguela,,87278.0,1024105319
+Longonjo,Longonjo,-12.9067,15.1864,Angola,AO,AGO,Huambo,,86795.0,1024081092
+Calandala,Calandala,-9.0667,17.9,Angola,AO,AGO,Lunda-Norte,,80415.0,1024525047
+Kuvango,Kuvango,-14.4667,16.3,Angola,AO,AGO,Huíla,,78543.0,1024458480
+Chitembo,Chitembo,-13.5167,16.7667,Angola,AO,AGO,Bié,,78156.0,1024103269
+Chitemo,Chitemo,-13.4872,17.1919,Angola,AO,AGO,Bié,,78156.0,1024290778
+Caxito,Caxito,-8.58,13.6642,Angola,AO,AGO,Bengo,admin,77276.0,1024050171
+Cunhinga,Cunhinga,-12.2333,16.7833,Angola,AO,AGO,Bié,,73826.0,1024704961
+Dondo,Dondo,-9.6942,14.4228,Angola,AO,AGO,Cuanza-Norte,,71715.0,1024323066
+Xangongo,Xangongo,-16.7467,14.9747,Angola,AO,AGO,Cunene,,70568.0,1024323582
+Cahama,Cahama,-16.2833,14.3167,Angola,AO,AGO,Cunene,,70061.0,1024638606
+Cuímba,Cuimba,-6.1178,14.6172,Angola,AO,AGO,Zaire,,69194.0,1024304233
+Sanza Pombo,Sanza Pombo,-7.3333,16.0,Angola,AO,AGO,Uíge,,68391.0,1024770580
+Xá Muteba,Xa Muteba,-9.5167,17.8167,Angola,AO,AGO,Lunda-Norte,,68114.0,1024707533
+Damba,Damba,-6.8833,15.0167,Angola,AO,AGO,Uíge,,66472.0,1024463978
+Chipindo,Chipindo,-13.8244,15.8,Angola,AO,AGO,Huíla,,64714.0,1024089157
+Camabatela,Camabatela,-8.1833,15.3667,Angola,AO,AGO,Cuanza-Norte,,61769.0,1024701540
+Sungo,Sungo,-11.2333,14.3167,Angola,AO,AGO,Cuanza-Sul,,61682.0,1024019988
+Nambuangongo,Nambuangongo,-8.0167,14.2,Angola,AO,AGO,Bengo,,60883.0,1024536521
+Calulo,Calulo,-10.0007,14.901,Angola,AO,AGO,Cuanza-Sul,,60709.0,1024545873
+Capenda Camulemba,Capenda Camulemba,-9.4233,18.4328,Angola,AO,AGO,Lunda-Norte,,58285.0,1024864144
+Cuvelai,Cuvelai,-15.6667,15.8,Angola,AO,AGO,Cunene,,57398.0,1024585667
+Nova Esperança,Nova Esperanca,-6.7333,15.9,Angola,AO,AGO,Uíge,,57248.0,1024795482
+Cuemba,Cuemba,-12.15,18.0833,Angola,AO,AGO,Bié,,56963.0,1024686026
+Porto Alexandre,PortoAlexandre,-15.8,11.85,Angola,AO,AGO,Namibe,,55494.0,1024489244
+Ucuma,Ucuma,-12.85,15.0667,Angola,AO,AGO,Huambo,,55054.0,1024023900
+Luquembo,Luquembo,-10.7333,17.8833,Angola,AO,AGO,Malanje,,54880.0,1024564888
+Cangola,Cangola,-7.9667,15.8667,Angola,AO,AGO,Uíge,,53720.0,1024204807
+Cambundi Catembo,Cambundi Catembo,-10.0756,17.5569,Angola,AO,AGO,Malanje,,53600.0,1024471573
+Cangandala,Cangandala,-9.7833,16.4333,Angola,AO,AGO,Malanje,,52220.0,1024477783
+Cacongo,Cacongo,-5.2333,12.1333,Angola,AO,AGO,Cabinda,,48801.0,1024356360
+Tombôco,Tomboco,-6.8,13.3,Angola,AO,AGO,Zaire,,46025.0,1024009732
+Mucaba,Mucaba,-7.1667,14.9333,Angola,AO,AGO,Uíge,,43974.0,1024000008
+Cuchi,Cuchi,-14.65,16.9,Angola,AO,AGO,Cuando Cubango,,42974.0,1024135358
+Cuito Cuanavale,Cuito Cuanavale,-15.1667,19.1667,Angola,AO,AGO,Cuando Cubango,,40829.0,1024195525
+Cacuso,Cacuso,-8.2333,15.35,Angola,AO,AGO,Cuanza-Norte,,39302.0,1024893780
+Puri,Puri,-7.6833,15.6,Angola,AO,AGO,Uíge,,37910.0,1024000079
+Quilevo,Quilevo,-7.6167,15.05,Angola,AO,AGO,Uíge,,34297.0,1024896848
+Golungo Alto,Golungo Alto,-9.1333,14.7667,Angola,AO,AGO,Cuanza-Norte,,33834.0,1024406694
+Muconda,Muconda,-10.6,21.3167,Angola,AO,AGO,Lunda-Sul,,33264.0,1024646532
+Bembe,Bembe,-7.1,14.45,Angola,AO,AGO,Uíge,,32955.0,1024112632
+Massango,Massango,-11.3167,14.9333,Angola,AO,AGO,Cuanza-Sul,,32918.0,1024770645
+Buco Zau,Buco Zau,-4.95,12.6167,Angola,AO,AGO,Cabinda,,32792.0,1024523085
+Virei,Virei,-15.7167,12.95,Angola,AO,AGO,Namibe,,32445.0,1024726045
+Cacolo,Cacolo,-10.1333,19.2667,Angola,AO,AGO,Lunda-Sul,,31895.0,1024592975
+Tchindjendje,Tchindjendje,-12.8167,14.9333,Angola,AO,AGO,Huambo,,30443.0,1024902504
+Mucari,Mucari,-9.4667,16.9167,Angola,AO,AGO,Malanje,,30112.0,1024127704
+Dala,Dala,-11.0342,20.2036,Angola,AO,AGO,Lunda-Sul,,29991.0,1024514204
+Marimba,Marimba,-8.3667,17.0167,Angola,AO,AGO,Malanje,,26180.0,1024422457
+Nóqui,Noqui,-5.8681,13.4325,Angola,AO,AGO,Zaire,,23880.0,1024465001
+Ambriz,Ambriz,-7.85,13.1167,Angola,AO,AGO,Bengo,,22712.0,1024609563
+Lucala,Lucala,-9.6333,14.0667,Angola,AO,AGO,Bengo,,22674.0,1024404685
+Samba Cango,Samba Cango,-9.1,15.55,Angola,AO,AGO,Malanje,,21918.0,1024281729
+Caombo,Caombo,-8.7,16.5167,Angola,AO,AGO,Malanje,,21511.0,1024957584
+Quirima,Quirima,-10.9,18.0833,Angola,AO,AGO,Malanje,,21134.0,1024880976
+Alto-Cuilo,Alto-Cuilo,-10.05,19.5167,Angola,AO,AGO,Lunda-Sul,,21004.0,1024029875
+Cuilo,Cuilo,-8.2371,19.5238,Angola,AO,AGO,Lunda-Norte,,21004.0,1024170131
+Quela,Quela,-9.3833,17.05,Angola,AO,AGO,Malanje,,20949.0,1024948229
+Luacano,Luacano,-11.2167,21.65,Angola,AO,AGO,Moxico,,20755.0,1024333482
+Lubalo,Lubalo,-9.15,19.2833,Angola,AO,AGO,Lunda-Norte,,20631.0,1024568664
+Quibaxi,Quibaxi,-8.5,14.5833,Angola,AO,AGO,Bengo,,18176.0,1024593185
+Ambiula,Ambiula,-7.4333,14.65,Angola,AO,AGO,Uíge,,18118.0,1024070190
+Quimavango,Quimavango,-7.62,13.03,Angola,AO,AGO,Zaire,,15741.0,1024629174
+Bolongongo,Bolongongo,-8.4667,15.25,Angola,AO,AGO,Cuanza-Norte,,13019.0,1024319966
+Cunda diá Baze,Cunda dia Baze,-8.9167,17.0667,Angola,AO,AGO,Malanje,,12620.0,1024847614
+Nzeto,Nzeto,-7.2333,12.8667,Angola,AO,AGO,Zaire,,11633.0,1024025450
+Songo,Songo,-7.3496,14.85,Angola,AO,AGO,Uíge,,10579.0,1024923411
+Bibala,Bibala,-14.7667,13.35,Angola,AO,AGO,Namibe,,10500.0,1024136533
+Banga,Banga,-8.7333,15.1667,Angola,AO,AGO,Cuanza-Norte,,10354.0,1024994846
+Quiculungo,Quiculungo,-8.5167,15.3167,Angola,AO,AGO,Cuanza-Norte,,9732.0,1024301079
+Chibemba,Chibemba,-15.7355,13.8905,Angola,AO,AGO,Huíla,,1502.0,1024009942
+Bala Cangamba,Bala Cangamba,-13.6833,19.8667,Angola,AO,AGO,Moxico,,1307.0,1024668438
+Calenga,Calenga,-11.3196,16.2,Angola,AO,AGO,Bié,,531.0,1024822780
+Tchitado,Tchitado,-17.3167,13.9167,Angola,AO,AGO,Cunene,,500.0,1024158837
+Cazombo,Cazombo,-11.9058,22.9217,Angola,AO,AGO,Moxico,,298.0,1024334740

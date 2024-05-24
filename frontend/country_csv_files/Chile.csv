@@ -1,0 +1,507 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Santiago,Santiago,-33.4372,-70.6506,Chile,CL,CHL,Región Metropolitana,primary,7171000.0,1152554349
+Concepción,Concepcion,-36.8282,-73.0514,Chile,CL,CHL,Biobío,admin,719944.0,1152838958
+Puente Alto,Puente Alto,-33.6167,-70.5667,Chile,CL,CHL,Región Metropolitana,minor,573935.0,1152516346
+Maipú,Maipu,-33.5167,-70.7667,Chile,CL,CHL,Región Metropolitana,,521627.0,1152583016
+La Florida,La Florida,-33.5333,-70.5833,Chile,CL,CHL,Región Metropolitana,,366916.0,1152939649
+Antofagasta,Antofagasta,-23.65,-70.4,Chile,CL,CHL,Antofagasta,admin,348517.0,1152734289
+Viña del Mar,Vina del Mar,-33.0244,-71.5517,Chile,CL,CHL,Valparaíso,,332875.0,1152898644
+San Bernardo,San Bernardo,-33.5833,-70.7,Chile,CL,CHL,Región Metropolitana,minor,301313.0,1152050361
+Valparaíso,Valparaiso,-33.0461,-71.6197,Chile,CL,CHL,Valparaíso,admin,296655.0,1152337970
+Temuco,Temuco,-38.7333,-72.6667,Chile,CL,CHL,Araucanía,admin,282415.0,1152318955
+Las Condes,Las Condes,-33.4117,-70.55,Chile,CL,CHL,Región Metropolitana,,249893.0,1152858037
+Rancagua,Rancagua,-34.1667,-70.75,Chile,CL,CHL,Libertador General Bernardo O’Higgins,admin,231370.0,1152672356
+Peñalolén,Penalolen,-33.4833,-70.55,Chile,CL,CHL,Región Metropolitana,,216060.0,1152224242
+Quilicura,Quilicura,-33.3667,-70.7333,Chile,CL,CHL,Región Metropolitana,,210410.0,1152402180
+Talca,Talca,-35.4269,-71.6656,Chile,CL,CHL,Maule,admin,206069.0,1152736946
+Coquimbo,Coquimbo,-29.9531,-71.3433,Chile,CL,CHL,Coquimbo,minor,204068.0,1152038253
+Arica,Arica,-18.4778,-70.3181,Chile,CL,CHL,Arica y Parinacota,admin,202131.0,1152531089
+La Serena,La Serena,-29.9,-71.25,Chile,CL,CHL,Coquimbo,admin,195382.0,1152155065
+Iquique,Iquique,-20.2167,-70.15,Chile,CL,CHL,Tarapacá,admin,188003.0,1152234625
+La Pintana,La Pintana,-33.5833,-70.6333,Chile,CL,CHL,Región Metropolitana,,177335.0,1152999558
+El Bosque,El Bosque,-33.5667,-70.675,Chile,CL,CHL,Región Metropolitana,,175594.0,1152734764
+Puerto Montt,Puerto Montt,-41.4667,-72.9333,Chile,CL,CHL,Los Lagos,admin,169736.0,1152443957
+Chillán,Chillan,-36.6,-72.1167,Chile,CL,CHL,Ñuble,admin,164270.0,1152082093
+Osorno,Osorno,-40.5725,-73.1353,Chile,CL,CHL,Los Lagos,minor,160000.0,1152866014
+Calama,Calama,-22.4667,-68.9333,Chile,CL,CHL,Antofagasta,minor,157575.0,1152168074
+Copiapó,Copiapo,-27.3664,-70.3331,Chile,CL,CHL,Atacama,admin,150804.0,1152406965
+Talcahuano,Talcahuano,-36.7167,-73.1219,Chile,CL,CHL,Biobío,,150499.0,1152023044
+Valdivia,Valdivia,-39.8139,-73.2458,Chile,CL,CHL,Los Ríos,admin,150048.0,1152201132
+Quilpué,Quilpue,-33.05,-71.45,Chile,CL,CHL,Valparaíso,minor,147991.0,1152063222
+Colina,Colina,-33.2017,-70.6703,Chile,CL,CHL,Región Metropolitana,minor,146209.0,1152944896
+Los Ángeles,Los Angeles,-37.4667,-72.35,Chile,CL,CHL,Biobío,minor,143023.0,1152810305
+Curicó,Curico,-34.9833,-71.2333,Chile,CL,CHL,Maule,minor,136954.0,1152564798
+Renca,Renca,-33.4,-70.7167,Chile,CL,CHL,Región Metropolitana,,133518.0,1152882154
+Conchalí,Conchali,-33.3833,-70.675,Chile,CL,CHL,Región Metropolitana,,133256.0,1152123561
+Villa Alemana,Villa Alemana,-33.0422,-71.3733,Chile,CL,CHL,Valparaíso,,125140.0,1152839066
+Punta Arenas,Punta Arenas,-53.1667,-70.9333,Chile,CL,CHL,Magallanes y de la Antártica Chilena,admin,123403.0,1152262933
+La Granja,La Granja,-33.5333,-70.625,Chile,CL,CHL,Región Metropolitana,,116571.0,1152785745
+Coronel,Coronel,-37.0167,-73.2167,Chile,CL,CHL,Biobío,,116262.0,1152234834
+Macul,Macul,-32.6583,-70.6,Chile,CL,CHL,Región Metropolitana,,112535.0,1152608665
+Melipilla,Melipilla,-33.6253,-71.2711,Chile,CL,CHL,Región Metropolitana,minor,108540.0,1152483678
+Alto Hospicio,Alto Hospicio,-20.25,-70.1167,Chile,CL,CHL,Tarapacá,,108375.0,1152536354
+Lo Barnechea,Lo Barnechea,-33.35,-70.5167,Chile,CL,CHL,Región Metropolitana,,105833.0,1152490874
+Espejo,Espejo,-33.5167,-70.6917,Chile,CL,CHL,Región Metropolitana,,98804.0,1152487376
+Buin,Buin,-33.7333,-70.7333,Chile,CL,CHL,Región Metropolitana,,96614.0,1152114001
+San Ramón,San Ramon,-33.5333,-70.6417,Chile,CL,CHL,Región Metropolitana,,94906.0,1152877656
+San Joaquín,San Joaquin,-33.4792,-70.6413,Chile,CL,CHL,Región Metropolitana,,94492.0,1152095800
+La Reina,La Reina,-33.45,-70.55,Chile,CL,CHL,Región Metropolitana,,92787.0,1152154801
+Peñaflor,Penaflor,-33.6167,-70.9167,Chile,CL,CHL,Región Metropolitana,,90201.0,1152857586
+Los Cerrillos,Los Cerrillos,-33.5,-70.7167,Chile,CL,CHL,Región Metropolitana,,89520.0,1152504242
+San Antonio,San Antonio,-33.5933,-71.6217,Chile,CL,CHL,Valparaíso,minor,86239.0,1152830501
+Chiguayante,Chiguayante,-36.9167,-73.0167,Chile,CL,CHL,Biobío,,85863.0,1152693546
+Padre Hurtado,Padre Hurtado,-33.5667,-70.8333,Chile,CL,CHL,Región Metropolitana,,76219.0,1152529252
+Ovalle,Ovalle,-30.6,-71.2,Chile,CL,CHL,Coquimbo,minor,75864.0,1152767334
+Linares,Linares,-35.85,-71.6,Chile,CL,CHL,Maule,minor,73602.0,1152783281
+Quillota,Quillota,-32.8667,-71.25,Chile,CL,CHL,Valparaíso,minor,73261.0,1152185579
+Padre Las Casas,Padre Las Casas,-38.7667,-72.6,Chile,CL,CHL,Araucanía,,72892.0,1152058226
+Paine,Paine,-33.8167,-70.75,Chile,CL,CHL,Región Metropolitana,,72759.0,1152629158
+San Felipe,San Felipe,-32.75,-70.7239,Chile,CL,CHL,Valparaíso,minor,64120.0,1152329463
+Coyhaique,Coyhaique,-45.5667,-72.0667,Chile,CL,CHL,Aysén,admin,61210.0,1152541137
+Los Andes,Los Andes,-32.8333,-70.6167,Chile,CL,CHL,Valparaíso,minor,59388.0,1152833598
+San Fernando,San Fernando,-34.5833,-70.9833,Chile,CL,CHL,Libertador General Bernardo O’Higgins,minor,58367.0,1152802349
+Talagante,Talagante,-33.6667,-70.8667,Chile,CL,CHL,Región Metropolitana,minor,56990.0,1152696612
+Rengo,Rengo,-34.4167,-70.8667,Chile,CL,CHL,Libertador General Bernardo O’Higgins,,55757.0,1152408592
+Villarrica,Villarrica,-39.2667,-72.2167,Chile,CL,CHL,Araucanía,,55478.0,1152280288
+La Calera,La Calera,-32.7867,-71.1972,Chile,CL,CHL,Valparaíso,,50554.0,1152388166
+Angol,Angol,-37.8,-72.7167,Chile,CL,CHL,Araucanía,minor,48608.0,1152404762
+Penco,Penco,-36.7333,-72.9833,Chile,CL,CHL,Biobío,,47367.0,1152993969
+Vallenar,Vallenar,-28.5708,-70.7581,Chile,CL,CHL,Atacama,minor,45298.0,1152000009
+San Vicente de Tagua Tagua,San Vicente de Tagua Tagua,-34.4394,-71.0761,Chile,CL,CHL,Libertador General Bernardo O’Higgins,,44046.0,1152003173
+Limache,Limache,-33.0167,-71.2667,Chile,CL,CHL,Valparaíso,,43999.0,1152056672
+Lota,Lota,-37.0833,-73.1667,Chile,CL,CHL,Biobío,,43272.0,1152978276
+San Clemente,San Clemente,-35.55,-71.4833,Chile,CL,CHL,Maule,,43269.0,1152025924
+Machalí,Machali,-34.1825,-70.6514,Chile,CL,CHL,Libertador General Bernardo O’Higgins,,42572.0,1152901401
+Tomé,Tome,-36.6167,-72.95,Chile,CL,CHL,Biobío,,42312.0,1152166653
+Alerce,Alerce,-41.4,-72.9333,Chile,CL,CHL,Los Lagos,,42267.0,1152663651
+Constitución,Constitucion,-35.3333,-72.4167,Chile,CL,CHL,Maule,,41207.0,1152065066
+Molina,Molina,-35.1144,-71.2825,Chile,CL,CHL,Maule,,40329.0,1152236505
+Parral,Parral,-36.15,-71.8333,Chile,CL,CHL,Maule,,39404.0,1152767087
+Placilla de Peñuelas,Placilla de Penuelas,-33.1156,-71.5678,Chile,CL,CHL,Valparaíso,,39344.0,1152562274
+Ancud,Ancud,-41.8667,-73.8333,Chile,CL,CHL,Los Lagos,,38991.0,1152760614
+Maule,Maule,-35.5333,-71.7,Chile,CL,CHL,Maule,,38270.0,1152958152
+Lampa,Lampa,-33.2833,-70.9,Chile,CL,CHL,Región Metropolitana,,37599.0,1152360918
+Isla de Maipo,Isla de Maipo,-33.75,-70.9,Chile,CL,CHL,Región Metropolitana,,36219.0,1152656260
+Santa Cruz,Santa Cruz,-34.6372,-71.3631,Chile,CL,CHL,Libertador General Bernardo O’Higgins,,34914.0,1152821821
+Victoria,Victoria,-38.2333,-72.3333,Chile,CL,CHL,Araucanía,,34890.0,1152078114
+Cañete,Canete,-37.7994,-73.3953,Chile,CL,CHL,Biobío,,34537.0,1152180527
+Lautaro,Lautaro,-38.5167,-72.45,Chile,CL,CHL,Araucanía,,34268.0,1152700530
+Chimbarongo,Chimbarongo,-34.7089,-71.0431,Chile,CL,CHL,Libertador General Bernardo O’Higgins,,33446.0,1152212161
+Castro,Castro,-42.4667,-73.8,Chile,CL,CHL,Los Lagos,minor,33417.0,1152445107
+Curanilahue,Curanilahue,-37.4764,-73.3444,Chile,CL,CHL,Biobío,,32288.0,1152226096
+Concón,Concon,-32.9167,-71.5167,Chile,CL,CHL,Valparaíso,,32273.0,1152523682
+Quintero,Quintero,-32.7833,-71.5333,Chile,CL,CHL,Valparaíso,,31923.0,1152270732
+Nueva Imperial,Nueva Imperial,-38.7433,-72.95,Chile,CL,CHL,Araucanía,,31632.0,1152277064
+Graneros,Graneros,-34.0647,-70.7264,Chile,CL,CHL,Libertador General Bernardo O’Higgins,,30320.0,1152651446
+Monte Patria,Monte Patria,-30.8333,-70.7,Chile,CL,CHL,Coquimbo,,30056.0,1152733391
+San Javier,San Javier,-36.6,-71.75,Chile,CL,CHL,Maule,,29017.0,1152644283
+Pucón,Pucon,-39.2767,-71.9744,Chile,CL,CHL,Araucanía,,28923.0,1152377330
+Longaví,Longavi,-35.9667,-71.6833,Chile,CL,CHL,Maule,,28499.0,1152122275
+Cabrero,Cabrero,-37.0333,-72.4,Chile,CL,CHL,Biobío,,27595.0,1152020950
+Mulchén,Mulchen,-37.7167,-72.2333,Chile,CL,CHL,Biobío,,27557.0,1152030121
+Teno,Teno,-34.8667,-71.1833,Chile,CL,CHL,Maule,,27532.0,1152981256
+Chillán Viejo,Chillan Viejo,-36.6239,-72.1358,Chile,CL,CHL,Ñuble,,27359.0,1152645198
+Nacimiento,Nacimiento,-37.5,-72.6667,Chile,CL,CHL,Biobío,,26523.0,1152525394
+La Unión,La Union,-40.2833,-73.0833,Chile,CL,CHL,Los Ríos,minor,26517.0,1152649834
+El Monte,El Monte,-33.6833,-71.0167,Chile,CL,CHL,Región Metropolitana,,26459.0,1152684387
+Puerto Varas,Puerto Varas,-41.3167,-72.9833,Chile,CL,CHL,Los Lagos,,26172.0,1152560692
+Requínoa,Requinoa,-34.2786,-70.8117,Chile,CL,CHL,Libertador General Bernardo O’Higgins,,26089.0,1152583421
+Carahue,Carahue,-38.7089,-73.1647,Chile,CL,CHL,Araucanía,,25696.0,1152919462
+Salamanca,Salamanca,-31.7667,-70.9667,Chile,CL,CHL,Coquimbo,,25326.0,1152804087
+Vicuña,Vicuna,-30.0333,-70.7167,Chile,CL,CHL,Coquimbo,,25085.0,1152771899
+Las Cabras,Las Cabras,-34.2917,-71.3097,Chile,CL,CHL,Libertador General Bernardo O’Higgins,,24640.0,1152883984
+Curacaví,Curacavi,-33.4,-71.15,Chile,CL,CHL,Región Metropolitana,,24298.0,1152178936
+Tocopilla,Tocopilla,-22.0964,-70.2,Chile,CL,CHL,Antofagasta,minor,24247.0,1152050254
+Quellón,Quellon,-43.0992,-73.5961,Chile,CL,CHL,Los Lagos,,23992.0,1152502358
+Lebu,Lebu,-37.6,-73.6667,Chile,CL,CHL,Biobío,minor,23722.0,1152064207
+Collipulli,Collipulli,-37.95,-72.4333,Chile,CL,CHL,Araucanía,,23321.0,1152908869
+Cartagena,Cartagena,-33.5425,-71.5958,Chile,CL,CHL,Valparaíso,,22738.0,1152675574
+Llaillay,Llaillay,-32.8403,-70.9483,Chile,CL,CHL,Valparaíso,,22659.0,1152335361
+Vilcún,Vilcun,-38.65,-72.2333,Chile,CL,CHL,Araucanía,,22499.0,1152236518
+Freire,Freire,-38.9558,-72.6256,Chile,CL,CHL,Araucanía,,22390.0,1152013724
+Laja,Laja,-37.2667,-72.7,Chile,CL,CHL,Biobío,,22288.0,1152499154
+La Cruz,La Cruz,-32.8281,-71.1761,Chile,CL,CHL,Valparaíso,,22098.0,1152948474
+Pitrufquén,Pitrufquen,-38.9833,-72.65,Chile,CL,CHL,Araucanía,,21981.0,1152964744
+Casablanca,Casablanca,-33.3167,-71.4167,Chile,CL,CHL,Región Metropolitana,,21874.0,1152471983
+Nogales,Nogales,-32.735,-71.2025,Chile,CL,CHL,Valparaíso,,21856.0,1152042866
+Puerto Natales,Puerto Natales,-51.7333,-72.5167,Chile,CL,CHL,Magallanes y de la Antártica Chilena,minor,21477.0,1152225106
+Loncoche,Loncoche,-39.3667,-72.6333,Chile,CL,CHL,Araucanía,,21458.0,1152864736
+Los Vilos,Los Vilos,-31.9167,-71.5167,Chile,CL,CHL,Coquimbo,,21382.0,1152593219
+Hualqui,Hualqui,-36.96,-72.93,Chile,CL,CHL,Biobío,,20968.0,1152533945
+Purranque,Purranque,-40.9167,-73.1667,Chile,CL,CHL,Los Lagos,,20949.0,1152468662
+Bulnes,Bulnes,-36.7425,-72.2983,Chile,CL,CHL,Ñuble,,20763.0,1152653950
+Illapel,Illapel,-31.6333,-71.1667,Chile,CL,CHL,Coquimbo,minor,20751.0,1152446656
+Yumbel,Yumbel,-37.1333,-72.5333,Chile,CL,CHL,Biobío,,20034.0,1152526139
+Pichidegua,Pichidegua,-34.3586,-71.2831,Chile,CL,CHL,Libertador General Bernardo O’Higgins,,19714.0,1152025661
+Los Álamos,Los Alamos,-37.6272,-73.4619,Chile,CL,CHL,Biobío,,19494.0,1152738427
+Los Bajos,Los Bajos,-41.1228,-73.0581,Chile,CL,CHL,Los Lagos,,19400.0,1152911033
+Frutillar Alto,Frutillar Alto,-41.0872,-73.0956,Chile,CL,CHL,Los Lagos,,19400.0,1152452605
+Cabildo,Cabildo,-32.4275,-71.0664,Chile,CL,CHL,Valparaíso,,19388.0,1152995057
+La Ligua,La Ligua,-32.45,-71.2167,Chile,CL,CHL,Valparaíso,minor,19127.0,1152826056
+Paillaco,Paillaco,-40.0667,-72.8833,Chile,CL,CHL,Los Ríos,,19088.0,1152131985
+Cunco,Cunco,-38.9167,-72.0333,Chile,CL,CHL,Araucanía,,19063.0,1152535744
+Doñihue,Donihue,-34.2261,-70.965,Chile,CL,CHL,Libertador General Bernardo O’Higgins,,18764.0,1152472682
+Retiro,Retiro,-36.0333,-71.7667,Chile,CL,CHL,Maule,,18754.0,1152001329
+Los Lagos,Los Lagos,-39.85,-72.8333,Chile,CL,CHL,Los Ríos,,18733.0,1152340454
+Calera de Tango,Calera de Tango,-33.6302,-70.7616,Chile,CL,CHL,Región Metropolitana,,18235.0,1152670034
+Hijuelas,Hijuelas,-32.7986,-71.1439,Chile,CL,CHL,Valparaíso,,17988.0,1152290187
+Coltauco,Coltauco,-34.3,-71.1,Chile,CL,CHL,Libertador General Bernardo O’Higgins,,17918.0,1152000004
+Colbún,Colbun,-35.7,-71.4167,Chile,CL,CHL,Maule,,17619.0,1152103340
+Arauco,Arauco,-37.25,-73.3167,Chile,CL,CHL,Biobío,,17597.0,1152468620
+Sagrada Familia,Sagrada Familia,-35.0,-71.3833,Chile,CL,CHL,Maule,,17569.0,1152799480
+Puerto Aysén,Puerto Aysen,-45.4,-72.6833,Chile,CL,CHL,Aysén,minor,17441.0,1152158570
+Traiguén,Traiguen,-38.25,-72.6833,Chile,CL,CHL,Araucanía,,17164.0,1152501347
+San Esteban,San Esteban,-32.7992,-70.5803,Chile,CL,CHL,Valparaíso,,17090.0,1152059779
+Río Bueno,Rio Bueno,-40.3167,-72.9667,Chile,CL,CHL,Los Ríos,,16909.0,1152938619
+Batuco,Batuco,-33.2308,-70.8089,Chile,CL,CHL,Región Metropolitana,,16784.0,1152375054
+Yerbas Buenas,Yerbas Buenas,-35.75,-71.5667,Chile,CL,CHL,Maule,,16738.0,1152448482
+Pirque,Pirque,-33.6333,-70.55,Chile,CL,CHL,Región Metropolitana,,16565.0,1152296541
+Curacautín,Curacautin,-38.4333,-71.8833,Chile,CL,CHL,Araucanía,,16418.0,1152761176
+Llanquihue,Llanquihue,-41.2581,-73.0086,Chile,CL,CHL,Los Lagos,,16249.0,1152498352
+Caldera,Caldera,-27.0667,-70.8333,Chile,CL,CHL,Atacama,,16150.0,1152916235
+Los Muermos,Los Muermos,-41.4,-73.4833,Chile,CL,CHL,Los Lagos,,16132.0,1152894778
+Calbuco,Calbuco,-41.7667,-73.1333,Chile,CL,CHL,Los Lagos,,15903.0,1152875669
+Coelemu,Coelemu,-36.4878,-72.7028,Chile,CL,CHL,Ñuble,,15711.0,1152096905
+Olmué,Olmue,-32.9953,-71.1856,Chile,CL,CHL,Valparaíso,,15611.0,1152762974
+Maullín,Maullin,-41.6167,-73.6,Chile,CL,CHL,Los Lagos,,15580.0,1152172124
+Teodoro Schmidt,Teodoro Schmidt,-38.9949,-73.0894,Chile,CL,CHL,Araucanía,,15504.0,1152001741
+Nancagua,Nancagua,-34.6667,-71.2167,Chile,CL,CHL,Libertador General Bernardo O’Higgins,,15409.0,1152511353
+Putaendo,Putaendo,-32.6278,-70.7167,Chile,CL,CHL,Valparaíso,,15361.0,1152325898
+Bellavista,Bellavista,-34.9333,-71.3167,Chile,CL,CHL,Maule,,15187.0,1152249017
+Chépica,Chepica,-34.7333,-71.2833,Chile,CL,CHL,Libertador General Bernardo O’Higgins,,15037.0,1152611232
+Tiltil,Tiltil,-33.0817,-70.9278,Chile,CL,CHL,Región Metropolitana,,14755.0,1152063956
+Río Negro,Rio Negro,-40.7833,-73.2,Chile,CL,CHL,Los Lagos,,14732.0,1152537804
+Villa Alegre,Villa Alegre,-35.6667,-71.75,Chile,CL,CHL,Maule,,14695.0,1152729852
+Santa María,Santa Maria,-32.7469,-70.6597,Chile,CL,CHL,Valparaíso,,14452.0,1152248168
+Gorbea,Gorbea,-39.1,-72.6833,Chile,CL,CHL,Araucanía,,14414.0,1152299665
+Peumo,Peumo,-34.3961,-71.1694,Chile,CL,CHL,Libertador General Bernardo O’Higgins,,14313.0,1152229023
+Tierra Amarilla,Tierra Amarilla,-27.4822,-70.2658,Chile,CL,CHL,Atacama,,14019.0,1152576362
+Diego de Almagro,Diego de Almagro,-26.3911,-70.0458,Chile,CL,CHL,Atacama,,13925.0,1152585849
+Futrono,Futrono,-40.1333,-72.4,Chile,CL,CHL,Los Ríos,,13736.0,1152738108
+Combarbalá,Combarbala,-31.1833,-71.0,Chile,CL,CHL,Coquimbo,,13605.0,1152896722
+Tucapel,Tucapel,-37.2833,-71.95,Chile,CL,CHL,Biobío,,13427.0,1152537993
+Santa Bárbara,Santa Barbara,-37.6706,-72.0214,Chile,CL,CHL,Biobío,,13405.0,1152827647
+San José de Maipo,San Jose de Maipo,-33.64,-70.3531,Chile,CL,CHL,Región Metropolitana,,13376.0,1152128380
+Calle Larga,Calle Larga,-32.8831,-70.6486,Chile,CL,CHL,Valparaíso,,13366.0,1152509615
+El Tabo,El Tabo,-33.4586,-71.6619,Chile,CL,CHL,Valparaíso,,13286.0,1152719676
+Catemu,Catemu,-32.8828,-70.6483,Chile,CL,CHL,Valparaíso,,13285.0,1152810666
+Santa Juana,Santa Juana,-37.166,-72.933,Chile,CL,CHL,Biobío,,13228.0,1152335973
+Chañaral,Chanaral,-26.3444,-70.6219,Chile,CL,CHL,Atacama,minor,13143.0,1152993625
+Olivar Bajo,Olivar Bajo,-34.2289,-70.8799,Chile,CL,CHL,Libertador General Bernardo O’Higgins,,13033.0,1152427692
+Olivar,Olivar,-34.233,-70.883,Chile,CL,CHL,Libertador General Bernardo O’Higgins,,13033.0,1152993328
+Frutillar,Frutillar,-41.1228,-73.0581,Chile,CL,CHL,Los Lagos,,12876.0,1152151773
+Purén,Puren,-38.0319,-73.0728,Chile,CL,CHL,Araucanía,,12868.0,1152043737
+Pichilemu,Pichilemu,-34.3919,-72.0139,Chile,CL,CHL,Libertador General Bernardo O’Higgins,minor,12776.0,1152498637
+San Francisco de Mostazal,San Francisco de Mostazal,-33.9799,-70.7122,Chile,CL,CHL,Libertador General Bernardo O’Higgins,,12719.0,1152382411
+Quirihue,Quirihue,-36.2833,-72.5333,Chile,CL,CHL,Ñuble,,12562.0,1152146130
+Codegua,Codegua,-34.0347,-70.6686,Chile,CL,CHL,Libertador General Bernardo O’Higgins,,12495.0,1152476133
+Quinta de Tilcoco,Quinta de Tilcoco,-34.3547,-70.9636,Chile,CL,CHL,Libertador General Bernardo O’Higgins,,12379.0,1152072609
+Rinconada de Malloa,Rinconada de Malloa,-34.4464,-70.9458,Chile,CL,CHL,Libertador General Bernardo O’Higgins,,12342.0,1152964612
+Taltal,Taltal,-25.4333,-70.4667,Chile,CL,CHL,Antofagasta,,12100.0,1152265576
+Galvarino,Galvarino,-38.4,-72.7833,Chile,CL,CHL,Araucanía,,11996.0,1152385949
+Palmilla,Palmilla,-34.6042,-71.3583,Chile,CL,CHL,Libertador General Bernardo O’Higgins,,11844.0,1152157193
+Lumaco,Lumaco,-38.15,-72.9167,Chile,CL,CHL,Araucanía,,11405.0,1152525115
+Puyehue,Puyehue,-40.6833,-72.6,Chile,CL,CHL,Los Lagos,,11368.0,1152232411
+El Quisco,El Quisco,-33.3913,-71.6929,Chile,CL,CHL,Valparaíso,,11329.0,1152280245
+Panguipulli,Panguipulli,-39.6444,-72.3306,Chile,CL,CHL,Araucanía,,11091.0,1152158717
+Andacollo,Andacollo,-30.2303,-71.0858,Chile,CL,CHL,Coquimbo,,11044.0,1152597504
+Chicureo Abajo,Chicureo Abajo,-33.2833,-70.6333,Chile,CL,CHL,Región Metropolitana,,10975.0,1152232267
+Punitaqui,Punitaqui,-30.9,-71.2667,Chile,CL,CHL,Coquimbo,,10956.0,1152111575
+Yungay,Yungay,-37.1194,-72.0189,Chile,CL,CHL,Ñuble,,10884.0,1152990591
+Ñiquén,Niquen,-36.3,-71.9,Chile,CL,CHL,Ñuble,,10759.0,1152179399
+Peralillo,Peralillo,-34.4875,-71.4917,Chile,CL,CHL,Libertador General Bernardo O’Higgins,,10682.0,1152486574
+San Nicolás,San Nicolas,-36.5033,-72.2122,Chile,CL,CHL,Ñuble,,10631.0,1152083085
+Pinto,Pinto,-36.7036,-71.8922,Chile,CL,CHL,Ñuble,,10595.0,1152171336
+Cholchol,Cholchol,-38.6,-72.8333,Chile,CL,CHL,Araucanía,,10382.0,1152052150
+María Pinto,Maria Pinto,-33.5167,-71.1167,Chile,CL,CHL,Región Metropolitana,,10343.0,1152556156
+Lonquimay,Lonquimay,-38.4333,-71.2333,Chile,CL,CHL,Araucanía,,10251.0,1152602801
+Algarrobo,Algarrobo,-33.3911,-71.6928,Chile,CL,CHL,Valparaíso,,10217.0,1152829157
+San Pablo,San Pablo,-40.4,-73.0167,Chile,CL,CHL,Los Lagos,,10162.0,1152590185
+Petorca,Petorca,-32.2514,-70.9314,Chile,CL,CHL,Valparaíso,,9881.0,1152135793
+Renaico,Renaico,-37.6667,-72.5833,Chile,CL,CHL,Araucanía,,9850.0,1152989264
+Nueva Toltén,Nueva Tolten,-39.1786,-73.1656,Chile,CL,CHL,Araucanía,,9776.0,1152563189
+San Pedro,San Pedro,-33.8944,-71.4558,Chile,CL,CHL,Región Metropolitana,,9726.0,1152749736
+Huachipato,Huachipato,-36.7481,-73.0986,Chile,CL,CHL,Biobío,,9665.0,1152109016
+Tirúa,Tirua,-38.3414,-73.4911,Chile,CL,CHL,Biobío,,9644.0,1152214241
+Lago Ranco,Lago Ranco,-40.3167,-72.5,Chile,CL,CHL,Los Ríos,,9575.0,1152909758
+Rauco,Rauco,-34.9167,-71.3167,Chile,CL,CHL,Maule,,9543.0,1152798030
+Negrete,Negrete,-37.5833,-72.5333,Chile,CL,CHL,Biobío,,9394.0,1152930662
+Curepto,Curepto,-35.0833,-72.0167,Chile,CL,CHL,Maule,,9380.0,1152721174
+Hualañe,Hualane,-34.9765,-71.8048,Chile,CL,CHL,Maule,,9303.0,1152879287
+Pozo Almonte,Pozo Almonte,-20.2667,-69.8,Chile,CL,CHL,Tarapacá,minor,9277.0,1152924094
+Mejillones,Mejillones,-23.1,-70.45,Chile,CL,CHL,Antofagasta,,9218.0,1152559509
+Canela Baja,Canela Baja,-31.3989,-71.4561,Chile,CL,CHL,Coquimbo,,9182.0,1152763006
+Chanco,Chanco,-36.2859,-72.7107,Chile,CL,CHL,Ñuble,,9003.0,1152038330
+Chanco,Chanco,-36.2667,-72.7167,Chile,CL,CHL,Maule,,9003.0,1152434517
+Lo Miranda,Lo Miranda,-34.19,-70.89,Chile,CL,CHL,Libertador General Bernardo O’Higgins,,9000.0,1152468313
+Puerto Octay,Puerto Octay,-40.9667,-72.9,Chile,CL,CHL,Los Lagos,,8999.0,1152604525
+Huasco,Huasco,-28.4664,-71.2192,Chile,CL,CHL,Atacama,,8977.0,1152643675
+Florida,Florida,-36.8167,-72.6667,Chile,CL,CHL,Biobío,,8916.0,1152800195
+Rocas de Santo Domingo,Rocas de Santo Domingo,-33.6358,-71.6281,Chile,CL,CHL,Valparaíso,,8860.0,1152451543
+San Juan de la Costa,San Juan de la Costa,-40.5167,-73.4,Chile,CL,CHL,Los Lagos,,8831.0,1152249782
+Hualaihué,Hualaihue,-42.1,-72.4167,Chile,CL,CHL,Los Lagos,,8720.0,1152075609
+Lanco,Lanco,-39.45,-72.7833,Chile,CL,CHL,Araucanía,,8521.0,1152703909
+Oficina María Elena,Oficina Maria Elena,-22.3451,-69.6615,Chile,CL,CHL,Antofagasta,,6457.0,1152876089
+Chonchi,Chonchi,-42.6219,-73.7742,Chile,CL,CHL,Los Lagos,,5632.0,1152428145
+Cochrane,Cochrane,-47.2547,-72.575,Chile,CL,CHL,Aysén,minor,2789.0,1152054657
+Toltén,Tolten,-39.2166,-73.2123,Chile,CL,CHL,Araucanía,,2293.0,1152450943
+Puerto Williams,Puerto Williams,-54.9333,-67.6167,Chile,CL,CHL,Magallanes y de la Antártica Chilena,minor,1646.0,1152455279
+Villa O’Higgins,Villa O'Higgins,-48.4683,-72.56,Chile,CL,CHL,Aysén,,612.0,1152709181
+Toconao,Toconao,-23.1903,-68.005,Chile,CL,CHL,Antofagasta,,378.0,1152732862
+Cauquenes,Cauquenes,-35.9667,-72.35,Chile,CL,CHL,Maule,minor,45.0,1152787999
+Cuya,Cuya,-19.1597,-70.1794,Chile,CL,CHL,Tarapacá,,20.0,1152944039
+Lagunas,Lagunas,-20.9829,-69.6833,Chile,CL,CHL,Tarapacá,,10.0,1152360178
+Chuquicamata,Chuquicamata,-22.3169,-68.9301,Chile,CL,CHL,Antofagasta,,0.0,1152468996
+Santiago,Santiago,-33.4372,-70.6506,Chile,CL,CHL,Región Metropolitana,primary,7171000.0,1152554349
+Concepción,Concepcion,-36.8282,-73.0514,Chile,CL,CHL,Biobío,admin,719944.0,1152838958
+Puente Alto,Puente Alto,-33.6167,-70.5667,Chile,CL,CHL,Región Metropolitana,minor,573935.0,1152516346
+Maipú,Maipu,-33.5167,-70.7667,Chile,CL,CHL,Región Metropolitana,,521627.0,1152583016
+La Florida,La Florida,-33.5333,-70.5833,Chile,CL,CHL,Región Metropolitana,,366916.0,1152939649
+Antofagasta,Antofagasta,-23.65,-70.4,Chile,CL,CHL,Antofagasta,admin,348517.0,1152734289
+Viña del Mar,Vina del Mar,-33.0244,-71.5517,Chile,CL,CHL,Valparaíso,,332875.0,1152898644
+San Bernardo,San Bernardo,-33.5833,-70.7,Chile,CL,CHL,Región Metropolitana,minor,301313.0,1152050361
+Valparaíso,Valparaiso,-33.0461,-71.6197,Chile,CL,CHL,Valparaíso,admin,296655.0,1152337970
+Temuco,Temuco,-38.7333,-72.6667,Chile,CL,CHL,Araucanía,admin,282415.0,1152318955
+Las Condes,Las Condes,-33.4117,-70.55,Chile,CL,CHL,Región Metropolitana,,249893.0,1152858037
+Rancagua,Rancagua,-34.1667,-70.75,Chile,CL,CHL,Libertador General Bernardo O’Higgins,admin,231370.0,1152672356
+Peñalolén,Penalolen,-33.4833,-70.55,Chile,CL,CHL,Región Metropolitana,,216060.0,1152224242
+Quilicura,Quilicura,-33.3667,-70.7333,Chile,CL,CHL,Región Metropolitana,,210410.0,1152402180
+Talca,Talca,-35.4269,-71.6656,Chile,CL,CHL,Maule,admin,206069.0,1152736946
+Coquimbo,Coquimbo,-29.9531,-71.3433,Chile,CL,CHL,Coquimbo,minor,204068.0,1152038253
+Arica,Arica,-18.4778,-70.3181,Chile,CL,CHL,Arica y Parinacota,admin,202131.0,1152531089
+La Serena,La Serena,-29.9,-71.25,Chile,CL,CHL,Coquimbo,admin,195382.0,1152155065
+Iquique,Iquique,-20.2167,-70.15,Chile,CL,CHL,Tarapacá,admin,188003.0,1152234625
+La Pintana,La Pintana,-33.5833,-70.6333,Chile,CL,CHL,Región Metropolitana,,177335.0,1152999558
+El Bosque,El Bosque,-33.5667,-70.675,Chile,CL,CHL,Región Metropolitana,,175594.0,1152734764
+Puerto Montt,Puerto Montt,-41.4667,-72.9333,Chile,CL,CHL,Los Lagos,admin,169736.0,1152443957
+Chillán,Chillan,-36.6,-72.1167,Chile,CL,CHL,Ñuble,admin,164270.0,1152082093
+Osorno,Osorno,-40.5725,-73.1353,Chile,CL,CHL,Los Lagos,minor,160000.0,1152866014
+Calama,Calama,-22.4667,-68.9333,Chile,CL,CHL,Antofagasta,minor,157575.0,1152168074
+Copiapó,Copiapo,-27.3664,-70.3331,Chile,CL,CHL,Atacama,admin,150804.0,1152406965
+Talcahuano,Talcahuano,-36.7167,-73.1219,Chile,CL,CHL,Biobío,,150499.0,1152023044
+Valdivia,Valdivia,-39.8139,-73.2458,Chile,CL,CHL,Los Ríos,admin,150048.0,1152201132
+Quilpué,Quilpue,-33.05,-71.45,Chile,CL,CHL,Valparaíso,minor,147991.0,1152063222
+Colina,Colina,-33.2017,-70.6703,Chile,CL,CHL,Región Metropolitana,minor,146209.0,1152944896
+Los Ángeles,Los Angeles,-37.4667,-72.35,Chile,CL,CHL,Biobío,minor,143023.0,1152810305
+Curicó,Curico,-34.9833,-71.2333,Chile,CL,CHL,Maule,minor,136954.0,1152564798
+Renca,Renca,-33.4,-70.7167,Chile,CL,CHL,Región Metropolitana,,133518.0,1152882154
+Conchalí,Conchali,-33.3833,-70.675,Chile,CL,CHL,Región Metropolitana,,133256.0,1152123561
+Villa Alemana,Villa Alemana,-33.0422,-71.3733,Chile,CL,CHL,Valparaíso,,125140.0,1152839066
+Punta Arenas,Punta Arenas,-53.1667,-70.9333,Chile,CL,CHL,Magallanes y de la Antártica Chilena,admin,123403.0,1152262933
+La Granja,La Granja,-33.5333,-70.625,Chile,CL,CHL,Región Metropolitana,,116571.0,1152785745
+Coronel,Coronel,-37.0167,-73.2167,Chile,CL,CHL,Biobío,,116262.0,1152234834
+Macul,Macul,-32.6583,-70.6,Chile,CL,CHL,Región Metropolitana,,112535.0,1152608665
+Melipilla,Melipilla,-33.6253,-71.2711,Chile,CL,CHL,Región Metropolitana,minor,108540.0,1152483678
+Alto Hospicio,Alto Hospicio,-20.25,-70.1167,Chile,CL,CHL,Tarapacá,,108375.0,1152536354
+Lo Barnechea,Lo Barnechea,-33.35,-70.5167,Chile,CL,CHL,Región Metropolitana,,105833.0,1152490874
+Espejo,Espejo,-33.5167,-70.6917,Chile,CL,CHL,Región Metropolitana,,98804.0,1152487376
+Buin,Buin,-33.7333,-70.7333,Chile,CL,CHL,Región Metropolitana,,96614.0,1152114001
+San Ramón,San Ramon,-33.5333,-70.6417,Chile,CL,CHL,Región Metropolitana,,94906.0,1152877656
+San Joaquín,San Joaquin,-33.4792,-70.6413,Chile,CL,CHL,Región Metropolitana,,94492.0,1152095800
+La Reina,La Reina,-33.45,-70.55,Chile,CL,CHL,Región Metropolitana,,92787.0,1152154801
+Peñaflor,Penaflor,-33.6167,-70.9167,Chile,CL,CHL,Región Metropolitana,,90201.0,1152857586
+Los Cerrillos,Los Cerrillos,-33.5,-70.7167,Chile,CL,CHL,Región Metropolitana,,89520.0,1152504242
+San Antonio,San Antonio,-33.5933,-71.6217,Chile,CL,CHL,Valparaíso,minor,86239.0,1152830501
+Chiguayante,Chiguayante,-36.9167,-73.0167,Chile,CL,CHL,Biobío,,85863.0,1152693546
+Padre Hurtado,Padre Hurtado,-33.5667,-70.8333,Chile,CL,CHL,Región Metropolitana,,76219.0,1152529252
+Ovalle,Ovalle,-30.6,-71.2,Chile,CL,CHL,Coquimbo,minor,75864.0,1152767334
+Linares,Linares,-35.85,-71.6,Chile,CL,CHL,Maule,minor,73602.0,1152783281
+Quillota,Quillota,-32.8667,-71.25,Chile,CL,CHL,Valparaíso,minor,73261.0,1152185579
+Padre Las Casas,Padre Las Casas,-38.7667,-72.6,Chile,CL,CHL,Araucanía,,72892.0,1152058226
+Paine,Paine,-33.8167,-70.75,Chile,CL,CHL,Región Metropolitana,,72759.0,1152629158
+San Felipe,San Felipe,-32.75,-70.7239,Chile,CL,CHL,Valparaíso,minor,64120.0,1152329463
+Coyhaique,Coyhaique,-45.5667,-72.0667,Chile,CL,CHL,Aysén,admin,61210.0,1152541137
+Los Andes,Los Andes,-32.8333,-70.6167,Chile,CL,CHL,Valparaíso,minor,59388.0,1152833598
+San Fernando,San Fernando,-34.5833,-70.9833,Chile,CL,CHL,Libertador General Bernardo O’Higgins,minor,58367.0,1152802349
+Talagante,Talagante,-33.6667,-70.8667,Chile,CL,CHL,Región Metropolitana,minor,56990.0,1152696612
+Rengo,Rengo,-34.4167,-70.8667,Chile,CL,CHL,Libertador General Bernardo O’Higgins,,55757.0,1152408592
+Villarrica,Villarrica,-39.2667,-72.2167,Chile,CL,CHL,Araucanía,,55478.0,1152280288
+La Calera,La Calera,-32.7867,-71.1972,Chile,CL,CHL,Valparaíso,,50554.0,1152388166
+Angol,Angol,-37.8,-72.7167,Chile,CL,CHL,Araucanía,minor,48608.0,1152404762
+Penco,Penco,-36.7333,-72.9833,Chile,CL,CHL,Biobío,,47367.0,1152993969
+Vallenar,Vallenar,-28.5708,-70.7581,Chile,CL,CHL,Atacama,minor,45298.0,1152000009
+San Vicente de Tagua Tagua,San Vicente de Tagua Tagua,-34.4394,-71.0761,Chile,CL,CHL,Libertador General Bernardo O’Higgins,,44046.0,1152003173
+Limache,Limache,-33.0167,-71.2667,Chile,CL,CHL,Valparaíso,,43999.0,1152056672
+Lota,Lota,-37.0833,-73.1667,Chile,CL,CHL,Biobío,,43272.0,1152978276
+San Clemente,San Clemente,-35.55,-71.4833,Chile,CL,CHL,Maule,,43269.0,1152025924
+Machalí,Machali,-34.1825,-70.6514,Chile,CL,CHL,Libertador General Bernardo O’Higgins,,42572.0,1152901401
+Tomé,Tome,-36.6167,-72.95,Chile,CL,CHL,Biobío,,42312.0,1152166653
+Alerce,Alerce,-41.4,-72.9333,Chile,CL,CHL,Los Lagos,,42267.0,1152663651
+Constitución,Constitucion,-35.3333,-72.4167,Chile,CL,CHL,Maule,,41207.0,1152065066
+Molina,Molina,-35.1144,-71.2825,Chile,CL,CHL,Maule,,40329.0,1152236505
+Parral,Parral,-36.15,-71.8333,Chile,CL,CHL,Maule,,39404.0,1152767087
+Placilla de Peñuelas,Placilla de Penuelas,-33.1156,-71.5678,Chile,CL,CHL,Valparaíso,,39344.0,1152562274
+Ancud,Ancud,-41.8667,-73.8333,Chile,CL,CHL,Los Lagos,,38991.0,1152760614
+Maule,Maule,-35.5333,-71.7,Chile,CL,CHL,Maule,,38270.0,1152958152
+Lampa,Lampa,-33.2833,-70.9,Chile,CL,CHL,Región Metropolitana,,37599.0,1152360918
+Isla de Maipo,Isla de Maipo,-33.75,-70.9,Chile,CL,CHL,Región Metropolitana,,36219.0,1152656260
+Santa Cruz,Santa Cruz,-34.6372,-71.3631,Chile,CL,CHL,Libertador General Bernardo O’Higgins,,34914.0,1152821821
+Victoria,Victoria,-38.2333,-72.3333,Chile,CL,CHL,Araucanía,,34890.0,1152078114
+Cañete,Canete,-37.7994,-73.3953,Chile,CL,CHL,Biobío,,34537.0,1152180527
+Lautaro,Lautaro,-38.5167,-72.45,Chile,CL,CHL,Araucanía,,34268.0,1152700530
+Chimbarongo,Chimbarongo,-34.7089,-71.0431,Chile,CL,CHL,Libertador General Bernardo O’Higgins,,33446.0,1152212161
+Castro,Castro,-42.4667,-73.8,Chile,CL,CHL,Los Lagos,minor,33417.0,1152445107
+Curanilahue,Curanilahue,-37.4764,-73.3444,Chile,CL,CHL,Biobío,,32288.0,1152226096
+Concón,Concon,-32.9167,-71.5167,Chile,CL,CHL,Valparaíso,,32273.0,1152523682
+Quintero,Quintero,-32.7833,-71.5333,Chile,CL,CHL,Valparaíso,,31923.0,1152270732
+Nueva Imperial,Nueva Imperial,-38.7433,-72.95,Chile,CL,CHL,Araucanía,,31632.0,1152277064
+Graneros,Graneros,-34.0647,-70.7264,Chile,CL,CHL,Libertador General Bernardo O’Higgins,,30320.0,1152651446
+Monte Patria,Monte Patria,-30.8333,-70.7,Chile,CL,CHL,Coquimbo,,30056.0,1152733391
+San Javier,San Javier,-36.6,-71.75,Chile,CL,CHL,Maule,,29017.0,1152644283
+Pucón,Pucon,-39.2767,-71.9744,Chile,CL,CHL,Araucanía,,28923.0,1152377330
+Longaví,Longavi,-35.9667,-71.6833,Chile,CL,CHL,Maule,,28499.0,1152122275
+Cabrero,Cabrero,-37.0333,-72.4,Chile,CL,CHL,Biobío,,27595.0,1152020950
+Mulchén,Mulchen,-37.7167,-72.2333,Chile,CL,CHL,Biobío,,27557.0,1152030121
+Teno,Teno,-34.8667,-71.1833,Chile,CL,CHL,Maule,,27532.0,1152981256
+Chillán Viejo,Chillan Viejo,-36.6239,-72.1358,Chile,CL,CHL,Ñuble,,27359.0,1152645198
+Nacimiento,Nacimiento,-37.5,-72.6667,Chile,CL,CHL,Biobío,,26523.0,1152525394
+La Unión,La Union,-40.2833,-73.0833,Chile,CL,CHL,Los Ríos,minor,26517.0,1152649834
+El Monte,El Monte,-33.6833,-71.0167,Chile,CL,CHL,Región Metropolitana,,26459.0,1152684387
+Puerto Varas,Puerto Varas,-41.3167,-72.9833,Chile,CL,CHL,Los Lagos,,26172.0,1152560692
+Requínoa,Requinoa,-34.2786,-70.8117,Chile,CL,CHL,Libertador General Bernardo O’Higgins,,26089.0,1152583421
+Carahue,Carahue,-38.7089,-73.1647,Chile,CL,CHL,Araucanía,,25696.0,1152919462
+Salamanca,Salamanca,-31.7667,-70.9667,Chile,CL,CHL,Coquimbo,,25326.0,1152804087
+Vicuña,Vicuna,-30.0333,-70.7167,Chile,CL,CHL,Coquimbo,,25085.0,1152771899
+Las Cabras,Las Cabras,-34.2917,-71.3097,Chile,CL,CHL,Libertador General Bernardo O’Higgins,,24640.0,1152883984
+Curacaví,Curacavi,-33.4,-71.15,Chile,CL,CHL,Región Metropolitana,,24298.0,1152178936
+Tocopilla,Tocopilla,-22.0964,-70.2,Chile,CL,CHL,Antofagasta,minor,24247.0,1152050254
+Quellón,Quellon,-43.0992,-73.5961,Chile,CL,CHL,Los Lagos,,23992.0,1152502358
+Lebu,Lebu,-37.6,-73.6667,Chile,CL,CHL,Biobío,minor,23722.0,1152064207
+Collipulli,Collipulli,-37.95,-72.4333,Chile,CL,CHL,Araucanía,,23321.0,1152908869
+Cartagena,Cartagena,-33.5425,-71.5958,Chile,CL,CHL,Valparaíso,,22738.0,1152675574
+Llaillay,Llaillay,-32.8403,-70.9483,Chile,CL,CHL,Valparaíso,,22659.0,1152335361
+Vilcún,Vilcun,-38.65,-72.2333,Chile,CL,CHL,Araucanía,,22499.0,1152236518
+Freire,Freire,-38.9558,-72.6256,Chile,CL,CHL,Araucanía,,22390.0,1152013724
+Laja,Laja,-37.2667,-72.7,Chile,CL,CHL,Biobío,,22288.0,1152499154
+La Cruz,La Cruz,-32.8281,-71.1761,Chile,CL,CHL,Valparaíso,,22098.0,1152948474
+Pitrufquén,Pitrufquen,-38.9833,-72.65,Chile,CL,CHL,Araucanía,,21981.0,1152964744
+Casablanca,Casablanca,-33.3167,-71.4167,Chile,CL,CHL,Región Metropolitana,,21874.0,1152471983
+Nogales,Nogales,-32.735,-71.2025,Chile,CL,CHL,Valparaíso,,21856.0,1152042866
+Puerto Natales,Puerto Natales,-51.7333,-72.5167,Chile,CL,CHL,Magallanes y de la Antártica Chilena,minor,21477.0,1152225106
+Loncoche,Loncoche,-39.3667,-72.6333,Chile,CL,CHL,Araucanía,,21458.0,1152864736
+Los Vilos,Los Vilos,-31.9167,-71.5167,Chile,CL,CHL,Coquimbo,,21382.0,1152593219
+Hualqui,Hualqui,-36.96,-72.93,Chile,CL,CHL,Biobío,,20968.0,1152533945
+Purranque,Purranque,-40.9167,-73.1667,Chile,CL,CHL,Los Lagos,,20949.0,1152468662
+Bulnes,Bulnes,-36.7425,-72.2983,Chile,CL,CHL,Ñuble,,20763.0,1152653950
+Illapel,Illapel,-31.6333,-71.1667,Chile,CL,CHL,Coquimbo,minor,20751.0,1152446656
+Yumbel,Yumbel,-37.1333,-72.5333,Chile,CL,CHL,Biobío,,20034.0,1152526139
+Pichidegua,Pichidegua,-34.3586,-71.2831,Chile,CL,CHL,Libertador General Bernardo O’Higgins,,19714.0,1152025661
+Los Álamos,Los Alamos,-37.6272,-73.4619,Chile,CL,CHL,Biobío,,19494.0,1152738427
+Los Bajos,Los Bajos,-41.1228,-73.0581,Chile,CL,CHL,Los Lagos,,19400.0,1152911033
+Frutillar Alto,Frutillar Alto,-41.0872,-73.0956,Chile,CL,CHL,Los Lagos,,19400.0,1152452605
+Cabildo,Cabildo,-32.4275,-71.0664,Chile,CL,CHL,Valparaíso,,19388.0,1152995057
+La Ligua,La Ligua,-32.45,-71.2167,Chile,CL,CHL,Valparaíso,minor,19127.0,1152826056
+Paillaco,Paillaco,-40.0667,-72.8833,Chile,CL,CHL,Los Ríos,,19088.0,1152131985
+Cunco,Cunco,-38.9167,-72.0333,Chile,CL,CHL,Araucanía,,19063.0,1152535744
+Doñihue,Donihue,-34.2261,-70.965,Chile,CL,CHL,Libertador General Bernardo O’Higgins,,18764.0,1152472682
+Retiro,Retiro,-36.0333,-71.7667,Chile,CL,CHL,Maule,,18754.0,1152001329
+Los Lagos,Los Lagos,-39.85,-72.8333,Chile,CL,CHL,Los Ríos,,18733.0,1152340454
+Calera de Tango,Calera de Tango,-33.6302,-70.7616,Chile,CL,CHL,Región Metropolitana,,18235.0,1152670034
+Hijuelas,Hijuelas,-32.7986,-71.1439,Chile,CL,CHL,Valparaíso,,17988.0,1152290187
+Coltauco,Coltauco,-34.3,-71.1,Chile,CL,CHL,Libertador General Bernardo O’Higgins,,17918.0,1152000004
+Colbún,Colbun,-35.7,-71.4167,Chile,CL,CHL,Maule,,17619.0,1152103340
+Arauco,Arauco,-37.25,-73.3167,Chile,CL,CHL,Biobío,,17597.0,1152468620
+Sagrada Familia,Sagrada Familia,-35.0,-71.3833,Chile,CL,CHL,Maule,,17569.0,1152799480
+Puerto Aysén,Puerto Aysen,-45.4,-72.6833,Chile,CL,CHL,Aysén,minor,17441.0,1152158570
+Traiguén,Traiguen,-38.25,-72.6833,Chile,CL,CHL,Araucanía,,17164.0,1152501347
+San Esteban,San Esteban,-32.7992,-70.5803,Chile,CL,CHL,Valparaíso,,17090.0,1152059779
+Río Bueno,Rio Bueno,-40.3167,-72.9667,Chile,CL,CHL,Los Ríos,,16909.0,1152938619
+Batuco,Batuco,-33.2308,-70.8089,Chile,CL,CHL,Región Metropolitana,,16784.0,1152375054
+Yerbas Buenas,Yerbas Buenas,-35.75,-71.5667,Chile,CL,CHL,Maule,,16738.0,1152448482
+Pirque,Pirque,-33.6333,-70.55,Chile,CL,CHL,Región Metropolitana,,16565.0,1152296541
+Curacautín,Curacautin,-38.4333,-71.8833,Chile,CL,CHL,Araucanía,,16418.0,1152761176
+Llanquihue,Llanquihue,-41.2581,-73.0086,Chile,CL,CHL,Los Lagos,,16249.0,1152498352
+Caldera,Caldera,-27.0667,-70.8333,Chile,CL,CHL,Atacama,,16150.0,1152916235
+Los Muermos,Los Muermos,-41.4,-73.4833,Chile,CL,CHL,Los Lagos,,16132.0,1152894778
+Calbuco,Calbuco,-41.7667,-73.1333,Chile,CL,CHL,Los Lagos,,15903.0,1152875669
+Coelemu,Coelemu,-36.4878,-72.7028,Chile,CL,CHL,Ñuble,,15711.0,1152096905
+Olmué,Olmue,-32.9953,-71.1856,Chile,CL,CHL,Valparaíso,,15611.0,1152762974
+Maullín,Maullin,-41.6167,-73.6,Chile,CL,CHL,Los Lagos,,15580.0,1152172124
+Teodoro Schmidt,Teodoro Schmidt,-38.9949,-73.0894,Chile,CL,CHL,Araucanía,,15504.0,1152001741
+Nancagua,Nancagua,-34.6667,-71.2167,Chile,CL,CHL,Libertador General Bernardo O’Higgins,,15409.0,1152511353
+Putaendo,Putaendo,-32.6278,-70.7167,Chile,CL,CHL,Valparaíso,,15361.0,1152325898
+Bellavista,Bellavista,-34.9333,-71.3167,Chile,CL,CHL,Maule,,15187.0,1152249017
+Chépica,Chepica,-34.7333,-71.2833,Chile,CL,CHL,Libertador General Bernardo O’Higgins,,15037.0,1152611232
+Tiltil,Tiltil,-33.0817,-70.9278,Chile,CL,CHL,Región Metropolitana,,14755.0,1152063956
+Río Negro,Rio Negro,-40.7833,-73.2,Chile,CL,CHL,Los Lagos,,14732.0,1152537804
+Villa Alegre,Villa Alegre,-35.6667,-71.75,Chile,CL,CHL,Maule,,14695.0,1152729852
+Santa María,Santa Maria,-32.7469,-70.6597,Chile,CL,CHL,Valparaíso,,14452.0,1152248168
+Gorbea,Gorbea,-39.1,-72.6833,Chile,CL,CHL,Araucanía,,14414.0,1152299665
+Peumo,Peumo,-34.3961,-71.1694,Chile,CL,CHL,Libertador General Bernardo O’Higgins,,14313.0,1152229023
+Tierra Amarilla,Tierra Amarilla,-27.4822,-70.2658,Chile,CL,CHL,Atacama,,14019.0,1152576362
+Diego de Almagro,Diego de Almagro,-26.3911,-70.0458,Chile,CL,CHL,Atacama,,13925.0,1152585849
+Futrono,Futrono,-40.1333,-72.4,Chile,CL,CHL,Los Ríos,,13736.0,1152738108
+Combarbalá,Combarbala,-31.1833,-71.0,Chile,CL,CHL,Coquimbo,,13605.0,1152896722
+Tucapel,Tucapel,-37.2833,-71.95,Chile,CL,CHL,Biobío,,13427.0,1152537993
+Santa Bárbara,Santa Barbara,-37.6706,-72.0214,Chile,CL,CHL,Biobío,,13405.0,1152827647
+San José de Maipo,San Jose de Maipo,-33.64,-70.3531,Chile,CL,CHL,Región Metropolitana,,13376.0,1152128380
+Calle Larga,Calle Larga,-32.8831,-70.6486,Chile,CL,CHL,Valparaíso,,13366.0,1152509615
+El Tabo,El Tabo,-33.4586,-71.6619,Chile,CL,CHL,Valparaíso,,13286.0,1152719676
+Catemu,Catemu,-32.8828,-70.6483,Chile,CL,CHL,Valparaíso,,13285.0,1152810666
+Santa Juana,Santa Juana,-37.166,-72.933,Chile,CL,CHL,Biobío,,13228.0,1152335973
+Chañaral,Chanaral,-26.3444,-70.6219,Chile,CL,CHL,Atacama,minor,13143.0,1152993625
+Olivar Bajo,Olivar Bajo,-34.2289,-70.8799,Chile,CL,CHL,Libertador General Bernardo O’Higgins,,13033.0,1152427692
+Olivar,Olivar,-34.233,-70.883,Chile,CL,CHL,Libertador General Bernardo O’Higgins,,13033.0,1152993328
+Frutillar,Frutillar,-41.1228,-73.0581,Chile,CL,CHL,Los Lagos,,12876.0,1152151773
+Purén,Puren,-38.0319,-73.0728,Chile,CL,CHL,Araucanía,,12868.0,1152043737
+Pichilemu,Pichilemu,-34.3919,-72.0139,Chile,CL,CHL,Libertador General Bernardo O’Higgins,minor,12776.0,1152498637
+San Francisco de Mostazal,San Francisco de Mostazal,-33.9799,-70.7122,Chile,CL,CHL,Libertador General Bernardo O’Higgins,,12719.0,1152382411
+Quirihue,Quirihue,-36.2833,-72.5333,Chile,CL,CHL,Ñuble,,12562.0,1152146130
+Codegua,Codegua,-34.0347,-70.6686,Chile,CL,CHL,Libertador General Bernardo O’Higgins,,12495.0,1152476133
+Quinta de Tilcoco,Quinta de Tilcoco,-34.3547,-70.9636,Chile,CL,CHL,Libertador General Bernardo O’Higgins,,12379.0,1152072609
+Rinconada de Malloa,Rinconada de Malloa,-34.4464,-70.9458,Chile,CL,CHL,Libertador General Bernardo O’Higgins,,12342.0,1152964612
+Taltal,Taltal,-25.4333,-70.4667,Chile,CL,CHL,Antofagasta,,12100.0,1152265576
+Galvarino,Galvarino,-38.4,-72.7833,Chile,CL,CHL,Araucanía,,11996.0,1152385949
+Palmilla,Palmilla,-34.6042,-71.3583,Chile,CL,CHL,Libertador General Bernardo O’Higgins,,11844.0,1152157193
+Lumaco,Lumaco,-38.15,-72.9167,Chile,CL,CHL,Araucanía,,11405.0,1152525115
+Puyehue,Puyehue,-40.6833,-72.6,Chile,CL,CHL,Los Lagos,,11368.0,1152232411
+El Quisco,El Quisco,-33.3913,-71.6929,Chile,CL,CHL,Valparaíso,,11329.0,1152280245
+Panguipulli,Panguipulli,-39.6444,-72.3306,Chile,CL,CHL,Araucanía,,11091.0,1152158717
+Andacollo,Andacollo,-30.2303,-71.0858,Chile,CL,CHL,Coquimbo,,11044.0,1152597504
+Chicureo Abajo,Chicureo Abajo,-33.2833,-70.6333,Chile,CL,CHL,Región Metropolitana,,10975.0,1152232267
+Punitaqui,Punitaqui,-30.9,-71.2667,Chile,CL,CHL,Coquimbo,,10956.0,1152111575
+Yungay,Yungay,-37.1194,-72.0189,Chile,CL,CHL,Ñuble,,10884.0,1152990591
+Ñiquén,Niquen,-36.3,-71.9,Chile,CL,CHL,Ñuble,,10759.0,1152179399
+Peralillo,Peralillo,-34.4875,-71.4917,Chile,CL,CHL,Libertador General Bernardo O’Higgins,,10682.0,1152486574
+San Nicolás,San Nicolas,-36.5033,-72.2122,Chile,CL,CHL,Ñuble,,10631.0,1152083085
+Pinto,Pinto,-36.7036,-71.8922,Chile,CL,CHL,Ñuble,,10595.0,1152171336
+Cholchol,Cholchol,-38.6,-72.8333,Chile,CL,CHL,Araucanía,,10382.0,1152052150
+María Pinto,Maria Pinto,-33.5167,-71.1167,Chile,CL,CHL,Región Metropolitana,,10343.0,1152556156
+Lonquimay,Lonquimay,-38.4333,-71.2333,Chile,CL,CHL,Araucanía,,10251.0,1152602801
+Algarrobo,Algarrobo,-33.3911,-71.6928,Chile,CL,CHL,Valparaíso,,10217.0,1152829157
+San Pablo,San Pablo,-40.4,-73.0167,Chile,CL,CHL,Los Lagos,,10162.0,1152590185
+Petorca,Petorca,-32.2514,-70.9314,Chile,CL,CHL,Valparaíso,,9881.0,1152135793
+Renaico,Renaico,-37.6667,-72.5833,Chile,CL,CHL,Araucanía,,9850.0,1152989264
+Nueva Toltén,Nueva Tolten,-39.1786,-73.1656,Chile,CL,CHL,Araucanía,,9776.0,1152563189
+San Pedro,San Pedro,-33.8944,-71.4558,Chile,CL,CHL,Región Metropolitana,,9726.0,1152749736
+Huachipato,Huachipato,-36.7481,-73.0986,Chile,CL,CHL,Biobío,,9665.0,1152109016
+Tirúa,Tirua,-38.3414,-73.4911,Chile,CL,CHL,Biobío,,9644.0,1152214241
+Lago Ranco,Lago Ranco,-40.3167,-72.5,Chile,CL,CHL,Los Ríos,,9575.0,1152909758
+Rauco,Rauco,-34.9167,-71.3167,Chile,CL,CHL,Maule,,9543.0,1152798030
+Negrete,Negrete,-37.5833,-72.5333,Chile,CL,CHL,Biobío,,9394.0,1152930662
+Curepto,Curepto,-35.0833,-72.0167,Chile,CL,CHL,Maule,,9380.0,1152721174
+Hualañe,Hualane,-34.9765,-71.8048,Chile,CL,CHL,Maule,,9303.0,1152879287
+Pozo Almonte,Pozo Almonte,-20.2667,-69.8,Chile,CL,CHL,Tarapacá,minor,9277.0,1152924094
+Mejillones,Mejillones,-23.1,-70.45,Chile,CL,CHL,Antofagasta,,9218.0,1152559509
+Canela Baja,Canela Baja,-31.3989,-71.4561,Chile,CL,CHL,Coquimbo,,9182.0,1152763006
+Chanco,Chanco,-36.2859,-72.7107,Chile,CL,CHL,Ñuble,,9003.0,1152038330
+Chanco,Chanco,-36.2667,-72.7167,Chile,CL,CHL,Maule,,9003.0,1152434517
+Lo Miranda,Lo Miranda,-34.19,-70.89,Chile,CL,CHL,Libertador General Bernardo O’Higgins,,9000.0,1152468313
+Puerto Octay,Puerto Octay,-40.9667,-72.9,Chile,CL,CHL,Los Lagos,,8999.0,1152604525
+Huasco,Huasco,-28.4664,-71.2192,Chile,CL,CHL,Atacama,,8977.0,1152643675
+Florida,Florida,-36.8167,-72.6667,Chile,CL,CHL,Biobío,,8916.0,1152800195
+Rocas de Santo Domingo,Rocas de Santo Domingo,-33.6358,-71.6281,Chile,CL,CHL,Valparaíso,,8860.0,1152451543
+San Juan de la Costa,San Juan de la Costa,-40.5167,-73.4,Chile,CL,CHL,Los Lagos,,8831.0,1152249782
+Hualaihué,Hualaihue,-42.1,-72.4167,Chile,CL,CHL,Los Lagos,,8720.0,1152075609
+Lanco,Lanco,-39.45,-72.7833,Chile,CL,CHL,Araucanía,,8521.0,1152703909
+Oficina María Elena,Oficina Maria Elena,-22.3451,-69.6615,Chile,CL,CHL,Antofagasta,,6457.0,1152876089
+Chonchi,Chonchi,-42.6219,-73.7742,Chile,CL,CHL,Los Lagos,,5632.0,1152428145
+Cochrane,Cochrane,-47.2547,-72.575,Chile,CL,CHL,Aysén,minor,2789.0,1152054657
+Toltén,Tolten,-39.2166,-73.2123,Chile,CL,CHL,Araucanía,,2293.0,1152450943
+Puerto Williams,Puerto Williams,-54.9333,-67.6167,Chile,CL,CHL,Magallanes y de la Antártica Chilena,minor,1646.0,1152455279
+Villa O’Higgins,Villa O'Higgins,-48.4683,-72.56,Chile,CL,CHL,Aysén,,612.0,1152709181
+Toconao,Toconao,-23.1903,-68.005,Chile,CL,CHL,Antofagasta,,378.0,1152732862
+Cauquenes,Cauquenes,-35.9667,-72.35,Chile,CL,CHL,Maule,minor,45.0,1152787999
+Cuya,Cuya,-19.1597,-70.1794,Chile,CL,CHL,Tarapacá,,20.0,1152944039
+Lagunas,Lagunas,-20.9829,-69.6833,Chile,CL,CHL,Tarapacá,,10.0,1152360178
+Chuquicamata,Chuquicamata,-22.3169,-68.9301,Chile,CL,CHL,Antofagasta,,0.0,1152468996

@@ -1,0 +1,65 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Phnom Penh,Phnom Penh,11.5694,104.9211,Cambodia,KH,KHM,Phnom Penh,primary,2129371.0,1116260534
+Siem Reap,Siem Reap,13.3622,103.8597,Cambodia,KH,KHM,Siem Reap,admin,147866.0,1116263015
+Battambang,Battambang,13.1,103.2,Cambodia,KH,KHM,Battambang,admin,130000.0,1116106237
+Kampong Cham,Kampong Cham,11.987,105.462,Cambodia,KH,KHM,Kampong Cham,admin,118242.0,1116115849
+Sisophon,Sisophon,13.5833,102.9833,Cambodia,KH,KHM,Banteay Meanchey,admin,99019.0,1116276411
+Paoy Paet,Paoy Paet,13.65,102.5667,Cambodia,KH,KHM,Banteay Meanchey,,98934.0,1116750944
+Kampong Trach,Kampong Trach,10.55,104.4667,Cambodia,KH,KHM,Kampot,minor,83061.0,1116580812
+Sihanoukville,Sihanoukville,10.6333,103.5,Cambodia,KH,KHM,Preah Sihanouk,admin,71082.0,1116098692
+Samraong,Samraong,14.25,103.5833,Cambodia,KH,KHM,Oddar Meanchey,admin,70944.0,1116989175
+Kratie,Kratie,12.48,106.03,Cambodia,KH,KHM,Kratie,admin,60000.0,1116453792
+Pursat,Pursat,12.5333,103.9167,Cambodia,KH,KHM,Pursat,admin,58255.0,1116566865
+Takeo,Takeo,10.9833,104.7833,Cambodia,KH,KHM,Takeo,admin,52000.0,1116674518
+Chbar Mon,Chbar Mon,11.45,104.5,Cambodia,KH,KHM,Kampong Speu,,50359.0,1116044649
+Kampong Chhnang,Kampong Chhnang,12.25,104.6667,Cambodia,KH,KHM,Kampong Chhnang,admin,41700.0,1116735270
+Svay Rieng,Svay Rieng,11.0833,105.8,Cambodia,KH,KHM,Svay Rieng,admin,41424.0,1116432743
+Kampot,Kampot,10.6,104.1667,Cambodia,KH,KHM,Kampot,admin,39186.0,1116966757
+Prey Veng,Prey Veng,11.4833,105.3167,Cambodia,KH,KHM,Prey Veng,admin,36254.0,1116378797
+Krong Kep,Krong Kep,10.4875,104.3208,Cambodia,KH,KHM,Kep,admin,35990.0,1116392544
+Suong,Suong,11.9167,105.65,Cambodia,KH,KHM,Tbong Khmum,admin,35054.0,1116319433
+Koh Kong,Koh Kong,11.6167,102.9833,Cambodia,KH,KHM,Koh Kong,admin,33591.0,1116924669
+Kampong Speu,Kampong Speu,11.452,104.519,Cambodia,KH,KHM,Kampong Speu,admin,33231.0,1116446492
+Kampong Thom,Kampong Thom,12.7,104.9,Cambodia,KH,KHM,Kampong Thom,admin,31871.0,1116471297
+Banlung,Banlung,13.7468,107.0045,Cambodia,KH,KHM,Ratanakiri,admin,30399.0,1116605438
+Stung Treng,Stung Treng,13.5167,105.9667,Cambodia,KH,KHM,Stung Treng,admin,29665.0,1116286673
+Tbeng Meanchey,Tbeng Meanchey,13.8167,104.9667,Cambodia,KH,KHM,Preah Vihear,admin,24380.0,1116207762
+Preah Vihear,Preah Vihear,13.8167,104.9667,Cambodia,KH,KHM,Preah Vihear,,24360.0,1116000285
+Kampong Thum,Kampong Thum,12.712,104.889,Cambodia,KH,KHM,Kampong Thom,,19951.0,1116000326
+Lumphat,Lumphat,13.507,106.981,Cambodia,KH,KHM,Ratanakiri,minor,19205.0,1116149070
+Svay Pak,Svay Pak,11.6467,104.8715,Cambodia,KH,KHM,Phnom Penh,,19042.0,1116000411
+Sen Monorom,Sen Monorom,12.45,107.2,Cambodia,KH,KHM,Mondolkiri,admin,7500.0,1116978997
+Pailin,Pailin,12.8489,102.6093,Cambodia,KH,KHM,Pailin,admin,,1116050327
+Ta Khmau,Ta Khmau,11.4833,104.95,Cambodia,KH,KHM,Kandal,admin,,1116571704
+Phnom Penh,Phnom Penh,11.5694,104.9211,Cambodia,KH,KHM,Phnom Penh,primary,2129371.0,1116260534
+Siem Reap,Siem Reap,13.3622,103.8597,Cambodia,KH,KHM,Siem Reap,admin,147866.0,1116263015
+Battambang,Battambang,13.1,103.2,Cambodia,KH,KHM,Battambang,admin,130000.0,1116106237
+Kampong Cham,Kampong Cham,11.987,105.462,Cambodia,KH,KHM,Kampong Cham,admin,118242.0,1116115849
+Sisophon,Sisophon,13.5833,102.9833,Cambodia,KH,KHM,Banteay Meanchey,admin,99019.0,1116276411
+Paoy Paet,Paoy Paet,13.65,102.5667,Cambodia,KH,KHM,Banteay Meanchey,,98934.0,1116750944
+Kampong Trach,Kampong Trach,10.55,104.4667,Cambodia,KH,KHM,Kampot,minor,83061.0,1116580812
+Sihanoukville,Sihanoukville,10.6333,103.5,Cambodia,KH,KHM,Preah Sihanouk,admin,71082.0,1116098692
+Samraong,Samraong,14.25,103.5833,Cambodia,KH,KHM,Oddar Meanchey,admin,70944.0,1116989175
+Kratie,Kratie,12.48,106.03,Cambodia,KH,KHM,Kratie,admin,60000.0,1116453792
+Pursat,Pursat,12.5333,103.9167,Cambodia,KH,KHM,Pursat,admin,58255.0,1116566865
+Takeo,Takeo,10.9833,104.7833,Cambodia,KH,KHM,Takeo,admin,52000.0,1116674518
+Chbar Mon,Chbar Mon,11.45,104.5,Cambodia,KH,KHM,Kampong Speu,,50359.0,1116044649
+Kampong Chhnang,Kampong Chhnang,12.25,104.6667,Cambodia,KH,KHM,Kampong Chhnang,admin,41700.0,1116735270
+Svay Rieng,Svay Rieng,11.0833,105.8,Cambodia,KH,KHM,Svay Rieng,admin,41424.0,1116432743
+Kampot,Kampot,10.6,104.1667,Cambodia,KH,KHM,Kampot,admin,39186.0,1116966757
+Prey Veng,Prey Veng,11.4833,105.3167,Cambodia,KH,KHM,Prey Veng,admin,36254.0,1116378797
+Krong Kep,Krong Kep,10.4875,104.3208,Cambodia,KH,KHM,Kep,admin,35990.0,1116392544
+Suong,Suong,11.9167,105.65,Cambodia,KH,KHM,Tbong Khmum,admin,35054.0,1116319433
+Koh Kong,Koh Kong,11.6167,102.9833,Cambodia,KH,KHM,Koh Kong,admin,33591.0,1116924669
+Kampong Speu,Kampong Speu,11.452,104.519,Cambodia,KH,KHM,Kampong Speu,admin,33231.0,1116446492
+Kampong Thom,Kampong Thom,12.7,104.9,Cambodia,KH,KHM,Kampong Thom,admin,31871.0,1116471297
+Banlung,Banlung,13.7468,107.0045,Cambodia,KH,KHM,Ratanakiri,admin,30399.0,1116605438
+Stung Treng,Stung Treng,13.5167,105.9667,Cambodia,KH,KHM,Stung Treng,admin,29665.0,1116286673
+Tbeng Meanchey,Tbeng Meanchey,13.8167,104.9667,Cambodia,KH,KHM,Preah Vihear,admin,24380.0,1116207762
+Preah Vihear,Preah Vihear,13.8167,104.9667,Cambodia,KH,KHM,Preah Vihear,,24360.0,1116000285
+Kampong Thum,Kampong Thum,12.712,104.889,Cambodia,KH,KHM,Kampong Thom,,19951.0,1116000326
+Lumphat,Lumphat,13.507,106.981,Cambodia,KH,KHM,Ratanakiri,minor,19205.0,1116149070
+Svay Pak,Svay Pak,11.6467,104.8715,Cambodia,KH,KHM,Phnom Penh,,19042.0,1116000411
+Sen Monorom,Sen Monorom,12.45,107.2,Cambodia,KH,KHM,Mondolkiri,admin,7500.0,1116978997
+Pailin,Pailin,12.8489,102.6093,Cambodia,KH,KHM,Pailin,admin,,1116050327
+Ta Khmau,Ta Khmau,11.4833,104.95,Cambodia,KH,KHM,Kandal,admin,,1116571704

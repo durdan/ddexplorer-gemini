@@ -1,0 +1,155 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Tel Aviv-Yafo,Tel Aviv-Yafo,32.08,34.78,Israel,IL,ISR,Tel Aviv,admin,1388400.0,1376401542
+Jerusalem,Jerusalem,31.7789,35.2256,Israel,IL,ISR,Jerusalem,primary,936425.0,1376261644
+Haifa,Haifa,32.8192,34.9992,Israel,IL,ISR,Haifa,admin,600000.0,1376133727
+Rishon LeẔiyyon,Rishon LeZiyyon,31.95,34.8,Israel,IL,ISR,Central,,249860.0,1376642268
+Petaẖ Tiqwa,Petah Tiqwa,32.0889,34.8864,Israel,IL,ISR,Central,,236169.0,1376362310
+Ashdod,Ashdod,31.8,34.65,Israel,IL,ISR,Southern,,220174.0,1376458766
+Netanya,Netanya,32.3286,34.8567,Israel,IL,ISR,Central,,217200.0,1376203187
+Beersheba,Beersheba,31.2589,34.7997,Israel,IL,ISR,Southern,admin,209000.0,1376023307
+Holon,Holon,32.0167,34.7667,Israel,IL,ISR,Tel Aviv,,194300.0,1376222772
+Bené Beraq,Bene Beraq,32.0833,34.8333,Israel,IL,ISR,Tel Aviv,,193774.0,1376944837
+Ramat Gan,Ramat Gan,32.07,34.8236,Israel,IL,ISR,Tel Aviv,,159200.0,1376357911
+Ashqelon,Ashqelon,31.6667,34.5667,Israel,IL,ISR,Southern,,134454.0,1376324059
+Reẖovot,Rehovot,31.8969,34.8167,Israel,IL,ISR,Central,,132671.0,1376684821
+Bat Yam,Bat Yam,32.0167,34.75,Israel,IL,ISR,Tel Aviv,,128800.0,1376837517
+Bet Shemesh,Bet Shemesh,31.7456,34.9867,Israel,IL,ISR,Jerusalem,,118700.0,1376846832
+Kefar Sava,Kefar Sava,32.1714,34.9083,Israel,IL,ISR,Central,,100800.0,1376008883
+Modi‘in Makkabbim Re‘ut,Modi`in Makkabbim Re`ut,31.9077,35.0076,Israel,IL,ISR,Central,,97097.0,1376334230
+Hadera,Hadera,32.45,34.9167,Israel,IL,ISR,Haifa,,95700.0,1376761209
+Herẕliyya,Herzliyya,32.1653,34.8458,Israel,IL,ISR,Tel Aviv,,93989.0,1376303805
+Nazareth,Nazareth,32.7019,35.3033,Israel,IL,ISR,Northern,admin,83400.0,1376505625
+Lod,Lod,31.9519,34.8881,Israel,IL,ISR,Central,,75700.0,1376929543
+Ramla,Ramla,31.9275,34.8625,Israel,IL,ISR,Central,admin,75500.0,1376321361
+Ra‘ananna,Ra`ananna,32.1833,34.8667,Israel,IL,ISR,Central,,74000.0,1376791991
+Qiryat Gat,Qiryat Gat,31.6061,34.7717,Israel,IL,ISR,Southern,,65610.0,1376511466
+Rahat,Rahat,31.3925,34.7544,Israel,IL,ISR,Southern,,64462.0,1376207828
+Afula,Afula,32.6064,35.2881,Israel,IL,ISR,Northern,,60000.0,1376077681
+Nahariyya,Nahariyya,33.0058,35.0989,Israel,IL,ISR,Northern,,60000.0,1376378013
+Givatayim,Givatayim,32.0714,34.81,Israel,IL,ISR,Tel Aviv,,59518.0,1376739486
+Hod HaSharon,Hod HaSharon,32.15,34.8833,Israel,IL,ISR,Central,,56659.0,1376159880
+Rosh Ha‘Ayin,Rosh Ha`Ayin,32.0956,34.9567,Israel,IL,ISR,Central,,56300.0,1376619380
+Qiryat Ata,Qiryat Ata,32.8,35.1,Israel,IL,ISR,Haifa,,55464.0,1376676929
+Umm el Faḥm,Umm el Fahm,32.5194,35.1536,Israel,IL,ISR,Haifa,,55300.0,1376814378
+Eilat,Eilat,29.5569,34.9517,Israel,IL,ISR,Southern,,51935.0,1376831370
+Nes Ẕiyyona,Nes Ziyyona,31.9333,34.8,Israel,IL,ISR,Central,,50200.0,1376745785
+‘Akko,`Akko,32.9278,35.0817,Israel,IL,ISR,Northern,,48900.0,1376781950
+El‘ad,El`ad,32.0522,34.9511,Israel,IL,ISR,Central,,48763.0,1376486332
+Ramat HaSharon,Ramat HaSharon,32.15,34.8333,Israel,IL,ISR,Tel Aviv,,46700.0,1376215427
+Karmiel,Karmiel,32.9136,35.2961,Israel,IL,ISR,Northern,,45300.0,1376615005
+Tiberias,Tiberias,32.7944,35.5333,Israel,IL,ISR,Northern,,44200.0,1376017086
+Eṭ Ṭaiyiba,Et Taiyiba,32.2667,35.0103,Israel,IL,ISR,Central,,43100.0,1376597784
+Ben Zakkay,Ben Zakkay,31.8558,34.73,Israel,IL,ISR,Central,,42314.0,1376946236
+Pardés H̱anna Karkur,Pardes Hanna Karkur,32.4711,34.9675,Israel,IL,ISR,Haifa,,42100.0,1376163698
+Qiryat Moẕqin,Qiryat Mozqin,32.8333,35.0833,Israel,IL,ISR,Haifa,,42000.0,1376435231
+Qiryat Ono,Qiryat Ono,32.0636,34.8553,Israel,IL,ISR,Tel Aviv,,41900.0,1376929399
+Shefar‘am,Shefar`am,32.8056,35.1694,Israel,IL,ISR,Northern,,41600.0,1376191471
+Qiryat Bialik,Qiryat Bialik,32.8333,35.0833,Israel,IL,ISR,Haifa,,39900.0,1376833983
+Qiryat Yam,Qiryat Yam,32.8333,35.0667,Israel,IL,ISR,Haifa,,39416.0,1376460777
+Or Yehuda,Or Yehuda,32.0306,34.8533,Israel,IL,ISR,Tel Aviv,,36706.0,1376356429
+Ẕefat,Zefat,32.9658,35.4983,Israel,IL,ISR,Northern,,35700.0,1376611460
+Dimona,Dimona,31.0667,35.0333,Israel,IL,ISR,Southern,,34135.0,1376956540
+Tamra,Tamra,32.8536,35.1978,Israel,IL,ISR,Northern,,34000.0,1376012882
+Netivot,Netivot,31.4167,34.5833,Israel,IL,ISR,Southern,,31314.0,1376200656
+Sakhnīn,Sakhnin,32.8667,35.3,Israel,IL,ISR,Northern,,31100.0,1376646130
+Be’er Ya‘aqov,Be'er Ya`aqov,31.9425,34.8336,Israel,IL,ISR,Central,,29852.0,1376941719
+Yehud,Yehud,32.0333,34.8833,Israel,IL,ISR,Central,,29146.0,1376760246
+Ofaqim,Ofaqim,31.3167,34.6167,Israel,IL,ISR,Southern,,29000.0,1376992458
+Kefar Yona,Kefar Yona,32.3171,34.9358,Israel,IL,ISR,Central,,28025.0,1376924544
+Gedera,Gedera,31.8119,34.7772,Israel,IL,ISR,Central,,26217.0,1376689197
+Eṭ Ṭīra,Et Tira,32.2322,34.9483,Israel,IL,ISR,Central,,26200.0,1376315793
+Migdal Ha‘Emeq,Migdal Ha`Emeq,32.6714,35.2406,Israel,IL,ISR,Northern,,25600.0,1376279434
+Giv‘at Shemu’él,Giv`at Shemu'el,32.0781,34.8475,Israel,IL,ISR,Central,,25298.0,1376429803
+Arad,Arad,31.2611,35.2153,Israel,IL,ISR,Southern,,24436.0,1376674296
+Yoqne‘am ‘Illit,Yoqne`am `Illit,32.6594,35.11,Israel,IL,ISR,Northern,,24158.0,1376262404
+Nesher,Nesher,32.7711,35.0394,Israel,IL,ISR,Haifa,,23700.0,1376735055
+Ma‘alot Tarshīḥā,Ma`alot Tarshiha,33.0167,35.2708,Israel,IL,ISR,Northern,,23550.0,1376992708
+Qiryat Mal’akhi,Qiryat Mal'akhi,31.7292,34.7461,Israel,IL,ISR,Southern,,23100.0,1376662881
+Sederot,Sederot,31.5228,34.5953,Israel,IL,ISR,Southern,,23090.0,1376365217
+Qiryat Shemona,Qiryat Shemona,33.2075,35.5697,Israel,IL,ISR,Northern,,23076.0,1376248603
+Gan Yavne,Gan Yavne,31.7822,34.7053,Israel,IL,ISR,Central,,22453.0,1376546526
+Tirat Karmel,Tirat Karmel,32.7667,34.9667,Israel,IL,ISR,Haifa,,22200.0,1376894717
+Kafr Qāsim,Kafr Qasim,32.1151,34.9751,Israel,IL,ISR,Central,,21848.0,1376925215
+Qalansuwa,Qalansuwa,32.2822,34.9833,Israel,IL,ISR,Central,,21451.0,1376958417
+Bet She’an,Bet She'an,32.5,35.5,Israel,IL,ISR,Northern,,18200.0,1376100451
+Or ‘Aqiva,Or `Aqiva,32.5,34.9167,Israel,IL,ISR,Haifa,,17759.0,1376081727
+Jisr ez Zarqā,Jisr ez Zarqa,32.5381,34.9122,Israel,IL,ISR,Haifa,,14930.0,1376963985
+Majdal Shams,Majdal Shams,33.2667,35.7667,Israel,IL,ISR,Northern,,11405.0,1376000007
+Atlit,Atlit,32.6872,34.9383,Israel,IL,ISR,Haifa,,10639.0,1376755634
+Tel Aviv-Yafo,Tel Aviv-Yafo,32.08,34.78,Israel,IL,ISR,Tel Aviv,admin,1388400.0,1376401542
+Jerusalem,Jerusalem,31.7789,35.2256,Israel,IL,ISR,Jerusalem,primary,936425.0,1376261644
+Haifa,Haifa,32.8192,34.9992,Israel,IL,ISR,Haifa,admin,600000.0,1376133727
+Rishon LeẔiyyon,Rishon LeZiyyon,31.95,34.8,Israel,IL,ISR,Central,,249860.0,1376642268
+Petaẖ Tiqwa,Petah Tiqwa,32.0889,34.8864,Israel,IL,ISR,Central,,236169.0,1376362310
+Ashdod,Ashdod,31.8,34.65,Israel,IL,ISR,Southern,,220174.0,1376458766
+Netanya,Netanya,32.3286,34.8567,Israel,IL,ISR,Central,,217200.0,1376203187
+Beersheba,Beersheba,31.2589,34.7997,Israel,IL,ISR,Southern,admin,209000.0,1376023307
+Holon,Holon,32.0167,34.7667,Israel,IL,ISR,Tel Aviv,,194300.0,1376222772
+Bené Beraq,Bene Beraq,32.0833,34.8333,Israel,IL,ISR,Tel Aviv,,193774.0,1376944837
+Ramat Gan,Ramat Gan,32.07,34.8236,Israel,IL,ISR,Tel Aviv,,159200.0,1376357911
+Ashqelon,Ashqelon,31.6667,34.5667,Israel,IL,ISR,Southern,,134454.0,1376324059
+Reẖovot,Rehovot,31.8969,34.8167,Israel,IL,ISR,Central,,132671.0,1376684821
+Bat Yam,Bat Yam,32.0167,34.75,Israel,IL,ISR,Tel Aviv,,128800.0,1376837517
+Bet Shemesh,Bet Shemesh,31.7456,34.9867,Israel,IL,ISR,Jerusalem,,118700.0,1376846832
+Kefar Sava,Kefar Sava,32.1714,34.9083,Israel,IL,ISR,Central,,100800.0,1376008883
+Modi‘in Makkabbim Re‘ut,Modi`in Makkabbim Re`ut,31.9077,35.0076,Israel,IL,ISR,Central,,97097.0,1376334230
+Hadera,Hadera,32.45,34.9167,Israel,IL,ISR,Haifa,,95700.0,1376761209
+Herẕliyya,Herzliyya,32.1653,34.8458,Israel,IL,ISR,Tel Aviv,,93989.0,1376303805
+Nazareth,Nazareth,32.7019,35.3033,Israel,IL,ISR,Northern,admin,83400.0,1376505625
+Lod,Lod,31.9519,34.8881,Israel,IL,ISR,Central,,75700.0,1376929543
+Ramla,Ramla,31.9275,34.8625,Israel,IL,ISR,Central,admin,75500.0,1376321361
+Ra‘ananna,Ra`ananna,32.1833,34.8667,Israel,IL,ISR,Central,,74000.0,1376791991
+Qiryat Gat,Qiryat Gat,31.6061,34.7717,Israel,IL,ISR,Southern,,65610.0,1376511466
+Rahat,Rahat,31.3925,34.7544,Israel,IL,ISR,Southern,,64462.0,1376207828
+Afula,Afula,32.6064,35.2881,Israel,IL,ISR,Northern,,60000.0,1376077681
+Nahariyya,Nahariyya,33.0058,35.0989,Israel,IL,ISR,Northern,,60000.0,1376378013
+Givatayim,Givatayim,32.0714,34.81,Israel,IL,ISR,Tel Aviv,,59518.0,1376739486
+Hod HaSharon,Hod HaSharon,32.15,34.8833,Israel,IL,ISR,Central,,56659.0,1376159880
+Rosh Ha‘Ayin,Rosh Ha`Ayin,32.0956,34.9567,Israel,IL,ISR,Central,,56300.0,1376619380
+Qiryat Ata,Qiryat Ata,32.8,35.1,Israel,IL,ISR,Haifa,,55464.0,1376676929
+Umm el Faḥm,Umm el Fahm,32.5194,35.1536,Israel,IL,ISR,Haifa,,55300.0,1376814378
+Eilat,Eilat,29.5569,34.9517,Israel,IL,ISR,Southern,,51935.0,1376831370
+Nes Ẕiyyona,Nes Ziyyona,31.9333,34.8,Israel,IL,ISR,Central,,50200.0,1376745785
+‘Akko,`Akko,32.9278,35.0817,Israel,IL,ISR,Northern,,48900.0,1376781950
+El‘ad,El`ad,32.0522,34.9511,Israel,IL,ISR,Central,,48763.0,1376486332
+Ramat HaSharon,Ramat HaSharon,32.15,34.8333,Israel,IL,ISR,Tel Aviv,,46700.0,1376215427
+Karmiel,Karmiel,32.9136,35.2961,Israel,IL,ISR,Northern,,45300.0,1376615005
+Tiberias,Tiberias,32.7944,35.5333,Israel,IL,ISR,Northern,,44200.0,1376017086
+Eṭ Ṭaiyiba,Et Taiyiba,32.2667,35.0103,Israel,IL,ISR,Central,,43100.0,1376597784
+Ben Zakkay,Ben Zakkay,31.8558,34.73,Israel,IL,ISR,Central,,42314.0,1376946236
+Pardés H̱anna Karkur,Pardes Hanna Karkur,32.4711,34.9675,Israel,IL,ISR,Haifa,,42100.0,1376163698
+Qiryat Moẕqin,Qiryat Mozqin,32.8333,35.0833,Israel,IL,ISR,Haifa,,42000.0,1376435231
+Qiryat Ono,Qiryat Ono,32.0636,34.8553,Israel,IL,ISR,Tel Aviv,,41900.0,1376929399
+Shefar‘am,Shefar`am,32.8056,35.1694,Israel,IL,ISR,Northern,,41600.0,1376191471
+Qiryat Bialik,Qiryat Bialik,32.8333,35.0833,Israel,IL,ISR,Haifa,,39900.0,1376833983
+Qiryat Yam,Qiryat Yam,32.8333,35.0667,Israel,IL,ISR,Haifa,,39416.0,1376460777
+Or Yehuda,Or Yehuda,32.0306,34.8533,Israel,IL,ISR,Tel Aviv,,36706.0,1376356429
+Ẕefat,Zefat,32.9658,35.4983,Israel,IL,ISR,Northern,,35700.0,1376611460
+Dimona,Dimona,31.0667,35.0333,Israel,IL,ISR,Southern,,34135.0,1376956540
+Tamra,Tamra,32.8536,35.1978,Israel,IL,ISR,Northern,,34000.0,1376012882
+Netivot,Netivot,31.4167,34.5833,Israel,IL,ISR,Southern,,31314.0,1376200656
+Sakhnīn,Sakhnin,32.8667,35.3,Israel,IL,ISR,Northern,,31100.0,1376646130
+Be’er Ya‘aqov,Be'er Ya`aqov,31.9425,34.8336,Israel,IL,ISR,Central,,29852.0,1376941719
+Yehud,Yehud,32.0333,34.8833,Israel,IL,ISR,Central,,29146.0,1376760246
+Ofaqim,Ofaqim,31.3167,34.6167,Israel,IL,ISR,Southern,,29000.0,1376992458
+Kefar Yona,Kefar Yona,32.3171,34.9358,Israel,IL,ISR,Central,,28025.0,1376924544
+Gedera,Gedera,31.8119,34.7772,Israel,IL,ISR,Central,,26217.0,1376689197
+Eṭ Ṭīra,Et Tira,32.2322,34.9483,Israel,IL,ISR,Central,,26200.0,1376315793
+Migdal Ha‘Emeq,Migdal Ha`Emeq,32.6714,35.2406,Israel,IL,ISR,Northern,,25600.0,1376279434
+Giv‘at Shemu’él,Giv`at Shemu'el,32.0781,34.8475,Israel,IL,ISR,Central,,25298.0,1376429803
+Arad,Arad,31.2611,35.2153,Israel,IL,ISR,Southern,,24436.0,1376674296
+Yoqne‘am ‘Illit,Yoqne`am `Illit,32.6594,35.11,Israel,IL,ISR,Northern,,24158.0,1376262404
+Nesher,Nesher,32.7711,35.0394,Israel,IL,ISR,Haifa,,23700.0,1376735055
+Ma‘alot Tarshīḥā,Ma`alot Tarshiha,33.0167,35.2708,Israel,IL,ISR,Northern,,23550.0,1376992708
+Qiryat Mal’akhi,Qiryat Mal'akhi,31.7292,34.7461,Israel,IL,ISR,Southern,,23100.0,1376662881
+Sederot,Sederot,31.5228,34.5953,Israel,IL,ISR,Southern,,23090.0,1376365217
+Qiryat Shemona,Qiryat Shemona,33.2075,35.5697,Israel,IL,ISR,Northern,,23076.0,1376248603
+Gan Yavne,Gan Yavne,31.7822,34.7053,Israel,IL,ISR,Central,,22453.0,1376546526
+Tirat Karmel,Tirat Karmel,32.7667,34.9667,Israel,IL,ISR,Haifa,,22200.0,1376894717
+Kafr Qāsim,Kafr Qasim,32.1151,34.9751,Israel,IL,ISR,Central,,21848.0,1376925215
+Qalansuwa,Qalansuwa,32.2822,34.9833,Israel,IL,ISR,Central,,21451.0,1376958417
+Bet She’an,Bet She'an,32.5,35.5,Israel,IL,ISR,Northern,,18200.0,1376100451
+Or ‘Aqiva,Or `Aqiva,32.5,34.9167,Israel,IL,ISR,Haifa,,17759.0,1376081727
+Jisr ez Zarqā,Jisr ez Zarqa,32.5381,34.9122,Israel,IL,ISR,Haifa,,14930.0,1376963985
+Majdal Shams,Majdal Shams,33.2667,35.7667,Israel,IL,ISR,Northern,,11405.0,1376000007
+Atlit,Atlit,32.6872,34.9383,Israel,IL,ISR,Haifa,,10639.0,1376755634

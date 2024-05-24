@@ -1,0 +1,43 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Kingston,Kingston,17.9714,-76.7931,Jamaica,JM,JAM,Kingston,primary,580000.0,1388709177
+Portmore,Portmore,17.95,-76.8799,Jamaica,JM,JAM,Saint Catherine,,156469.0,1388926551
+Spanish Town,Spanish Town,17.9959,-76.9551,Jamaica,JM,JAM,Saint Catherine,admin,131056.0,1388689196
+Montego Bay,Montego Bay,18.4667,-77.9167,Jamaica,JM,JAM,Saint James,admin,97890.0,1388955058
+Half Way Tree,Half Way Tree,18.0106,-76.7847,Jamaica,JM,JAM,Saint Andrew,admin,96494.0,1388715163
+May Pen,May Pen,17.965,-77.245,Jamaica,JM,JAM,Clarendon,admin,61548.0,1388671677
+Mandeville,Mandeville,18.0333,-77.5,Jamaica,JM,JAM,Manchester,admin,48317.0,1388493847
+Old Harbour,Old Harbour,17.9333,-77.1167,Jamaica,JM,JAM,Saint Catherine,,28665.0,1388632984
+Linstead,Linstead,18.1368,-77.0317,Jamaica,JM,JAM,Saint Catherine,,22757.0,1388611853
+Savanna-la-Mar,Savanna-la-Mar,18.2167,-78.1333,Jamaica,JM,JAM,Westmoreland,admin,22600.0,1388690384
+Ocho Rios,Ocho Rios,18.4167,-77.1167,Jamaica,JM,JAM,Saint Ann,,16671.0,1388472214
+Port Antonio,Port Antonio,18.1757,-76.4503,Jamaica,JM,JAM,Portland,admin,14816.0,1388024275
+Bog Walk,Bog Walk,18.102,-77.0054,Jamaica,JM,JAM,Saint Catherine,,13889.0,1388794020
+Ewarton,Ewarton,18.1833,-77.0833,Jamaica,JM,JAM,Saint Catherine,,13807.0,1388307474
+Saint Ann’s Bay,Saint Ann's Bay,18.436,-77.202,Jamaica,JM,JAM,Saint Ann,admin,13671.0,1388256334
+Port Morant,Port Morant,17.9,-76.3167,Jamaica,JM,JAM,Saint Thomas,,11536.0,1388362870
+Morant Bay,Morant Bay,17.8819,-76.4074,Jamaica,JM,JAM,Saint Thomas,admin,11121.0,1388124588
+Port Maria,Port Maria,18.3702,-76.8903,Jamaica,JM,JAM,Saint Mary,admin,7906.0,1388155945
+Falmouth,Falmouth,18.49,-77.661,Jamaica,JM,JAM,Trelawny,admin,7779.0,1388625979
+Lucea,Lucea,18.45,-78.1833,Jamaica,JM,JAM,Hanover,admin,6002.0,1388423676
+Black River,Black River,18.0257,-77.8509,Jamaica,JM,JAM,Saint Elizabeth,admin,4261.0,1388022504
+Kingston,Kingston,17.9714,-76.7931,Jamaica,JM,JAM,Kingston,primary,580000.0,1388709177
+Portmore,Portmore,17.95,-76.8799,Jamaica,JM,JAM,Saint Catherine,,156469.0,1388926551
+Spanish Town,Spanish Town,17.9959,-76.9551,Jamaica,JM,JAM,Saint Catherine,admin,131056.0,1388689196
+Montego Bay,Montego Bay,18.4667,-77.9167,Jamaica,JM,JAM,Saint James,admin,97890.0,1388955058
+Half Way Tree,Half Way Tree,18.0106,-76.7847,Jamaica,JM,JAM,Saint Andrew,admin,96494.0,1388715163
+May Pen,May Pen,17.965,-77.245,Jamaica,JM,JAM,Clarendon,admin,61548.0,1388671677
+Mandeville,Mandeville,18.0333,-77.5,Jamaica,JM,JAM,Manchester,admin,48317.0,1388493847
+Old Harbour,Old Harbour,17.9333,-77.1167,Jamaica,JM,JAM,Saint Catherine,,28665.0,1388632984
+Linstead,Linstead,18.1368,-77.0317,Jamaica,JM,JAM,Saint Catherine,,22757.0,1388611853
+Savanna-la-Mar,Savanna-la-Mar,18.2167,-78.1333,Jamaica,JM,JAM,Westmoreland,admin,22600.0,1388690384
+Ocho Rios,Ocho Rios,18.4167,-77.1167,Jamaica,JM,JAM,Saint Ann,,16671.0,1388472214
+Port Antonio,Port Antonio,18.1757,-76.4503,Jamaica,JM,JAM,Portland,admin,14816.0,1388024275
+Bog Walk,Bog Walk,18.102,-77.0054,Jamaica,JM,JAM,Saint Catherine,,13889.0,1388794020
+Ewarton,Ewarton,18.1833,-77.0833,Jamaica,JM,JAM,Saint Catherine,,13807.0,1388307474
+Saint Ann’s Bay,Saint Ann's Bay,18.436,-77.202,Jamaica,JM,JAM,Saint Ann,admin,13671.0,1388256334
+Port Morant,Port Morant,17.9,-76.3167,Jamaica,JM,JAM,Saint Thomas,,11536.0,1388362870
+Morant Bay,Morant Bay,17.8819,-76.4074,Jamaica,JM,JAM,Saint Thomas,admin,11121.0,1388124588
+Port Maria,Port Maria,18.3702,-76.8903,Jamaica,JM,JAM,Saint Mary,admin,7906.0,1388155945
+Falmouth,Falmouth,18.49,-77.661,Jamaica,JM,JAM,Trelawny,admin,7779.0,1388625979
+Lucea,Lucea,18.45,-78.1833,Jamaica,JM,JAM,Hanover,admin,6002.0,1388423676
+Black River,Black River,18.0257,-77.8509,Jamaica,JM,JAM,Saint Elizabeth,admin,4261.0,1388022504

@@ -1,0 +1,167 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Bratislava,Bratislava,48.1439,17.1097,Slovakia,SK,SVK,Bratislava,primary,475503.0,1703195001
+Košice,Kosice,48.7167,21.25,Slovakia,SK,SVK,Košice,admin,229040.0,1703452690
+Petržalka,Petrzalka,48.1333,17.1167,Slovakia,SK,SVK,Bratislava,,114000.0,1703430611
+Žilina,Zilina,49.2228,18.74,Slovakia,SK,SVK,Žilina,admin,108000.0,1703289183
+Prešov,Presov,49.0017,21.2394,Slovakia,SK,SVK,Prešov,admin,84824.0,1703231427
+Nitra,Nitra,48.3069,18.0864,Slovakia,SK,SVK,Nitra,admin,77610.0,1703890031
+Banská Bystrica,Banska Bystrica,48.7353,19.1453,Slovakia,SK,SVK,Banská Bystrica,admin,76018.0,1703015198
+Trnava,Trnava,48.3775,17.5883,Slovakia,SK,SVK,Trnava,admin,63803.0,1703497997
+Trenčín,Trencin,48.8919,18.0367,Slovakia,SK,SVK,Trenčin,admin,54740.0,1703029695
+Martin,Martin,49.065,18.9219,Slovakia,SK,SVK,Žilina,minor,51139.0,1703554366
+Poprad,Poprad,49.0594,20.2975,Slovakia,SK,SVK,Prešov,minor,49855.0,1703451549
+Prievidza,Prievidza,48.7711,18.6217,Slovakia,SK,SVK,Nitra,minor,45017.0,1703497240
+Zvolen,Zvolen,48.5706,19.1175,Slovakia,SK,SVK,Banská Bystrica,minor,39844.0,1703102070
+Považská Bystrica,Povazska Bystrica,49.1139,18.4417,Slovakia,SK,SVK,Nitra,minor,38641.0,1703729563
+Nové Zámky,Nove Zamky,47.9856,18.1578,Slovakia,SK,SVK,Nitra,minor,37791.0,1703734556
+Michalovce,Michalovce,48.7553,21.9133,Slovakia,SK,SVK,Košice,minor,36704.0,1703150232
+Spišská Nová Ves,Spisska Nova Ves,48.9439,20.5675,Slovakia,SK,SVK,Košice,minor,35431.0,1703217196
+Komárno,Komarno,47.7633,18.1283,Slovakia,SK,SVK,Nitra,,32287.0,1703927453
+Levice,Levice,48.2164,18.6081,Slovakia,SK,SVK,Nitra,minor,31974.0,1703699284
+Humenné,Humenne,48.9358,21.9067,Slovakia,SK,SVK,Prešov,minor,31359.0,1703492155
+Liptovský Mikuláš,Liptovsky Mikulas,49.0842,19.6022,Slovakia,SK,SVK,Žilina,minor,30522.0,1703155005
+Bardejov,Bardejov,49.2933,21.2761,Slovakia,SK,SVK,Prešov,minor,30267.0,1703663141
+Ružomberok,Ruzomberok,49.0786,19.3083,Slovakia,SK,SVK,Žilina,minor,27407.0,1703510980
+Piešťany,Piest'any,48.5842,17.8336,Slovakia,SK,SVK,Trnava,minor,27301.0,1703636029
+Lučenec,Lucenec,48.3286,19.6692,Slovakia,SK,SVK,Banská Bystrica,minor,25902.0,1703222138
+Topoľčany,Topol'cany,48.5542,18.1769,Slovakia,SK,SVK,Nitra,minor,25249.0,1703972339
+Pezinok,Pezinok,48.2919,17.2661,Slovakia,SK,SVK,Bratislava,minor,24900.0,1703456673
+Čadca,Cadca,49.4358,18.7922,Slovakia,SK,SVK,Žilina,minor,23328.0,1703091898
+Dunajská Streda,Dunajska Streda,47.9944,17.6194,Slovakia,SK,SVK,Trnava,minor,23044.0,1703872671
+Trebišov,Trebisov,48.6278,21.7172,Slovakia,SK,SVK,Košice,minor,22890.0,1703917090
+Rimavská Sobota,Rimavska Sobota,48.3811,20.0144,Slovakia,SK,SVK,Banská Bystrica,minor,22048.0,1703980891
+Dubnica nad Váhom,Dubnica nad Vahom,48.9606,18.1739,Slovakia,SK,SVK,Nitra,,22023.0,1703468923
+Partizánske,Partizanske,48.6258,18.3728,Slovakia,SK,SVK,Nitra,minor,21439.0,1703749885
+Šaľa,Sal'a,48.1503,17.8775,Slovakia,SK,SVK,Nitra,minor,21183.0,1703397102
+Vranov nad Topľou,Vranov nad Topl'ou,48.8808,21.6733,Slovakia,SK,SVK,Prešov,minor,20702.0,1703513512
+Hlohovec,Hlohovec,48.4333,17.8033,Slovakia,SK,SVK,Trnava,minor,20556.0,1703788561
+Senec,Senec,48.2189,17.3997,Slovakia,SK,SVK,Bratislava,minor,20116.0,1703144516
+Brezno,Brezno,48.8039,19.6436,Slovakia,SK,SVK,Banská Bystrica,minor,20061.0,1703148175
+Senica,Senica,48.6806,17.3667,Slovakia,SK,SVK,Trnava,minor,19875.0,1703713928
+Nové Mesto nad Váhom,Nove Mesto nad Vahom,48.7547,17.8308,Slovakia,SK,SVK,Nitra,minor,19644.0,1703781613
+Malacky,Malacky,48.4358,17.0178,Slovakia,SK,SVK,Bratislava,minor,18935.0,1703320479
+Snina,Snina,48.9881,22.1567,Slovakia,SK,SVK,Prešov,minor,18712.0,1703799818
+Dolný Kubín,Dolny Kubin,49.2106,19.2975,Slovakia,SK,SVK,Žilina,minor,18095.0,1703836159
+Žiar nad Hronom,Ziar nad Hronom,48.5842,18.8608,Slovakia,SK,SVK,Banská Bystrica,minor,17578.0,1703196559
+Rožňava,Roznava,48.6583,20.5308,Slovakia,SK,SVK,Košice,minor,17569.0,1703307007
+Púchov,Puchov,49.12,18.3306,Slovakia,SK,SVK,Nitra,minor,17068.0,1703321833
+Bánovce nad Bebravou,Banovce nad Bebravou,48.7186,18.2581,Slovakia,SK,SVK,Nitra,minor,16614.0,1703803804
+Handlová,Handlova,48.7272,18.7619,Slovakia,SK,SVK,Nitra,,16199.0,1703292608
+Stará Ľubovňa,Stara L'ubovna,49.3094,20.6789,Slovakia,SK,SVK,Prešov,minor,15938.0,1703928081
+Sered’,Sered',48.2886,17.7314,Slovakia,SK,SVK,Trnava,,15737.0,1703574353
+Kežmarok,Kezmarok,49.1336,20.4264,Slovakia,SK,SVK,Prešov,minor,15552.0,1703214180
+Skalica,Skalica,48.8422,17.2267,Slovakia,SK,SVK,Trnava,minor,15471.0,1703467870
+Galanta,Galanta,48.1889,17.7264,Slovakia,SK,SVK,Trnava,minor,15277.0,1703120770
+Kysucké Nové Mesto,Kysucke Nove Mesto,49.2983,18.7867,Slovakia,SK,SVK,Žilina,minor,14660.0,1703666551
+Levoča,Levoca,49.0253,20.5881,Slovakia,SK,SVK,Prešov,minor,14256.0,1703381498
+Detva,Detva,48.5514,19.4183,Slovakia,SK,SVK,Banská Bystrica,minor,13955.0,1703135182
+Šamorín,Samorin,48.0267,17.3117,Slovakia,SK,SVK,Trnava,,13628.0,1703883370
+Stupava,Stupava,48.2747,17.0317,Slovakia,SK,SVK,Bratislava,,12595.0,1703216738
+Sabinov,Sabinov,49.1061,21.0856,Slovakia,SK,SVK,Prešov,minor,12349.0,1703204865
+Zlaté Moravce,Zlate Moravce,48.3783,18.3967,Slovakia,SK,SVK,Nitra,minor,11946.0,1703464744
+Revúca,Revuca,48.6831,20.1133,Slovakia,SK,SVK,Banská Bystrica,minor,11484.0,1703490352
+Bytča,Bytca,49.2242,18.5642,Slovakia,SK,SVK,Žilina,minor,11414.0,1703630221
+Holíč,Holic,48.8122,17.1606,Slovakia,SK,SVK,Trnava,,11214.0,1703056774
+Veľký Krtíš,Vel'ky Krtis,48.215,19.3381,Slovakia,SK,SVK,Banská Bystrica,minor,11028.0,1703541479
+Myjava,Myjava,48.7492,17.5644,Slovakia,SK,SVK,Nitra,minor,10985.0,1703306179
+Kolárovo,Kolarovo,47.9169,17.9956,Slovakia,SK,SVK,Nitra,,10572.0,1703541383
+Nová Dubnica,Nova Dubnica,48.9331,18.1439,Slovakia,SK,SVK,Nitra,,10470.0,1703517526
+Moldava nad Bodvou,Moldava nad Bodvou,48.6064,21.0003,Slovakia,SK,SVK,Košice,,10305.0,1703800646
+Svidník,Svidnik,49.3056,21.5678,Slovakia,SK,SVK,Prešov,minor,10168.0,1703982053
+Stropkov,Stropkov,49.205,21.6514,Slovakia,SK,SVK,Prešov,minor,10067.0,1703240636
+Fiľakovo,Fil'akovo,48.2683,19.8247,Slovakia,SK,SVK,Banská Bystrica,,9949.0,1703493042
+Štúrovo,Sturovo,47.7992,18.7181,Slovakia,SK,SVK,Nitra,,9777.0,1703382552
+Banská Štiavnica,Banska Stiavnica,48.4581,18.8964,Slovakia,SK,SVK,Banská Bystrica,minor,9628.0,1703575986
+Šurany,Surany,48.0872,18.1861,Slovakia,SK,SVK,Nitra,,9562.0,1703675308
+Modra,Modra,48.3317,17.3089,Slovakia,SK,SVK,Bratislava,,9346.0,1703770416
+Tvrdošín,Tvrdosin,49.3343,19.5548,Slovakia,SK,SVK,Žilina,minor,8952.0,1703880169
+Smižany,Smizany,48.9556,20.5292,Slovakia,SK,SVK,Košice,,8838.0,1703195495
+Bernolákovo,Bernolakovo,48.2083,17.2917,Slovakia,SK,SVK,Bratislava,,8801.0,1703400453
+Veľké Kapušany,Vel'ke Kapusany,48.5503,22.0847,Slovakia,SK,SVK,Košice,,8799.0,1703807609
+Krompachy,Krompachy,48.9139,20.8739,Slovakia,SK,SVK,Košice,,8739.0,1703996106
+Stará Turá,Stara Tura,48.7767,17.6961,Slovakia,SK,SVK,Nitra,,8724.0,1703420460
+Vráble,Vrable,48.2408,18.3086,Slovakia,SK,SVK,Nitra,,8593.0,1703078244
+Sečovce,Secovce,48.7025,21.6567,Slovakia,SK,SVK,Košice,,8526.0,1703206081
+Bratislava,Bratislava,48.1439,17.1097,Slovakia,SK,SVK,Bratislava,primary,475503.0,1703195001
+Košice,Kosice,48.7167,21.25,Slovakia,SK,SVK,Košice,admin,229040.0,1703452690
+Petržalka,Petrzalka,48.1333,17.1167,Slovakia,SK,SVK,Bratislava,,114000.0,1703430611
+Žilina,Zilina,49.2228,18.74,Slovakia,SK,SVK,Žilina,admin,108000.0,1703289183
+Prešov,Presov,49.0017,21.2394,Slovakia,SK,SVK,Prešov,admin,84824.0,1703231427
+Nitra,Nitra,48.3069,18.0864,Slovakia,SK,SVK,Nitra,admin,77610.0,1703890031
+Banská Bystrica,Banska Bystrica,48.7353,19.1453,Slovakia,SK,SVK,Banská Bystrica,admin,76018.0,1703015198
+Trnava,Trnava,48.3775,17.5883,Slovakia,SK,SVK,Trnava,admin,63803.0,1703497997
+Trenčín,Trencin,48.8919,18.0367,Slovakia,SK,SVK,Trenčin,admin,54740.0,1703029695
+Martin,Martin,49.065,18.9219,Slovakia,SK,SVK,Žilina,minor,51139.0,1703554366
+Poprad,Poprad,49.0594,20.2975,Slovakia,SK,SVK,Prešov,minor,49855.0,1703451549
+Prievidza,Prievidza,48.7711,18.6217,Slovakia,SK,SVK,Nitra,minor,45017.0,1703497240
+Zvolen,Zvolen,48.5706,19.1175,Slovakia,SK,SVK,Banská Bystrica,minor,39844.0,1703102070
+Považská Bystrica,Povazska Bystrica,49.1139,18.4417,Slovakia,SK,SVK,Nitra,minor,38641.0,1703729563
+Nové Zámky,Nove Zamky,47.9856,18.1578,Slovakia,SK,SVK,Nitra,minor,37791.0,1703734556
+Michalovce,Michalovce,48.7553,21.9133,Slovakia,SK,SVK,Košice,minor,36704.0,1703150232
+Spišská Nová Ves,Spisska Nova Ves,48.9439,20.5675,Slovakia,SK,SVK,Košice,minor,35431.0,1703217196
+Komárno,Komarno,47.7633,18.1283,Slovakia,SK,SVK,Nitra,,32287.0,1703927453
+Levice,Levice,48.2164,18.6081,Slovakia,SK,SVK,Nitra,minor,31974.0,1703699284
+Humenné,Humenne,48.9358,21.9067,Slovakia,SK,SVK,Prešov,minor,31359.0,1703492155
+Liptovský Mikuláš,Liptovsky Mikulas,49.0842,19.6022,Slovakia,SK,SVK,Žilina,minor,30522.0,1703155005
+Bardejov,Bardejov,49.2933,21.2761,Slovakia,SK,SVK,Prešov,minor,30267.0,1703663141
+Ružomberok,Ruzomberok,49.0786,19.3083,Slovakia,SK,SVK,Žilina,minor,27407.0,1703510980
+Piešťany,Piest'any,48.5842,17.8336,Slovakia,SK,SVK,Trnava,minor,27301.0,1703636029
+Lučenec,Lucenec,48.3286,19.6692,Slovakia,SK,SVK,Banská Bystrica,minor,25902.0,1703222138
+Topoľčany,Topol'cany,48.5542,18.1769,Slovakia,SK,SVK,Nitra,minor,25249.0,1703972339
+Pezinok,Pezinok,48.2919,17.2661,Slovakia,SK,SVK,Bratislava,minor,24900.0,1703456673
+Čadca,Cadca,49.4358,18.7922,Slovakia,SK,SVK,Žilina,minor,23328.0,1703091898
+Dunajská Streda,Dunajska Streda,47.9944,17.6194,Slovakia,SK,SVK,Trnava,minor,23044.0,1703872671
+Trebišov,Trebisov,48.6278,21.7172,Slovakia,SK,SVK,Košice,minor,22890.0,1703917090
+Rimavská Sobota,Rimavska Sobota,48.3811,20.0144,Slovakia,SK,SVK,Banská Bystrica,minor,22048.0,1703980891
+Dubnica nad Váhom,Dubnica nad Vahom,48.9606,18.1739,Slovakia,SK,SVK,Nitra,,22023.0,1703468923
+Partizánske,Partizanske,48.6258,18.3728,Slovakia,SK,SVK,Nitra,minor,21439.0,1703749885
+Šaľa,Sal'a,48.1503,17.8775,Slovakia,SK,SVK,Nitra,minor,21183.0,1703397102
+Vranov nad Topľou,Vranov nad Topl'ou,48.8808,21.6733,Slovakia,SK,SVK,Prešov,minor,20702.0,1703513512
+Hlohovec,Hlohovec,48.4333,17.8033,Slovakia,SK,SVK,Trnava,minor,20556.0,1703788561
+Senec,Senec,48.2189,17.3997,Slovakia,SK,SVK,Bratislava,minor,20116.0,1703144516
+Brezno,Brezno,48.8039,19.6436,Slovakia,SK,SVK,Banská Bystrica,minor,20061.0,1703148175
+Senica,Senica,48.6806,17.3667,Slovakia,SK,SVK,Trnava,minor,19875.0,1703713928
+Nové Mesto nad Váhom,Nove Mesto nad Vahom,48.7547,17.8308,Slovakia,SK,SVK,Nitra,minor,19644.0,1703781613
+Malacky,Malacky,48.4358,17.0178,Slovakia,SK,SVK,Bratislava,minor,18935.0,1703320479
+Snina,Snina,48.9881,22.1567,Slovakia,SK,SVK,Prešov,minor,18712.0,1703799818
+Dolný Kubín,Dolny Kubin,49.2106,19.2975,Slovakia,SK,SVK,Žilina,minor,18095.0,1703836159
+Žiar nad Hronom,Ziar nad Hronom,48.5842,18.8608,Slovakia,SK,SVK,Banská Bystrica,minor,17578.0,1703196559
+Rožňava,Roznava,48.6583,20.5308,Slovakia,SK,SVK,Košice,minor,17569.0,1703307007
+Púchov,Puchov,49.12,18.3306,Slovakia,SK,SVK,Nitra,minor,17068.0,1703321833
+Bánovce nad Bebravou,Banovce nad Bebravou,48.7186,18.2581,Slovakia,SK,SVK,Nitra,minor,16614.0,1703803804
+Handlová,Handlova,48.7272,18.7619,Slovakia,SK,SVK,Nitra,,16199.0,1703292608
+Stará Ľubovňa,Stara L'ubovna,49.3094,20.6789,Slovakia,SK,SVK,Prešov,minor,15938.0,1703928081
+Sered’,Sered',48.2886,17.7314,Slovakia,SK,SVK,Trnava,,15737.0,1703574353
+Kežmarok,Kezmarok,49.1336,20.4264,Slovakia,SK,SVK,Prešov,minor,15552.0,1703214180
+Skalica,Skalica,48.8422,17.2267,Slovakia,SK,SVK,Trnava,minor,15471.0,1703467870
+Galanta,Galanta,48.1889,17.7264,Slovakia,SK,SVK,Trnava,minor,15277.0,1703120770
+Kysucké Nové Mesto,Kysucke Nove Mesto,49.2983,18.7867,Slovakia,SK,SVK,Žilina,minor,14660.0,1703666551
+Levoča,Levoca,49.0253,20.5881,Slovakia,SK,SVK,Prešov,minor,14256.0,1703381498
+Detva,Detva,48.5514,19.4183,Slovakia,SK,SVK,Banská Bystrica,minor,13955.0,1703135182
+Šamorín,Samorin,48.0267,17.3117,Slovakia,SK,SVK,Trnava,,13628.0,1703883370
+Stupava,Stupava,48.2747,17.0317,Slovakia,SK,SVK,Bratislava,,12595.0,1703216738
+Sabinov,Sabinov,49.1061,21.0856,Slovakia,SK,SVK,Prešov,minor,12349.0,1703204865
+Zlaté Moravce,Zlate Moravce,48.3783,18.3967,Slovakia,SK,SVK,Nitra,minor,11946.0,1703464744
+Revúca,Revuca,48.6831,20.1133,Slovakia,SK,SVK,Banská Bystrica,minor,11484.0,1703490352
+Bytča,Bytca,49.2242,18.5642,Slovakia,SK,SVK,Žilina,minor,11414.0,1703630221
+Holíč,Holic,48.8122,17.1606,Slovakia,SK,SVK,Trnava,,11214.0,1703056774
+Veľký Krtíš,Vel'ky Krtis,48.215,19.3381,Slovakia,SK,SVK,Banská Bystrica,minor,11028.0,1703541479
+Myjava,Myjava,48.7492,17.5644,Slovakia,SK,SVK,Nitra,minor,10985.0,1703306179
+Kolárovo,Kolarovo,47.9169,17.9956,Slovakia,SK,SVK,Nitra,,10572.0,1703541383
+Nová Dubnica,Nova Dubnica,48.9331,18.1439,Slovakia,SK,SVK,Nitra,,10470.0,1703517526
+Moldava nad Bodvou,Moldava nad Bodvou,48.6064,21.0003,Slovakia,SK,SVK,Košice,,10305.0,1703800646
+Svidník,Svidnik,49.3056,21.5678,Slovakia,SK,SVK,Prešov,minor,10168.0,1703982053
+Stropkov,Stropkov,49.205,21.6514,Slovakia,SK,SVK,Prešov,minor,10067.0,1703240636
+Fiľakovo,Fil'akovo,48.2683,19.8247,Slovakia,SK,SVK,Banská Bystrica,,9949.0,1703493042
+Štúrovo,Sturovo,47.7992,18.7181,Slovakia,SK,SVK,Nitra,,9777.0,1703382552
+Banská Štiavnica,Banska Stiavnica,48.4581,18.8964,Slovakia,SK,SVK,Banská Bystrica,minor,9628.0,1703575986
+Šurany,Surany,48.0872,18.1861,Slovakia,SK,SVK,Nitra,,9562.0,1703675308
+Modra,Modra,48.3317,17.3089,Slovakia,SK,SVK,Bratislava,,9346.0,1703770416
+Tvrdošín,Tvrdosin,49.3343,19.5548,Slovakia,SK,SVK,Žilina,minor,8952.0,1703880169
+Smižany,Smizany,48.9556,20.5292,Slovakia,SK,SVK,Košice,,8838.0,1703195495
+Bernolákovo,Bernolakovo,48.2083,17.2917,Slovakia,SK,SVK,Bratislava,,8801.0,1703400453
+Veľké Kapušany,Vel'ke Kapusany,48.5503,22.0847,Slovakia,SK,SVK,Košice,,8799.0,1703807609
+Krompachy,Krompachy,48.9139,20.8739,Slovakia,SK,SVK,Košice,,8739.0,1703996106
+Stará Turá,Stara Tura,48.7767,17.6961,Slovakia,SK,SVK,Nitra,,8724.0,1703420460
+Vráble,Vrable,48.2408,18.3086,Slovakia,SK,SVK,Nitra,,8593.0,1703078244
+Sečovce,Secovce,48.7025,21.6567,Slovakia,SK,SVK,Košice,,8526.0,1703206081

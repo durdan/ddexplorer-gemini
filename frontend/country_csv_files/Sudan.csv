@@ -1,0 +1,91 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Khartoum,Khartoum,15.6,32.5,Sudan,SD,SDN,Khartoum,primary,7869000.0,1729268475
+Omdurman,Omdurman,15.65,32.4833,Sudan,SD,SDN,Khartoum,,2805396.0,1729912179
+Al Mijlad,Al Mijlad,11.0339,27.74,Sudan,SD,SDN,West Kordofan,,985000.0,1729768355
+Khartoum North,Khartoum North,15.6333,32.6333,Sudan,SD,SDN,Khartoum,,936349.0,1729318628
+Port Sudan,Port Sudan,19.6167,37.2167,Sudan,SD,SDN,Red Sea,admin,579942.0,1729710259
+El Geneina,El Geneina,13.45,22.45,Sudan,SD,SDN,West Darfur,admin,538390.0,1729642412
+Kassala,Kassala,15.45,36.4,Sudan,SD,SDN,Kassala,admin,536009.0,1729157224
+El Fasher,El Fasher,13.6306,25.35,Sudan,SD,SDN,North Darfur,admin,500000.0,1729372385
+Nyala,Nyala,12.05,24.8833,Sudan,SD,SDN,South Darfur,admin,492984.0,1729833248
+El Obeid,El Obeid,13.1833,30.2167,Sudan,SD,SDN,North Kordofan,admin,418280.0,1729215531
+Gedaref,Gedaref,14.0333,35.3833,Sudan,SD,SDN,Gedaref,admin,354927.0,1729215057
+Wad Medani,Wad Medani,14.4,33.5167,Sudan,SD,SDN,Gezira,admin,345290.0,1729581572
+Kūstī,Kusti,13.1667,32.6667,Sudan,SD,SDN,White Nile,,345068.0,1729229371
+Ed Daein,Ed Daein,11.4608,26.1283,Sudan,SD,SDN,East Darfur,admin,264734.0,1729512354
+Singa,Singa,13.15,33.9333,Sudan,SD,SDN,Sennar,admin,259000.0,1729951108
+Kurmuk,Kurmuk,10.55,34.2833,Sudan,SD,SDN,Blue Nile,,250000.0,1729180375
+Ar Ruseris,Ar Ruseris,11.85,34.3833,Sudan,SD,SDN,Blue Nile,,215857.0,1729614147
+Ed Damazin,Ed Damazin,11.7667,34.35,Sudan,SD,SDN,Blue Nile,admin,186051.0,1729684147
+Al Manāqil,Al Manaqil,14.2467,32.9861,Sudan,SD,SDN,Gezira,,151827.0,1729742500
+Sannār,Sannar,13.55,33.5833,Sudan,SD,SDN,Sennar,,143059.0,1729986512
+Atbara,Atbara,17.6972,33.9783,Sudan,SD,SDN,River Nile,,139768.0,1729042522
+Ed Damer,Ed Damer,17.59,33.96,Sudan,SD,SDN,River Nile,admin,122944.0,1729791168
+An Nuhūd,An Nuhud,12.6925,28.4233,Sudan,SD,SDN,West Kordofan,,108008.0,1729223651
+Kadugli,Kadugli,11.0167,29.7167,Sudan,SD,SDN,South Kordofan,admin,92674.0,1729757472
+Ad Diwem,Ad Diwem,14.0,32.3167,Sudan,SD,SDN,White Nile,,87068.0,1729364292
+Dongola,Dongola,19.1698,30.4749,Sudan,SD,SDN,Northern,admin,56167.0,1729300155
+Umm Ruwaba,Umm Ruwaba,12.9046,31.2079,Sudan,SD,SDN,North Kordofan,,55742.0,1729566926
+Shendi,Shendi,16.6833,33.4333,Sudan,SD,SDN,River Nile,,55516.0,1729244380
+Ad Dabbah,Ad Dabbah,18.0502,30.9495,Sudan,SD,SDN,Northern,,52000.0,1729074461
+Abū Ḩamad,Abu Hamad,19.5433,33.3378,Sudan,SD,SDN,River Nile,,50000.0,1729554381
+Kutum,Kutum,14.2056,24.65,Sudan,SD,SDN,North Darfur,,45000.0,1729748758
+Sawākin,Sawakin,19.1025,37.33,Sudan,SD,SDN,Red Sea,,43337.0,1729959085
+Tokār,Tokar,18.4253,37.7292,Sudan,SD,SDN,Red Sea,,37051.0,1729512860
+Zalingei,Zalingei,12.9,23.4833,Sudan,SD,SDN,Central Darfur,admin,27258.0,1729805075
+Al Qiţena,Al Qitena,14.8612,32.3692,Sudan,SD,SDN,White Nile,,26893.0,1729413594
+Babanūsah,Babanusah,11.3333,27.8,Sudan,SD,SDN,West Kordofan,,19700.0,1729601692
+Wādī Ḩalfā’,Wadi Halfa',21.8,31.35,Sudan,SD,SDN,Northern,,17121.0,1729435342
+Berber,Berber,18.0306,33.9933,Sudan,SD,SDN,River Nile,,16650.0,1729960469
+Kuraymah,Kuraymah,18.55,31.85,Sudan,SD,SDN,Northern,,13981.0,1729460308
+Umm Badr,Umm Badr,14.2167,27.9333,Sudan,SD,SDN,North Kordofan,,12000.0,1729226320
+Marawī,Marawi,18.4833,31.8167,Sudan,SD,SDN,Northern,,10234.0,1729782394
+Karmah an Nuzul,Karmah an Nuzul,19.6008,30.4097,Sudan,SD,SDN,Northern,,3928.0,1729918529
+Haya,Haya,18.3461,36.3969,Sudan,SD,SDN,Red Sea,,1000.0,1729440799
+Rabak,Rabak,13.185,32.744,Sudan,SD,SDN,White Nile,admin,,1729452233
+El Fula,El Fula,11.7175,28.34,Sudan,SD,SDN,West Kordofan,admin,,1729946051
+Khartoum,Khartoum,15.6,32.5,Sudan,SD,SDN,Khartoum,primary,7869000.0,1729268475
+Omdurman,Omdurman,15.65,32.4833,Sudan,SD,SDN,Khartoum,,2805396.0,1729912179
+Al Mijlad,Al Mijlad,11.0339,27.74,Sudan,SD,SDN,West Kordofan,,985000.0,1729768355
+Khartoum North,Khartoum North,15.6333,32.6333,Sudan,SD,SDN,Khartoum,,936349.0,1729318628
+Port Sudan,Port Sudan,19.6167,37.2167,Sudan,SD,SDN,Red Sea,admin,579942.0,1729710259
+El Geneina,El Geneina,13.45,22.45,Sudan,SD,SDN,West Darfur,admin,538390.0,1729642412
+Kassala,Kassala,15.45,36.4,Sudan,SD,SDN,Kassala,admin,536009.0,1729157224
+El Fasher,El Fasher,13.6306,25.35,Sudan,SD,SDN,North Darfur,admin,500000.0,1729372385
+Nyala,Nyala,12.05,24.8833,Sudan,SD,SDN,South Darfur,admin,492984.0,1729833248
+El Obeid,El Obeid,13.1833,30.2167,Sudan,SD,SDN,North Kordofan,admin,418280.0,1729215531
+Gedaref,Gedaref,14.0333,35.3833,Sudan,SD,SDN,Gedaref,admin,354927.0,1729215057
+Wad Medani,Wad Medani,14.4,33.5167,Sudan,SD,SDN,Gezira,admin,345290.0,1729581572
+Kūstī,Kusti,13.1667,32.6667,Sudan,SD,SDN,White Nile,,345068.0,1729229371
+Ed Daein,Ed Daein,11.4608,26.1283,Sudan,SD,SDN,East Darfur,admin,264734.0,1729512354
+Singa,Singa,13.15,33.9333,Sudan,SD,SDN,Sennar,admin,259000.0,1729951108
+Kurmuk,Kurmuk,10.55,34.2833,Sudan,SD,SDN,Blue Nile,,250000.0,1729180375
+Ar Ruseris,Ar Ruseris,11.85,34.3833,Sudan,SD,SDN,Blue Nile,,215857.0,1729614147
+Ed Damazin,Ed Damazin,11.7667,34.35,Sudan,SD,SDN,Blue Nile,admin,186051.0,1729684147
+Al Manāqil,Al Manaqil,14.2467,32.9861,Sudan,SD,SDN,Gezira,,151827.0,1729742500
+Sannār,Sannar,13.55,33.5833,Sudan,SD,SDN,Sennar,,143059.0,1729986512
+Atbara,Atbara,17.6972,33.9783,Sudan,SD,SDN,River Nile,,139768.0,1729042522
+Ed Damer,Ed Damer,17.59,33.96,Sudan,SD,SDN,River Nile,admin,122944.0,1729791168
+An Nuhūd,An Nuhud,12.6925,28.4233,Sudan,SD,SDN,West Kordofan,,108008.0,1729223651
+Kadugli,Kadugli,11.0167,29.7167,Sudan,SD,SDN,South Kordofan,admin,92674.0,1729757472
+Ad Diwem,Ad Diwem,14.0,32.3167,Sudan,SD,SDN,White Nile,,87068.0,1729364292
+Dongola,Dongola,19.1698,30.4749,Sudan,SD,SDN,Northern,admin,56167.0,1729300155
+Umm Ruwaba,Umm Ruwaba,12.9046,31.2079,Sudan,SD,SDN,North Kordofan,,55742.0,1729566926
+Shendi,Shendi,16.6833,33.4333,Sudan,SD,SDN,River Nile,,55516.0,1729244380
+Ad Dabbah,Ad Dabbah,18.0502,30.9495,Sudan,SD,SDN,Northern,,52000.0,1729074461
+Abū Ḩamad,Abu Hamad,19.5433,33.3378,Sudan,SD,SDN,River Nile,,50000.0,1729554381
+Kutum,Kutum,14.2056,24.65,Sudan,SD,SDN,North Darfur,,45000.0,1729748758
+Sawākin,Sawakin,19.1025,37.33,Sudan,SD,SDN,Red Sea,,43337.0,1729959085
+Tokār,Tokar,18.4253,37.7292,Sudan,SD,SDN,Red Sea,,37051.0,1729512860
+Zalingei,Zalingei,12.9,23.4833,Sudan,SD,SDN,Central Darfur,admin,27258.0,1729805075
+Al Qiţena,Al Qitena,14.8612,32.3692,Sudan,SD,SDN,White Nile,,26893.0,1729413594
+Babanūsah,Babanusah,11.3333,27.8,Sudan,SD,SDN,West Kordofan,,19700.0,1729601692
+Wādī Ḩalfā’,Wadi Halfa',21.8,31.35,Sudan,SD,SDN,Northern,,17121.0,1729435342
+Berber,Berber,18.0306,33.9933,Sudan,SD,SDN,River Nile,,16650.0,1729960469
+Kuraymah,Kuraymah,18.55,31.85,Sudan,SD,SDN,Northern,,13981.0,1729460308
+Umm Badr,Umm Badr,14.2167,27.9333,Sudan,SD,SDN,North Kordofan,,12000.0,1729226320
+Marawī,Marawi,18.4833,31.8167,Sudan,SD,SDN,Northern,,10234.0,1729782394
+Karmah an Nuzul,Karmah an Nuzul,19.6008,30.4097,Sudan,SD,SDN,Northern,,3928.0,1729918529
+Haya,Haya,18.3461,36.3969,Sudan,SD,SDN,Red Sea,,1000.0,1729440799
+Rabak,Rabak,13.185,32.744,Sudan,SD,SDN,White Nile,admin,,1729452233
+El Fula,El Fula,11.7175,28.34,Sudan,SD,SDN,West Kordofan,admin,,1729946051

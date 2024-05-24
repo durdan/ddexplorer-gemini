@@ -1,0 +1,225 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Dushanbe,Dushanbe,38.5367,68.78,Tajikistan,TJ,TJK,Dushanbe,primary,863400.0,1762930616
+Khŭjand,Khujand,40.2833,69.6333,Tajikistan,TJ,TJK,Sughd,admin,770000.0,1762372787
+Konibodom,Konibodom,40.2833,70.4167,Tajikistan,TJ,TJK,Sughd,minor,219000.0,1762140294
+Kŭlob,Kulob,37.9092,69.7819,Tajikistan,TJ,TJK,Khatlon,minor,106300.0,1762798596
+Istaravshan,Istaravshan,39.9108,69.0064,Tajikistan,TJ,TJK,Sughd,minor,65600.0,1762380072
+Tursunzoda,Tursunzoda,38.5108,68.2303,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,minor,55700.0,1762277771
+Panjakent,Panjakent,39.5,67.6167,Tajikistan,TJ,TJK,Sughd,minor,52500.0,1762088946
+Isfara,Isfara,40.1167,70.6333,Tajikistan,TJ,TJK,Sughd,minor,51700.0,1762121684
+Ghŭlakandoz,Ghulakandoz,40.1617,69.4678,Tajikistan,TJ,TJK,Sughd,,50200.0,1762073547
+Zargar,Zargar,37.8,68.65,Tajikistan,TJ,TJK,Khatlon,,49235.0,1762322356
+Levakant,Levakant,37.8667,68.9167,Tajikistan,TJ,TJK,Khatlon,minor,48300.0,1762807871
+Chimteppa,Chimteppa,38.4667,68.7333,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,,45221.0,1762819593
+Roghun,Roghun,38.6978,69.7522,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,minor,44100.0,1762926748
+Vahdat,Vahdat,38.5531,69.0206,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,minor,43200.0,1762043986
+Bokhtar,Bokhtar,37.8364,68.7803,Tajikistan,TJ,TJK,Khatlon,admin,42075.0,1762998971
+Isfisor,Isfisor,40.2433,69.7447,Tajikistan,TJ,TJK,Sughd,,39590.0,1762426322
+Sarikishty,Sarikishty,38.4667,68.7,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,,38474.0,1762415528
+Navgilem,Navgilem,40.1333,70.65,Tajikistan,TJ,TJK,Sughd,,38104.0,1762623109
+Qaratog,Qaratog,38.55,68.2833,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,,37948.0,1762906542
+Obburdon,Obburdon,40.4278,69.3047,Tajikistan,TJ,TJK,Sughd,,37104.0,1762458368
+Chorkŭh,Chorkuh,39.9739,70.5822,Tajikistan,TJ,TJK,Sughd,,37065.0,1762755950
+Yovon,Yovon,38.3167,69.05,Tajikistan,TJ,TJK,Khatlon,minor,36700.0,1762920268
+Simiganj,Simiganj,38.6525,69.0064,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,,35473.0,1762393981
+Rokhaty,Rokhaty,38.6,68.9333,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,,32152.0,1762898038
+Chorbog,Chorbog,38.6667,68.7667,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,,31585.0,1762123039
+Norak,Norak,38.3833,69.3167,Tajikistan,TJ,TJK,Khatlon,minor,31400.0,1762774503
+Danghara,Danghara,38.0983,69.3467,Tajikistan,TJ,TJK,Khatlon,minor,31100.0,1762192372
+Khorugh,Khorugh,37.4833,71.55,Tajikistan,TJ,TJK,Kŭhistoni Badakhshon,admin,31100.0,1762114045
+Dahana,Dahana,38.0583,69.8667,Tajikistan,TJ,TJK,Khatlon,,29776.0,1762626270
+Hisor,Hisor,38.5264,68.5381,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,minor,29100.0,1762136882
+Pongoz,Pongoz,40.75,70.25,Tajikistan,TJ,TJK,Sughd,,28352.0,1762429014
+Bakhor,Bakhor,38.55,68.9833,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,,28276.0,1762767243
+Muchun,Muchun,39.8833,69.1833,Tajikistan,TJ,TJK,Sughd,,27835.0,1762037289
+Navabad,Navabad,38.5667,68.5167,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,,26321.0,1762368316
+Jilikŭl,Jilikul,37.4928,68.5286,Tajikistan,TJ,TJK,Khatlon,minor,25382.0,1762222147
+Farkhor,Farkhor,37.5,69.4,Tajikistan,TJ,TJK,Khatlon,minor,25300.0,1762773904
+Somoniyon,Somoniyon,38.4422,68.7769,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,minor,25200.0,1762902089
+Hulbuk,Hulbuk,37.805,69.6464,Tajikistan,TJ,TJK,Khatlon,minor,24500.0,1762158333
+Firuzoba,Firuzoba,40.3,70.4,Tajikistan,TJ,TJK,Sughd,,23813.0,1762567325
+Dalyoni Bolo,Dalyoni Bolo,39.7422,68.9944,Tajikistan,TJ,TJK,Sughd,,23670.0,1762004498
+Moskva,Moskva,37.6567,69.6292,Tajikistan,TJ,TJK,Khatlon,minor,23300.0,1762027698
+Kulkent,Kulkent,40.15,70.7,Tajikistan,TJ,TJK,Sughd,,22731.0,1762615413
+Mehnatobod,Mehnatobod,37.7167,69.55,Tajikistan,TJ,TJK,Khatlon,,21816.0,1762901629
+Lohutí,Lohuti,40.25,70.1333,Tajikistan,TJ,TJK,Sughd,,21652.0,1762012091
+Qal’acha,Qal'acha,40.1333,69.6833,Tajikistan,TJ,TJK,Sughd,,21585.0,1762339363
+Naryn,Naryn,38.2,68.9,Tajikistan,TJ,TJK,Khatlon,,21314.0,1762541760
+Almasi,Almasi,38.6833,68.6,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,,21261.0,1762773329
+Oshoba,Oshoba,40.7347,70.4417,Tajikistan,TJ,TJK,Sughd,,21260.0,1762699211
+Paldorak,Paldorak,40.4833,69.3,Tajikistan,TJ,TJK,Sughd,,20837.0,1762537276
+Ghafurov,Ghafurov,40.22,69.73,Tajikistan,TJ,TJK,Sughd,minor,20600.0,1762485684
+Ėsanboy,Esanboy,38.0833,68.3833,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,,20072.0,1762743298
+Durbat,Durbat,38.5333,68.6333,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,,20052.0,1762805459
+Lohur,Lohur,38.3833,68.7,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,,20047.0,1762289718
+Poshkent,Poshkent,39.8833,69.0333,Tajikistan,TJ,TJK,Sughd,,19746.0,1762717942
+Mogiyon,Mogiyon,39.25,67.65,Tajikistan,TJ,TJK,Sughd,,19553.0,1762342219
+Dashtigulho,Dashtigulho,37.7,69.5,Tajikistan,TJ,TJK,Khatlon,,19331.0,1762339993
+Kosatarosh,Kosatarosh,39.4,67.75,Tajikistan,TJ,TJK,Sughd,,18986.0,1762504857
+Abdurahmoni Jomí,Abdurahmoni Jomi,37.9458,68.8117,Tajikistan,TJ,TJK,Khatlon,minor,18800.0,1762589864
+Dŭstí,Dusti,37.3486,68.6733,Tajikistan,TJ,TJK,Khatlon,minor,18800.0,1762895050
+Chubek,Chubek,37.6167,69.7,Tajikistan,TJ,TJK,Khatlon,,18490.0,1762738611
+Navraftor,Navraftor,37.7333,68.7667,Tajikistan,TJ,TJK,Khatlon,,18281.0,1762606160
+Patar,Patar,40.3333,70.45,Tajikistan,TJ,TJK,Sughd,,17870.0,1762922189
+Gazantarak,Gazantarak,39.9667,69.1333,Tajikistan,TJ,TJK,Sughd,,17801.0,1762795587
+Mujikharf,Mujikharf,38.85,69.8833,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,,17366.0,1762947574
+Shahritus,Shahritus,37.2667,68.1333,Tajikistan,TJ,TJK,Khatlon,minor,17200.0,1762631675
+Ghonchí,Ghonchi,39.9589,69.1369,Tajikistan,TJ,TJK,Sughd,minor,17000.0,1762461184
+Sujina,Sujina,39.4833,67.7167,Tajikistan,TJ,TJK,Sughd,,16543.0,1762130928
+Chorbogh,Chorbogh,39.8667,69.0833,Tajikistan,TJ,TJK,Sughd,,16488.0,1762188162
+Mastchoh,Mastchoh,40.3667,69.3333,Tajikistan,TJ,TJK,Sughd,,16401.0,1762426354
+Shahriston,Shahriston,39.7667,68.8167,Tajikistan,TJ,TJK,Sughd,minor,16295.0,1762671207
+Sultonobod,Sultonobod,38.45,68.95,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,,16066.0,1762709548
+Chilgazí,Chilgazi,40.15,70.7333,Tajikistan,TJ,TJK,Sughd,,15997.0,1762908199
+Adrasmon,Adrasmon,40.6486,69.9856,Tajikistan,TJ,TJK,Sughd,,15800.0,1762711403
+Bŭston,Buston,40.5217,69.3308,Tajikistan,TJ,TJK,Sughd,minor,15500.0,1762646765
+Romit,Romit,38.7167,69.3167,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,,15440.0,1762333880
+Seshambe,Seshambe,38.5333,68.25,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,,15197.0,1762108075
+Vakhsh,Vakhsh,37.7108,68.8311,Tajikistan,TJ,TJK,Khatlon,minor,14900.0,1762695931
+Ayní,Ayni,39.3975,68.5406,Tajikistan,TJ,TJK,Sughd,minor,14862.0,1762304788
+Dehmoí,Dehmoi,40.2167,69.5167,Tajikistan,TJ,TJK,Sughd,,14802.0,1762633756
+Mŭ’minobod,Mu'minobod,38.1083,70.0292,Tajikistan,TJ,TJK,Khatlon,minor,14100.0,1762625291
+Ayni,Ayni,38.6667,68.8167,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,,14052.0,1762288360
+Qiblaí,Qiblai,38.6167,68.8333,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,,13860.0,1762560534
+Amondara,Amondara,39.5178,67.8131,Tajikistan,TJ,TJK,Sughd,,13380.0,1762761916
+Pushing,Pushing,38.1833,69.4333,Tajikistan,TJ,TJK,Khatlon,,13293.0,1762385172
+Rabot,Rabot,38.6167,68.1833,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,,13053.0,1762294560
+Sebiston,Sebiston,38.25,69.2833,Tajikistan,TJ,TJK,Khatlon,,12736.0,1762892686
+Sangtŭda,Sangtuda,38.0333,69.0833,Tajikistan,TJ,TJK,Khatlon,,12686.0,1762543236
+Panj,Panj,37.2353,69.0972,Tajikistan,TJ,TJK,Khatlon,minor,12500.0,1762607780
+Gulshan,Gulshan,37.5833,69.4333,Tajikistan,TJ,TJK,Khatlon,,12418.0,1762579835
+Mehnatobod,Mehnatobod,40.2,68.95,Tajikistan,TJ,TJK,Sughd,,12400.0,1762955778
+Dehqonobod,Dehqonobod,37.6333,69.45,Tajikistan,TJ,TJK,Khatlon,,12327.0,1762454979
+Obikiik,Obikiik,38.1586,68.6722,Tajikistan,TJ,TJK,Khatlon,minor,12300.0,1762953751
+Khonobod,Khonobod,40.2,70.6,Tajikistan,TJ,TJK,Sughd,,12159.0,1762540080
+Kalaidasht,Kalaidasht,38.6333,69.5,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,,12074.0,1762520076
+Varzobkala,Varzobkala,38.7667,68.8167,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,,11438.0,1762216505
+Vanj,Vanj,38.3731,71.4553,Tajikistan,TJ,TJK,Kŭhistoni Badakhshon,minor,11217.0,1762019950
+Shahrinav,Shahrinav,38.5667,68.3333,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,minor,11123.0,1762284925
+Shing,Shing,39.2833,67.8,Tajikistan,TJ,TJK,Sughd,,10873.0,1762585768
+Shŭrobod,Shurobod,37.8403,70.0419,Tajikistan,TJ,TJK,Khatlon,minor,10700.0,1762032087
+Khovaling,Khovaling,38.3386,69.9728,Tajikistan,TJ,TJK,Khatlon,minor,10601.0,1762402281
+Khurmi,Khurmi,39.5167,67.5833,Tajikistan,TJ,TJK,Sughd,,10451.0,1762313500
+Kalanak,Kalanak,39.0833,70.5,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,,10411.0,1762067649
+Fayzobod,Fayzobod,38.55,69.3167,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,minor,10400.0,1762452678
+Nijoní,Nijoni,39.9667,68.9167,Tajikistan,TJ,TJK,Sughd,,10350.0,1762549983
+Navabad,Navabad,38.5278,68.675,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,,10200.0,1762138739
+Chavkandak,Chavkandak,39.9,68.9333,Tajikistan,TJ,TJK,Sughd,,10200.0,1762806975
+Rasht,Rasht,39.0167,70.3833,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,minor,9800.0,1762486281
+Pakhtaobod,Pakhtaobod,38.4667,68.1333,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,,9690.0,1762687670
+Langar,Langar,39.45,69.55,Tajikistan,TJ,TJK,Sughd,,9666.0,1762492920
+Rarz,Rarz,39.3803,68.7442,Tajikistan,TJ,TJK,Sughd,,8998.0,1762620381
+Buved,Buved,37.5833,71.5167,Tajikistan,TJ,TJK,Kŭhistoni Badakhshon,,8723.0,1762903124
+Farob,Farob,39.2408,67.47,Tajikistan,TJ,TJK,Sughd,,8650.0,1762563698
+Dushanbe,Dushanbe,38.5367,68.78,Tajikistan,TJ,TJK,Dushanbe,primary,863400.0,1762930616
+Khŭjand,Khujand,40.2833,69.6333,Tajikistan,TJ,TJK,Sughd,admin,770000.0,1762372787
+Konibodom,Konibodom,40.2833,70.4167,Tajikistan,TJ,TJK,Sughd,minor,219000.0,1762140294
+Kŭlob,Kulob,37.9092,69.7819,Tajikistan,TJ,TJK,Khatlon,minor,106300.0,1762798596
+Istaravshan,Istaravshan,39.9108,69.0064,Tajikistan,TJ,TJK,Sughd,minor,65600.0,1762380072
+Tursunzoda,Tursunzoda,38.5108,68.2303,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,minor,55700.0,1762277771
+Panjakent,Panjakent,39.5,67.6167,Tajikistan,TJ,TJK,Sughd,minor,52500.0,1762088946
+Isfara,Isfara,40.1167,70.6333,Tajikistan,TJ,TJK,Sughd,minor,51700.0,1762121684
+Ghŭlakandoz,Ghulakandoz,40.1617,69.4678,Tajikistan,TJ,TJK,Sughd,,50200.0,1762073547
+Zargar,Zargar,37.8,68.65,Tajikistan,TJ,TJK,Khatlon,,49235.0,1762322356
+Levakant,Levakant,37.8667,68.9167,Tajikistan,TJ,TJK,Khatlon,minor,48300.0,1762807871
+Chimteppa,Chimteppa,38.4667,68.7333,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,,45221.0,1762819593
+Roghun,Roghun,38.6978,69.7522,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,minor,44100.0,1762926748
+Vahdat,Vahdat,38.5531,69.0206,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,minor,43200.0,1762043986
+Bokhtar,Bokhtar,37.8364,68.7803,Tajikistan,TJ,TJK,Khatlon,admin,42075.0,1762998971
+Isfisor,Isfisor,40.2433,69.7447,Tajikistan,TJ,TJK,Sughd,,39590.0,1762426322
+Sarikishty,Sarikishty,38.4667,68.7,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,,38474.0,1762415528
+Navgilem,Navgilem,40.1333,70.65,Tajikistan,TJ,TJK,Sughd,,38104.0,1762623109
+Qaratog,Qaratog,38.55,68.2833,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,,37948.0,1762906542
+Obburdon,Obburdon,40.4278,69.3047,Tajikistan,TJ,TJK,Sughd,,37104.0,1762458368
+Chorkŭh,Chorkuh,39.9739,70.5822,Tajikistan,TJ,TJK,Sughd,,37065.0,1762755950
+Yovon,Yovon,38.3167,69.05,Tajikistan,TJ,TJK,Khatlon,minor,36700.0,1762920268
+Simiganj,Simiganj,38.6525,69.0064,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,,35473.0,1762393981
+Rokhaty,Rokhaty,38.6,68.9333,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,,32152.0,1762898038
+Chorbog,Chorbog,38.6667,68.7667,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,,31585.0,1762123039
+Norak,Norak,38.3833,69.3167,Tajikistan,TJ,TJK,Khatlon,minor,31400.0,1762774503
+Danghara,Danghara,38.0983,69.3467,Tajikistan,TJ,TJK,Khatlon,minor,31100.0,1762192372
+Khorugh,Khorugh,37.4833,71.55,Tajikistan,TJ,TJK,Kŭhistoni Badakhshon,admin,31100.0,1762114045
+Dahana,Dahana,38.0583,69.8667,Tajikistan,TJ,TJK,Khatlon,,29776.0,1762626270
+Hisor,Hisor,38.5264,68.5381,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,minor,29100.0,1762136882
+Pongoz,Pongoz,40.75,70.25,Tajikistan,TJ,TJK,Sughd,,28352.0,1762429014
+Bakhor,Bakhor,38.55,68.9833,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,,28276.0,1762767243
+Muchun,Muchun,39.8833,69.1833,Tajikistan,TJ,TJK,Sughd,,27835.0,1762037289
+Navabad,Navabad,38.5667,68.5167,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,,26321.0,1762368316
+Jilikŭl,Jilikul,37.4928,68.5286,Tajikistan,TJ,TJK,Khatlon,minor,25382.0,1762222147
+Farkhor,Farkhor,37.5,69.4,Tajikistan,TJ,TJK,Khatlon,minor,25300.0,1762773904
+Somoniyon,Somoniyon,38.4422,68.7769,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,minor,25200.0,1762902089
+Hulbuk,Hulbuk,37.805,69.6464,Tajikistan,TJ,TJK,Khatlon,minor,24500.0,1762158333
+Firuzoba,Firuzoba,40.3,70.4,Tajikistan,TJ,TJK,Sughd,,23813.0,1762567325
+Dalyoni Bolo,Dalyoni Bolo,39.7422,68.9944,Tajikistan,TJ,TJK,Sughd,,23670.0,1762004498
+Moskva,Moskva,37.6567,69.6292,Tajikistan,TJ,TJK,Khatlon,minor,23300.0,1762027698
+Kulkent,Kulkent,40.15,70.7,Tajikistan,TJ,TJK,Sughd,,22731.0,1762615413
+Mehnatobod,Mehnatobod,37.7167,69.55,Tajikistan,TJ,TJK,Khatlon,,21816.0,1762901629
+Lohutí,Lohuti,40.25,70.1333,Tajikistan,TJ,TJK,Sughd,,21652.0,1762012091
+Qal’acha,Qal'acha,40.1333,69.6833,Tajikistan,TJ,TJK,Sughd,,21585.0,1762339363
+Naryn,Naryn,38.2,68.9,Tajikistan,TJ,TJK,Khatlon,,21314.0,1762541760
+Almasi,Almasi,38.6833,68.6,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,,21261.0,1762773329
+Oshoba,Oshoba,40.7347,70.4417,Tajikistan,TJ,TJK,Sughd,,21260.0,1762699211
+Paldorak,Paldorak,40.4833,69.3,Tajikistan,TJ,TJK,Sughd,,20837.0,1762537276
+Ghafurov,Ghafurov,40.22,69.73,Tajikistan,TJ,TJK,Sughd,minor,20600.0,1762485684
+Ėsanboy,Esanboy,38.0833,68.3833,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,,20072.0,1762743298
+Durbat,Durbat,38.5333,68.6333,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,,20052.0,1762805459
+Lohur,Lohur,38.3833,68.7,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,,20047.0,1762289718
+Poshkent,Poshkent,39.8833,69.0333,Tajikistan,TJ,TJK,Sughd,,19746.0,1762717942
+Mogiyon,Mogiyon,39.25,67.65,Tajikistan,TJ,TJK,Sughd,,19553.0,1762342219
+Dashtigulho,Dashtigulho,37.7,69.5,Tajikistan,TJ,TJK,Khatlon,,19331.0,1762339993
+Kosatarosh,Kosatarosh,39.4,67.75,Tajikistan,TJ,TJK,Sughd,,18986.0,1762504857
+Abdurahmoni Jomí,Abdurahmoni Jomi,37.9458,68.8117,Tajikistan,TJ,TJK,Khatlon,minor,18800.0,1762589864
+Dŭstí,Dusti,37.3486,68.6733,Tajikistan,TJ,TJK,Khatlon,minor,18800.0,1762895050
+Chubek,Chubek,37.6167,69.7,Tajikistan,TJ,TJK,Khatlon,,18490.0,1762738611
+Navraftor,Navraftor,37.7333,68.7667,Tajikistan,TJ,TJK,Khatlon,,18281.0,1762606160
+Patar,Patar,40.3333,70.45,Tajikistan,TJ,TJK,Sughd,,17870.0,1762922189
+Gazantarak,Gazantarak,39.9667,69.1333,Tajikistan,TJ,TJK,Sughd,,17801.0,1762795587
+Mujikharf,Mujikharf,38.85,69.8833,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,,17366.0,1762947574
+Shahritus,Shahritus,37.2667,68.1333,Tajikistan,TJ,TJK,Khatlon,minor,17200.0,1762631675
+Ghonchí,Ghonchi,39.9589,69.1369,Tajikistan,TJ,TJK,Sughd,minor,17000.0,1762461184
+Sujina,Sujina,39.4833,67.7167,Tajikistan,TJ,TJK,Sughd,,16543.0,1762130928
+Chorbogh,Chorbogh,39.8667,69.0833,Tajikistan,TJ,TJK,Sughd,,16488.0,1762188162
+Mastchoh,Mastchoh,40.3667,69.3333,Tajikistan,TJ,TJK,Sughd,,16401.0,1762426354
+Shahriston,Shahriston,39.7667,68.8167,Tajikistan,TJ,TJK,Sughd,minor,16295.0,1762671207
+Sultonobod,Sultonobod,38.45,68.95,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,,16066.0,1762709548
+Chilgazí,Chilgazi,40.15,70.7333,Tajikistan,TJ,TJK,Sughd,,15997.0,1762908199
+Adrasmon,Adrasmon,40.6486,69.9856,Tajikistan,TJ,TJK,Sughd,,15800.0,1762711403
+Bŭston,Buston,40.5217,69.3308,Tajikistan,TJ,TJK,Sughd,minor,15500.0,1762646765
+Romit,Romit,38.7167,69.3167,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,,15440.0,1762333880
+Seshambe,Seshambe,38.5333,68.25,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,,15197.0,1762108075
+Vakhsh,Vakhsh,37.7108,68.8311,Tajikistan,TJ,TJK,Khatlon,minor,14900.0,1762695931
+Ayní,Ayni,39.3975,68.5406,Tajikistan,TJ,TJK,Sughd,minor,14862.0,1762304788
+Dehmoí,Dehmoi,40.2167,69.5167,Tajikistan,TJ,TJK,Sughd,,14802.0,1762633756
+Mŭ’minobod,Mu'minobod,38.1083,70.0292,Tajikistan,TJ,TJK,Khatlon,minor,14100.0,1762625291
+Ayni,Ayni,38.6667,68.8167,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,,14052.0,1762288360
+Qiblaí,Qiblai,38.6167,68.8333,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,,13860.0,1762560534
+Amondara,Amondara,39.5178,67.8131,Tajikistan,TJ,TJK,Sughd,,13380.0,1762761916
+Pushing,Pushing,38.1833,69.4333,Tajikistan,TJ,TJK,Khatlon,,13293.0,1762385172
+Rabot,Rabot,38.6167,68.1833,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,,13053.0,1762294560
+Sebiston,Sebiston,38.25,69.2833,Tajikistan,TJ,TJK,Khatlon,,12736.0,1762892686
+Sangtŭda,Sangtuda,38.0333,69.0833,Tajikistan,TJ,TJK,Khatlon,,12686.0,1762543236
+Panj,Panj,37.2353,69.0972,Tajikistan,TJ,TJK,Khatlon,minor,12500.0,1762607780
+Gulshan,Gulshan,37.5833,69.4333,Tajikistan,TJ,TJK,Khatlon,,12418.0,1762579835
+Mehnatobod,Mehnatobod,40.2,68.95,Tajikistan,TJ,TJK,Sughd,,12400.0,1762955778
+Dehqonobod,Dehqonobod,37.6333,69.45,Tajikistan,TJ,TJK,Khatlon,,12327.0,1762454979
+Obikiik,Obikiik,38.1586,68.6722,Tajikistan,TJ,TJK,Khatlon,minor,12300.0,1762953751
+Khonobod,Khonobod,40.2,70.6,Tajikistan,TJ,TJK,Sughd,,12159.0,1762540080
+Kalaidasht,Kalaidasht,38.6333,69.5,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,,12074.0,1762520076
+Varzobkala,Varzobkala,38.7667,68.8167,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,,11438.0,1762216505
+Vanj,Vanj,38.3731,71.4553,Tajikistan,TJ,TJK,Kŭhistoni Badakhshon,minor,11217.0,1762019950
+Shahrinav,Shahrinav,38.5667,68.3333,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,minor,11123.0,1762284925
+Shing,Shing,39.2833,67.8,Tajikistan,TJ,TJK,Sughd,,10873.0,1762585768
+Shŭrobod,Shurobod,37.8403,70.0419,Tajikistan,TJ,TJK,Khatlon,minor,10700.0,1762032087
+Khovaling,Khovaling,38.3386,69.9728,Tajikistan,TJ,TJK,Khatlon,minor,10601.0,1762402281
+Khurmi,Khurmi,39.5167,67.5833,Tajikistan,TJ,TJK,Sughd,,10451.0,1762313500
+Kalanak,Kalanak,39.0833,70.5,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,,10411.0,1762067649
+Fayzobod,Fayzobod,38.55,69.3167,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,minor,10400.0,1762452678
+Nijoní,Nijoni,39.9667,68.9167,Tajikistan,TJ,TJK,Sughd,,10350.0,1762549983
+Navabad,Navabad,38.5278,68.675,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,,10200.0,1762138739
+Chavkandak,Chavkandak,39.9,68.9333,Tajikistan,TJ,TJK,Sughd,,10200.0,1762806975
+Rasht,Rasht,39.0167,70.3833,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,minor,9800.0,1762486281
+Pakhtaobod,Pakhtaobod,38.4667,68.1333,Tajikistan,TJ,TJK,Nohiyahoi Tobei Jumhurí,,9690.0,1762687670
+Langar,Langar,39.45,69.55,Tajikistan,TJ,TJK,Sughd,,9666.0,1762492920
+Rarz,Rarz,39.3803,68.7442,Tajikistan,TJ,TJK,Sughd,,8998.0,1762620381
+Buved,Buved,37.5833,71.5167,Tajikistan,TJ,TJK,Kŭhistoni Badakhshon,,8723.0,1762903124
+Farob,Farob,39.2408,67.47,Tajikistan,TJ,TJK,Sughd,,8650.0,1762563698

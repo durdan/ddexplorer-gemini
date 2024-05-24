@@ -1,0 +1,55 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Chaguanas,Chaguanas,10.5167,-61.4,Trinidad and Tobago,TT,TTO,Chaguanas,admin,101297.0,1780795054
+San Fernando,San Fernando,10.2833,-61.4667,Trinidad and Tobago,TT,TTO,San Fernando,admin,82997.0,1780361077
+Port of Spain,Port of Spain,10.6667,-61.5167,Trinidad and Tobago,TT,TTO,Port of Spain,primary,81142.0,1780670676
+Arima,Arima,10.6333,-61.2833,Trinidad and Tobago,TT,TTO,Arima,admin,65623.0,1780753308
+Couva,Couva,10.4167,-61.45,Trinidad and Tobago,TT,TTO,Couva/Tabaquite/Talparo,admin,48858.0,1780835692
+Point Fortin,Point Fortin,10.1667,-61.6667,Trinidad and Tobago,TT,TTO,Point Fortin,admin,29579.0,1780702349
+Princes Town,Princes Town,10.2667,-61.3833,Trinidad and Tobago,TT,TTO,Princes Town,admin,28335.0,1780714817
+Diego Martin,Diego Martin,10.7167,-61.5667,Trinidad and Tobago,TT,TTO,Diego Martin,admin,25370.0,1780534918
+Laventille,Laventille,10.65,-61.4833,Trinidad and Tobago,TT,TTO,San Juan/Laventille,,21454.0,1780201146
+Sangre Grande,Sangre Grande,10.5667,-61.1333,Trinidad and Tobago,TT,TTO,Sangre Grande,admin,18127.0,1780469686
+Tunapuna,Tunapuna,10.6333,-61.3833,Trinidad and Tobago,TT,TTO,Tunapuna/Piarco,admin,17650.0,1780508155
+Scarborough,Scarborough,11.1833,-60.7375,Trinidad and Tobago,TT,TTO,Tobago,admin,17537.0,1780875399
+Gasparillo,Gasparillo,10.3167,-61.4167,Trinidad and Tobago,TT,TTO,Couva/Tabaquite/Talparo,,16426.0,1780142944
+Claxton Bay,Claxton Bay,10.3405,-61.4555,Trinidad and Tobago,TT,TTO,Couva/Tabaquite/Talparo,,14436.0,1780203587
+Saint Joseph,Saint Joseph,10.6556,-61.4167,Trinidad and Tobago,TT,TTO,Tunapuna/Piarco,,14376.0,1780256893
+San Juan,San Juan,10.65,-61.45,Trinidad and Tobago,TT,TTO,San Juan/Laventille,,13797.0,1780554728
+Fyzabad,Fyzabad,10.1833,-61.55,Trinidad and Tobago,TT,TTO,Siparia,,13099.0,1780514222
+Marabella,Marabella,10.3,-61.45,Trinidad and Tobago,TT,TTO,San Fernando,,12508.0,1780714221
+Valencia,Valencia,10.65,-61.2,Trinidad and Tobago,TT,TTO,Sangre Grande,,12327.0,1780842812
+Penal,Penal,10.1667,-61.4667,Trinidad and Tobago,TT,TTO,Penal/Debe,,12281.0,1780976981
+Freeport,Freeport,10.45,-61.4167,Trinidad and Tobago,TT,TTO,Couva/Tabaquite/Talparo,,11850.0,1780420196
+Arouca,Arouca,10.6333,-61.3333,Trinidad and Tobago,TT,TTO,Tunapuna/Piarco,,10869.0,1780178879
+Siparia,Siparia,10.1333,-61.5,Trinidad and Tobago,TT,TTO,Siparia,admin,10254.0,1780418671
+Rio Claro,Rio Claro,10.3042,-61.1708,Trinidad and Tobago,TT,TTO,Mayaro/Rio Claro,admin,8881.0,1780883666
+Cunupia,Cunupia,10.55,-61.3667,Trinidad and Tobago,TT,TTO,Chaguanas,,8768.0,1780256527
+Debe,Debe,10.2,-61.45,Trinidad and Tobago,TT,TTO,Penal/Debe,admin,7084.0,1780510715
+Aranguez,Aranguez,10.6472,-61.4461,Trinidad and Tobago,TT,TTO,San Juan/Laventille,admin,,1780000001
+Chaguanas,Chaguanas,10.5167,-61.4,Trinidad and Tobago,TT,TTO,Chaguanas,admin,101297.0,1780795054
+San Fernando,San Fernando,10.2833,-61.4667,Trinidad and Tobago,TT,TTO,San Fernando,admin,82997.0,1780361077
+Port of Spain,Port of Spain,10.6667,-61.5167,Trinidad and Tobago,TT,TTO,Port of Spain,primary,81142.0,1780670676
+Arima,Arima,10.6333,-61.2833,Trinidad and Tobago,TT,TTO,Arima,admin,65623.0,1780753308
+Couva,Couva,10.4167,-61.45,Trinidad and Tobago,TT,TTO,Couva/Tabaquite/Talparo,admin,48858.0,1780835692
+Point Fortin,Point Fortin,10.1667,-61.6667,Trinidad and Tobago,TT,TTO,Point Fortin,admin,29579.0,1780702349
+Princes Town,Princes Town,10.2667,-61.3833,Trinidad and Tobago,TT,TTO,Princes Town,admin,28335.0,1780714817
+Diego Martin,Diego Martin,10.7167,-61.5667,Trinidad and Tobago,TT,TTO,Diego Martin,admin,25370.0,1780534918
+Laventille,Laventille,10.65,-61.4833,Trinidad and Tobago,TT,TTO,San Juan/Laventille,,21454.0,1780201146
+Sangre Grande,Sangre Grande,10.5667,-61.1333,Trinidad and Tobago,TT,TTO,Sangre Grande,admin,18127.0,1780469686
+Tunapuna,Tunapuna,10.6333,-61.3833,Trinidad and Tobago,TT,TTO,Tunapuna/Piarco,admin,17650.0,1780508155
+Scarborough,Scarborough,11.1833,-60.7375,Trinidad and Tobago,TT,TTO,Tobago,admin,17537.0,1780875399
+Gasparillo,Gasparillo,10.3167,-61.4167,Trinidad and Tobago,TT,TTO,Couva/Tabaquite/Talparo,,16426.0,1780142944
+Claxton Bay,Claxton Bay,10.3405,-61.4555,Trinidad and Tobago,TT,TTO,Couva/Tabaquite/Talparo,,14436.0,1780203587
+Saint Joseph,Saint Joseph,10.6556,-61.4167,Trinidad and Tobago,TT,TTO,Tunapuna/Piarco,,14376.0,1780256893
+San Juan,San Juan,10.65,-61.45,Trinidad and Tobago,TT,TTO,San Juan/Laventille,,13797.0,1780554728
+Fyzabad,Fyzabad,10.1833,-61.55,Trinidad and Tobago,TT,TTO,Siparia,,13099.0,1780514222
+Marabella,Marabella,10.3,-61.45,Trinidad and Tobago,TT,TTO,San Fernando,,12508.0,1780714221
+Valencia,Valencia,10.65,-61.2,Trinidad and Tobago,TT,TTO,Sangre Grande,,12327.0,1780842812
+Penal,Penal,10.1667,-61.4667,Trinidad and Tobago,TT,TTO,Penal/Debe,,12281.0,1780976981
+Freeport,Freeport,10.45,-61.4167,Trinidad and Tobago,TT,TTO,Couva/Tabaquite/Talparo,,11850.0,1780420196
+Arouca,Arouca,10.6333,-61.3333,Trinidad and Tobago,TT,TTO,Tunapuna/Piarco,,10869.0,1780178879
+Siparia,Siparia,10.1333,-61.5,Trinidad and Tobago,TT,TTO,Siparia,admin,10254.0,1780418671
+Rio Claro,Rio Claro,10.3042,-61.1708,Trinidad and Tobago,TT,TTO,Mayaro/Rio Claro,admin,8881.0,1780883666
+Cunupia,Cunupia,10.55,-61.3667,Trinidad and Tobago,TT,TTO,Chaguanas,,8768.0,1780256527
+Debe,Debe,10.2,-61.45,Trinidad and Tobago,TT,TTO,Penal/Debe,admin,7084.0,1780510715
+Aranguez,Aranguez,10.6472,-61.4461,Trinidad and Tobago,TT,TTO,San Juan/Laventille,admin,,1780000001

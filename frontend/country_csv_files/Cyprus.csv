@@ -1,0 +1,29 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Nicosia,Nicosia,35.1725,33.365,Cyprus,CY,CYP,Lefkosía,primary,330000.0,1196944155
+Limassol,Limassol,34.6747,33.0442,Cyprus,CY,CYP,Lemesós,admin,235056.0,1196136222
+Larnaca,Larnaca,34.9167,33.6333,Cyprus,CY,CYP,Lárnaka,admin,84900.0,1196804795
+Paphos,Paphos,34.7667,32.4167,Cyprus,CY,CYP,Páfos,admin,63600.0,1196607408
+Famagusta,Famagusta,35.125,33.9417,Cyprus,CY,CYP,Ammóchostos,admin,40920.0,1196128852
+Kyrenia,Kyrenia,35.3403,33.3192,Cyprus,CY,CYP,Kerýneia,admin,33207.0,1196334499
+Káto Polemídia,Kato Polemidia,34.6931,32.9992,Cyprus,CY,CYP,Lemesós,,22369.0,1196458883
+Aradíppou,Aradippou,34.9528,33.59,Cyprus,CY,CYP,Lárnaka,,19199.0,1196144891
+Latsia,Latsia,35.1,33.3667,Cyprus,CY,CYP,Lefkosía,,16774.0,1196538391
+Paralímni,Paralimni,35.0333,33.9833,Cyprus,CY,CYP,Ammóchostos,,14963.0,1196452575
+Ágios Athanásios,Agios Athanasios,34.7086,33.0503,Cyprus,CY,CYP,Lemesós,,14578.0,1196729508
+Mésa Geitoniá,Mesa Geitonia,34.7022,33.0453,Cyprus,CY,CYP,Lemesós,,14477.0,1196704525
+Germasógeia,Germasogeia,34.7181,33.0856,Cyprus,CY,CYP,Lemesós,,13421.0,1196232379
+Dáli,Dali,35.0211,33.42,Cyprus,CY,CYP,Lefkosía,,10466.0,1196765328
+Nicosia,Nicosia,35.1725,33.365,Cyprus,CY,CYP,Lefkosía,primary,330000.0,1196944155
+Limassol,Limassol,34.6747,33.0442,Cyprus,CY,CYP,Lemesós,admin,235056.0,1196136222
+Larnaca,Larnaca,34.9167,33.6333,Cyprus,CY,CYP,Lárnaka,admin,84900.0,1196804795
+Paphos,Paphos,34.7667,32.4167,Cyprus,CY,CYP,Páfos,admin,63600.0,1196607408
+Famagusta,Famagusta,35.125,33.9417,Cyprus,CY,CYP,Ammóchostos,admin,40920.0,1196128852
+Kyrenia,Kyrenia,35.3403,33.3192,Cyprus,CY,CYP,Kerýneia,admin,33207.0,1196334499
+Káto Polemídia,Kato Polemidia,34.6931,32.9992,Cyprus,CY,CYP,Lemesós,,22369.0,1196458883
+Aradíppou,Aradippou,34.9528,33.59,Cyprus,CY,CYP,Lárnaka,,19199.0,1196144891
+Latsia,Latsia,35.1,33.3667,Cyprus,CY,CYP,Lefkosía,,16774.0,1196538391
+Paralímni,Paralimni,35.0333,33.9833,Cyprus,CY,CYP,Ammóchostos,,14963.0,1196452575
+Ágios Athanásios,Agios Athanasios,34.7086,33.0503,Cyprus,CY,CYP,Lemesós,,14578.0,1196729508
+Mésa Geitoniá,Mesa Geitonia,34.7022,33.0453,Cyprus,CY,CYP,Lemesós,,14477.0,1196704525
+Germasógeia,Germasogeia,34.7181,33.0856,Cyprus,CY,CYP,Lemesós,,13421.0,1196232379
+Dáli,Dali,35.0211,33.42,Cyprus,CY,CYP,Lefkosía,,10466.0,1196765328

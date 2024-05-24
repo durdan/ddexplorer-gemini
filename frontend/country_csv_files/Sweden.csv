@@ -1,0 +1,301 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Stockholm,Stockholm,59.3294,18.0686,Sweden,SE,SWE,Stockholm,primary,2121000.0,1752425602
+Gothenburg,Gothenburg,57.7075,11.9675,Sweden,SE,SWE,Västra Götaland,admin,607882.0,1752059374
+Malmö,Malmo,55.6058,13.0358,Sweden,SE,SWE,Skåne,admin,360249.0,1752705818
+Uppsala,Uppsala,59.8581,17.6447,Sweden,SE,SWE,Uppsala,admin,166698.0,1752953686
+Norrköping,Norrkoping,58.6,16.2,Sweden,SE,SWE,Östergötland,minor,137326.0,1752803583
+Uppsala,Uppsala,59.8601,17.64,Sweden,SE,SWE,Stockholm,,133117.0,1752330831
+Västerås,Vasteras,59.6161,16.5528,Sweden,SE,SWE,Västmanland,admin,128660.0,1752826955
+Örebro,Orebro,59.2739,15.2075,Sweden,SE,SWE,Örebro,admin,126604.0,1752223019
+Linköping,Linkoping,58.4158,15.6253,Sweden,SE,SWE,Östergötland,admin,115682.0,1752963378
+Borås,Boras,57.7211,12.9403,Sweden,SE,SWE,Västra Götaland,minor,114445.0,1752555835
+Helsingborg,Helsingborg,56.05,12.7167,Sweden,SE,SWE,Skåne,minor,113828.0,1752789933
+Jönköping,Jonkoping,57.7828,14.1606,Sweden,SE,SWE,Jönköping,admin,112766.0,1752079041
+Sundsvall,Sundsvall,62.4,17.3167,Sweden,SE,SWE,Västernorrland,minor,99825.0,1752024232
+Gävle,Gavle,60.6747,17.1417,Sweden,SE,SWE,Gävleborg,admin,96969.0,1752586931
+Umeå,Umea,63.825,20.2639,Sweden,SE,SWE,Västerbotten,admin,75643.0,1752273881
+Skellefteå,Skelleftea,64.75,20.95,Sweden,SE,SWE,Västerbotten,minor,74402.0,1752233025
+Södertälje,Sodertalje,59.1958,17.6281,Sweden,SE,SWE,Stockholm,minor,72704.0,1752403970
+Halmstad,Halmstad,56.6739,12.8572,Sweden,SE,SWE,Halland,admin,71422.0,1752392511
+Eskilstuna,Eskilstuna,59.3708,16.5097,Sweden,SE,SWE,Södermanland,minor,69948.0,1752784934
+Karlskrona,Karlskrona,56.1608,15.5861,Sweden,SE,SWE,Blekinge,admin,66675.0,1752316086
+Växjö,Vaxjo,56.8769,14.8092,Sweden,SE,SWE,Kronoberg,admin,66275.0,1752263370
+Karlstad,Karlstad,59.3783,13.5042,Sweden,SE,SWE,Värmland,admin,65856.0,1752502445
+Täby,Taby,59.4333,18.0833,Sweden,SE,SWE,Stockholm,minor,65364.0,1752810519
+Trollhättan,Trollhattan,58.2828,12.2892,Sweden,SE,SWE,Västra Götaland,minor,59210.0,1752863731
+Östersund,Ostersund,63.1792,14.6358,Sweden,SE,SWE,Jämtland,admin,49806.0,1752026711
+Luleå,Lulea,65.5844,22.1539,Sweden,SE,SWE,Norrbotten,admin,49123.0,1752765449
+Upplands Väsby,Upplands Vasby,59.5167,17.9167,Sweden,SE,SWE,Stockholm,minor,48907.0,1752271400
+Borlänge,Borlange,60.4856,15.4364,Sweden,SE,SWE,Dalarna,minor,44898.0,1752944924
+Trelleborg,Trelleborg,55.3667,13.1667,Sweden,SE,SWE,Skåne,minor,43359.0,1752823325
+Ängelholm,Angelholm,56.25,12.85,Sweden,SE,SWE,Skåne,minor,42131.0,1752870016
+Kalmar,Kalmar,56.6614,16.3628,Sweden,SE,SWE,Kalmar,admin,41852.0,1752640618
+Lidköping,Lidkoping,58.5,13.1833,Sweden,SE,SWE,Västra Götaland,minor,40000.0,1752263259
+Skövde,Skovde,58.3833,13.85,Sweden,SE,SWE,Västra Götaland,minor,39580.0,1752316649
+Nyköping,Nykoping,58.7531,17.0086,Sweden,SE,SWE,Södermanland,admin,38780.0,1752377083
+Strängnäs,Strangnas,59.3667,17.0333,Sweden,SE,SWE,Södermanland,minor,38526.0,1752111370
+Alingsås,Alingsas,57.93,12.5331,Sweden,SE,SWE,Västra Götaland,minor,38509.0,1752378437
+Tumba,Tumba,59.2,17.8167,Sweden,SE,SWE,Stockholm,minor,37852.0,1752693397
+Falun,Falun,60.6072,15.6311,Sweden,SE,SWE,Dalarna,admin,37291.0,1752939220
+Mölndal,Molndal,57.65,12.0167,Sweden,SE,SWE,Västra Götaland,minor,37233.0,1752307790
+Västervik,Vastervik,57.75,16.6333,Sweden,SE,SWE,Kalmar,minor,36747.0,1752051923
+Varberg,Varberg,57.1167,12.2167,Sweden,SE,SWE,Halland,minor,35782.0,1752538180
+Uddevalla,Uddevalla,58.3492,11.9381,Sweden,SE,SWE,Västra Götaland,minor,34781.0,1752935117
+Landskrona,Landskrona,55.8706,12.8311,Sweden,SE,SWE,Skåne,minor,33372.0,1752529229
+Örnsköldsvik,Ornskoldsvik,63.2908,18.7156,Sweden,SE,SWE,Västernorrland,minor,32953.0,1752250773
+Kävlinge,Kavlinge,55.7939,13.1133,Sweden,SE,SWE,Skåne,minor,32341.0,1752983535
+Kristianstad,Kristianstad,56.0337,14.1333,Sweden,SE,SWE,Skåne,minor,32188.0,1752606470
+Staffanstorp,Staffanstorp,55.6333,13.2,Sweden,SE,SWE,Skåne,minor,31718.0,1752021671
+Lidingö,Lidingo,59.3667,18.15,Sweden,SE,SWE,Stockholm,minor,31561.0,1752051674
+Motala,Motala,58.5333,15.0333,Sweden,SE,SWE,Östergötland,minor,29823.0,1752105097
+Vallentuna,Vallentuna,59.5333,18.0833,Sweden,SE,SWE,Stockholm,minor,29519.0,1752629377
+Ystad,Ystad,55.4167,13.8333,Sweden,SE,SWE,Skåne,minor,28985.0,1752657171
+Åkersberga,Akersberga,59.4833,18.3,Sweden,SE,SWE,Stockholm,minor,28033.0,1752878685
+Karlskoga,Karlskoga,59.3333,14.5167,Sweden,SE,SWE,Örebro,minor,27562.0,1752529628
+Märsta,Marsta,59.6167,17.85,Sweden,SE,SWE,Stockholm,minor,27034.0,1752183604
+Kiruna,Kiruna,67.8489,20.3028,Sweden,SE,SWE,Norrbotten,minor,26703.0,1752001526
+Visby,Visby,57.6347,18.2992,Sweden,SE,SWE,Gotland,admin,24951.0,1752027172
+Katrineholm,Katrineholm,59.0,16.2,Sweden,SE,SWE,Södermanland,minor,24271.0,1752643787
+Boo,Boo,59.3167,18.25,Sweden,SE,SWE,Stockholm,,24052.0,1752145853
+Vänersborg,Vanersborg,58.3806,12.325,Sweden,SE,SWE,Västra Götaland,minor,23882.0,1752467593
+Piteå,Pitea,65.3167,21.4833,Sweden,SE,SWE,Norrbotten,minor,23350.0,1752869095
+Kungsbacka,Kungsbacka,57.4833,12.0667,Sweden,SE,SWE,Halland,minor,23000.0,1752375831
+Sandviken,Sandviken,60.6167,16.7833,Sweden,SE,SWE,Gävleborg,minor,22965.0,1752810020
+Kungälv,Kungalv,57.8667,11.9667,Sweden,SE,SWE,Västra Götaland,minor,22768.0,1752531521
+Huskvarna,Huskvarna,57.8,14.2667,Sweden,SE,SWE,Jönköping,,22000.0,1752552539
+Kumla,Kumla,59.1167,15.1333,Sweden,SE,SWE,Örebro,minor,21640.0,1752201206
+Enköping,Enkoping,59.6356,17.0764,Sweden,SE,SWE,Uppsala,minor,21121.0,1752230483
+Sjöbo,Sjobo,55.6333,13.7167,Sweden,SE,SWE,Skåne,minor,19497.0,1752520046
+Karlshamn,Karlshamn,56.1667,14.85,Sweden,SE,SWE,Blekinge,,19075.0,1752379401
+Skara,Skara,58.3833,13.4333,Sweden,SE,SWE,Västra Götaland,minor,18580.0,1752171029
+Härnösand,Harnosand,62.6361,17.9411,Sweden,SE,SWE,Västernorrland,admin,18508.0,1752644953
+Hässleholm,Hassleholm,56.1667,13.7667,Sweden,SE,SWE,Skåne,minor,18500.0,1752526882
+Falköping,Falkoping,58.175,13.5531,Sweden,SE,SWE,Västra Götaland,minor,17939.0,1752889623
+Kristinehamn,Kristinehamn,59.3,14.1167,Sweden,SE,SWE,Värmland,minor,17839.0,1752708772
+Eslöv,Eslov,55.8392,13.3039,Sweden,SE,SWE,Skåne,minor,17748.0,1752202546
+Köping,Koping,59.5167,15.9833,Sweden,SE,SWE,Västmanland,minor,17743.0,1752366756
+Norrtälje,Norrtalje,59.7667,18.7,Sweden,SE,SWE,Stockholm,minor,17275.0,1752949126
+Oskarshamn,Oskarshamn,57.265,16.45,Sweden,SE,SWE,Kalmar,minor,17258.0,1752437769
+Lerum,Lerum,57.7667,12.3,Sweden,SE,SWE,Västra Götaland,minor,16855.0,1752006435
+Boden,Boden,65.8256,21.6906,Sweden,SE,SWE,Norrbotten,minor,16847.0,1752956055
+Klippansbruk,Klippansbruk,56.1167,13.15,Sweden,SE,SWE,Skåne,,16715.0,1752885132
+Nässjö,Nassjo,57.65,14.6833,Sweden,SE,SWE,Jönköping,minor,16678.0,1752891199
+Mariestad,Mariestad,58.7,13.8167,Sweden,SE,SWE,Västra Götaland,minor,16611.0,1752879298
+Höganäs,Hoganas,56.2,12.5667,Sweden,SE,SWE,Skåne,minor,16001.0,1752137413
+Tullinge,Tullinge,59.2,17.9,Sweden,SE,SWE,Stockholm,,16000.0,1752531824
+Mölnlycke,Molnlycke,57.6667,12.1167,Sweden,SE,SWE,Västra Götaland,minor,15608.0,1752294225
+Kinna,Kinna,57.5167,12.6833,Sweden,SE,SWE,Västra Götaland,minor,15452.0,1752953604
+Bunkeflostrand,Bunkeflostrand,55.55,12.9167,Sweden,SE,SWE,Skåne,,15212.0,1752685972
+Ljungby,Ljungby,56.8333,13.9333,Sweden,SE,SWE,Kronoberg,minor,15205.0,1752960918
+Hallstahammar,Hallstahammar,59.6167,16.25,Sweden,SE,SWE,Västmanland,minor,15200.0,1752239523
+Västerhaninge,Vasterhaninge,59.1167,18.0667,Sweden,SE,SWE,Stockholm,minor,15134.0,1752693403
+Hudiksvall,Hudiksvall,61.7333,17.1167,Sweden,SE,SWE,Gävleborg,minor,15015.0,1752219385
+Ludvika,Ludvika,60.1333,15.1833,Sweden,SE,SWE,Dalarna,minor,14498.0,1752311892
+Arvika,Arvika,59.6542,12.5914,Sweden,SE,SWE,Värmland,minor,14244.0,1752743749
+Tranås,Tranas,58.0333,14.9667,Sweden,SE,SWE,Jönköping,minor,14197.0,1752722213
+Arboga,Arboga,59.3939,15.8386,Sweden,SE,SWE,Västmanland,minor,14057.0,1752494456
+Mjölby,Mjolby,58.3333,15.1167,Sweden,SE,SWE,Östergötland,minor,13959.0,1752185099
+Lomma,Lomma,55.6667,13.0833,Sweden,SE,SWE,Skåne,minor,13772.0,1752810659
+Nybro,Nybro,56.7333,15.9,Sweden,SE,SWE,Kalmar,minor,13583.0,1752956963
+Nynäshamn,Nynashamn,58.9,17.95,Sweden,SE,SWE,Stockholm,minor,13510.0,1752209871
+Skoghall,Skoghall,59.3333,13.4333,Sweden,SE,SWE,Värmland,minor,13265.0,1752185362
+Bålsta,Balsta,59.5833,17.5,Sweden,SE,SWE,Uppsala,minor,13138.0,1752539011
+Vetlanda,Vetlanda,57.4333,15.0667,Sweden,SE,SWE,Jönköping,minor,13050.0,1752000768
+Sunne,Sunne,59.8333,13.1333,Sweden,SE,SWE,Värmland,minor,13000.0,1752127912
+Höör,Hoor,55.9361,13.5472,Sweden,SE,SWE,Skåne,minor,12976.0,1752091999
+Mora,Mora,61.0167,14.5333,Sweden,SE,SWE,Dalarna,minor,12854.0,1752665392
+Finspång,Finspang,58.7,15.8,Sweden,SE,SWE,Östergötland,minor,12440.0,1752523151
+Bollnäs,Bollnas,61.3481,16.3947,Sweden,SE,SWE,Gävleborg,minor,12381.0,1752287863
+Sala,Sala,59.9167,16.6,Sweden,SE,SWE,Västmanland,minor,12289.0,1752888405
+Hagfors,Hagfors,60.0333,13.65,Sweden,SE,SWE,Värmland,minor,12125.0,1752937511
+Ronneby,Ronneby,56.2,15.2833,Sweden,SE,SWE,Blekinge,minor,12029.0,1752180861
+Avesta,Avesta,60.1456,16.1683,Sweden,SE,SWE,Dalarna,minor,11949.0,1752442829
+Söderhamn,Soderhamn,61.3,17.0833,Sweden,SE,SWE,Gävleborg,minor,11761.0,1752828589
+Ekerö,Ekero,59.2833,17.8,Sweden,SE,SWE,Stockholm,minor,11524.0,1752521808
+Oxelösund,Oxelosund,58.6667,17.1167,Sweden,SE,SWE,Södermanland,minor,11488.0,1752816950
+Ulricehamn,Ulricehamn,57.7833,13.4167,Sweden,SE,SWE,Västra Götaland,minor,11410.0,1752323454
+Gustavsberg,Gustavsberg,59.3333,18.3833,Sweden,SE,SWE,Stockholm,minor,11333.0,1752098351
+Säter,Sater,60.35,15.75,Sweden,SE,SWE,Dalarna,minor,11161.0,1752106065
+Fagersta,Fagersta,60.0042,15.7933,Sweden,SE,SWE,Västmanland,minor,11130.0,1752230389
+Lindome,Lindome,57.5667,12.1,Sweden,SE,SWE,Västra Götaland,,11037.0,1752017510
+Älmhult,Almhult,56.55,14.1333,Sweden,SE,SWE,Kronoberg,minor,11003.0,1752497359
+Vimmerby,Vimmerby,57.6667,15.85,Sweden,SE,SWE,Kalmar,minor,10934.0,1752144282
+Filipstad,Filipstad,59.7167,14.1667,Sweden,SE,SWE,Värmland,minor,10644.0,1752017138
+Svedala,Svedala,55.5,13.2333,Sweden,SE,SWE,Skåne,minor,10627.0,1752069692
+Höllviken,Hollviken,55.4167,12.95,Sweden,SE,SWE,Skåne,,10607.0,1752012234
+Timrå,Timra,62.4869,17.3258,Sweden,SE,SWE,Västernorrland,minor,10443.0,1752299610
+Gagnef,Gagnef,60.5833,15.0667,Sweden,SE,SWE,Dalarna,minor,10328.0,1752571884
+Örkelljunga,Orkelljunga,56.2833,13.2833,Sweden,SE,SWE,Skåne,minor,10300.0,1752548206
+Jordbro,Jordbro,59.15,18.1333,Sweden,SE,SWE,Stockholm,,10291.0,1752201774
+Billdal,Billdal,57.5833,11.9333,Sweden,SE,SWE,Västra Götaland,,10289.0,1752902367
+Arlöv,Arlov,55.6333,13.0833,Sweden,SE,SWE,Skåne,minor,10284.0,1752897909
+Gislaved,Gislaved,57.3,13.5333,Sweden,SE,SWE,Jönköping,minor,10231.0,1752639615
+Älta,Alta,59.25,18.1833,Sweden,SE,SWE,Stockholm,,9989.0,1752413057
+Stenungsund,Stenungsund,58.0833,11.8167,Sweden,SE,SWE,Västra Götaland,minor,9987.0,1752961653
+Nödinge-Nol,Nodinge-Nol,57.9,12.0667,Sweden,SE,SWE,Västra Götaland,,9822.0,1752000147
+Eksjö,Eksjo,57.6669,14.9703,Sweden,SE,SWE,Jönköping,minor,9701.0,1752063761
+Sigtuna,Sigtuna,59.6167,17.7167,Sweden,SE,SWE,Stockholm,,9689.0,1752118222
+Sävja,Savja,59.8167,17.7,Sweden,SE,SWE,Uppsala,,9684.0,1752516953
+Lindesberg,Lindesberg,59.5833,15.25,Sweden,SE,SWE,Örebro,minor,9672.0,1752750854
+Bjärred,Bjarred,55.7167,13.0167,Sweden,SE,SWE,Skåne,,9542.0,1752885490
+Saltsjöbaden,Saltsjobaden,59.2861,18.2872,Sweden,SE,SWE,Stockholm,,9491.0,1752396058
+Åstorp,Astorp,56.1347,12.9472,Sweden,SE,SWE,Skåne,minor,9488.0,1752829425
+Åhus,Ahus,55.9167,14.2833,Sweden,SE,SWE,Skåne,,9423.0,1752365263
+Kungsängen,Kungsangen,59.4833,17.75,Sweden,SE,SWE,Stockholm,minor,9382.0,1752617626
+Åmål,Amal,59.05,12.7,Sweden,SE,SWE,Västra Götaland,minor,9065.0,1752187898
+Säffle,Saffle,59.1333,12.9333,Sweden,SE,SWE,Värmland,minor,8991.0,1752987175
+Brevik,Brevik,59.35,18.2,Sweden,SE,SWE,Stockholm,,8772.0,1752993223
+Habo,Habo,57.9167,14.0667,Sweden,SE,SWE,Jönköping,minor,8753.0,1752321919
+Sollefteå,Solleftea,63.1667,17.2667,Sweden,SE,SWE,Västernorrland,minor,8643.0,1752942134
+Tibro,Tibro,58.4167,14.1667,Sweden,SE,SWE,Västra Götaland,minor,8614.0,1752652082
+Lycksele,Lycksele,64.6,18.6667,Sweden,SE,SWE,Västerbotten,minor,8513.0,1752497836
+Stockholm,Stockholm,59.3294,18.0686,Sweden,SE,SWE,Stockholm,primary,2121000.0,1752425602
+Gothenburg,Gothenburg,57.7075,11.9675,Sweden,SE,SWE,Västra Götaland,admin,607882.0,1752059374
+Malmö,Malmo,55.6058,13.0358,Sweden,SE,SWE,Skåne,admin,360249.0,1752705818
+Uppsala,Uppsala,59.8581,17.6447,Sweden,SE,SWE,Uppsala,admin,166698.0,1752953686
+Norrköping,Norrkoping,58.6,16.2,Sweden,SE,SWE,Östergötland,minor,137326.0,1752803583
+Uppsala,Uppsala,59.8601,17.64,Sweden,SE,SWE,Stockholm,,133117.0,1752330831
+Västerås,Vasteras,59.6161,16.5528,Sweden,SE,SWE,Västmanland,admin,128660.0,1752826955
+Örebro,Orebro,59.2739,15.2075,Sweden,SE,SWE,Örebro,admin,126604.0,1752223019
+Linköping,Linkoping,58.4158,15.6253,Sweden,SE,SWE,Östergötland,admin,115682.0,1752963378
+Borås,Boras,57.7211,12.9403,Sweden,SE,SWE,Västra Götaland,minor,114445.0,1752555835
+Helsingborg,Helsingborg,56.05,12.7167,Sweden,SE,SWE,Skåne,minor,113828.0,1752789933
+Jönköping,Jonkoping,57.7828,14.1606,Sweden,SE,SWE,Jönköping,admin,112766.0,1752079041
+Sundsvall,Sundsvall,62.4,17.3167,Sweden,SE,SWE,Västernorrland,minor,99825.0,1752024232
+Gävle,Gavle,60.6747,17.1417,Sweden,SE,SWE,Gävleborg,admin,96969.0,1752586931
+Umeå,Umea,63.825,20.2639,Sweden,SE,SWE,Västerbotten,admin,75643.0,1752273881
+Skellefteå,Skelleftea,64.75,20.95,Sweden,SE,SWE,Västerbotten,minor,74402.0,1752233025
+Södertälje,Sodertalje,59.1958,17.6281,Sweden,SE,SWE,Stockholm,minor,72704.0,1752403970
+Halmstad,Halmstad,56.6739,12.8572,Sweden,SE,SWE,Halland,admin,71422.0,1752392511
+Eskilstuna,Eskilstuna,59.3708,16.5097,Sweden,SE,SWE,Södermanland,minor,69948.0,1752784934
+Karlskrona,Karlskrona,56.1608,15.5861,Sweden,SE,SWE,Blekinge,admin,66675.0,1752316086
+Växjö,Vaxjo,56.8769,14.8092,Sweden,SE,SWE,Kronoberg,admin,66275.0,1752263370
+Karlstad,Karlstad,59.3783,13.5042,Sweden,SE,SWE,Värmland,admin,65856.0,1752502445
+Täby,Taby,59.4333,18.0833,Sweden,SE,SWE,Stockholm,minor,65364.0,1752810519
+Trollhättan,Trollhattan,58.2828,12.2892,Sweden,SE,SWE,Västra Götaland,minor,59210.0,1752863731
+Östersund,Ostersund,63.1792,14.6358,Sweden,SE,SWE,Jämtland,admin,49806.0,1752026711
+Luleå,Lulea,65.5844,22.1539,Sweden,SE,SWE,Norrbotten,admin,49123.0,1752765449
+Upplands Väsby,Upplands Vasby,59.5167,17.9167,Sweden,SE,SWE,Stockholm,minor,48907.0,1752271400
+Borlänge,Borlange,60.4856,15.4364,Sweden,SE,SWE,Dalarna,minor,44898.0,1752944924
+Trelleborg,Trelleborg,55.3667,13.1667,Sweden,SE,SWE,Skåne,minor,43359.0,1752823325
+Ängelholm,Angelholm,56.25,12.85,Sweden,SE,SWE,Skåne,minor,42131.0,1752870016
+Kalmar,Kalmar,56.6614,16.3628,Sweden,SE,SWE,Kalmar,admin,41852.0,1752640618
+Lidköping,Lidkoping,58.5,13.1833,Sweden,SE,SWE,Västra Götaland,minor,40000.0,1752263259
+Skövde,Skovde,58.3833,13.85,Sweden,SE,SWE,Västra Götaland,minor,39580.0,1752316649
+Nyköping,Nykoping,58.7531,17.0086,Sweden,SE,SWE,Södermanland,admin,38780.0,1752377083
+Strängnäs,Strangnas,59.3667,17.0333,Sweden,SE,SWE,Södermanland,minor,38526.0,1752111370
+Alingsås,Alingsas,57.93,12.5331,Sweden,SE,SWE,Västra Götaland,minor,38509.0,1752378437
+Tumba,Tumba,59.2,17.8167,Sweden,SE,SWE,Stockholm,minor,37852.0,1752693397
+Falun,Falun,60.6072,15.6311,Sweden,SE,SWE,Dalarna,admin,37291.0,1752939220
+Mölndal,Molndal,57.65,12.0167,Sweden,SE,SWE,Västra Götaland,minor,37233.0,1752307790
+Västervik,Vastervik,57.75,16.6333,Sweden,SE,SWE,Kalmar,minor,36747.0,1752051923
+Varberg,Varberg,57.1167,12.2167,Sweden,SE,SWE,Halland,minor,35782.0,1752538180
+Uddevalla,Uddevalla,58.3492,11.9381,Sweden,SE,SWE,Västra Götaland,minor,34781.0,1752935117
+Landskrona,Landskrona,55.8706,12.8311,Sweden,SE,SWE,Skåne,minor,33372.0,1752529229
+Örnsköldsvik,Ornskoldsvik,63.2908,18.7156,Sweden,SE,SWE,Västernorrland,minor,32953.0,1752250773
+Kävlinge,Kavlinge,55.7939,13.1133,Sweden,SE,SWE,Skåne,minor,32341.0,1752983535
+Kristianstad,Kristianstad,56.0337,14.1333,Sweden,SE,SWE,Skåne,minor,32188.0,1752606470
+Staffanstorp,Staffanstorp,55.6333,13.2,Sweden,SE,SWE,Skåne,minor,31718.0,1752021671
+Lidingö,Lidingo,59.3667,18.15,Sweden,SE,SWE,Stockholm,minor,31561.0,1752051674
+Motala,Motala,58.5333,15.0333,Sweden,SE,SWE,Östergötland,minor,29823.0,1752105097
+Vallentuna,Vallentuna,59.5333,18.0833,Sweden,SE,SWE,Stockholm,minor,29519.0,1752629377
+Ystad,Ystad,55.4167,13.8333,Sweden,SE,SWE,Skåne,minor,28985.0,1752657171
+Åkersberga,Akersberga,59.4833,18.3,Sweden,SE,SWE,Stockholm,minor,28033.0,1752878685
+Karlskoga,Karlskoga,59.3333,14.5167,Sweden,SE,SWE,Örebro,minor,27562.0,1752529628
+Märsta,Marsta,59.6167,17.85,Sweden,SE,SWE,Stockholm,minor,27034.0,1752183604
+Kiruna,Kiruna,67.8489,20.3028,Sweden,SE,SWE,Norrbotten,minor,26703.0,1752001526
+Visby,Visby,57.6347,18.2992,Sweden,SE,SWE,Gotland,admin,24951.0,1752027172
+Katrineholm,Katrineholm,59.0,16.2,Sweden,SE,SWE,Södermanland,minor,24271.0,1752643787
+Boo,Boo,59.3167,18.25,Sweden,SE,SWE,Stockholm,,24052.0,1752145853
+Vänersborg,Vanersborg,58.3806,12.325,Sweden,SE,SWE,Västra Götaland,minor,23882.0,1752467593
+Piteå,Pitea,65.3167,21.4833,Sweden,SE,SWE,Norrbotten,minor,23350.0,1752869095
+Kungsbacka,Kungsbacka,57.4833,12.0667,Sweden,SE,SWE,Halland,minor,23000.0,1752375831
+Sandviken,Sandviken,60.6167,16.7833,Sweden,SE,SWE,Gävleborg,minor,22965.0,1752810020
+Kungälv,Kungalv,57.8667,11.9667,Sweden,SE,SWE,Västra Götaland,minor,22768.0,1752531521
+Huskvarna,Huskvarna,57.8,14.2667,Sweden,SE,SWE,Jönköping,,22000.0,1752552539
+Kumla,Kumla,59.1167,15.1333,Sweden,SE,SWE,Örebro,minor,21640.0,1752201206
+Enköping,Enkoping,59.6356,17.0764,Sweden,SE,SWE,Uppsala,minor,21121.0,1752230483
+Sjöbo,Sjobo,55.6333,13.7167,Sweden,SE,SWE,Skåne,minor,19497.0,1752520046
+Karlshamn,Karlshamn,56.1667,14.85,Sweden,SE,SWE,Blekinge,,19075.0,1752379401
+Skara,Skara,58.3833,13.4333,Sweden,SE,SWE,Västra Götaland,minor,18580.0,1752171029
+Härnösand,Harnosand,62.6361,17.9411,Sweden,SE,SWE,Västernorrland,admin,18508.0,1752644953
+Hässleholm,Hassleholm,56.1667,13.7667,Sweden,SE,SWE,Skåne,minor,18500.0,1752526882
+Falköping,Falkoping,58.175,13.5531,Sweden,SE,SWE,Västra Götaland,minor,17939.0,1752889623
+Kristinehamn,Kristinehamn,59.3,14.1167,Sweden,SE,SWE,Värmland,minor,17839.0,1752708772
+Eslöv,Eslov,55.8392,13.3039,Sweden,SE,SWE,Skåne,minor,17748.0,1752202546
+Köping,Koping,59.5167,15.9833,Sweden,SE,SWE,Västmanland,minor,17743.0,1752366756
+Norrtälje,Norrtalje,59.7667,18.7,Sweden,SE,SWE,Stockholm,minor,17275.0,1752949126
+Oskarshamn,Oskarshamn,57.265,16.45,Sweden,SE,SWE,Kalmar,minor,17258.0,1752437769
+Lerum,Lerum,57.7667,12.3,Sweden,SE,SWE,Västra Götaland,minor,16855.0,1752006435
+Boden,Boden,65.8256,21.6906,Sweden,SE,SWE,Norrbotten,minor,16847.0,1752956055
+Klippansbruk,Klippansbruk,56.1167,13.15,Sweden,SE,SWE,Skåne,,16715.0,1752885132
+Nässjö,Nassjo,57.65,14.6833,Sweden,SE,SWE,Jönköping,minor,16678.0,1752891199
+Mariestad,Mariestad,58.7,13.8167,Sweden,SE,SWE,Västra Götaland,minor,16611.0,1752879298
+Höganäs,Hoganas,56.2,12.5667,Sweden,SE,SWE,Skåne,minor,16001.0,1752137413
+Tullinge,Tullinge,59.2,17.9,Sweden,SE,SWE,Stockholm,,16000.0,1752531824
+Mölnlycke,Molnlycke,57.6667,12.1167,Sweden,SE,SWE,Västra Götaland,minor,15608.0,1752294225
+Kinna,Kinna,57.5167,12.6833,Sweden,SE,SWE,Västra Götaland,minor,15452.0,1752953604
+Bunkeflostrand,Bunkeflostrand,55.55,12.9167,Sweden,SE,SWE,Skåne,,15212.0,1752685972
+Ljungby,Ljungby,56.8333,13.9333,Sweden,SE,SWE,Kronoberg,minor,15205.0,1752960918
+Hallstahammar,Hallstahammar,59.6167,16.25,Sweden,SE,SWE,Västmanland,minor,15200.0,1752239523
+Västerhaninge,Vasterhaninge,59.1167,18.0667,Sweden,SE,SWE,Stockholm,minor,15134.0,1752693403
+Hudiksvall,Hudiksvall,61.7333,17.1167,Sweden,SE,SWE,Gävleborg,minor,15015.0,1752219385
+Ludvika,Ludvika,60.1333,15.1833,Sweden,SE,SWE,Dalarna,minor,14498.0,1752311892
+Arvika,Arvika,59.6542,12.5914,Sweden,SE,SWE,Värmland,minor,14244.0,1752743749
+Tranås,Tranas,58.0333,14.9667,Sweden,SE,SWE,Jönköping,minor,14197.0,1752722213
+Arboga,Arboga,59.3939,15.8386,Sweden,SE,SWE,Västmanland,minor,14057.0,1752494456
+Mjölby,Mjolby,58.3333,15.1167,Sweden,SE,SWE,Östergötland,minor,13959.0,1752185099
+Lomma,Lomma,55.6667,13.0833,Sweden,SE,SWE,Skåne,minor,13772.0,1752810659
+Nybro,Nybro,56.7333,15.9,Sweden,SE,SWE,Kalmar,minor,13583.0,1752956963
+Nynäshamn,Nynashamn,58.9,17.95,Sweden,SE,SWE,Stockholm,minor,13510.0,1752209871
+Skoghall,Skoghall,59.3333,13.4333,Sweden,SE,SWE,Värmland,minor,13265.0,1752185362
+Bålsta,Balsta,59.5833,17.5,Sweden,SE,SWE,Uppsala,minor,13138.0,1752539011
+Vetlanda,Vetlanda,57.4333,15.0667,Sweden,SE,SWE,Jönköping,minor,13050.0,1752000768
+Sunne,Sunne,59.8333,13.1333,Sweden,SE,SWE,Värmland,minor,13000.0,1752127912
+Höör,Hoor,55.9361,13.5472,Sweden,SE,SWE,Skåne,minor,12976.0,1752091999
+Mora,Mora,61.0167,14.5333,Sweden,SE,SWE,Dalarna,minor,12854.0,1752665392
+Finspång,Finspang,58.7,15.8,Sweden,SE,SWE,Östergötland,minor,12440.0,1752523151
+Bollnäs,Bollnas,61.3481,16.3947,Sweden,SE,SWE,Gävleborg,minor,12381.0,1752287863
+Sala,Sala,59.9167,16.6,Sweden,SE,SWE,Västmanland,minor,12289.0,1752888405
+Hagfors,Hagfors,60.0333,13.65,Sweden,SE,SWE,Värmland,minor,12125.0,1752937511
+Ronneby,Ronneby,56.2,15.2833,Sweden,SE,SWE,Blekinge,minor,12029.0,1752180861
+Avesta,Avesta,60.1456,16.1683,Sweden,SE,SWE,Dalarna,minor,11949.0,1752442829
+Söderhamn,Soderhamn,61.3,17.0833,Sweden,SE,SWE,Gävleborg,minor,11761.0,1752828589
+Ekerö,Ekero,59.2833,17.8,Sweden,SE,SWE,Stockholm,minor,11524.0,1752521808
+Oxelösund,Oxelosund,58.6667,17.1167,Sweden,SE,SWE,Södermanland,minor,11488.0,1752816950
+Ulricehamn,Ulricehamn,57.7833,13.4167,Sweden,SE,SWE,Västra Götaland,minor,11410.0,1752323454
+Gustavsberg,Gustavsberg,59.3333,18.3833,Sweden,SE,SWE,Stockholm,minor,11333.0,1752098351
+Säter,Sater,60.35,15.75,Sweden,SE,SWE,Dalarna,minor,11161.0,1752106065
+Fagersta,Fagersta,60.0042,15.7933,Sweden,SE,SWE,Västmanland,minor,11130.0,1752230389
+Lindome,Lindome,57.5667,12.1,Sweden,SE,SWE,Västra Götaland,,11037.0,1752017510
+Älmhult,Almhult,56.55,14.1333,Sweden,SE,SWE,Kronoberg,minor,11003.0,1752497359
+Vimmerby,Vimmerby,57.6667,15.85,Sweden,SE,SWE,Kalmar,minor,10934.0,1752144282
+Filipstad,Filipstad,59.7167,14.1667,Sweden,SE,SWE,Värmland,minor,10644.0,1752017138
+Svedala,Svedala,55.5,13.2333,Sweden,SE,SWE,Skåne,minor,10627.0,1752069692
+Höllviken,Hollviken,55.4167,12.95,Sweden,SE,SWE,Skåne,,10607.0,1752012234
+Timrå,Timra,62.4869,17.3258,Sweden,SE,SWE,Västernorrland,minor,10443.0,1752299610
+Gagnef,Gagnef,60.5833,15.0667,Sweden,SE,SWE,Dalarna,minor,10328.0,1752571884
+Örkelljunga,Orkelljunga,56.2833,13.2833,Sweden,SE,SWE,Skåne,minor,10300.0,1752548206
+Jordbro,Jordbro,59.15,18.1333,Sweden,SE,SWE,Stockholm,,10291.0,1752201774
+Billdal,Billdal,57.5833,11.9333,Sweden,SE,SWE,Västra Götaland,,10289.0,1752902367
+Arlöv,Arlov,55.6333,13.0833,Sweden,SE,SWE,Skåne,minor,10284.0,1752897909
+Gislaved,Gislaved,57.3,13.5333,Sweden,SE,SWE,Jönköping,minor,10231.0,1752639615
+Älta,Alta,59.25,18.1833,Sweden,SE,SWE,Stockholm,,9989.0,1752413057
+Stenungsund,Stenungsund,58.0833,11.8167,Sweden,SE,SWE,Västra Götaland,minor,9987.0,1752961653
+Nödinge-Nol,Nodinge-Nol,57.9,12.0667,Sweden,SE,SWE,Västra Götaland,,9822.0,1752000147
+Eksjö,Eksjo,57.6669,14.9703,Sweden,SE,SWE,Jönköping,minor,9701.0,1752063761
+Sigtuna,Sigtuna,59.6167,17.7167,Sweden,SE,SWE,Stockholm,,9689.0,1752118222
+Sävja,Savja,59.8167,17.7,Sweden,SE,SWE,Uppsala,,9684.0,1752516953
+Lindesberg,Lindesberg,59.5833,15.25,Sweden,SE,SWE,Örebro,minor,9672.0,1752750854
+Bjärred,Bjarred,55.7167,13.0167,Sweden,SE,SWE,Skåne,,9542.0,1752885490
+Saltsjöbaden,Saltsjobaden,59.2861,18.2872,Sweden,SE,SWE,Stockholm,,9491.0,1752396058
+Åstorp,Astorp,56.1347,12.9472,Sweden,SE,SWE,Skåne,minor,9488.0,1752829425
+Åhus,Ahus,55.9167,14.2833,Sweden,SE,SWE,Skåne,,9423.0,1752365263
+Kungsängen,Kungsangen,59.4833,17.75,Sweden,SE,SWE,Stockholm,minor,9382.0,1752617626
+Åmål,Amal,59.05,12.7,Sweden,SE,SWE,Västra Götaland,minor,9065.0,1752187898
+Säffle,Saffle,59.1333,12.9333,Sweden,SE,SWE,Värmland,minor,8991.0,1752987175
+Brevik,Brevik,59.35,18.2,Sweden,SE,SWE,Stockholm,,8772.0,1752993223
+Habo,Habo,57.9167,14.0667,Sweden,SE,SWE,Jönköping,minor,8753.0,1752321919
+Sollefteå,Solleftea,63.1667,17.2667,Sweden,SE,SWE,Västernorrland,minor,8643.0,1752942134
+Tibro,Tibro,58.4167,14.1667,Sweden,SE,SWE,Västra Götaland,minor,8614.0,1752652082
+Lycksele,Lycksele,64.6,18.6667,Sweden,SE,SWE,Västerbotten,minor,8513.0,1752497836
