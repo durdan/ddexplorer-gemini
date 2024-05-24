@@ -25,6 +25,27 @@ db_name = os.getenv("DB_NAME")
 # Define your get_gemini_info function here
 model_name = "gemini-1.0-pro"
 
+def store_itinerary_in_db(place, itinerary):
+    """
+    Stores the fetched itinerary into the database.
+
+    Args:
+        place (str): The name of the place.
+        itinerary (str): The itinerary details.
+    """
+    conn = mysql.connector.connect(
+        host=db_host,
+        user=db_user,
+        password=db_password,
+        database=db_name
+    )
+    cursor = conn.cursor()
+    
+    query = "INSERT INTO UserItinerary (userId,placeName, itinerary) VALUES (1,%s, %s)"
+    cursor.execute(query, (place, itinerary))
+    conn.commit()
+    conn.close()
+
 
 def get_gemini_info(place):
     """
@@ -58,7 +79,7 @@ def get_gemini_info(place):
     conn.close()
 
     # If no itinerary is found, query Gemini AI
-    print(f"Querying Gemini for day -  for {place}...")
+    print(f"Querying Gemini for day - for {place}...")
     total_tokens = 0  # Initialize token counting
     estimated_cost = 0  # Initialize estimated cost
     vertexai.init(project=project_id, location=location)
@@ -112,4 +133,8 @@ def get_gemini_info(place):
         # Text output cost
         estimated_cost += len(response.text) / 1000 * PRICE_PER_1K_TEXT_CHARS
 
+    # Store the fetched itinerary in the database
+    store_itinerary_in_db(place, responses[0])
+
     return responses, estimated_cost
+

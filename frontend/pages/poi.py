@@ -1,8 +1,13 @@
 import googlemaps
 import streamlit as st
-
+import os
+from dotenv import load_dotenv
+ 
+# Load environment variables from .env file
+load_dotenv()
 # Google Maps API Key (Replace 'YOUR_API_KEY' with your actual key)
-API_KEY = 'AIzaSyBBmmP6unwZZlH-t3ju4bS5EgfHYipyduo'
+
+API_KEY = os.getenv("GOOGLE_API_KEY")
 gmaps = googlemaps.Client(key=API_KEY)
 
 st.title("Tourist Itinerary Builder")
