@@ -1,20 +1,14 @@
-# backend/app.py
-
-from flask import Flask, request, jsonify
-from ai_service import get_gemini_info
+from flask import Flask
+from whatsapp_ddexplorer import whatsapp_webhook_blueprint
+from ai_service_route import routes_blueprint
+from whatsapp_ddexplorer import nearby_routes_blueprint  # Import the nearby_routes_ blueprint
 
 app = Flask(__name__)
 
-@app.route("/ai-service")
-def gemini_info():
-    place_name = request.args.get("place")
-    if place_name:
-        # Call the get_gemini_info function and process the results
-        results, estimated_cost = get_gemini_info(place_name)
-        print(f"Results: {results}")
-        return jsonify({"results": results, "estimated_cost": estimated_cost})
-    else:
-        return jsonify({"error": "Place name not provided"}), 400
+# Register blueprints
+app.register_blueprint(whatsapp_webhook_blueprint, url_prefix='/webhook')
+app.register_blueprint(routes_blueprint, url_prefix='/')
+app.register_blueprint(nearby_routes_blueprint, url_prefix='/')
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     app.run(debug=True)

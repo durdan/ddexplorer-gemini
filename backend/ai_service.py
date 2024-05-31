@@ -22,16 +22,55 @@ db_host = os.getenv("DB_HOST")
 db_user = os.getenv("DB_USER")
 db_password = os.getenv("DB_PASSWORD")
 db_name = os.getenv("DB_NAME")
-# Define your get_gemini_info function here
+
 model_name = "gemini-1.0-pro"
 
-def store_itinerary_in_db(place, itinerary):
+def create_user_if_not_exists(user_phone):
+    """
+    Creates a new user with the given phone number if the user does not already exist.
+
+    Args:
+        user_phone (str): The user's phone number.
+
+    Returns:
+        int: The user ID.
+    """
+    user_email = f"{user_phone}@example.com"
+    
+    conn = mysql.connector.connect(
+        host=db_host,
+        user=db_user,
+        password=db_password,
+        database=db_name
+    )
+    cursor = conn.cursor()
+
+    # Check if user exists
+    query = "SELECT id FROM User WHERE phoneNumber = %s"
+    cursor.execute(query, (user_phone,))
+    result = cursor.fetchone()
+
+    if not result:
+        # If user does not exist, create a new user
+        query = "INSERT INTO User (phoneNumber, email) VALUES (%s, %s)"
+        cursor.execute(query, (user_phone, user_email))
+        conn.commit()
+        user_id = cursor.lastrowid
+    else:
+        user_id = result[0]
+
+    conn.close()
+
+    return user_id
+
+def store_itinerary_in_db(place, itinerary, user_id):
     """
     Stores the fetched itinerary into the database.
 
     Args:
         place (str): The name of the place.
         itinerary (str): The itinerary details.
+        user_id (int): The user ID.
     """
     conn = mysql.connector.connect(
         host=db_host,
@@ -41,22 +80,24 @@ def store_itinerary_in_db(place, itinerary):
     )
     cursor = conn.cursor()
     
-    query = "INSERT INTO UserItinerary (userId,placeName, itinerary) VALUES (1,%s, %s)"
-    cursor.execute(query, (place, itinerary))
+    query = "INSERT INTO UserItinerary (userId, placeName, itinerary) VALUES (%s, %s, %s)"
+    cursor.execute(query, (user_id, place.strip(), itinerary))
     conn.commit()
     conn.close()
 
-
-def get_gemini_info(place):
+def get_gemini_info(place, user_phone=None):
     """
     Query the database for an existing itinerary. If not found, query Gemini for information and recommendations about the specified place.
 
     Args:
         place (str): The name of the place to query.
+        user_phone (str): The user's phone number (optional).
 
     Returns:
         tuple: A tuple containing a list of responses and the estimated cost of the query.
     """
+    user_id = create_user_if_not_exists(user_phone) if user_phone else 1
+
     # Connect to the database
     conn = mysql.connector.connect(
         host=db_host,
@@ -66,11 +107,12 @@ def get_gemini_info(place):
     )
     cursor = conn.cursor()
 
-    # Search for existing itinerary in the database using LIKE
+        # Search for existing itinerary in the database using LIKE
     query = "SELECT itinerary FROM UserItinerary WHERE placeName LIKE %s"
-    cursor.execute(query, (f"%{place}%",))
+    cursor.execute(query, (f"%{place.strip()}%",))
     result = cursor.fetchone()
 
+    print(f"Querying database for {place}...", result)
     if result:
         # If an itinerary is found, return it
         conn.close()
@@ -134,7 +176,6 @@ def get_gemini_info(place):
         estimated_cost += len(response.text) / 1000 * PRICE_PER_1K_TEXT_CHARS
 
     # Store the fetched itinerary in the database
-    store_itinerary_in_db(place, responses[0])
+    store_itinerary_in_db(place, responses[0], user_id)
 
     return responses, estimated_cost
-

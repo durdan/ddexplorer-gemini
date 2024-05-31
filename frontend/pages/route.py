@@ -5,7 +5,8 @@ from geopy.distance import geodesic
 import requests
 import random
 import math
-
+import folium
+from streamlit_folium import folium_static
 
 def display_route(location_route, x, locations, loc_df, distance_matrix):
     num_locations = len(locations)
@@ -15,11 +16,8 @@ def display_route(location_route, x, locations, loc_df, distance_matrix):
     location_route_with_coordinates = []
     for loc in location_route:
         if isinstance(loc, str):
-            location = loc_df[loc_df['Place_Name'] == loc]['Coordinates'].values[0]
-            if location:
-                location_route_with_coordinates.append(location)
-            else:
-                location_route_with_coordinates.append(None)
+            location = loc_df.loc[loc_df['Place_Name'] == loc, 'Coordinates'].values[0]
+            location_route_with_coordinates.append(location)
         else:
             location_route_with_coordinates.append(loc)
 
@@ -38,8 +36,8 @@ def display_route(location_route, x, locations, loc_df, distance_matrix):
         distance_km_text = f"{distance:.2f} km"
         distance_mi_text = f"{distance*0.621371:.2f} mi"
 
-        a = loc_df[loc_df['Coordinates'] == loc]['Place_Name'].reset_index(drop=True)[0]
-        b = loc_df[loc_df['Coordinates'] == next_loc]['Place_Name'].reset_index(drop=True)[0]
+        a = loc_df.loc[loc_df['Coordinates'] == loc, 'Place_Name'].reset_index(drop=True)[0]
+        b = loc_df.loc[loc_df['Coordinates'] == next_loc, 'Place_Name'].reset_index(drop=True)[0]
         
         if i == 0:
             location_route_names.append(a.replace(' ', '+') + '/')
@@ -59,8 +57,17 @@ def display_route(location_route, x, locations, loc_df, distance_matrix):
     
     st.dataframe(df)  # display route with distance
     location_route_names.append(initial_loc)
+
+    # Display map
+    map_center = location_route_with_coordinates[0]
+    m = folium.Map(location=map_center, zoom_start=6)
+    for loc in location_route_with_coordinates:
+        folium.Marker(location=loc).add_to(m)
+    folium.PolyLine(location_route_with_coordinates, color="blue", weight=2.5, opacity=1).add_to(m)
+    folium_static(m)
+
     return location_route_names    
-    
+
 def tsp_solver(data_model, iterations=1000, temperature=10000, cooling_rate=0.95):
     def distance(point1, point2):
         return math.sqrt((point1[0]-point2[0])**2 + (point1[1]-point2[1])**2)
@@ -170,37 +177,44 @@ def geocode_address(address):
             longitude = first_result['geometry']['coordinates'][0]
             return address, latitude, longitude
         else:
-            print(f'Geocode was not successful. No results found for address: {address}')
+            st.error(f'Geocode was not successful. No results found for address: {address}')
     else:
-        print('Failed to get a response from the geocoding API.')
-        
+        st.error('Failed to get a response from the geocoding API.')
+
 def main():
     st.title("Interactive Travel Route Planner")
 
-    default_locations = [['Houston'],['Austin'],['Dallas']]
+    default_start = 'Houston'
+    default_end = 'Dallas'
+    default_locations = [['Austin']]
+
+    start_location = st.text_input("Enter Start Location:", value=default_start)
+    end_location = st.text_input("Enter End Location:", value=default_end)
+
     existing_locations = '\n'.join([x[0] for x in default_locations])
-    selected_value = st.text_area("Enter Locations:", value=existing_locations)
+    selected_value = st.text_area("Enter Intermediate Locations (one per line):", value=existing_locations)
 
     if st.button("Calculate Optimal Route"):
-        lines = selected_value.split('\n')
-        values = [geocode_address(line) for line in lines if line.strip()]    
-        location_names=[x[0] for x in values if x is not None] # address names
-        locations=[(x[1],x[2]) for x in values if x is not None] # coordinates        
-        loc_df = pd.DataFrame({'Coordinates': locations, 'Place_Name': location_names})    
-        
-        if locations:
-                data_model = create_data_model(locations)
-                solution, x = tsp_solver(data_model)
+        all_locations = [start_location] + selected_value.split('\n') + [end_location]
+        values = [geocode_address(loc) for loc in all_locations if loc.strip()]
+        location_names = [x[0] for x in values if x is not None]  # address names
+        locations = [(x[1], x[2]) for x in values if x is not None]  # coordinates
 
-                if solution:
-                    distance_matrix = compute_distance_matrix(locations)
-                    location_route_names = display_route(solution, x, locations, loc_df, distance_matrix)
-                    gmap_search = 'https://www.google.com/maps/dir/+'
-                    gmap_places = gmap_search + ''.join(location_route_names)
-                    st.write('\n')
-                    st.write('[Google Maps Link with Optimal Route added]({})'.format(gmap_places))
-                else:
-                    st.error("No solution found.")
+        loc_df = pd.DataFrame({'Coordinates': locations, 'Place_Name': location_names})    
+
+        if locations:
+            data_model = create_data_model(locations)
+            solution, x = tsp_solver(data_model)
+
+            if solution:
+                distance_matrix = compute_distance_matrix(locations)
+                location_route_names = display_route(solution, x, locations, loc_df, distance_matrix)
+                gmap_search = 'https://www.google.com/maps/dir/+'
+                gmap_places = gmap_search + ''.join(location_route_names)
+                st.write('\n')
+                st.write('[Google Maps Link with Optimal Route added]({})'.format(gmap_places))
+            else:
+                st.error("No solution found.")
     st.write('\n')
     st.write('\n')
     st.write('\n')

@@ -38,9 +38,12 @@ poetry install
 
 To start the Streamlit server for the frontend:
 
-poetry run streamlit run frontend.py
+poetry run streamlit run index.py
 
 
 Once both the backend and frontend servers are running, you can access the Gemini-Powered Travel Assistant in your web browser. Enter a place name in the provided input field and click the "Explore" button to receive information and recommendations for the selected destination.
 
 Enjoy exploring with Gemini!
+
+#### Runnoing on the local machine for webhook
+ ngrok http http://localhost:5000
